@@ -1,21 +1,18 @@
-# Provider Availability Policy +
+# Provider Availability Policy 
 
 ## Sports Betting
 
-The Company prohibits opening accounts, depositing and withdrawing money for users who are citizens of, located in or residing in the following countries: United States of America and all of its territories such as American Samoa, Virgin Islands (American), Guam, Puerto Rico, Northern Mariana Islands, United States Minor Outlying Islands; Curaçao (former Netherlands Antilles), United Kingdom, Cyprus, Spain, Italy, Sweden, France, Finland, Denmark, Portugal, Germany, Hungary, Netherlands, Belgium, Czech Republic, Latvia, Slovakia, Switzerland, Serbia, Ukraine, Russia, Israel, Turkey, Tunisia, Iran, Mauritius, North Korea, Macau, Taiwan, Hong Kong, Australia.
+The Company prohibits opening accounts, depositing and withdrawing money for users who are citizens of, located in or residing in the following countries: *United States of America and all of its territories such as American Samoa, Virgin Islands (American), Guam, Puerto Rico, Northern Mariana Islands, United States Minor Outlying Islands; Curaçao (former Netherlands Antilles), United Kingdom, Cyprus, Spain, Italy, Sweden, France, Finland, Denmark, Portugal, Germany, Hungary, Netherlands, Belgium, Czech Republic, Latvia, Slovakia, Switzerland, Serbia, Ukraine, Russia, Israel, Turkey, Tunisia, Iran, Mauritius, North Korea, Macau, Taiwan, Hong Kong, Australia.*
 
 ## Casino Games
 
-#### NetEnt
+### NetEnt
 
-##### Absolute Restriction
+#### Absolute Restriction
 
-NetEnt will not permit NetEnt Casino Games to be supplied to any entity that operates in any of the below jurisdictions (irrespective of whether or not NetEnt Casino Games are being supplied by the entity in that jurisdiction) without the appropriate licenses:
+NetEnt will not permit NetEnt Casino Games to be supplied to any entity that operates in any of the below jurisdictions (irrespective of whether or not NetEnt Casino Games are being supplied by the entity in that jurisdiction) without the appropriate licenses: Belgium, Bulgaria, Colombia, Croatia, Czech Republic, Denmark, Estonia, France, Italy, Latvia, Lithuania, Mexico, Portugal, Romania, Spain, Sweden, Switzerland, United Kingdom, United States of America.
 
-Belgium, Bulgaria, Colombia, Croatia, Czech Republic, Denmark, Estonia, France, Italy, Latvia, Lithuania, Mexico, Portugal, Romania, Spain, Sweden, Switzerland, United Kingdom, United States of America.
-
-#####   
-Blacklisted Territories
+#### Blacklisted Territories
 
 All NetEnt Casino Games may not be offered in the following territories:
 
@@ -23,7 +20,7 @@ Afghanistan, Albania, Algeria, Angola, Australia, Bahamas, Botswana, Belgium, Bu
 
   
 
-##### Blacklisted Branded Games Territories
+#### Blacklisted Branded Games Territories
 
 The following NetEnt Braded Games have some further restrictions in addition to the Blacklisted Territories set out above.
 
@@ -59,21 +56,21 @@ Cuba, Jordan, Turkey, Saudi Arabia.
 
 Andorra, Austria, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Cyprus, Finland, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Liechtenstein, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Russia, San Marino, Serbia, Slovakia, Slovenia, Turkey and Ukraine.
 
-#### Evolution
+### Evolution
 
 Evolution will not permit its Casino Games to be supplied to any entity that operates in any of the below jurisdictions: Latvia, United States, Canada, France, Spain, United Kingdom, Antarctica, Burma (Myanmar), China, Cuba, Cyprus, Curacao, Iran, Israel, Turkey, Russian Federation, Sudan, Syria, Australia, North Korea. In addition, Dream Catcher must not be offered in Denmark, Romania and Spain. American Roulette must not be offered in Spain. Branded game Craps must not be offered in Denmark, Romania, Spain, Belgium and Portugal.
 
-#### Microgaming Quickfire
+### Microgaming Quickfire
 
 No Clients shall be accepted from Philippines, France, Singapore, United States, South Africa, Australia, Sweden and Curacao. This provider will not permit its Casino Games to be supplied to any entity that operates in any of the below jurisdictions without the appropriate licenses: Belgium, Bulgaria, Denmark, Italy, Latvia, Portugal, Romania, Spain, United Kingdom, Germany (Schleswig-Holstein).
 
-#### Ezugi
+### Ezugi
 
 No Clients shall be accepted from Curacao, France, Australia, Israel, United Kingdom, Netherlands, United States, Romania, South Africa, Bulgaria, Hungary, Latvia, Costa Rica, Italy, Spain, Denmark, Colombia.
 
-#### Pragmatic Play
+### Pragmatic Play
 
 No Clients shall be accepted from United States, France, Israel, Ukraine, Taiwan, Australia, North Korea, Cyprus, Great Britain, Italy, Denmark, Bahamas, Spain, Romania, Bulgaria, Portugal, Gibraltar, Sweden, Curacao. In addition, Peaky Blinders must not be offered in United Kingdom, United States, Hong Kong, Turkey, France, Belgium, Spain, Singapore, Iran, Syria, North Korea, Sudan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzcxNzkwNF19
+eyJoaXN0b3J5IjpbMTkwNzQyMTcwNV19
 -->
