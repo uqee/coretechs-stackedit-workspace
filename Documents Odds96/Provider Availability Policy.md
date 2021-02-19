@@ -39,11 +39,11 @@ Evolution will not permit its Casino Games to be supplied to any entity that ope
 No Clients shall be accepted from *Philippines, France, Singapore, United States, South Africa, Australia, Sweden and Curacao*. This provider will not permit its Casino Games to be supplied to any entity that operates in any of the below jurisdictions without the appropriate licenses: *Belgium, Bulgaria, Denmark, Italy, Latvia, Portugal, Romania, Spain, United Kingdom, Germany (Schleswig-Holstein)*.
 
 ### Ezugi
-No Clients shall be accepted from Curacao, France, Australia, Israel, United Kingdom, Netherlands, United States, Romania, South Africa, Bulgaria, Hungary, Latvia, Costa Rica, Italy, Spain, Denmark, Colombia.
+No Clients shall be accepted from *Curacao, France, Australia, Israel, United Kingdom, Netherlands, United States, Romania, South Africa, Bulgaria, Hungary, Latvia, Costa Rica, Italy, Spain, Denmark, Colombia*.
 
 ### Pragmatic Play
 
-No Clients shall be accepted from United States, France, Israel, Ukraine, Taiwan, Australia, North Korea, Cyprus, Great Britain, Italy, Denmark, Bahamas, Spain, Romania, Bulgaria, Portugal, Gibraltar, Sweden, Curacao. In addition, Peaky Blinders must not be offered in United Kingdom, United States, Hong Kong, Turkey, France, Belgium, Spain, Singapore, Iran, Syria, North Korea, Sudan.
+No Clients shall be accepted from *United States, France, Israel, Ukraine, Taiwan, Australia, North Korea, Cyprus, Great Britain, Italy, Denmark, Bahamas, Spain, Romania, Bulgaria, Portugal, Gibraltar, Sweden, Curacao*. In addition, Peaky Blinders must not be offered in *United Kingdom, United States, Hong Kong, Turkey, France, Belgium, Spain, Singapore, Iran, Syria, North Korea, Sudan*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTA3MjIxNV19
+eyJoaXN0b3J5IjpbLTE0NzgxOTMxNzddfQ==
 -->
