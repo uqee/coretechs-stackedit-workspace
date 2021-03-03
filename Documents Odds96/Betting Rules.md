@@ -70,13 +70,13 @@ If a multiple contains a selection that is being voided the odds for this select
     
 -   **Half-Time/Full-Time**. This refers to bets placed on the outcomes of the first half and the match. For such bets, the first half outcome is shown first and is followed by the outcome of the match. The outcome of the second half or other periods is not taken into account when settling bets. For example, W1W2 means that Team 1 will win (W1) the first half and Team 2 will win (W2) the match.
     
--   Double Chance. This refers to bets on the final result of a match which only require one of the two selected outcomes to occur to win. For example, if a bet is placed on a “1X” outcome, bets will win if Team 1 wins or the match ends in a draw.
+-   **Double Chance**. This refers to bets on the final result of a match which only require one of the two selected outcomes to occur to win. For example, if a bet is placed on a “1X” outcome, bets will win if Team 1 wins or the match ends in a draw.
     
--   Correct Score. This refers to bets where you need to predict the final score of a match.
+-   **Correct Score**. This refers to bets where you need to predict the final score of a match.
     
--   Even/Odd. This refers to bets on whether the total number of goals, points or sets will be even or odd.
+-   **Even/Odd**. This refers to bets on whether the total number of goals, points or sets will be even or odd.
     
--   Race to X Points. This refers to bets on who will be the first to score X points in a match.
+-   **Race to X Points**. This refers to bets on who will be the first to score X points in a match.
     
 
 ## Settled Outcomes
@@ -883,5 +883,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Nzg3MTcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0OTY0MTE4MTUsNzMwOTk4MTE2XX0=
 -->
