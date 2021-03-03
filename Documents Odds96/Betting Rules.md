@@ -58,17 +58,17 @@ If a multiple contains a selection that is being voided the odds for this select
 
 ## Main Betting Markets
 
--   1X2. This refers to bets on the final result of a match. 1 = Team 1 wins, X = a draw, 2 = Team 2 wins.
+-   **1X2**. This refers to bets on the final result of a match. 1 = Team 1 wins, X = a draw, 2 = Team 2 wins.
     
--   Handicap. This refers to the advantage or disadvantage assigned to a competitor by Odds96 for any bets placed on them. Handicaps are expressed in goals/points/sets/seconds, etc. When settling handicap bets, the handicap assigned to a competitor is added to the total number of points/goals/games, etc. If the competitor wins after the handicap has been applied, handicap bets placed on them win. If not, bets lose. In the event of a tie, bets will be void (settled at odds of 1.00).
+-   **Handicap**. This refers to the advantage or disadvantage assigned to a competitor by Odds96 for any bets placed on them. Handicaps are expressed in goals/points/sets/seconds, etc. When settling handicap bets, the handicap assigned to a competitor is added to the total number of points/goals/games, etc. If the competitor wins after the handicap has been applied, handicap bets placed on them win. If not, bets lose. In the event of a tie, bets will be void (settled at odds of 1.00).
     
--   Total. This refers to bets placed on the total number of goals, points, games, etc., scored/ played by teams or players. In order to win, you need to predict whether the number of goals/points scored or games played will be higher/lower than the designated value of the total. For bet settlement purposes, only goals scored in the opponent’s goal count towards “individual” totals (Total bets on one team or player). If the outcome is equal to the designated value of the total offered by Odds96, bets will be void.
+-   **Total**. This refers to bets placed on the total number of goals, points, games, etc., scored/ played by teams or players. In order to win, you need to predict whether the number of goals/points scored or games played will be higher/lower than the designated value of the total. For bet settlement purposes, only goals scored in the opponent’s goal count towards “individual” totals (Total bets on one team or player). If the outcome is equal to the designated value of the total offered by Odds96, bets will be void.
     
--   European Handicap 1X2. With European handicap, the match, for the purposes of this bet, starts with a designated score, which is indicated in the handicap value. The final outcome of such bets is calculated by adding the handicap value to the match score. European handicap bets cannot be partially or fully refunded;the player either wins or loses their bet in full. For a European handicap bet to win, a match has to end in a victory for the team chosen by the player after the handicap has been applied or in a draw if a “Draw” outcome has been selected.
+-   **European Handicap 1X2**. With European handicap, the match, for the purposes of this bet, starts with a designated score, which is indicated in the handicap value. The final outcome of such bets is calculated by adding the handicap value to the match score. European handicap bets cannot be partially or fully refunded;the player either wins or loses their bet in full. For a European handicap bet to win, a match has to end in a victory for the team chosen by the player after the handicap has been applied or in a draw if a “Draw” outcome has been selected.
     
--   “0" Handicap (Draw No Bet). If either team wins, all bets on such an outcome win. In the event of a tie, all bets will be void.
+-   **“0" Handicap (Draw No Bet)**. If either team wins, all bets on such an outcome win. In the event of a tie, all bets will be void.
     
--   Half-Time/Full-Time. This refers to bets placed on the outcomes of the first half and the match. For such bets, the first half outcome is shown first and is followed by the outcome of the match. The outcome of the second half or other periods is not taken into account when settling bets. For example, W1W2 means that Team 1 will win (W1) the first half and Team 2 will win (W2) the match.
+-   **Half-Time/Full-Time**. This refers to bets placed on the outcomes of the first half and the match. For such bets, the first half outcome is shown first and is followed by the outcome of the match. The outcome of the second half or other periods is not taken into account when settling bets. For example, W1W2 means that Team 1 will win (W1) the first half and Team 2 will win (W2) the match.
     
 -   Double Chance. This refers to bets on the final result of a match which only require one of the two selected outcomes to occur to win. For example, if a bet is placed on a “1X” outcome, bets will win if Team 1 wins or the match ends in a draw.
     
@@ -883,5 +883,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDk2NDgzOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI5Nzg3MTcwNSw3MzA5OTgxMTZdfQ==
 -->
