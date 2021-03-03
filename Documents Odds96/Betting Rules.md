@@ -19,7 +19,7 @@
 -   If a dead heat is declared in any event, you will win half of your bet and lose the other half. If more than two winners cross the finishing line at the same time, your stake will be divided by the number of winners of this event. For example, assume there is a dead heat for first place between three horses. 'Client A' has backed one of the winners for a stake of 300 at the traded price of 4.0. When the event is settled, the stake (300) is multiplied by 1/3 (i.e. the number of expected winners (1) divided by the number of actual winners (3)) to calculate the reduced stake (100). The backer then receives the traded price matched (4.0) multiplied by the reduced stake (4 x 100 = 400). In this example, Client A's net winnings are 100 (400 payout minus the original 300 stake).
     
 
-# Markets
+# General Markets
 
 ## Settlement and Cancellation
 
@@ -239,8 +239,6 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   For such bets, you need to choose a range related to the number of goals to be scored in a match. For example, if you select the outcome “3-5”, your bet will win if 3, 4 or 5 goals are scored in a match.
     
 
-  
-
 ## Highest Scoring Half
 
 -   For such bets, you need to predict the half in which the most goals will be scored. Bets on the “Equal” outcome win if the number of goals scored in each half is the same.
@@ -255,8 +253,6 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If the match ends with a score that bets were not offered on, bets on the “Other” outcome win
     
-
-  
 
 ## Extra Time and Penalty Shootouts
 
@@ -883,5 +879,6 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY0MTE4MTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODAxMjgxMDczLC0xNDk2NDExODE1LDczMD
+k5ODExNl19
 -->
