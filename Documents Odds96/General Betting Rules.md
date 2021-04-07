@@ -562,61 +562,61 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date betting will be void.
 -   If the team names or category are displayed incorrectly, we reserve the right to void betting.
 
-# **Field Hockey**
+# Field Hockey**
 
-## **Settlement and cancellation rules**
-
--   All markets are considered for regular time only unless otherwise mentioned.
--   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
--   If markets remain open with an incorrect score, we reserve the right to void betting.
-
-# **Floorball**
-
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets are considered for regular time only unless otherwise mentioned.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 
-# **Bandy**
+# Floorball
 
-## **Settlement and cancellation rules**
-
--   All markets are considered for regular time only unless otherwise mentioned.
--   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
--   If markets remain open with an incorrect score, we reserve the right to void betting.
-
-# **Pesapallo**
-
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets are considered for regular time only unless otherwise mentioned.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 
-# **Beach Soccer**
+# Bandy
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets are considered for regular time only unless otherwise mentioned.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 
-# **Curling**
+# Pesapallo
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
+
+-   All markets are considered for regular time only unless otherwise mentioned.
+-   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
+-   If markets remain open with an incorrect score, we reserve the right to void betting.
+
+# Beach Soccer
+
+## Settlement and cancellation rules
+
+-   All markets are considered for regular time only unless otherwise mentioned.
+-   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
+-   If markets remain open with an incorrect score, we reserve the right to void betting.
+
+# Curling
+
+## Settlement and cancellation rules
 
 -   Possible extra ends are not considered in any market unless otherwise stated.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 
-# **Mixed Martial Arts (MMA)**
+# Mixed Martial Arts (MMA)
 
-## **Settlement of Bets**
+## Settlement of Bets
 
 -   All markets are settled according to the result available immediately after the end of the fight. Any subsequent appeals or amendments to the result are not be taken into consideration for settlement purposes.
 
-## **Match Abandonments/Postponements**
+## Match Abandonments/Postponements
 
 -   If the fight does not take place for any reason on the scheduled date then all bets will be void.
 -   If either fighter fails to answer the bell for the next round then his opponent will be deemed to have won in the previous round.
@@ -624,19 +624,19 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   In the event of a fight being declared a No Contest all bets will be void.
 -   Should the scheduled number of rounds be changed before the fight then all “Total Rounds”, “Winner and exact rounds” and “Winning Method” bets will be made void.
 
-## **Settlement of “Total Rounds” bets**
+## Settlement of “Total Rounds” bets
 
 -   Only fully completed rounds are taken into account when settling bets.
 
-# **Boxing**
+# Boxing
 
-## **Settlement of Bets**
+## Settlement of Bets
 
 -   All markets are settled according to the result available immediately after the end of the fight. Any subsequent appeals or amendments to the result are not be taken into consideration for settlement purposes.
 
 ## Will the fight go to the distance
 
--   The distance, in [boxing](https://en.wikipedia.org/wiki/Boxing), refers to the full number of rounds in a match. This means fighting a full bout without being knocked out.
+-   The distance, in boxing, refers to the full number of rounds in a match. This means fighting a full bout without being knocked out.
 
 ## Match Abandonments/Postponements
 
@@ -676,5 +676,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NDY3NjU1XX0=
+eyJoaXN0b3J5IjpbMjMyODg2MjA2XX0=
 -->
