@@ -129,9 +129,9 @@ If a bet is placed on over 2.75, half of the stake is placed on over 2.5 and hal
 
 If the wagering offer on an event includes a draw as a third option and the event ends in a draw, wagers on the draw will be paid, while wagers on either side will be lost.
 
-# **Soccer**
+# Soccer
 
-## **Settlement and Cancellation Rules**
+## Settlement and Cancellation Rules
 
 -   All markets (except halftime, first half markets, overtime and penalty shoot-out) are considered for regular time only unless otherwise stated.
 -   If a match is interrupted and continued within 48h after initial kick-off time, all open bets will be settled with the final result. Otherwise all undecided bets are considered void.
@@ -144,39 +144,39 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If the team names or category are displayed incorrectly, we reserve the right to void betting.
 -   In case of any score or card/corner/penalty related changes, we reserve the right to void betting on any video assistant referee (VAR) situation.
 
-## **Asian Handicap**
+## Asian Handicap
 
 -   When you place an Asian Handicap bet, your stake is split into 2 equal bets: on the next whole and half handicaps respectively. The total winnings for an Asian Handicap bet are equal to the sum of the winnings for both bets. For example: a € 100 bet on an Asian Handicap of -1.25 consists of a € 50 bet on a -1.0 handicap and a € 50 bet on a -1.5 handicap.
 
-## **Asian Total**
+## Asian Total
 
 -   When you place an Asian Total bet, your stake is split into 2 equal bets: on the next whole and half total values respectively. The total winnings for an Asian Total bet are equal to the sum of the winnings for both bets. For example: a € 100 bet on an Asian Total over 3.25 goals in a match consists of a € 50 bet on a total over 3.0 goals and a € 50 bet on a total over 3.5 goals.
 
-## **Corner Markets**
+## Corner Markets
 
 -   Corners awarded but not taken are not considered
 -   If the referee does not count a corner kick and orders for it to be re-taken, it will only be counted once.
 
-## **Booking markets**
+## Booking markets
 
 -   Yellow card counts as 1 card and red or yellow-red card counts as 2. The 2nd yellow for one player which leads to a yellow-red card is not considered. As a consequence, one player cannot cause more than 3 cards.
 -   Settlement will be made according to all available evidence of cards shown during the regular 90 minutes play.
 -   Cards shown after the match are not considered.
 -   Cards for non-players (already substituted players, managers, players on bench) are not considered.
 
-## **First Goal Scorer**
+## First Goal Scorer
 
 -   Own goals (goals scored in one’s own net) do not count. If the first goal is an own goal, bets will be settled based on who scores the second goal. If all the goals scored in a match are own goals, bets on a “No Goal” outcome win. Any bets on players who are substituted or sent off before the first goal is scored lose. If a player doesn’t take part in a match or enters the field of play after the first goal has been scored, bets placed on them will be void. If there is no goal scored in a match then all bets on players who take part in a match lose.
 
-## **Last Goal Scorer**
+## Last Goal Scorer
 
 -   Own goals (goals scored in one’s own net) do not count. If the last goal is an own goal, bets will be settled based on who scored the previous goal. If all the goals scored in a match are own goals, bets on a “No Goal” outcome win. All players who have participated in a match can potentially be deemed to be the last goal scorer, regardless of whether they are on the field when the last goal is scored. If a player does not take part in a match, bets placed on them will be void. If there is no goal scored in a match then all bets on players who take part in a match lose.
 
-## **Goal Scorer**
+## Goal Scorer
 
 -   Own goals (goals scored in one’s own net) do not count. If a player does not take part in a match, all bets placed on them will be void.
 
-## **Next Goalscorer**
+## Next Goalscorer
 
 -   Own goals will not be considered for Next Goalscorer settlement purposes and are therefore ignored.
 -   All players who took part in the match since kick off or previous goal are considered as runners.
@@ -184,7 +184,7 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If for any reason an unlisted player scores a goal, all bets on listed players stand.
 -   Market will be settled based on TV insert and statistics provided by Press Association unless there is clear evidence that these statistics are not correct.
 
-## **Anytime Goalscorer and Player to score X or more**
+## Anytime Goalscorer and Player to score X or more
 
 -   Own goals will not be considered for Anytime Goalscorer and Player to score X or more settlement purposes and are ignored.
 -   All players who took part in the match since kick off or previous goal are considered as runners.
@@ -192,13 +192,12 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If for any reason an unlisted player scores a goal all bets on listed players stand.
 -   Market will be settled based on TV insert and statistics provided by Press Association unless there is clear evidence that these statistics are not correct.
 
-  
 
-## **Next Goal**
+## Next Goal
 
 -   Own goals are not taken into account when settling bets.
 
-## **Next scoring type**
+## Next scoring type
 
 -   Freekick: The goal has to be scored directly from the freekick or corner to qualify as a goal by freekick. Deflected shots count as long as the freekick or corner taker is awarded the goal.
 -   Header: The scorers last touch has to be with the head.
@@ -206,7 +205,7 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   Penalty: Goal must be scored directly from the penalty. Goals after a rebound of a missed penalty do not count.
 -   Own Goal: If goal is declared as an own goal.
 
-## **Interval Markets**
+## Interval Markets
 
 -   Markets will be settled based on the goal time announced by TV. If this is not available, the time according to the match clock is considered.
 -   Goal markets are settled based on the time the ball crosses the line, and not the time the kick is made.
@@ -218,18 +217,17 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   Penalties awarded but not taken are not considered.
 -   For all 5 min/15 min interval markets, related to interval minutes 41- 45/31-45, events (goals, corners) in added injury or stoppage time will be accounted for.
 
-## **Win with a Clean Sheet**
+## Win with a Clean Sheet
 
 -   Bets on a “Yes” outcome win if the chosen team wins in regular time without conceding any goals.
 
-## **Win from Behind**
+## Win from Behind
 
 -   Bets on a “Yes” outcome win if the chosen team comes from behind to win in regular time.
 
-## **Multi Goal**
+## Multi Goal
 
 -   For such bets, you need to choose a range related to the number of goals to be scored in a match. For example, if you select the outcome “3-5”, your bet will win if 3, 4 or 5 goals are scored in a match.
-
   
 
 ## Highest Scoring Half
@@ -676,5 +674,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg1MjkzMF19
+eyJoaXN0b3J5IjpbLTE1ODcwMDA1NDJdfQ==
 -->
