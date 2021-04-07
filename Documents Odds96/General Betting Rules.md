@@ -56,7 +56,7 @@ If a multiple contains a selection that is being voided the odds for this select
 -   **PRE-MATCH bets** – This refers to bets on a sporting event which are accepted before it starts.
 -   **LIVE bets** – This refers to bets on a sporting event which are accepted while a game is happening on outcomes which have not yet been determined.
 
-## **Outrights**
+## Outrights
 
 We offer outright bets on leagues, groups, players and competitions concerning the finish position, stage of elimination or ranking of teams and players. They will be settled at the end of the scheduled programme of matches or competitions. We offer some types of outrights and here is a short description:
 
@@ -98,15 +98,15 @@ Outright markets are considered All-in Run or Not and therefore will be settled 
 
 Dead heat rule applies when outright bet is settled.
 
-**Dead Heat Rule**
+### Dead Heat Rule
 
 A Dead Heat occurs when two or more competitors are placed in the same position after the final results have been given from a specific event. For example, two winners cross the finishing line at the same time or two teams are eliminated at the same stage. If there are two winners and a dead heat is declared in any event, you will win half of your bet and lose the other half. If there are more than two winners your stake will be divided by the number of the winners of this event.
 
-**Head to Head bets**
+### Head to Head bets
 
 We offer Head to Head bets on teams and other competitors concerning the finishing position, stage of elimination or ranking of teams and players. You need to predict which competitor will achieve the highest finishing position. All competitors must participate in the event for bets to stand. If there is no winner your stake will be void.
 
-**Main Betting Markets**
+## Main Betting Markets
 
 -   **1X2**. This refers to bets on the final result of a match. 1 = Team 1 wins, X = a draw, 2 = Team 2 wins.
 -   **Handicap**. This refers to the advantage or disadvantage assigned to a competitor by Odds96 for any bets placed on them. Handicaps are expressed in goals/points/sets/seconds, etc. When settling handicap bets, the handicap assigned to a competitor is added to the total number of points/goals/games, etc. If the competitor wins after the handicap has been applied, handicap bets placed on them win. If not, bets lose. In the event of a tie, bets will be void (settled at odds of 1.00).
@@ -119,7 +119,7 @@ We offer Head to Head bets on teams and other competitors concerning the finishi
 -   **Even/Odd.** This refers to bets on whether the total number of goals, points or sets will be even or odd.
 -   **Race to X Points**. This refers to bets on who will be the first to score X points in a match.
 
-## **Settled Outcomes**
+## Settled Outcomes
 
 There are five different settled outcomes being used: Win, Lose, Return, Half win and Half lose. Half win and Half lose refers to Asian handicap or Over/Under where the line includes a quarter (0.25, 0.75, 1.25 etc.).
 
@@ -674,5 +674,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcwMDA1NDJdfQ==
+eyJoaXN0b3J5IjpbMjA3Njg0MzI0Nl19
 -->
