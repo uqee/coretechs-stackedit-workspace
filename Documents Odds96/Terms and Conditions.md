@@ -348,11 +348,11 @@ This information may be in the form of:
 
   
 
-## 11) Severability
+## 11. Severability
 
 Should any of the provisions of the Terms become legally enforceable, the terms “condition” or “provision” will be separated from the remaining terms, conditions and words, which will remain fully enforceable as provided for by law. In such cases, the part deemed to be invalid shall be modified according to applicable law to reflect the original purposes as accurately as possible.
 
-## (12) Complaints
+## 12. Complaints
 
 12.1. If you have a complaint to make regarding our services, please contact us by email at support@odds96.com or by the customer support chat function.
 
@@ -362,5 +362,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Sportsbet.io, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIyNjI2MjIsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTIwNDExMDg2ODgsNDk3ODE4ODEwXX0=
 -->
