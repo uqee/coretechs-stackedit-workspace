@@ -104,9 +104,9 @@ You may access the Personal Information collected by Odds96 by contacting us at 
 
   
 
-10. Queries, Requests and Complaints
+## 10. Queries, Requests and Complaints
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at support@odds96.com or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYwNTQ0NjVdfQ==
+eyJoaXN0b3J5IjpbNDE5MjkzNDY5XX0=
 -->
