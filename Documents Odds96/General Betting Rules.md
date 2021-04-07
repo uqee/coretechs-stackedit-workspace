@@ -450,7 +450,7 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 # **Badminton**
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In the case of a match not being finished, all undecided markets are considered void.
 -   If a match is interrupted or postponed and is not continued within 48h after initial start date, betting will be void.
@@ -459,9 +459,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If the players/teams are displayed incorrectly, we reserve the right to void betting.
 -   Official points deductions will be taken into account for all undetermined markets. Markets which have already been determined will not take deductions into account.
 
-# **Rugby Union + League**
+# Rugby Union + League
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets (except halftime, first half markets, overtime and penalty shoot out) are considered for regular time only.
 -   If a match is interrupted and continued within 48h after initial kick-off, all open bets will be settled with the final result. Otherwise all undecided bets are considered void.
@@ -472,9 +472,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
 -   If the team names or category are displayed incorrectly, we reserve the right to void betting.
 
-# **Rugby Sevens**
+# Rugby Sevens
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets (except halftime, first half markets, overtime and penalty shoot out) are considered for regular time only.
 -   If a match is interrupted and continued within 48h after initial kick-off, all open bets will be settled with the final result. Otherwise, all undecided bets are considered void.
@@ -485,9 +485,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date betting will be void.
 -   If the team names or categories are displayed incorrectly, we reserve the right to void betting.
 
-# **Darts**
+# Darts
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In the case of a match not being finished, all undecided markets are considered void.
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
@@ -495,17 +495,17 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a match is not completed all undecided markets are considered void.
 -   Bullseye counts as red check out colour.
 
-## **Settlement of Handicap and Total bets**
+## Settlement of Handicap and Total bets
 
 -   Handicap and Total bets are counted in sets.
 
-## **“180s” bets**
+## “180s” bets
 
 -   180 is the maximum number of points which can be earned in one turn (3 darts).
 
-# **Snooker**
+# Snooker
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In the case of a retirement of a player or disqualification all undecided markets are considered void.
 -   In case of a re-rack, settlement stays if the outcome was determined before the re-rack.
@@ -515,9 +515,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If the players/teams are displayed incorrectly, we reserve the right to void betting.
 -   If a match is not completed all undecided markets are considered void.
 
-# **Bowls**
+# Bowls
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In case of a retirement and walkover of any player, all undecided bets are considered void.
 -   If a match is interrupted and continued within 48h after initial start time, all open bets will be settled with the final result. Otherwise all undecided bets are considered void.
@@ -525,9 +525,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If the players/teams are displayed incorrectly, we reserve the right to void betting.
 -   If a player retires all undecided markets are considered void.
 
-# **Cricket T20 + ODI**
+# Cricket T20 + ODI
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All match betting will be settled in accordance with official competition rules. If there is no official result, all bets will be void.
 -   All markets do not consider super overs unless otherwise mentioned.
@@ -538,9 +538,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   In the event of an over not being completed, all undecided markets on this specific over are considered void unless the innings has reached its natural conclusion e.g. declaration, team all out, etc.
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 
-# **Squash**
+# Squash
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In the case of a match not being finished, all undecided markets are considered void.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
@@ -550,9 +550,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   Official points deductions will be taken into account for all undetermined markets. Markets which have already been determined will not take deductions into account.
 -   If penalty point(s) are awarded by the umpire, all bets on that game will stand.
 
-# **Aussie Rules**
+# Aussie Rules
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets exclude overtime unless otherwise stated.
 -   If a match is interrupted and continued within 48h after initial start time, all open bets will be settled with the final result. Otherwise all undecided bets are considered void.
@@ -562,7 +562,7 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date betting will be void.
 -   If the team names or category are displayed incorrectly, we reserve the right to void betting.
 
-# Field Hockey**
+# Field Hockey
 
 ## Settlement and cancellation rules
 
@@ -676,5 +676,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyODg2MjA2XX0=
+eyJoaXN0b3J5IjpbMzMwNjYyMDE0XX0=
 -->
