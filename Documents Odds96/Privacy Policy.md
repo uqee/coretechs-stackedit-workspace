@@ -2,13 +2,13 @@ Last updated: April 7, 2021
 
 This Privacy Policy sets out how Odds96 will manage your personal information which we collect as a result of your use of our Website. We are committed to ensuring that the personal information we collect about you is protected and is used, stored and disclosed in accordance with this Privacy Policy. By accepting this Privacy Policy, you confirm that you have read it and agree to the use of your personal data in accordance with the terms set out herein. If for any reason you do not agree with the terms of this Privacy Policy, please do not use the Website or provide your personal information to us in any other way.
 
-1.Changes and Updates to Privacy Policy
+## 1. Changes and Updates to Privacy Policy
 
 By using Odds96, you agree to be bound by the terms of this Privacy Policy. Odds96 may review the Privacy Policy periodically and reserves the right to change the Privacy Policy at any time at its discretion by posting such changes on the Website. Changes will be effective immediately when posted on the Website. Your continued use of Odds96 following posting will constitute your acceptance of those changes. You should review this Privacy Policy regularly and remain familiar with its terms.
 
   
 
-2. Personal Information
+## 2. Personal Information
 
 The kinds of Personal Information we may collect from you are:
 
@@ -22,7 +22,7 @@ The kinds of Personal Information we may collect from you are:
     
 5.  your bets, deposits, withdrawals, payment methods and other activity on your account.
 
-3. Collection Purposes
+## 3. Collection Purposes
 
 We will collect your Personal Information only by lawful and fair means and not in an intrusive way for the following purposes:
 
@@ -49,7 +49,7 @@ By using Odds96, registering an Account or otherwise choosing to provide us with
 
   
 
-4.  Direct Marketing and Opting Out
+## 4.  Direct Marketing and Opting Out
 
 From time to time we may use your Personal Information to inform you about our products or services or about promotional activities which Odds96 believes may be of interest or of benefit to you. If you no longer wish to receive marketing or promotional material from us at all or in any particular form, you may contact us by email to support@odds96.com with your request with which we will comply as soon as is practical.
 
@@ -57,7 +57,7 @@ From time to time we may contact you in relation to the management and administr
 
   
 
-5. Management of Personal Information
+## 5. Management of Personal Information
 
 We will take all reasonable steps to ensure that the Personal Information we collect, use or disclose is correct and is stored in a secure environment which is accessed only by authorised persons. We store the personal information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
 
@@ -65,7 +65,7 @@ We will destroy or permanently anonymize the Personal Information we hold when i
 
   
 
-6. Security of Personal Information
+## 6. Security of Personal Information
 
 You acknowledge that no data transmission over the Internet is totally secure. Any information which you transmit to Odds96 is transmitted at your own risk. However, once we receive your transmission, we will take reasonable steps to protect your Personal Information from misuse, loss and unauthorised access, modification and disclosure including by using password protected systems and databases. By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services.
 
@@ -77,7 +77,7 @@ Remember to log out of your account when you have completed your time on Odds96.
 
   
 
-7. Legal Bases for Processing
+## 7. Legal Bases for Processing
 
 Odds96’s processing of your personal information is supported by the following lawful bases:
 
@@ -92,13 +92,13 @@ Odds96’s processing of your personal information is supported by the following
 
   
 
-8. International Data Transfers
+## 8. International Data Transfers
 
 All information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to other countries, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard your information consistent with the requirements of applicable laws.
 
   
 
-9. Access to Personal Information
+## 9. Access to Personal Information
 
 You may access the Personal Information collected by Odds96 by contacting us at support@odds96.com. We will give you access to your Personal Information in the manner requested if that is possible and within a reasonable period.
 
@@ -108,5 +108,5 @@ You may access the Personal Information collected by Odds96 by contacting us at 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at support@odds96.com or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzgwODU1M119
+eyJoaXN0b3J5IjpbLTEzODYwNTQ0NjVdfQ==
 -->
