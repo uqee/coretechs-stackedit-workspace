@@ -39,91 +39,87 @@ The following NetEnt Braded Games have some further restrictions in addition to 
 
 Evolution will not permit its Casino Games to be supplied to any entity that operates in any of the below jurisdictions: Latvia, United States of America, Canada, France, Spain, United Kingdom, Antarctica, Burma (Myanmar), China, Cuba, Cyprus, Curacao, Iran, Israel, Turkey, Russian Federation, Sudan, Syria, Australia, North Korea. In addition, Dream Catcher must not be offered in Denmark, Romania and Spain. American Roulette must not be offered in Spain. Branded game Craps must not be offered in Denmark, Romania, Spain, Belgium and Portugal.
 
-#### Microgaming Quickfire
+### Microgaming Quickfire
 
 No Clients shall be accepted from Philippines, France, Singapore, United States of America, South Africa, Australia, Sweden and Curacao. This provider will not permit its Casino Games to be supplied to any entity that operates in any of the below jurisdictions without the appropriate licenses: Belgium, Bulgaria, Denmark, Italy, Latvia, Portugal, Romania, Spain, United Kingdom, Germany (Schleswig-Holstein).
 
-#### Ezugi
+### Ezugi
 
 No Clients shall be accepted from Curacao, France, Australia, Israel, United Kingdom, Netherlands, United States of America, Romania, South Africa, Bulgaria, Hungary, Latvia, Costa Rica, Italy, Spain, Denmark, Colombia.
 
-#### Pragmatic Play
+### Pragmatic Play
 
 No Clients shall be accepted from United States of America, France, Israel, Ukraine, Taiwan, Australia, North Korea, Cyprus, Great Britain, Italy, Denmark, Bahamas, Spain, Romania, Bulgaria, Portugal, Gibraltar, Sweden, Curacao. In addition, Peaky Blinders must not be offered in United Kingdom, United States of America, Hong Kong, Turkey, France, Belgium, Spain, Singapore, Iran, Syria, North Korea, Sudan.
 
-#### Vivo Gaming
+### Vivo Gaming
 
 No Clients shall be accepted from United States of America, Israel, Costa Rica and Argentina, Curacao, Bulgaria, Iran, Colombia: COP in Cali tables.
 
   
 
-#### Authentic Gaming
+### Authentic Gaming
 
 No Clients shall be accepted from Afghanistan, Botswana, Cambodia, China, Curacao, Cyprus, Ethiopia, Egypt, France, Ghana, Hong Kong, Iceland, Iran,Iraq, Israel, Japan, Kuwait, Macau, Malaysia, Mongolia, North Korea, Pakistan, Panama, Saudi Arabia, Singapore, Sint Maarten, Somalia, Syria, Bahamas, Trinidad and Tobago, United States of America, Yemen and Zimbabwe.
 
-#### Betgames.tv
+### Betgames.tv
 
 No Clients shall be accepted from France, United States of America, Poland, Curacao.
 
-#### Spinomenal
+### Spinomenal
 
 No Clients shall be accepted from United States of America, Israel, Australia, United Kingdom, Armenia, Ecuador, France, Curacao.
 
-#### EGT
+### EGT
 
 No Clients shall be accepted from United States of America and its territories and possessions, including the U.S. Virgin Islands, the U.S. Minor Outlying Islands, Guam, Curacao, Puerto Rico, Mariana Islands, American Samoa, Georgia, Australia, Netherlands, United Kingdom.
 
-#### Wazdan
+### Wazdan
 
 No Clients shall be accepted from Afghanistan, Antigua and Barbuda, Armenia, Australia, Belgium, Bulgaria, China, Cuba, Cyprus, Denmark, France and its territories, Hong Kong, Italy, Iran, Iraq, Kahnawake, Libya, Macau, Malaysia, the Netherlands, the former Netherlands Antilles, Poland, Portugal, Republic of Serbia, Singapore, Spain, Sudan, Syria, the Philippines, Turkey, United States of America and its territories, United Kingdom, Curacao.
 
-#### No Limit City
+### No Limit City
 
-Blacklisted Currencies: AFN (Afghan Afghani), BIF (Burundian franc), BOB (Bolivian boliviano), CDF (Congolese franc), CUP(Cuban Peso), IQD (Iraqi dinar), IRR (Iranian rial), KPW (North Korean Won), LBP (Lebanese Pound), LYD (Libyan dinar), MMK (Myanmar Kyat), NIO (Nicaraguan Córdoba), SOS (Somali shilling), SDG (Sudanese pound), SSP (South Sudanese pound), SYP (Syrian Pound), YER (Yemeni Rial), ZWL (Zimbabwean dollar)
+Blacklisted Currencies: AFN (Afghan Afghani), BIF (Burundian franc), BOB (Bolivian boliviano), CDF (Congolese franc), CUP(Cuban Peso), IQD (Iraqi dinar), IRR (Iranian rial), KPW (North Korean Won), LBP (Lebanese Pound), LYD (Libyan dinar), MMK (Myanmar Kyat), NIO (Nicaraguan Córdoba), SOS (Somali shilling), SDG (Sudanese pound), SSP (South Sudanese pound), SYP (Syrian Pound), YER (Yemeni Rial), ZWL (Zimbabwean dollar).
 
-  
 
 Restricted territories: United States of America, its territories and possessions (except under a local licence). The following countries to which US-origin software may not be exported or re-exported: Iran, North Korea, Cuba, Sudan and Syria (including any of the above Blacklisted Currencies’ respective territories).
 
-#### Habanero
+### Habanero
 
 Prohibited territories: Cyprus, Curacao, France, Philippines, Singapore, Taiwan, United States.
 
-  
 
 Restricted territories unless licensed: Italy, United Kingdom, Bulgaria, Colombia, Croatia, Denmark, Estonia, Latvia, Lithuania, Portugal, Romania, Spain, Sweden, South Africa.
 
-#### PG Soft
+### PG Soft
 
 No Clients shall be accepted from Malaysia, Curacao, Singapore, Taiwan, United States of America.
 
-#### Booming Games
+### Booming Games
 
-No Clients shall be accepted from Cayman Islands, Iran, Iraq, Israel, North Korea, Curacao, Saudi Arabia, Singapore, United States of America, and all territories and possessions, being the U.S. Virgin Islands, U.S. Minor Outlying Islands, Guam, Puerto Rico, Marianas Islands and American Samoa, Vatican City.
-
-  
+No Clients shall be accepted from Cayman Islands, Iran, Iraq, Israel, North Korea, Curacao, Saudi Arabia, Singapore, United States of America, and all territories and possessions, being the U.S. Virgin Islands, U.S. Minor Outlying Islands, Guam, Puerto Rico, Marianas Islands and American Samoa, Vatican City. 
 
 Other than with license: United Kingdom, Spain, Slovakia, Portugal, Romania, Czech Republic, Columbia, Denmark, Estonia, Italy, Latvia, Lithuania, Belgium.
 
-#### Kiron
+### Kiron
 
 No Clients shall be accepted from United States of America, China, Italy, Australia, Singapore, Sri Lanka, South Africa, Dubai, Iraq, Saudi Arabia, Yemen, Oman.
 
-#### Tom Horn
+### Tom Horn
 
 No Clients shall be accepted from United States of America, China, Italy, Australia, Singapore, Sri Lanka, South Africa, Dubai, Iraq, Saudi Arabia, Yemen, Oman.
 
-#### Gamomat (via Edict)
+### Gamomat (via Edict)
 
 No Clients shall be accepted from Canada, Democratic People's Republic of Korea, Bahamas, Botswana, Democratic Republic Congo, Curacao, Ethiopia, Germany, Ghana, Iran, Libya, Myanmar, Netherlands, Pakistan, Sri Lanka, Sudan, South Sudan, Syria, Trinidad und Tobago, Tunisia, United States of America, United States Minor Outlying Islands, Venezuela, Virgin Islands (US), Yemen, Zimbabwe.
 
-#### Red Tiger
+### Red Tiger
 
-##### Blacklisted Territories
+#### Blacklisted Territories
 
 Jurisdictions where Red Tiger Licensed customers must not allow participation in Red Tiger games under any circumstances: Afghanistan, Albania, Algeria, Angola, Australia, Bahamas, Botswana, Bulgaria, Ecuador, Ethiopia, Ghana, Guyana, Hong Kong, Iran, Iraq, Israel, Kuwait, Namibia, Nicaragua, North Korea, Pakistan, Panama, Philippines, Singapore, Sudan, Syria, Taiwan, Trinidad and Tobago, Tunisia, Uganda, Yemen, Zimbabwe.
 
-##### Regulated Territories
+#### Regulated Territories
 
 Jurisdictions where the Operator must not offer Red Tiger games for real money unless:
 
@@ -133,15 +129,15 @@ Jurisdictions where the Operator must not offer Red Tiger games for real money u
 
 In the event that a specific jurisdiction should be divided into multiple states or regions, the Operator shall only be permitted to offer Red Tiger games for real money in such state or region as the Operator’s local remote gaming licence specifically permits: Belgium, Colombia, Croatia, Czech Republic, Denmark, Estonia, France, Italy, Latvia, Lithuania, Mexico, Portugal, Romania, Spain, Sweden, Switzerland, United Kingdom, United States of America.
 
-##### Game-Specific Restrictions
+#### Game-Specific Restrictions
 
 The following shall only apply to the Game “Reel King Mega”. Red Tiger customers must not allow participation in the Game “Reel King Mega” to players from the following jurisdictions
 
 under any circumstances: Cambodia, China, Cuba, France, French Guiana, Guadeloupe, Indonesia, Iran, Iraq, Israel, Ivory Coast, Martinique, North Korea, Pakistan, South Africa, Southern Cyprus, Syria, Thailand, Turkey, United States of America, Vietnam.
 
-  
 
 The following shall only apply to the Game “Trillionaire by Fashion TV”. Red Tiger customers must not allow participation in the Game “Trillionaire by Fashion TV” to players from the following jurisdictions under any circumstances: Cuba, Jordan, Turkey, Saudi Arabia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjEwOTgzMSwtMTQ3ODE5MzE3N119
+eyJoaXN0b3J5IjpbLTE4MzE1OTE1ODMsLTE0NzgxOTMxNzddfQ
+==
 -->
