@@ -346,7 +346,7 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 # **Table Tennis**
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules**
 
 -   In the case of a match not being finished all undecided markets are considered void.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
@@ -355,13 +355,13 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a player retires, all undecided markets are considered void.
 -   Official points deductions will be taken into account for all undetermined markets. Markets which have already been determined will not take deductions into account.
 
-## **Number of Sets with Extra Points**
+## Number of Sets with Extra Points
 
 -   For such bets, you need to specify the number of sets in which the winner will be determined after a score of "10:10" has been reached.
 
-# **Handball**
+# Handball
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets (except who scores the Xth point and Which team will win race to X points) are considered for regular time only.
 -   If the match goes to a 7-metre shootout; the markets “Who scores Xth point?” and “Which team will win race to X points?” will be voided.
@@ -369,13 +369,13 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If odds were offered with an incorrect match time (more than 3 minutes), we reserve the right to void betting.
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 
-## **First Half/Match Result**
+## First Half/Match Result
 
 -   This refers to bets placed on the outcomes of the first half and the match. For such bets, the first half outcome is shown first and is followed by the match outcome. The outcome of the second half is not taken into account when settling bets. For example: W1W2 means that Team 1 will win (W1) the first half and Team 2 will win (W2) the match.
 
-# **American Football**
+# American Football
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In case of any delay (rain, darkness etc) all markets remain unsettled and the trading will be continued as soon as the match continues.
 -   Markets do not consider overtime unless otherwise stated.
@@ -390,40 +390,40 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   Players of the Defense- or Special team are considered as “Competitor1 d/st player” or “Competitor2 d/st player” for settlement purposes, even if the player is listed as dedicated outcome.
 -   Market will be settled based on TV insert and statistics provided by official associations unless there is clear evidence that statistics are not correct.
 
-## **Highest Scoring Quarter**
+## Highest Scoring Quarter
 
 -   For such bets, you need to predict the quarter in which the most points will be scored. Bets on the “Equal” outcome win if the number of points scored in each quarter is the same.
 
-## **Highest Scoring Half**
+## Highest Scoring Half
 
 -   For such bets, you need to predict the half in which the most points will be scored. Bets on the “Equal” outcome win if the number of points scored in each half is the same.
 
-## **First Half/Match Result**
+## First Half/Match Result
 
 -   This refers to bets placed on the outcomes of the first half and the match. For such bets, the first half outcome is shown first and is followed by the match outcome. The outcome of the second half is not taken into account when settling bets. For example: W1W2 means that Team 1 will win (W1) the first half and Team 2 will win (W2) the match.
 
-# **Baseball**
+# Baseball
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   Possible extra innings are not considered in any market unless otherwise stated.
 -   All markets will be cleared according the final result after 9 innings (8 ½ innings if home team is leading at this point).
 -   If a match is interrupted or cancelled and won’t be continued on the same day, all undecided markets are considered void.
 -   If markets remain open with an incorrect score or incorrect match status, we reserve the right to void betting.
 
-## **Rapid markets**
+## Rapid markets
 
 -   If a hit and an error occur within the same play, a hit will be considered for settlement purposes.
 -   If a player does not show up at the plate again but related player markets have been offered, undecided markets are considered void.
 -   A foul ball will always be considered as a strike for settlement purposes.
 
-## **Market 1X2**
+## Market 1X2
 
 -   For such bets, you need to predict the final result of nine innings. 1 = Team 1 wins, X = a draw, 2 = Team 2 wins.
 
-# **Beach Volleyball**
+# Beach Volleyball
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In the case of a match not being finished, all undecided markets are considered void.
 -   Golden set is not considered in any of the mentioned markets.
@@ -431,13 +431,13 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 -   Official points deductions will be taken into account for all undetermined markets. Markets which have already been determined will not take deductions into account.
 
-## **Number of Sets with Extra Points**
+## Number of Sets with Extra Points
 
 -   For such bets, you need to specify the number of sets in which the winner will be determined after a score of "20:20" has been reached.
 
-# **Futsal**
+# Futsal
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets (except halftime, first half markets, overtime and penalty shoot out) are considered for regular time only.
 -   If a match is interrupted and continued within 48h after initial kick-off date, all open bets will be settled with the final result. Otherwise all undecided bets are considered void.
@@ -448,7 +448,7 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a match is interrupted or postponed and is not continued within 48 h after initial kick-off date betting will be void.
 -   If the team names or category are displayed incorrectly, we reserve the right to void betting.
 
-# **Badminton**
+# Badminton
 
 ## Settlement and cancellation rules
 
@@ -676,5 +676,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNjYyMDE0XX0=
+eyJoaXN0b3J5IjpbLTM2ODE0ODg2Nl19
 -->
