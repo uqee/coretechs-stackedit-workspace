@@ -136,7 +136,7 @@ We assume no responsibility, and shall not be liable for, any damages to, or vir
 
   
 
-## (5) Intellectual Property
+## 5. Intellectual Property
 
 5.1. The content of the Website is subject to copyright and other property rights owned by us or used under the licence of third party's copyright holders. The use of any material posted on the Website without our prior written consent is prohibited.
 
@@ -144,7 +144,7 @@ We assume no responsibility, and shall not be liable for, any damages to, or vir
 
 5.3. You must not use or reproduce the trade name, trademark, logo or other creative materials presented on the Website.
 
-## (6) Prohibited Uses. Account Suspension and Termination
+## 6. Prohibited Uses. Account Suspension and Termination
 
 6.1. You accept and acknowledge that we reserve the right to terminate a Client's account immediately and/or restrict Client's access to the Website, and cancel any or all Client's bets and winnings, if we find out that:
 
@@ -192,7 +192,7 @@ We assume no responsibility, and shall not be liable for, any damages to, or vir
   
   
 
-## (7) Registration and Opening of an Account. KYC (Know Your Customer) Procedure
+## 7. Registration and Opening of an Account. KYC (Know Your Customer) Procedure
 
 7.1. In order to become our Client and to be able to use the Website, you must complete the registration form, and read and accept these Terms and Conditions (including any documents referred to or indicated in the Terms and Conditions).
 
@@ -224,10 +224,7 @@ Additional documents are:
     
 -   bank statements;
     
--   photos of a player with an open passport against the background of his face (the
-    
-
-document should be readable);
+-   photos of a player with an open passport against the background of his face (the document should be readable);
 
 -   photo of the bank card on the front side (5 first and 4 last digits, owner's name and date of expiry shall be readable);
     
@@ -262,7 +259,7 @@ The documents that a Client provided shall be not approved if:
   
   
 
-## (8) Deposits and Withdrawals
+## 8. Deposits and Withdrawals
 
 8.1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your Account.
 
@@ -314,7 +311,7 @@ This information may be in the form of:
 
   
 
-## (9) Security
+## 9. Security
 
 9.1. You are fully responsible for ensuring that their Registered Email Address is secure and for preventing any third party from using that address. We shall not be liable for any loss or damage that is deemed or claimed to be incurred as a result of the exchange of messages between us and you as our Client using the Email Address you registered when opening your Account.
 
@@ -326,7 +323,7 @@ This information may be in the form of:
 
   
 
-## (10) Force Majeure
+## 10. Force Majeure
 
 10.1. We cannot be held responsible for any malfunctions or delays in the provision of the Services arising as a result of force majeure, which may reasonably be considered outside of our control, despite the adoption of rationally determined preventive measures. These circumstances include:
 
@@ -351,7 +348,7 @@ This information may be in the form of:
 
   
 
-## (11) Severability
+## 11) Severability
 
 Should any of the provisions of the Terms become legally enforceable, the terms “condition” or “provision” will be separated from the remaining terms, conditions and words, which will remain fully enforceable as provided for by law. In such cases, the part deemed to be invalid shall be modified according to applicable law to reflect the original purposes as accurately as possible.
 
@@ -365,5 +362,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Sportsbet.io, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjgyNTc2OCw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTIyNjI2MjIsNDk3ODE4ODEwXX0=
 -->
