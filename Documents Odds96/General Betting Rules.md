@@ -232,27 +232,27 @@ If the wagering offer on an event includes a draw as a third option and the even
 
   
 
-## **Highest Scoring Half**
+## Highest Scoring Half
 
 -   For such bets, you need to predict the half in which the most goals will be scored. Bets on the “Equal” outcome win if the number of goals scored in each half is the same.
 
-## **Half-Time/Full-Time**
+## Half-Time/Full-Time
 
 -   This refers to bets placed on the outcomes of the first half and the match. For such bets, the first half outcome is shown first and is followed by the match outcome. The outcome of the second half and other periods is not taken into account when settling bets. For example: W1W2 means that Team 1 will win (W1) the first half and Team 2 will win (W2) the match.
 
-## **Correct Score**
+## Correct Score
 
 -   If the match ends with a score that bets were not offered on, bets on the “Other” outcome win
 
   
 
-## **Extra Time and Penalty Shootouts**
+## Extra Time and Penalty Shootouts
 
 -   We accept bets on the results of extra time and penalty shootouts. The result at the end of regular time is not taken into account.
 
-# **Tennis**
+# Tennis
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In case of a retirement and walkover of any player, all undecided bets are considered void.
 -   In case of any delay (rain, darkness…) all markets remain unsettled and the trading will be continued as soon as the match continues.
@@ -264,13 +264,13 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a match tie-break is played as a deciding set in BestOf3 format, it will be considered as the 3rd set.
 -   Every tie-break or Match tie-break counts as 1 game.
 
-## **Settlement of Handicap and Total bets**
+## Settlement of Handicap and Total bets
 
 -   Handicap and Total bets on tennis are counted in games. A tiebreak counts as one game. If a champions tiebreak is played, it will be counted as the 3rd set and as one point for Handicap and Total bets respectively.
 
-# **Basketball**
+# Basketball
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   Markets do not consider overtime unless otherwise stated.
 -   If a match is interrupted or postponed and is not continued within 48h after initial tip-off date, betting will be void.
@@ -282,17 +282,17 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   For such bets, you need to predict the quarter in which the most points will be scored. Bets on the “Equal” outcome win if the number of points scored in each quarter is the same.
 
-## **Bets on Halves**
+## Bets on Halves
 
 -   Pre-match bets on the second half (1X2, Handicap, Total, Even/Odd, 0 Handicap) do not include overtime. Live bets on the second half (1X2, Handicap, Total, Even/Odd, 0 Handicap) include overtime.
 
-## **First Half/Match Result**
+## First Half/Match Result
 
 -   This refers to bets placed on the outcomes of the first half and the match. For such bets, the first half outcome is shown first and is followed by the match outcome. The outcome of the second half is not taken into account when settling bets. For example: W1W2 means that Team 1 will win (W1) the first half and Team 2 will win (W2) the match.
 
-# **Volleyball**
+# Volleyball
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In the case of a match not being finished, all undecided markets are considered void.
 -   Golden set is not considered in any of the mentioned markets.
@@ -300,13 +300,13 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If markets remain open with an incorrect score, we reserve the right to void betting.
 -   Official points deductions will be taken into account for all undetermined markets. Markets which have already been determined will not take deductions into account.
 
-## **Number of Sets with Extra Points**
+## Number of Sets with Extra Points
 
 -   For such bets, you need to specify the number of sets in which the winner will be determined after a score of "24:24" has been reached.
 
-# **Ice Hockey**
+# Ice Hockey
 
-## **Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   All markets (except period, overtime and penalty shootout markets) are considered for regular time only unless it is mentioned in the market.
 -   If a match is interrupted and continued within 48h after initial start-time, all open bets will be settled with the final result. Otherwise all undecided bets are considered void.
@@ -316,19 +316,19 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   If a wrong score is entered all markets will be cancelled for the time when the incorrect score was displayed.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
 
-## **Match Winner**
+## Match Winner
 
 -   Bets are settled based on the final result, including overtime and shootouts.
 
-## **Highest Scoring Period**
+## Highest Scoring Period
 
 -   For such bets, you need to predict the period in which the most goals will be scored. Bets on the “Equal” outcome win if the number of goals scored in each period is the same.
 
-## **Settlement of Handicap and Total bets including overtime and shootouts**
+## Settlement of Handicap and Total bets including overtime and shootouts
 
 -   Victory in a shootout counts as one goal scored.
 
-## **Anytime Goalscorer and Player to score a point**
+## Anytime Goalscorer and Player to score a point
 
 -   All offered players are considered as runners.
 -   If an unlisted player scores a goal or earns a point, all bets on listed players stand.
@@ -336,7 +336,7 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   All bets on players that were listed but left the game before the match ended (such as injuries or expulsions) will stand.
 -   Markets will be settled based on TV inserts and data provided by official associations unless there is clear evidence these statistics are not correct.
 
-## **Next scoring type**
+## Next scoring type
 
 -   Even strength: Goals are considered even strength when every team has the same number of players on the ice.
 -   Power-play: A goal is considered to be a power-play goal if the team with numerical advantage scores.
@@ -344,9 +344,9 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   Penalty shot: A penalty shot is considered to be a goal if converted.
 -   Empty net: A goal is considered to be an empty net goal, if the trailing team pulls the goalkeeper for an extra attacker and the leading team scores. In power-play/short-handed and empty net situations, a goal will always be considered as empty net goal for settlement purposes.
 
-# **Table Tennis**
+# Table Tennis
 
-## Settlement and cancellation rules**
+## Settlement and cancellation rules
 
 -   In the case of a match not being finished all undecided markets are considered void.
 -   If a match is interrupted or postponed and is not continued within 48h after initial kick-off date, betting will be void.
@@ -676,5 +676,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODE0ODg2Nl19
+eyJoaXN0b3J5IjpbLTE0MTg1MjkzMF19
 -->
