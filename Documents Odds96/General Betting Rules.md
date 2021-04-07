@@ -1,4 +1,5 @@
-# **General (rules)**
+Last updated: April 7, 2021
+# General Rules
 
 -   Please read the Betting Rules carefully. It is your responsibility to ensure that you are familiar with Betting Rules or the terms of a particular bet and the registering of details with odds96 and accepting the Betting Rules will be deemed as acceptance of these rules.
 -   We may need to change the Betting Rules from time to time for a number of reasons. All changes will be published on the Website. The most up to date Betting Rules will be available on the Website. The new Betting Rules will come into effect after publishing on the Website.
@@ -13,7 +14,7 @@
     
     For example, assume there is a dead heat for first place between three horses. 'Client A' has backed one of the winners for a stake of 300 at the traded price of 4.0. When the event is settled, the stake (300) is multiplied by 1/3 (i.e. the number of expected winners (1) divided by the number of actual winners (3)) to calculate the reduced stake (100). The backer then receives the traded price matched (4.0) multiplied by the reduced stake (4 x 100 = 400). In this example, Client A's net winnings are 100 (400 payout minus the original 300 stake).
 
-# **Cash Out**
+# Cash Out
 
 -   Cash Out is available on selected events, fixtures and markets both pre-match and In-Play, on single and multiple bets, for a variety of sports.
 -   The Cash Out option gives you the opportunity to settle a bet at the displayed value, before the market is closed. All winnings that come from the use of the Cash Out will be automatically credited to the Client's account.
@@ -33,9 +34,9 @@
 -   Odds96 will not be responsible if the Cash Out feature is not available for technical reasons and bets will stand as originally placed during any such period.
 -   Where Cash Out is available pre-match and we do not cover or we stop covering the event In-Play, then Cash Out will be unavailable once the event starts or when In-Play coverage stops. Cash Out will not be available when a market is suspended.
 
-# **General (markets)**
+# Markets
 
-## **Settlement and Cancellation**
+## Settlement and Cancellation
 
 -   If the outcome of a market cannot be verified officially, we reserve the right to delay the settlement until official confirmation.
 -   If markets were offered when the outcome was already known, we reserve the right to void any betting.
@@ -46,7 +47,7 @@
 -   If the rules or format of a match differ from our accepted norm, we reserve the right to void any market.
 -   If a match is not completed or not played (e.g. through disqualification, interruption, withdrawal, changes in draws etc.), all undecided markets are considered void.
 
-## **Main Types of Bets**
+## Main Types of Bets
 
 -   **Single Bet** – This refers to a bet which is placed on a single outcome of an event. The payout for a single bet is equal to the stake amount multiplied by the odds assigned to this outcome.
 -   **Parlay Bet** – This refers to a bet which is placed on several independent outcomes of events. For a parlay bet to win, none of the outcomes included can lose. If one of these outcomes loses, the entire bet loses. The payout for a parlay is equal to the stake amount multiplied by the odds for all the outcomes included in this bet.
@@ -674,5 +675,5 @@ If the wagering offer on an event includes a draw as a third option and the even
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Njg0MzI0Nl19
+eyJoaXN0b3J5IjpbLTE2OTQxMDUxOV19
 -->
