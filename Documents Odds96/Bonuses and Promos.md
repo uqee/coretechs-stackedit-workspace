@@ -13,9 +13,8 @@ Last updated: April 7, 2021
 5.  We may insist that you bet a certain amount of funds from your Account Balance before you can bet with any bonus funds credited to your Bonus Account.
     
 6.  We reserve the right to impose limitations on the bets you place using bonus funds, which include but are not limited to minimum and/or maximum odds, and maximum stake to qualify.
-    
 
-If any term of an offer or promotion is breached or there is any evidence of fraudulent activity on your part (for instance, any activity that results in guaranteed client profits irrespective of the outcome), we reserve the right to block your Account at our own discretion. For further details, please read our Terms and Conditions (6.  Prohibited Uses. Account Suspension and Termination).
+8. If any term of an offer or promotion is breached or there is any evidence of fraudulent activity on your part (for instance, any activity that results in guaranteed client profits irrespective of the outcome), we reserve the right to block your Account at our own discretion. For further details, please read our Terms and Conditions (Prohibited Uses. Account Suspension and Termination).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDM0NTM0OF19
+eyJoaXN0b3J5IjpbLTQ5NzY1NTMwNF19
 -->
