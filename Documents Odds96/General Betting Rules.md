@@ -22,6 +22,11 @@ Last updated: April 7, 2021
 [Bowls](#bowls)
 [Cricket T20 + ODI](#cricket-t20--odi)
 [Squash](#squash)
+[Aussie Rules](#aussie-rules)
+[Field Hockey](#filed-hockey)
+[Floorball](#floorball)
+[Bandy](#bandy)
+[Pesapallo](#pesapallo)
 
 
 # General Rules
@@ -705,7 +710,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjg5Njg4NCw4NzY4NjE2MDgsNTc3OD
+eyJoaXN0b3J5IjpbLTE0NzA4NzE2Miw4NzY4NjE2MDgsNTc3OD
 IyNjc4LC0yOTAyNDQ0NSwtMTU0ODM5NjMzOSwtMTY5NDEwNTE5
 XX0=
 -->
