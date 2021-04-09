@@ -1,4 +1,7 @@
 Last updated: April 7, 2021
+
+[General Rules]
+
 # General Rules
 
 -   Please read the Betting Rules carefully. It is your responsibility to ensure that you are familiar with Betting Rules or the terms of a particular bet and the registering of details with odds96 and accepting the Betting Rules will be deemed as acceptance of these rules.
@@ -685,5 +688,6 @@ Corner/Goal Kick/Free-Kick/Throw In - These markets are settled on the time the 
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzOTYzMzksLTE2OTQxMDUxOV19
+eyJoaXN0b3J5IjpbMzAxNjA1MTg2LC0xNTQ4Mzk2MzM5LC0xNj
+k0MTA1MTldfQ==
 -->
