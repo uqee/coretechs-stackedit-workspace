@@ -183,7 +183,7 @@ We assume no responsibility, and shall not be liable for, any damages to, or vir
 
 7.1. In order to become our Client and to be able to use the Website, you must complete the registration form, and read and accept these Terms and Conditions (including any documents referred to or indicated in the Terms and Conditions).
 
-7.2. After registering and at any time thereafter, you may be required to provide us with a standard set of identification data and documents, as well as additional documents in accordance with applicable law and/or our internal KYC (Know Your Customer) and AML (Anti-Money Laundering) policies.
+7.2. After registering and at any time thereafter, you may be required to provide us with a standard set of identification data and documents, as well as additional documents in accordance with applicable law and/or our internal KYC (Know Your Customer) and AML (Anti Money Laundering) policies.
 
 The minimum set of identification data includes:
 
@@ -275,7 +275,7 @@ Withdrawal fees vary depending on the currency you use and at the time of public
 
 8.7. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up to more than 60 minutes. Withdrawals in any other cryptocurrency may take up to more than 10 minutes.
 
-8.8. Following our Anti-Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
+8.8. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
 
 8.9. We may ask a Client to provide source of funds documentation, which is important to make sure that a Client provides evidence that identifies the actual source(s) of funds that he uses to bet or play with.
 
@@ -349,6 +349,6 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjY4Nzc3LC02NzI2MjA2MDAsLTIwND
-ExMDg2ODgsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbNzk4MzkwNjY1LDExMzI2ODc3NywtNjcyNj
+IwNjAwLC0yMDQxMTA4Njg4LDQ5NzgxODgxMF19
 -->
