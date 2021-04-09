@@ -31,6 +31,9 @@ Last updated: April 7, 2021
 [Curling](#curling)
 [Mixed Martial Arts (MMA)](#mixed-martial-arts-mma)
 [Boxing](#boxing)
+[Water Polo](#water-polo)
+[Biathlon](#biathlon)
+[Motor Racing](#motor-racing-cycling)
 
 # General Rules
 
@@ -713,7 +716,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzk3MjkyNSw4NzY4NjE2MDgsNTc3OD
-IyNjc4LC0yOTAyNDQ0NSwtMTU0ODM5NjMzOSwtMTY5NDEwNTE5
-XX0=
+eyJoaXN0b3J5IjpbOTU4ODc0NDY3LDg3Njg2MTYwOCw1Nzc4Mj
+I2NzgsLTI5MDI0NDQ1LC0xNTQ4Mzk2MzM5LC0xNjk0MTA1MTld
+fQ==
 -->
