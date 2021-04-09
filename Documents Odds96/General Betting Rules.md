@@ -209,17 +209,12 @@ If the wagering offer on an event includes a draw as a third option and the even
 -   Penalty: Goal must be scored directly from the penalty. Goals after a rebound of a missed penalty do not count.
 -   Own Goal: If goal is declared as an own goal.
 
-## Interval Markets
-Examples of intervals:
-
+## Fast Markets
+The examples of fast markets intervals:
  - 1 min interval - 00:00-00:59,
  - 5 min interval - 05:00-09:59,
  - 10 min interval - 10:00-19:59,
  - 15 min interval - 15:00-29:59.
-
-Events must happen between 0:00 and 09:59 to be classed in the first 10 minutes (e.g. a corner awarded in this period but only taken after 10:00 will not count). The designated 10 minute period must be completed for bets to stand (unless the outcome of the specific market is already determined).
-
-Corner/Goal Kick/Free-Kick/Throw In - These markets are settled on the time the event is taken – not awarded. In the event of a re-take, settlement is based on the time the (non-foul) event is taken and the foul event is ignored. Card/Penalty - these markets are settled on the time the event is awarded. i.e. when the card is shown by the referee, or when the referee points to the penalty spot. The outcome of the penalty kick (score/miss/foul) is irrelevant. If VAR is used to confirm a penalty or goal, the time of the original goal or penalty decision will stand. If VAR is used to award a penalty or a red card, then the settlement time will be when the referee awards the penalty or shows the red card following the VAR review. If VAR is used to overrule the original penalty decision, then a penalty will not have been awarded in this instance. Note, a penalty is not classed as a free-kick.
 
 -   Markets will be settled based on the goal time announced by TV. If this is not available, the time according to the match clock is considered.
 -   Goal markets are settled based on the time the ball crosses the line, and not the time the kick is made.
@@ -688,6 +683,6 @@ Corner/Goal Kick/Free-Kick/Throw In - These markets are settled on the time the 
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDI0NDQ1LC0xNTQ4Mzk2MzM5LC0xNj
-k0MTA1MTldfQ==
+eyJoaXN0b3J5IjpbLTg4ODM4NzU0MSwtMjkwMjQ0NDUsLTE1ND
+gzOTYzMzksLTE2OTQxMDUxOV19
 -->
