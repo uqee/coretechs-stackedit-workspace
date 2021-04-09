@@ -15,7 +15,11 @@ Last updated: April 7, 2021
 [Beach Volleyball](#beach-volleyball)
 [Futsal](#futsal)
 [Badminton](#badminton)
-[enter link description here](#rugby-union--league)
+[Rugby Union + League](#rugby-union--league)
+[Rugby Sevens](#rugby-sevens)
+[Darts](#darts)
+[Snooker](#snooker)
+[enter link description here](#bowls)
 
 # General Rules
 
@@ -698,7 +702,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEzMDY4MjUsODc2ODYxNjA4LDU3Nz
-gyMjY3OCwtMjkwMjQ0NDUsLTE1NDgzOTYzMzksLTE2OTQxMDUx
-OV19
+eyJoaXN0b3J5IjpbLTc4OTc1MTE4NSw4NzY4NjE2MDgsNTc3OD
+IyNjc4LC0yOTAyNDQ0NSwtMTU0ODM5NjMzOSwtMTY5NDEwNTE5
+XX0=
 -->
