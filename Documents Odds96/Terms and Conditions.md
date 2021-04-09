@@ -347,8 +347,8 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.3. The parties seek resolution of disputes by negotiation and/or mediation prior to arbitration.
 
-12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Sportsbet.io, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
+12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODA2NzU2MCwtNjcyNjIwNjAwLC0yMD
-QxMTA4Njg4LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMTEzMjY4Nzc3LC02NzI2MjA2MDAsLTIwND
+ExMDg2ODgsNDk3ODE4ODEwXX0=
 -->
