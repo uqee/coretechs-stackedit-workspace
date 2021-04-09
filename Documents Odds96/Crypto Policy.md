@@ -2,7 +2,7 @@ Last updated: April 7, 2021
 
 1.  You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on the market fluctuations. You bear full financial responsibility related to changes in exchange rates and further conversion of funds.
     
-2.  According to our anti money laundering (AML) procedures, we follow a strict anti coin mixing policy.
+2.  According to our Anti Money Laundering (AML) procedures, we follow a strict anti coin mixing policy.
     
 3.  We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your Account.
     
@@ -16,5 +16,5 @@ Last updated: April 7, 2021
     
 8.  Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk4Mzk5ODBdfQ==
+eyJoaXN0b3J5IjpbNDE2MjYwMjc2XX0=
 -->
