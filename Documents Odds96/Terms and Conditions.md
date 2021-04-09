@@ -27,13 +27,10 @@ vi. Crypto Policy**
 
 1.5. These Terms may be published in different languages, reflecting the same information for our Clients. In case of discrepancies between the English version of these rules and the version in any other language, the English version shall prevail.
 
-  
-
 ## 2. Governing Law
 
 These Terms and Conditions comply with and are interpreted in accordance with the laws of Curaçao, and you are unconditionally subject to the exclusive (sole) law of the courts of the jurisdiction of Curaçao for settlement of any disputes (including claims for damages and counterclaims) that may arise in connection with the creation, legality, effect, interpretation or action, or legal relations, established by the Terms and Conditions or by any means arising from the Terms and Conditions.
 
-  
 
 ## 3. Binding Declarations
 
@@ -62,13 +59,9 @@ By using the Services, you agree to the provisions below:
 11.  By accepting these Terms and Conditions and/or registering on the Website in order to use it, you agree that from time to time we may carry out any identification, credit and other verification checks that are required by us and/or required in accordance with applicable laws and regulations (including, without limitation, compliance with anti-money laundering laws and regulations) and/or are requested by the relevant regulatory authorities for the use of our Website and our products in general. You agree to provide the requested information in connection with these verification checks. We have the right to suspend your account or restrict access to it in any way that we deem appropriate until the relevant checks have been completed to our satisfaction.
     
 12.  You are not a Politically Exposed Person (PEP), i.e. a person holding significant public office (or who has held it at any time in the preceding year), having access to public funds or in a position of influence. PEPs include the readily identifiable family and associates of such persons.
-    
-
   
 
 ## 4. No Warranties. Limitation of Liability
-
-  
 
 4.1. Your use of the Services is at your own risk. The Services are provided on an "as is" and "as available" basis. To the fullest extent permitted by applicable law, we, our officers, directors, employees, shareholders, parents, subsidiaries, affiliates, licensors, and agents hereby expressly disclaim any and all representations and warranties of every kind, whether express or implied, regarding the Services, its content, and any information or other materials provided by us in connection with use of the Services, including, but not limited to, warranties of merchantability, fitness for a particular purpose, non-infringement and those warranties arising by law, statute, usage of trade, or course of dealing.
 
@@ -357,6 +350,6 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Sportsbet.io, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjYyMDYwMCwtMjA0MTEwODY4OCw0OT
-c4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTEyNjU1ODE0MiwtNjcyNjIwNjAwLC0yMD
+QxMTA4Njg4LDQ5NzgxODgxMF19
 -->
