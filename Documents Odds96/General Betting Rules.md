@@ -33,11 +33,11 @@ Last updated: April 7, 2021
 [Boxing](#boxing)
 [Water Polo](#water-polo)
 [Biathlon](#biathlon)
-[Motor Racing](#motor-racing-cycling)
+[Motor Racing, Cycling](#motor-racing-cycling)
 
 # General Rules
 
--   Please read the Betting Rules carefully. It is your responsibility to ensure that you are familiar with Betting Rules or the terms of a particular bet and the registering of details with Odds96 and accepting the Betting Rules will be deemed as acceptance of these rules.
+-   Please read these Betting Rules carefully. It is your responsibility to ensure that you are familiar with the Betting Rules or the terms of a particular bet. Registering with Odds96 and accepting these Betting Rules will be deemed as acceptance of these rules.
 -   We may need to change the Betting Rules from time to time for a number of reasons. All changes will be published on the Website. The most up to date Betting Rules will be available on the Website. The new Betting Rules will come into effect after publishing on the Website.
 -   Your bet is placed the moment it is recorded on our system in accordance with the conditions described in these rules. On pressing 'Place Bet', a confirmation message indicates the bet has been placed. If this message does not appear, you can confirm the status of your bet by checking the bet history or by contacting Customer Support.
 -   Odds96 reserves the right to suspend any markets at any time. When a market is suspended, any bets placed on it will be rejected.
@@ -716,7 +716,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4ODc0NDY3LDg3Njg2MTYwOCw1Nzc4Mj
-I2NzgsLTI5MDI0NDQ1LC0xNTQ4Mzk2MzM5LC0xNjk0MTA1MTld
-fQ==
+eyJoaXN0b3J5IjpbLTY0ODU2OTE1MCw4NzY4NjE2MDgsNTc3OD
+IyNjc4LC0yOTAyNDQ0NSwtMTU0ODM5NjMzOSwtMTY5NDEwNTE5
+XX0=
 -->
