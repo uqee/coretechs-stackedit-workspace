@@ -39,7 +39,7 @@ Last updated: April 7, 2021
 
 -   Please read these General Betting Rules carefully. It is your responsibility to ensure that you are familiar with General Betting Rules or the terms of a particular bet. Registering with Odds96 and accepting these Betting Rules will be deemed as acceptance of these rules.
 -   We may need to change General Betting Rules from time to time for a number of reasons. All changes will be published on the Website. The most up to date General Betting Rules will be available on the Website. A new version of General Betting Rules will come into effect after publishing on the Website.
--   Your bet is placed the moment it is recorded on our system in accordance with the conditions described in these rules. On pressing 'Place Bet', a confirmation message indicates the bet has been placed. If this message does not appear, you can confirm the status of your bet by checking the bet history or by contacting our upport.
+-   Your bet is placed the moment it is recorded on our system in accordance with the conditions described in these rules. On pressing 'Place Bet', a confirmation message indicates the bet has been placed. If this message does not appear, you can confirm the status of your bet by checking the bet history or by contacting our support team.
 -   Odds96 reserves the right to suspend any markets at any time. When a market is suspended, any bets placed on it will be rejected.
 -   We reserve the right to reverse the settlement of a market if a market is settled in error (i.e. human or technical error).
 -   All results/scores and/or match times displayed in the list of LIVE markets are for informational purposes only. Odds96 tries to provide the most reliable information possible, but we bear no responsibility for any inaccuracies displayed on our Site.
@@ -47,8 +47,7 @@ Last updated: April 7, 2021
 -   If the venue for a sporting event is changed, all bets placed based on the original venue will be made void and stakes refunded, unless otherwise stated.
 -   If a match takes place at a neutral venue and this is not additionally specified, all bets will stand. If a match takes place at the home ground of the away team, all bets will be void
 -   A Dead Heat occurs when two or more participants are placed in the same position after the final results have been given from a specific event. For example, two winners cross the finishing line at the same time or two teams are eliminated at the same stage. If there are two winners and a dead heat is declared in any event, you will win half of your bet and lose the other half. If there are more than two winners your stake will be divided by the number of the winners of this event.
-    
-    For example, assume there is a dead heat for first place between three horses. 'Client A' has backed one of the winners for a stake of 300 at the traded price of 4.0. When the event is settled, the stake (300) is multiplied by 1/3 (i.e. the number of expected winners (1) divided by the number of actual winners (3)) to calculate the reduced stake (100). The backer then receives the traded price matched (4.0) multiplied by the reduced stake (4 x 100 = 400). In this example, Client A's net winnings are 100 (400 payout minus the original 300 stake).
+For example, assume there is a dead heat for first place between three horses. 'Client A' has backed one of the winners for a stake of 300 at the traded price of 4.0. When the event is settled, the stake (300) is multiplied by 1/3 (i.e. the number of expected winners (1) divided by the number of actual winners (3)) to calculate the reduced stake (100). The backer then receives the traded price matched (4.0) multiplied by the reduced stake (4 x 100 = 400). In this example, Client A's net winnings are 100 (400 payout minus the original 300 stake).
 
 # Cash Out
 
@@ -716,7 +715,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg5NTY0MDIsODc2ODYxNjA4LDU3Nz
-gyMjY3OCwtMjkwMjQ0NDUsLTE1NDgzOTYzMzksLTE2OTQxMDUx
-OV19
+eyJoaXN0b3J5IjpbMjc2MzQ3NjMwLDg3Njg2MTYwOCw1Nzc4Mj
+I2NzgsLTI5MDI0NDQ1LC0xNTQ4Mzk2MzM5LC0xNjk0MTA1MTld
+fQ==
 -->
