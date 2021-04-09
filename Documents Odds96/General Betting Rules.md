@@ -85,27 +85,19 @@ For example, assume there is a dead heat for first place between three horses. '
 ## Main Types of Bets
 
 -   **Single Bet** – This refers to a bet which is placed on a single outcome of an event. The payout for a single bet is equal to the stake amount multiplied by the odds assigned to this outcome.
--   **Parlay Bet** – This refers to a bet which is placed on several independent outcomes of events. For a parlay bet to win, none of the outcomes included can lose. If one of these outcomes loses, the entire bet loses. The payout for a parlay is equal to the stake amount multiplied by the odds for all the outcomes included in this bet.
-
-If a multiple contains a selection that is being voided the odds for this selection will be set to 1, i.e. if the multiple contains the selections over 2.5 goals in game A (odds=2)* home in game B (odds=1.5) and game B is being voided the odds for this multiple will be 2 * 1 = 2. If a multiple contains a selection that is being settled "Half Win" the total odds are calculated as: one Win and one Half Win, odds(selection1) * (odds (selection2)/2 + 1/2). If a multiple contains a selection that is being settled “Half Lose” the total odds are calculated as: i.e. one Win and one Half Lose, odds(selection1) * 1/2.
-
+-   **Parlay Bet** – This refers to a bet which is placed on several independent outcomes of events. For a parlay bet to win, none of the outcomes included can lose. If one of these outcomes loses, the entire bet loses. The payout for a parlay is equal to the stake amount multiplied by the odds for all the outcomes included in this bet. If a multiple contains a selection that is being voided the odds for this selection will be set to 1, i.e. if the multiple contains the selections over 2.5 goals in game A (odds=2)* home in game B (odds=1.5) and game B is being voided the odds for this multiple will be 2 * 1 = 2. If a multiple contains a selection that is being settled "Half Win" the total odds are calculated as: one Win and one Half Win, odds(selection1) * (odds (selection2)/2 + 1/2). If a multiple contains a selection that is being settled “Half Lose” the total odds are calculated as: i.e. one Win and one Half Lose, odds(selection1) * 1/2.
 -   **PRE-MATCH bets** – This refers to bets on a sporting event which are accepted before it starts.
 -   **LIVE bets** – This refers to bets on a sporting event which are accepted while a game is happening on outcomes which have not yet been determined.
 
 ## Outrights
 
 We offer outright bets on leagues, groups, players and competitions concerning the finish position, stage of elimination or ranking of teams and players. They will be settled at the end of the scheduled programme of matches or competitions. We offer some types of outrights and here is a short description:
-
-Championship - predict the result of a competitor in the whole championship
-
-Short Term - predict the result of a competitor in one of the stages of a championship
-
-Top X - predict if a competitor ranks among the Top X
-
-Head to Head - predict which competititor's position in the resulting table will be higher
+ - Championship - predict the result of a competitor in the whole championship.
+ - Short Term - predict the result of a competitor in one of the stages of a championship.
+ - Top X - predict if a competitor ranks among the Top X.
+ - Head to Head - predict which competititor's position in the resulting table will be higher.
 
 Examples of the outrights:
-
 -   English Premier League - Winner
 -   English Premier League - Top X (Top-2, Top-4, Top-6)
 -   English Premier League - w/o The Big Six
@@ -715,7 +707,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MzQ3NjMwLDg3Njg2MTYwOCw1Nzc4Mj
+eyJoaXN0b3J5IjpbLTQ0ODIzNDA4LDg3Njg2MTYwOCw1Nzc4Mj
 I2NzgsLTI5MDI0NDQ1LC0xNTQ4Mzk2MzM5LC0xNjk0MTA1MTld
 fQ==
 -->
