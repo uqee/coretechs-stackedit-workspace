@@ -8,17 +8,12 @@ Please read these Terms and Conditions carefully as they constitute an agreement
 
 By accepting these Terms and Conditions you thereby accept the following legal documents (“Legal documents”) which constitute an integral part of these Terms and Conditions:
 
-i. Responsible Gambling  and Self-Exclusion
-
-ii. Provider Availability Policy
-
-iii. Bonuses and Promos
-
-iv. Crypto Policy
-
-v. Privacy Policy
-
-vi. General Betting Rules
+**i. Provider Availability Policy
+ii. Privacy Policy
+iii. Responsible Gambling  and Self-Exclusion
+iv. General Betting Rules
+v. Bonuses and Promos
+vi. Crypto Policy**
 
 ## 1. General
 
@@ -362,5 +357,6 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Sportsbet.io, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDExMDg2ODgsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTY3MjYyMDYwMCwtMjA0MTEwODY4OCw0OT
+c4MTg4MTBdfQ==
 -->
