@@ -125,7 +125,6 @@ We assume no responsibility, and shall not be liable for, any damages to, or vir
   
 
 ## 5. Intellectual Property
-
 5.1. The content of the Website is subject to copyright and other property rights owned by us or used under the licence of third party's copyright holders. The use of any material posted on the Website without our prior written consent is prohibited.
 
 5.2. The use of the Website shall not grant the user any rights to intellectual property (such as copyright, know-how or trademarks) owned by us or any other third party.
@@ -264,9 +263,9 @@ The documents that a Client provided shall be not approved if:
 
 We reserve the right to change the wagering requirements for all Clients or personally for individual Clients.
 
-8.3. Please note that the minimum deposit is approximately $10 in cryptocurrency equivalent, depending on the current exchange rates on [https://www.kraken.com](https://www.kraken.com/ru-ru/). Before you make a deposit, you will be informed of the exact amount of the minimum deposit in US dollars on the Website.
+8.3. Please note that the minimum deposit is approximately $10 in cryptocurrency equivalent, depending on the current exchange rates on [https://www.kraken.com](https://www.kraken.com/). Before you make a deposit, you will be informed of the exact amount of the minimum deposit in US dollars on the Website.
 
-8.4. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [https://www.kraken.com](https://www.kraken.com/ru-ru/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
+8.4. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [https://www.kraken.com](https://www.kraken.com/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
 
 Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
 
@@ -350,6 +349,6 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Sportsbet.io, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjU1ODE0MiwtNjcyNjIwNjAwLC0yMD
+eyJoaXN0b3J5IjpbMjAzODA2NzU2MCwtNjcyNjIwNjAwLC0yMD
 QxMTA4Njg4LDQ5NzgxODgxMF19
 -->
