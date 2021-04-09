@@ -1,7 +1,5 @@
 Last updated: April 7, 2021
 
-  
-
 1.  We reserve the right to amend or cancel any promotion at our own discretion at any time. In addition, we reserve the right to cancel any promotion, bonus or bonus program with immediate effect if we believe that this promotion, bonus or bonus program has been set up incorrectly or is being abused.
     
 2.  Each offer or promotion may contain several conditions that include but are not limited to minimum and/or maximum odds to qualify, minimum stake to qualify, maximum bonus to win, expiration date.
@@ -14,7 +12,7 @@ Last updated: April 7, 2021
     
 6.  We reserve the right to impose limitations on the bets you place using bonus funds, which include but are not limited to minimum and/or maximum odds, and maximum stake to qualify.
 
-8. If any term of an offer or promotion is breached or there is any evidence of fraudulent activity on your part (for instance, any activity that results in guaranteed client profits irrespective of the outcome), we reserve the right to block your Account at our own discretion. For further details, please read our Terms and Conditions (Prohibited Uses. Account Suspension and Termination).
+8. If any term of an offer or promotion is breached or there is any evidence of fraudulent activity on your part (for instance, any activity that results in guaranteed client profits irrespective of the outcome), we reserve the right to block your Account at our own discretion. For further details, please read our Terms and Conditions (6. Prohibited Uses. Account Suspension and Termination).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzY1NTMwNF19
+eyJoaXN0b3J5IjpbLTExMTkyNzM1MjhdfQ==
 -->
