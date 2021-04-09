@@ -2,8 +2,13 @@ Last updated: April 7, 2021
 
 [General Rules](#general-rules)
 [Cash Out](#cash-out)
-[enter link description here](#markets)
+[Markets](#markets)
+[Soccer](#soccer)
 [Tennis](#tennis)
+[Basketball](#basketball)
+[Volleyball](#volleyball)
+[Ice Hockey](#ice-hockey)
+
 
 # General Rules
 
@@ -686,7 +691,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjQ4NTc2MCw4NzY4NjE2MDgsNTc3OD
-IyNjc4LC0yOTAyNDQ0NSwtMTU0ODM5NjMzOSwtMTY5NDEwNTE5
-XX0=
+eyJoaXN0b3J5IjpbNDIxMjM2Mzk0LDg3Njg2MTYwOCw1Nzc4Mj
+I2NzgsLTI5MDI0NDQ1LC0xNTQ4Mzk2MzM5LC0xNjk0MTA1MTld
+fQ==
 -->
