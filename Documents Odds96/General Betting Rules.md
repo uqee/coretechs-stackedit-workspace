@@ -37,9 +37,9 @@ Last updated: April 7, 2021
 
 # General Rules
 
--   Please read these Betting Rules carefully. It is your responsibility to ensure that you are familiar with the Betting Rules or the terms of a particular bet. Registering with Odds96 and accepting these Betting Rules will be deemed as acceptance of these rules.
--   We may need to change the Betting Rules from time to time for a number of reasons. All changes will be published on the Website. The most up to date Betting Rules will be available on the Website. The new Betting Rules will come into effect after publishing on the Website.
--   Your bet is placed the moment it is recorded on our system in accordance with the conditions described in these rules. On pressing 'Place Bet', a confirmation message indicates the bet has been placed. If this message does not appear, you can confirm the status of your bet by checking the bet history or by contacting Customer Support.
+-   Please read these General Betting Rules carefully. It is your responsibility to ensure that you are familiar with General Betting Rules or the terms of a particular bet. Registering with Odds96 and accepting these Betting Rules will be deemed as acceptance of these rules.
+-   We may need to change General Betting Rules from time to time for a number of reasons. All changes will be published on the Website. The most up to date General Betting Rules will be available on the Website. A new version of General Betting Rules will come into effect after publishing on the Website.
+-   Your bet is placed the moment it is recorded on our system in accordance with the conditions described in these rules. On pressing 'Place Bet', a confirmation message indicates the bet has been placed. If this message does not appear, you can confirm the status of your bet by checking the bet history or by contacting our upport.
 -   Odds96 reserves the right to suspend any markets at any time. When a market is suspended, any bets placed on it will be rejected.
 -   We reserve the right to reverse the settlement of a market if a market is settled in error (i.e. human or technical error).
 -   All results/scores and/or match times displayed in the list of LIVE markets are for informational purposes only. Odds96 tries to provide the most reliable information possible, but we bear no responsibility for any inaccuracies displayed on our Site.
@@ -716,7 +716,7 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODU2OTE1MCw4NzY4NjE2MDgsNTc3OD
-IyNjc4LC0yOTAyNDQ0NSwtMTU0ODM5NjMzOSwtMTY5NDEwNTE5
-XX0=
+eyJoaXN0b3J5IjpbLTE3NTg5NTY0MDIsODc2ODYxNjA4LDU3Nz
+gyMjY3OCwtMjkwMjQ0NDUsLTE1NDgzOTYzMzksLTE2OTQxMDUx
+OV19
 -->
