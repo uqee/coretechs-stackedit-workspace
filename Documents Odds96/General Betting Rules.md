@@ -1,6 +1,6 @@
 Last updated: April 7, 2021
 
-[Click on me] (/General Betting Rules/General Rules)
+[Click on me] (#general_rules) 
 
 # General Rules
 
@@ -683,6 +683,6 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3ODIyNjc4LC0yOTAyNDQ0NSwtMTU0OD
-M5NjMzOSwtMTY5NDEwNTE5XX0=
+eyJoaXN0b3J5IjpbMTUxMzU3NjQ4NCw1Nzc4MjI2NzgsLTI5MD
+I0NDQ1LC0xNTQ4Mzk2MzM5LC0xNjk0MTA1MTldfQ==
 -->
