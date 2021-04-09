@@ -1,6 +1,4 @@
-Last updated: April 7, 2021
-
-  
+Last updated: April 7, 2021  
 
 1.  You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on the market fluctuations. You bear full financial responsibility related to changes in exchange rates and further conversion of funds.
     
@@ -18,5 +16,5 @@ Last updated: April 7, 2021
     
 8.  Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzg3NDQ4XX0=
+eyJoaXN0b3J5IjpbLTE4MDk4Mzk5ODBdfQ==
 -->
