@@ -4,7 +4,7 @@ Last updated: April 7, 2021
 
 # General Rules
 
--   Please read the Betting Rules carefully. It is your responsibility to ensure that you are familiar with Betting Rules or the terms of a particular bet and the registering of details with odds96 and accepting the Betting Rules will be deemed as acceptance of these rules.
+-   Please read the Betting Rules carefully. It is your responsibility to ensure that you are familiar with Betting Rules or the terms of a particular bet and the registering of details with Odds96 and accepting the Betting Rules will be deemed as acceptance of these rules.
 -   We may need to change the Betting Rules from time to time for a number of reasons. All changes will be published on the Website. The most up to date Betting Rules will be available on the Website. The new Betting Rules will come into effect after publishing on the Website.
 -   Your bet is placed the moment it is recorded on our system in accordance with the conditions described in these rules. On pressing 'Place Bet', a confirmation message indicates the bet has been placed. If this message does not appear, you can confirm the status of your bet by checking the bet history or by contacting Customer Support.
 -   Odds96 reserves the right to suspend any markets at any time. When a market is suspended, any bets placed on it will be rejected.
@@ -683,6 +683,6 @@ The examples of fast markets intervals:
 
 -   If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzU3NjQ4NCw1Nzc4MjI2NzgsLTI5MD
-I0NDQ1LC0xNTQ4Mzk2MzM5LC0xNjk0MTA1MTldfQ==
+eyJoaXN0b3J5IjpbLTEzMDE0MjcxMzIsNTc3ODIyNjc4LC0yOT
+AyNDQ0NSwtMTU0ODM5NjMzOSwtMTY5NDEwNTE5XX0=
 -->
