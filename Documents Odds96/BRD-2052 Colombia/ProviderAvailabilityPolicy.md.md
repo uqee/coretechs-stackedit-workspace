@@ -1,4 +1,4 @@
-<Version>Last updated: April 7, 2021</Version>
+<Version>Last updated: April 30, 2021</Version>
 
 ### General
 
@@ -122,5 +122,5 @@ The following shall only apply to the Game “Reel King Mega”. Red Tiger custo
 
 The following shall only apply to the Game “Trillionaire by Fashion TV”. Red Tiger customers must not allow participation in the Game “Trillionaire by Fashion TV” to players from the following jurisdictions under any circumstances: Cuba, Jordan, Turkey, Saudi Arabia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjg2MzYwNl19
+eyJoaXN0b3J5IjpbLTIwMjI5MzE3NzAsMTAyMjg2MzYwNl19
 -->
