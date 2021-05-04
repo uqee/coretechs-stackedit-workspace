@@ -221,7 +221,7 @@ We reserve the right to change the wagering requirements for all Clients or pers
 
 8.4. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
 
-Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
+Withdrawal fee varies depending on the currency you use and, at the time of publication of these Terms and Conditions, it is approximately $10 in cryptocurrency equivalent. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
 
 8.5. Be sure to deposit only the cryptocurrency you chose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
 
@@ -285,5 +285,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTY2NTYxNV19
+eyJoaXN0b3J5IjpbLTcwMDQ3MTY1NF19
 -->
