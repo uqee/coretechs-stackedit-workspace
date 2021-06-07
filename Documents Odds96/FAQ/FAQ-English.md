@@ -193,31 +193,21 @@ The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0
 
 If you are going to deposit Bitcoin, please note that you can send them only via the Bitcoin protocol network. You cannot send Bitcoin via other protocol networks such as BEP2, BEP20, TRC-20 or ERC-20.
 
+## Can I send ERC-20 tokens to my Ethereum deposit address on Odds96?
 
+The Ethereum deposit address on your account has been created for receiving Ethereum coins only. Sending any other ERC-20 currency tokens to this address will result in the loss of your deposit.
 
-Can I send ERC-20 tokens to my Ethereum deposit address on Odds96? / ¿Puedo enviar tockens ERC-20 a la dirección de mi cuenta registrada con la moneda Ethereum?
+## Is there a transaction fee for withdrawals?
 
-A ENG: The Ethereum deposit address on your account has been created for receiving Ethereum coins only. Sending any other ERC-20 currency tokens to this address will result in the loss of your deposit.
+Transaction fees vary depending on the cryptocurrency you chose: BTC - 0, ETH - 0.003, USDT - 4.
 
-A ESP: Si al haber registrado tu cuenta en Odds96 has seleccionado Ethereum, solo podrás depositar Ethereum coin. Si envías otros tockens ERC-20 a la dirección de tu cuenta, tu depósito se perderá.
+## Is there a transaction fee for deposits?
 
-Is there a transaction fee for withdrawals? / ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
+We do not charge any additional fees for making deposits, however,  blockchain networks might do so.
 
-A ENG: Transaction fees vary depending on the cryptocurrency you chose: BTC - 0, ETH - 0.003, USDT - 4.
+## Can I cancel my withdrawal?
 
-A ESP: Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis, ETH - 0.003, USDT - 4.
-
-Is there a transaction fee for deposits? / ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
-
-A ENG: We do not charge any additional fees for making deposits, however,  blockchain networks might do so.
-
-A ESP: Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
-
-Can I cancel my withdrawal? / ¿Puedo cancelar mi retirada?
-
-A ENG: We do not offer this option at the moment.
-
-A ESP: Esta opción aún no está disponible.
+We do not offer this option at the moment.
 
 I’ve already submitted my documents for the purposes of account verification but the withdrawal I requested has not yet been completed. What should I do? / He enviado los documentos necesarios para verificar mi cuenta pero mi retirada no se ha efectuado todavía. ¿Qué debería hacer?
 
@@ -466,6 +456,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYyNDA5NjIsMTI2MjExNzEwNCwtMT
-MxNzkxNDU1Ml19
+eyJoaXN0b3J5IjpbMzQ3MzM3MzAzLDEyNjIxMTcxMDQsLTEzMT
+c5MTQ1NTJdfQ==
 -->
