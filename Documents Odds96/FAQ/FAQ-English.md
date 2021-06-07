@@ -107,34 +107,24 @@ Match statistics can be found inside the match card in a special section which c
 
 Your privacy is our top priority. According to data protection laws, we treat any information that you send to us as strictly confidential. We receive your documents through an end-to-end communication system and your information is processed only within our company.
 
-## Can I use my friend's account? / ¿Puedo usar la cuenta de mi amigo?
+## Can I use my friend's account?
 
-A ENG: No, you cannot. You can use only your own registered account. Moreover, our company policy states that there is a maximum of one account per user allowed. If you are found to be in possession of more than one account, all of your accounts will be suspended and access to your funds will be blocked.
+No, you cannot. You can use only your own registered account. Moreover, our company policy states that there is a maximum of one account per user allowed. If you are found to be in possession of more than one account, all of your accounts will be suspended and access to your funds will be blocked.
 
-A ESP: No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
+## My account was hacked. What should I do?
 
-My account was hacked. What should I do? / Mi cuenta fue hackeada o robada. ¿Qué debo hacer?
-
-A ENG: Please contact our support team at: support@odds96.com.
-
-A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
-
-  
-  
-  
+Please contact our support team at: support@odds96.com[](mailto:support@odds96.com).
   
 
 # Registration
 
-How do I know if I’m eligible to register with Odds96? / ¿Tengo derecho a registrarme en Odds96?
+## How do I know if I’m eligible to register with Odds96?
 
-A ENG: In order to check if you are eligible to register, please read our Terms and Conditions.
+In order to check if you are eligible to register, please read our Terms and Conditions.
 
-A ESP: Para verificar si tienes derecho a registrarte en Odds96, visita la página con nuestros Términos y Condiciones.
+## How do I register? Are there any special requirements?
 
-How do I register? Are there any special requirements? / ¿Cómo puedo registrarme? ¿Hay algunos requisitos especiales?
-
-A ENG: To register on our website, you just need to verify your email address.
+To register on our website, you just need to verify your email address.
 
 A ESP: Para registrarte en nuestra página web, solo tienes que verificar tu email.
 
@@ -533,6 +523,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEyMDM0NzAsLTEzMTc5MTQ1NTJdfQ
-==
+eyJoaXN0b3J5IjpbMjE0OTMwNTM4LC0xMzE3OTE0NTUyXX0=
 -->
