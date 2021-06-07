@@ -11,25 +11,15 @@ La verificación sirve para confirmar la identidad del propietario de la cuenta 
 Sigue estos pasos para verificar tu cuenta:
 
 -   Ve a la página de Verificación,
-    
 -   Selecciona un documento (por ejemplo, el DNI, pasaporte o licencia de conducir) que deseas proporcionar como comprobante de identidad,
-    
 -   Asegúrate de que tu archivo cumple nuestros requisitos (JPG, PNG, PDF o GIF con el tamaño máximo de 5 Mb),
-    
 -   Adjunta y carga tu archivo.
     
+## ¿Cuánto tiempo se demora en verificar mi cuenta?
 
-How long does it take to verify my account? / ¿Cuánto tiempo se demora en verificar mi cuenta?
+No hay plazos establecidos que tenemos que respetar cuando verificamos tu cuenta. Normalmente, el plazo depende de cada caso en particular.
 
-ENG: There are no established or standard deadlines that we need to observe when verifying your account. Usually, the duration is case-specific.
-
-ESP: No hay plazos establecidos que tenemos que respetar cuando verificamos tu cuenta. Normalmente, el plazo depende de cada caso en particular.
-
-  
-  
-  
-
-I lost access to the email that I used to register. Is it possible to change my email address from my account? / He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
+## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
 
 ENG: If you have lost access to your registered email address, we would greatly appreciate it if you could try to restore it yourself. If you fail to do so, please send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to iterate the new email address which you would like to attach to your account. We will then provide you with further instructions.
 
@@ -620,5 +610,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk1MDA4MzIsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTEyNzM0NTc4NjQsMTI4NDA2NjExOF19
 -->
