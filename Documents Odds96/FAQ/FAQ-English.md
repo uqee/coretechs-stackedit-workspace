@@ -79,24 +79,19 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 
 Your ‘Account ID’ is the email address that you used to register your account with.
 
-## Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account? / ¿Es posible quitar las limitaciones de Auto-Exclusión? ¿Cómo puedo reactivar mi cuenta?
+## Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account?
 
-A ENG: Please contact our support team at: support@odds96.com[](mailto:support@odds96.com)
+Please contact our support team at: support@odds96.com[](mailto:support@odds96.com).
 
-A ESP: Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
+## Is it possible to set a deposit limit? I think I may have gambling addiction.
 
-Is it possible to set a deposit limit? I think I may have gambling addiction. / ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
+At the moment, Odds96 is not offering this option. If you feel that you may have a problem, it is important that you seek help. Never spend more than you can afford.
 
-A ENG: At the moment, Odds96 is not offering this option. If you feel that you may have a problem, it is important that you seek help. Never spend more than you can afford.
+## Is it possible to display BTC in US dollars?
 
-A ESP: Esta opción no está disponible todavía. Si crees que puedes tener un problema, es importante que busques ayuda. Nunca gastes más de lo que puedas pagar.
-
-Is it possible to display BTC in US dollars? / ¿Es posible cambiar la visualización de BTC en USD?
-
-A ENG: To change your currency display preference, follow these steps:
-
+To change your currency display preference, follow these steps:
 -   In the upper right-hand corner, click on your ‘Account Balance’.
-    
+  
 -   In the window that appears below, you can choose the currency display option that you prefer.
     
 
@@ -555,5 +550,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc5MTQ1NTJdfQ==
+eyJoaXN0b3J5IjpbOTc3ODUzNzYyLC0xMzE3OTE0NTUyXX0=
 -->
