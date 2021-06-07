@@ -2,26 +2,13 @@
 
 # Cuenta
 
-## Why do I have to verify my Account? / ¿Por qué tengo que verificar mi cuenta?
+## ¿Por qué tengo que verificar mi cuenta?
 
-ENG: Verification is required to confirm the identity of an account owner in line with standard account verification procedures. It’s also necessary when suspicious activity is detected. We will ask you to provide several photos or screenshots of certain documents at the relevant stages of the verification process. Alternatively, you can upload these documents via the ‘Verification’ page.
+La verificación sirve para confirmar la identidad del propietario de la cuenta de acuerdo con los procedimientos estándar de verificación de cuentas. La verificación también es necesaria si se detecta alguna actividad sospechosa. Te pediremos que proporciones unas fotos o capturas de pantalla de ciertos documentos cuando sea necesario. Además, puedes subir tus documentos en la página de Verificación.
 
-ESP: La verificación sirve para confirmar la identidad del propietario de la cuenta de acuerdo con los procedimientos estándar de verificación de cuentas. La verificación también es necesaria si se detecta alguna actividad sospechosa. Te pediremos que proporciones unas fotos o capturas de pantalla de ciertos documentos cuando sea necesario. Además, puedes subir tus documentos en la página de Verificación.
+## ¿Cómo verifico mi cuenta?
 
-How do I verify my account? / ¿Cómo verifico mi cuenta?
-
-ENG: Follow these steps to verify your account:
-
--   Go to the ‘Verification’ page
-    
--   Choose the document (e.g. an ID card, passport or driving license) that you’d like to provide as your proof of identity
-    
--   Make sure that your file meets our formatting requirements (JPG, PNG, PDF or GIF with a maximum size of 5 Mb)
-    
--   Upload your document
-    
-
-ESP:  Sigue estos pasos para verificar tu cuenta:
+Sigue estos pasos para verificar tu cuenta:
 
 -   Ve a la página de Verificación,
     
@@ -633,5 +620,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY0OTk4ODgsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTIxMDk1MDA4MzIsMTI4NDA2NjExOF19
 -->
