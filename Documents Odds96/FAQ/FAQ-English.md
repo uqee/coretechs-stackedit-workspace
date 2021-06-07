@@ -209,21 +209,17 @@ We do not charge any additional fees for making deposits, however,  blockchain n
 
 We do not offer this option at the moment.
 
-I’ve already submitted my documents for the purposes of account verification but the withdrawal I requested has not yet been completed. What should I do? / He enviado los documentos necesarios para verificar mi cuenta pero mi retirada no se ha efectuado todavía. ¿Qué debería hacer?
+## I’ve already submitted my documents for the purposes of account verification but the withdrawal I requested has not yet been completed. What should I do?
 
-A ENG: Please wait until the verification process has finished.
-
-A ESP: Por favor, espera hasta que finalice el proceso de verificación.
+Please wait until the verification process has finished.
 
 # Betting
 
-What is the minimum bet? / ¿Cuál es el importe mínimo que puedo apostar?
+## What is the minimum bet?
 
-A ENG: The minimum bet varies depending on the cryptocurrency you choose: BTC - 0.00002, ETH - 0.0005, USDT - 1.
+The minimum bet varies depending on the cryptocurrency you choose: BTC - 0.00002, ETH - 0.0005, USDT - 1.
 
-A ESP: El importe mínimo depende de la criptomoneda que seleccionaste: BTC - 0.00002, ETH - 0.0005, USDT - 1.
-
-What is the maximum bet? / ¿Cuál es el importe máximo que puedo apostar?
+## What is the maximum bet? / ¿Cuál es el importe máximo que puedo apostar?
 
 A ENG: Maximum bet amounts can vary based on a lot of factors, such as the type of sport, league, tournament or even the market.
 
@@ -456,6 +452,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MzM3MzAzLDEyNjIxMTcxMDQsLTEzMT
-c5MTQ1NTJdfQ==
+eyJoaXN0b3J5IjpbMTUwMjM4NjMwOCwxMjYyMTE3MTA0LC0xMz
+E3OTE0NTUyXX0=
 -->
