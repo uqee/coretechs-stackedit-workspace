@@ -233,17 +233,13 @@ Generally, there are three main reasons as to why your bet may have been rejecte
 
 ## I made a mistake while placing my bet. Can I cancel it?
 
-A ENG: Always check that your betting slip is correct before confirming. As stated in our Terms and Conditions, we can never change, modify or cancel any bet that has been confirmed by a client.
+Always check that your betting slip is correct before confirming. As stated in our Terms and Conditions, we can never change, modify or cancel any bet that has been confirmed by a client.
 
-A ESP: Antes de confirmar tu apuesta, siempre verifica que el talón de apuesta sea correcto. Según nuestros Términos y Condiciones, está prohibido cambiar, modificar o cancelar ninguna apuesta confirmada por un cliente.
+## The match has ended but my bet has not yet been settled yet. Why?
 
-The match has ended but my bet has not yet been settled yet. Why? / El partido ha terminado pero mi apuesta no se ha liquidado, ¿por qué?
+A delay can occur when our system is waiting for the verification of the match result. The delays are shorter for popular events and might be a bit longer for low-profile events.
 
-A ENG: A delay can occur when our system is waiting for the verification of the match result. The delays are shorter for popular events and might be a bit longer for low-profile events.
-
-A ESP: Los retrasos suelen ocurrir cuando nuestro sistema está esperando la verificación del resultado del partido. Los retrasos son más cortos para los eventos más populares y pueden ser un poco más largos para los eventos del nivel más bajo.
-
-How is the market of cards settled when a red card has been shown to a player? / ¿Cómo se resuelve el mercado de tarjetas si a un jugador le han sacado una tarjeta roja?
+## How is the market of cards settled when a red card has been shown to a player?
 
 A ENG: A yellow card counts as one card. A red card counts as two cards. If a player receives the second yellow card that leads to a red card, this yellow card does not count. Therefore, in this case, one player cannot receive more than three cards (1 - for the first yellow card, 2 - for the red card).
 
@@ -438,6 +434,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzk1MDQwOCwxMjYyMTE3MTA0LC0xMz
-E3OTE0NTUyXX0=
+eyJoaXN0b3J5IjpbLTE0MDI0MjYyNTgsLTI3Nzk1MDQwOCwxMj
+YyMTE3MTA0LC0xMzE3OTE0NTUyXX0=
 -->
