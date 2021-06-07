@@ -161,19 +161,15 @@ Para retirar fondos, sigue estos pasos:
 2.  En el apartado "Saldo" que aparecerá, encontrarás un botón "Retirar". Haz click para iniciar.
 3.  Introduce el importe que deseas retirar junto con la dirección de tu billetera, luego haz click en "Retirar".
 
-## I made a deposit 30 minutes ago but it hasn’t yet been credited to my account. What happened? / He depositado hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
+## He depositado hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
 
-A ENG: Your transaction is being processed. Odds96 requests a certain number of blockchain confirmations depending on the cryptocurrency you chose. For example, Bitcoin only requires one confirmation. To track the status of your deposit, you can click on the wallet-like icon and scroll down to "Transactions". Clicking on the Hash link will take you to the network page related to this transaction. Currently, we are using Blockcypher. You can check the number of blockchain confirmations in the bottom right-hand corner.
+Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
 
-A ESP: Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
+## ¿Puedo hacer un depósito en otra moneda que no sea criptomoneda?
 
-Can I top up my account in a currency other than crypto? / ¿Puedo hacer un depósito en otra moneda que no sea criptomoneda?
+Sí, puedes hacer depósitos en USD.
 
-A ENG: We do not offer this option for the moment.
-
-A ESP: Esta opción no está disponible todavía.
-
-Where can I find the information about my withdrawal and its status? / ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
+## ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
 
 A ENG: This information can be found in your account. Click on the wallet-like icon and scroll down to "Transactions".
 
@@ -468,5 +464,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDM0NzQxMCwxMjg0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbNjA3MjUzOTMzLDEyODQwNjYxMThdfQ==
 -->
