@@ -161,7 +161,7 @@ Para retirar fondos, sigue estos pasos:
 2.  En el apartado "Saldo" que aparecerá, encontrarás un botón "Retirar". Haz click para iniciar.
 3.  Introduce el importe que deseas retirar junto con la dirección de tu billetera, luego haz click en "Retirar".
 
-## He depositado hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
+## Deposité hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
 
 Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
 
@@ -343,6 +343,6 @@ Para obtener más información, por favor, contáctanos enviando un email a [sup
 
 Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIzMjk3MiwtMTAzMTc2Njc0MSwxMj
+eyJoaXN0b3J5IjpbLTY5MTMzNDc4OCwtMTAzMTc2Njc0MSwxMj
 g0MDY2MTE4XX0=
 -->
