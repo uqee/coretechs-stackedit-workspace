@@ -42,26 +42,19 @@ To suspend your account, send an email to: [support@odds96.com](mailto:support@o
 
 ## I forgot my password, and as a result, lost access to my email. What should I do?
 
-A ENG: Please contact our support team at: support@odds96.com.
+Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 
-A ESP:  Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
+## Why has my account been blocked?
 
-Why has my account been blocked? / ¿Por qué se ha bloqueado mi cuenta?
+Please check your inbox and spam folder and search for any emails from Odds96. There will be an email explaining why your account has been blocked and what steps you should take in order to reactivate your account. Otherwise, you can contact  our support team at: [support@odds96.com](mailto:support@odds96.com).
 
-A ENG: Please check your inbox and spam folder and search for any emails from Odds96. There will be an email explaining why your account has been blocked and what steps you should take in order to reactivate your account. Otherwise, you can contact  our support team at: support@odds96.com.
+## I forgot my password.
 
-A ESP:  Por favor, comprueba si hay algún email de Odds96 en la bandeja de entrada de tu correo electrónico. Seguramente te hemos enviado un email que explica porqué tu cuenta está bloqueada y que pasos debes seguir para reactivarla. En caso contrario, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
+Reset your password by clicking the 'Forgot your password?' button on the 'Log In' window. Enter the email address that you used to register and you’ll receive a password recovery code. Following the instructions, enter the code that was sent and you’ll be prompted to set a new password.
 
-I forgot my password / He olvidado mi contraseña
+## I haven’t received any password recovery code. What should I do?
 
-A ENG: Reset your password by clicking the 'Forgot your password?' button on the 'Log In' window. Enter the email address that you used to register and you’ll receive a password recovery code. Following the instructions, enter the code that was sent and you’ll be prompted to set a new password.
-
-A ESP:  Puedes restablecer tu contraseña haciendo click en '¿Olvidaste tu contraseña?' en la ventanilla de inicio de sesión. Introduce tu correo electrónico registrado para recibir un código de recuperación de contraseña. Siguiendo las instrucciones, introduce este código y establece una nueva contraseña.
-
-I haven’t received any password recovery code. What should I do? / No he recibido el  código de recuperación de contraseña. ¿Qué debería hacer?
-
-A ENG: There are two possible reasons as to why you have not received the password recovery code:
-
+There are two possible reasons as to why you have not received the password recovery code:
 -   There is no account linked to the username or email that you provided. With this in mind, please double check that the username or email you are entering is correct.
     
 -   Check your spam folder. The email containing the password recovery code might have been filtered incorrectly.
@@ -592,5 +585,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTg3NTMxNF19
+eyJoaXN0b3J5IjpbLTEwMTc0OTQ1MjFdfQ==
 -->
