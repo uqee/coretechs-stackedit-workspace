@@ -66,41 +66,22 @@ Hay dos posibles razones por las que no has recibido el código de recuperación
 
 Esta opción no está disponible todavía.
 
-How can I change my password? / ¿Cómo puedo cambiar mi contraseña?
+## ¿Cómo puedo cambiar mi contraseña?
 
-A ENG: To change your password, please follow these steps:
-
-1.  Log in into your Account,
-    
-2.  Go to the Security page,
-    
-3.  Click on "Change Password",
-    
-4.  In the window that appears, enter your current password, before selecting a new one and clicking "Change".
-    
-
-A ESP:  Para cambiar tu contraseña, sigue estos pasos:
+Para cambiar tu contraseña, sigue estos pasos:
 
 1.  Inicia sesión y entra en tu cuenta,
-    
 2.  Ve a la página "Seguridad",
-    
 3.  Haz click en "Cambiar Contraseña",
-    
-4.  En la ventanilla emergente introduce tu contraseña actual y una contraseña nueva, luego haz click en "Cambiar"
-    
+4.  En la ventanilla emergente introduce tu contraseña actual y una contraseña nueva, luego haz click en "Cambiar".
 
-How do I unsubscribe from your newsletter? / ¿Cómo puedo cancelar la suscripción a vuestro newsletter?
+## ¿Cómo puedo cancelar la suscripción a vuestro newsletter?
 
-A ENG: The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
+En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
-A ESP:  En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro Newsletter.
+## ¿Cuál es el ID de mi cuenta?
 
-What is my ‘Account ID’? / ¿Cuál es el ID de mi cuenta?
-
-A ENG: Your ‘Account ID’ is the email address that you used to register your account with.
-
-A ESP: El ID de tu cuenta es tu email registrado en nuestra página web.
+El ID de tu cuenta es el email que usaste para registr en nuestra página web.
 
 Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account? / ¿Es posible quitar las limitaciones de Auto-Exclusión? ¿Cómo puedo reactivar mi cuenta?
 
@@ -578,5 +559,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTEyMjg4NCwxMjg0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbLTc3MjUxMzgxNSwxMjg0MDY2MTE4XX0=
 -->
