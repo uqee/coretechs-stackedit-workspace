@@ -56,18 +56,9 @@ Reset your password by clicking the 'Forgot your password?' button on the 'Log I
 
 There are two possible reasons as to why you have not received the password recovery code:
 -   There is no account linked to the username or email that you provided. With this in mind, please double check that the username or email you are entering is correct.
-    
 -   Check your spam folder. The email containing the password recovery code might have been filtered incorrectly.
-    
 
-A ESP:  Hay dos posibles razones por las que no has recibido el código de recuperación de contraseña:
-
--   No se ha encontrado ninguna cuenta con el nombre de usuario o el email que has proporcionado. Por favor, vuelve a comprobar el nombre de usuario o el email que introduces.
-    
--   Revisa la carpeta de spam. Probablemente el correo que contiene el código de recuperación de contraseña esté allá.
-    
-
-Do you send any SMS notifications regarding my bets, results, withdrawals etc.? / ¿Envían notificaciones por SMS sobre mis apuestas, resultados, retiradas, etc?
+## Do you send any SMS notifications regarding my bets, results, withdrawals etc.? / ¿Envían notificaciones por SMS sobre mis apuestas, resultados, retiradas, etc?
 
 A ENG: For the moment, we do not. But, we may consider this in the future.
 
@@ -585,5 +576,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc0OTQ1MjFdfQ==
+eyJoaXN0b3J5IjpbNzU3NDEyNzBdfQ==
 -->
