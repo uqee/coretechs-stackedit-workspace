@@ -153,33 +153,13 @@ No, está prohibido. Solo el titular de la cuenta puede abrirla y acceder a ella
 
 La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
 
-How do I make a deposit? / ¿Cómo hago un depósito?
+## ¿Cómo hago un depósito?
 
-A ENG: There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
-
-1.  Register with one of the most popular e-wallet services like Binance or Copay (on their websites or Android/iOS apps).
-    
-2.  Buy crypto via a bank card or any other payment methods.
-    
-3.  Go to [Odds96.com](http://odds96.com).
-    
-4.  In the top right-hand corner, click on the wallet-like icon.
-    
-5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
-    
-6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
-    
-7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
-    
-
-A ESP: Podrás elegir entre dos métodos: hacer un depósito mediante el código QR único o utilizando la dirección de tu billetera. Consideremos una transacción de Bitcoin para dar un ejemplo:
+Podrás elegir entre dos métodos: hacer un depósito mediante el código QR único o utilizando la dirección de tu billetera. Consideremos una transacción de Bitcoin para dar un ejemplo:
 
 1.  Regístrate en uno de los servicios de monederos electrónicos más populares como Binance o Copay (en sus páginas web o en aplicaciones para Android/iOS).
-    
 2.  Compra criptomonedas con tu tarjeta bancaria o utilizando otros métodos de pago.
-    
-3.  Ve a Odds96.com.
-    
+3.  Ve a Odds96.com[enter link description here](odds96.com).
 4.  En la esquina superior derecha, haz click en el icono de billetera.
     
 5.  En el apartado "Saldo" que aparecerá, encontrarás la dirección de tu cuenta. Cópiala y pégala en la libreta de direcciones de tu billetera electrónica para efectuar la transacción. Alternativamente, puedes escanear el código QR usando la aplicación móvil de tu billetera.
@@ -516,5 +496,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMzM5MjM4LDEyODQwNjYxMThdfQ==
+eyJoaXN0b3J5IjpbMTU1OTI1MjIxMiwxMjg0MDY2MTE4XX0=
 -->
