@@ -87,7 +87,7 @@ El ID de tu cuenta es el email que usaste para registrarte en nuestra página we
 
 Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
 
-Is it possible to set a deposit limit? I think I may have gambling addiction. / ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
+##Is it possible to set a deposit limit? I think I may have gambling addiction. / ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
 
 A ENG: At the moment, Odds96 is not offering this option. If you feel that you may have a problem, it is important that you seek help. Never spend more than you can afford.
 
@@ -557,5 +557,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMjczNTc2LDEyODQwNjYxMThdfQ==
+eyJoaXN0b3J5IjpbMTY3MjM2NTMyMCwxMjg0MDY2MTE4XX0=
 -->
