@@ -193,17 +193,13 @@ Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis
 
 Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
-## ¿Puedo cancelar mi retirada?
-
-Esta opción aún no está disponible.
-
 ## He enviado los documentos necesarios para verificar mi cuenta pero mi retirada no se ha efectuado todavía. ¿Qué debería hacer?
 
 Por favor, espera hasta que finalice el proceso de verificación.
 
 # Apuestas Deportivas
 
-What is the minimum bet? / ¿Cuál es el importe mínimo que puedo apostar?
+## ¿Cuál es el importe mínimo que puedo apostar?
 
 A ENG: The minimum bet varies depending on the cryptocurrency you choose: BTC - 0.00002, ETH - 0.0005, USDT - 1.
 
@@ -442,5 +438,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MTE2MzkzLDEyODQwNjYxMThdfQ==
+eyJoaXN0b3J5IjpbLTExODg0MjkwNDgsMTI4NDA2NjExOF19
 -->
