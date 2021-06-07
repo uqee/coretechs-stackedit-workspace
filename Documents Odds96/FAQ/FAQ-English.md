@@ -321,15 +321,11 @@ All matches are offered at our own discretion.
 
 ## Can I add certain teams to "Favorites"?
 
-A ENG: Odds96 does not offer this option at the moment.
+Odds96 does not offer this option at the moment.
 
-A ESP: Esta opción aún no está disponible.
+## How does "Favorites" work?
 
-How does "Favorites" work? / ¿Cómo funciona "Favoritos"?
-
-A ENG: To add a match to "Favorites", click on the star located to the left of the team’s name. All selected matches can be found in "Favorites".
-
-A ESP: Para agregar un partido a "Favoritos", haz click en la estrella situada a la izquierda del nombre del equipo. Todos los equipos seleccionados se encuentran en "Favoritos".
+To add a match to "Favorites", click on the star located to the left of the team’s name. All selected matches can be found in "Favorites".
 
 Is ‘cash-out’ available? / ¿Está disponible la opción de cash-out?
 
@@ -383,6 +379,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDgzOTQwOCwxNDc3NzM4NDc5LC0yNz
-c5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkxNDU1Ml19
+eyJoaXN0b3J5IjpbLTE2NjQ5OTQxODksMTQ3NzczODQ3OSwtMj
+c3OTUwNDA4LDEyNjIxMTcxMDQsLTEzMTc5MTQ1NTJdfQ==
 -->
