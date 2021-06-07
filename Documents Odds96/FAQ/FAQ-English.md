@@ -267,7 +267,7 @@ We do not provide any advice about betting. It must be your own choice and at yo
 
 ## What is an Asian Handicap - Quarter Lines (Х.25/Х.75)?
 
-The quarter lines refer to values ending in .25 or .75 and are a little more complex than the other handicaps. They are also called double handicaps, as they are calculated using two virtual bets and handicaps. For example, the handicap -0.25 can also be written as (0, -0.5).
+The quarter lines refer to values ending in .25 or .75 and are a little more complex than the other handicaps/totals. They are also called double handicaps/totals, as they are calculated using two virtual bets and handicaps/totals. For example, the handicap/total -0.25 can also be written as (0, -0.5).
 
 ## Are system bets available on your website?
 
@@ -341,7 +341,7 @@ Please contact us at [support@odds96.com](mailto:support@odds96.com) for further
 
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMDY2ODk0LDE3OTgzODkyNiwxOTY4Mj
-YzNjEwLDE0Nzc3Mzg0NzksLTI3Nzk1MDQwOCwxMjYyMTE3MTA0
-LC0xMzE3OTE0NTUyXX0=
+eyJoaXN0b3J5IjpbLTEyODc5OTUxMzcsMTc5ODM4OTI2LDE5Nj
+gyNjM2MTAsMTQ3NzczODQ3OSwtMjc3OTUwNDA4LDEyNjIxMTcx
+MDQsLTEzMTc5MTQ1NTJdfQ==
 -->
