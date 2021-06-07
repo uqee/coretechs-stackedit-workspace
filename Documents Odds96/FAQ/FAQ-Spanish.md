@@ -171,17 +171,13 @@ Sí, puedes hacer depósitos en USD.
 
 ## ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
 
-A ENG: This information can be found in your account. Click on the wallet-like icon and scroll down to "Transactions".
+Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
 
-A ESP: Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
+## He intentado retirar fondos pero el dinero fue devuelto a mi cuenta. ¿Qué debería hacer?
 
-I’ve tried to withdraw funds but the money was returned to my account balance. What should I do? / He intentado retirar fondos pero el dinero fue devuelto a mi cuenta. ¿Qué debería hacer?
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
-A ENG: Please contact our support team at: support@odds96.com.
-
-A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
-
-What are the withdrawal limits? / ¿Hay algún límite establecido para las retiradas?
+## What are the withdrawal limits? / ¿Hay algún límite establecido para las retiradas?
 
 A ENG: The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
 
@@ -464,5 +460,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MjUzOTMzLDEyODQwNjYxMThdfQ==
+eyJoaXN0b3J5IjpbLTIwODY4NDQwMzYsMTI4NDA2NjExOF19
 -->
