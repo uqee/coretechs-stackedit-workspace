@@ -201,33 +201,19 @@ Por favor, espera hasta que finalice el proceso de verificación.
 
 ## ¿Cuál es el importe mínimo que puedo apostar?
 
-A ENG: The minimum bet varies depending on the cryptocurrency you choose: BTC - 0.00002, ETH - 0.0005, USDT - 1.
+El importe mínimo depende de la criptomoneda que seleccionaste: BTC - 0.00002, ETH - 0.0005, USDT - 1.
 
-A ESP: El importe mínimo depende de la criptomoneda que seleccionaste: BTC - 0.00002, ETH - 0.0005, USDT - 1.
+## ¿Cuál es el importe máximo que puedo apostar?
 
-What is the maximum bet? / ¿Cuál es el importe máximo que puedo apostar?
+El importe máximo depende de varios factores como el tipo de deporte, liga, campeonato o mercado.
 
-A ENG: Maximum bet amounts can vary based on a lot of factors, such as the type of sport, league, tournament or even the market.
+## ¿Por qué ha sido rechazada mi apuesta?
 
-A ESP: El importe máximo depende de varios factores como el tipo de deporte, liga, campeonato o mercado.
-
-Why was my bet rejected? / ¿Por qué ha sido rechazada mi apuesta?
-
-A ENG: Generally, there are three main reasons as to why your bet may have been rejected:
-
--   The stake you have placed is too high.
-    
--   The odds have changed in the period between placing the bet and confirmation.
-    
--   There is an issue with the automated server.
-    
-
-A ESP: En general, hay tres razones principales por las cuales tu apuesta puede haber sido rechazada:
+En general, hay tres razones principales por las cuales tu apuesta puede haber sido rechazada:
 
 -   El importe de tu apuesta es demasiado alto.
-    
 -   Han cambiado las cuotas desde el momento en que has colocado tu apuesta y cuando la hemos confirmado.
-    
+
 -   Ha surgido un problema con el servidor automatizado.
     
 
@@ -438,5 +424,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg0MjkwNDgsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbMzIxNzcyMDAsMTI4NDA2NjExOF19
 -->
