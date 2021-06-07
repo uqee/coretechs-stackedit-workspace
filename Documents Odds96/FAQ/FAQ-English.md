@@ -81,7 +81,7 @@ Your ‘Account ID’ is the email address that you used to register your accoun
 
 ## Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account?
 
-Please contact our support team at: support@odds96.com[](mailto:support@odds96.com).
+Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 
 ## Is it possible to set a deposit limit? I think I may have gambling addiction.
 
@@ -136,7 +136,7 @@ When registering, you simply need to verify your email address. Your driving lic
 
 ## Can I reopen my account?
 
-Please contact our support team at: support@odds96.com[](mailto:support@odds96.com). Make sure to explain why you would like to reopen your account.
+Please contact our support team at: [support@odds96.com](mailto:support@odds96.com). Make sure to explain why you would like to reopen your account.
 
 ## Can I open an account for someone else?
 
@@ -183,21 +183,17 @@ This information can be found in your account. Click on the wallet-like icon and
 
 ## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 
-Please contact our support team at: support@odds96.com.
+Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 
-A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
+## What are the withdrawal limits?
 
-What are the withdrawal limits? / ¿Hay algún límite establecido para las retiradas?
+The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
 
-A ENG: The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
+## Can I deposit Bitcoin over BEP2 or Tron network?
 
-A ESP: El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC - 0.00036, ETH - 0.0096, USDT - 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
+If you are going to deposit Bitcoin, please note that you can send them only via the Bitcoin protocol network. You cannot send Bitcoin via other protocol networks such as BEP2, BEP20, TRC-20 or ERC-20.
 
-Can I deposit Bitcoin over BEP2 or Tron network? / ¿Puedo depositar Bitcoin usando la red de protocolo BEP2 o Tron?
 
-A ENG: If you are going to deposit Bitcoin, please note that you can send them only via the Bitcoin protocol network. You cannot send Bitcoin via other protocol networks such as BEP2, BEP20, TRC-20 or ERC-20.
-
-A ESP: Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de la red de protocolo Bitcoin. No puedes enviar Bitcoin usando otras redes de protocolo como BEP2, BEP20, TRC-20, ERC-20.
 
 Can I send ERC-20 tokens to my Ethereum deposit address on Odds96? / ¿Puedo enviar tockens ERC-20 a la dirección de mi cuenta registrada con la moneda Ethereum?
 
@@ -470,5 +466,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjExNzEwNCwtMTMxNzkxNDU1Ml19
+eyJoaXN0b3J5IjpbLTE4MjYyNDA5NjIsMTI2MjExNzEwNCwtMT
+MxNzkxNDU1Ml19
 -->
