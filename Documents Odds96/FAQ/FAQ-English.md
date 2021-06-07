@@ -90,41 +90,24 @@ At the moment, Odds96 is not offering this option. If you feel that you may have
 ## Is it possible to display BTC in US dollars?
 
 To change your currency display preference, follow these steps:
--   In the upper right-hand corner, click on your ‘Account Balance’.
-  
+-   In the upper right-hand corner, click on your ‘Account Balance’. 
 -   In the window that appears below, you can choose the currency display option that you prefer.
     
-
 Important! The exchange rate is approximate. All your bets and transactions will be settled in the currency that you initially chose when registering.
 
-A ESP: Para cambiar tu visualización de moneda, sigue estos pasos:
+## Is it possible to log out remotely?
 
--   En la esquina superior derecha haz click en el Saldo de tu cuenta,
-    
--   En la ventanilla emergente selecciona la opción de visualización que te convenga.
-    
+This isn’t an option at the current moment.
 
-¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
+## Where can I find match statistics?
 
-Is it possible to log out remotely? / ¿Puedo cerrar sesión de forma remota?
+Match statistics can be found inside the match card in a special section which contains an automatic match tracker.
 
-A ENG: This isn’t an option at the current moment.
+## Is it safe to upload my identity documents to your system?
 
-A ESP: Esta opción no está disponible todavía.
+Your privacy is our top priority. According to data protection laws, we treat any information that you send to us as strictly confidential. We receive your documents through an end-to-end communication system and your information is processed only within our company.
 
-Where can I find match statistics? / ¿Dónde puedo encontrar las estadísticas de partidos?
-
-A ENG: Match statistics can be found inside the match card in a special section which contains an automatic match tracker.
-
-A ESP: Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
-
-Is it safe to upload my identity documents to your system? / ¿Es seguro agregar y enviar mis documentos de identificación?
-
-A ENG: Your privacy is our top priority. According to data protection laws, we treat any information that you send to us as strictly confidential. We receive your documents through an end-to-end communication system and your information is processed only within our company.
-
-A ESP: Tu privacidad es nuestra máxima prioridad. De acuerdo con las leyes de protección de datos, tratamos cualquier información que nos envíes como estrictamente confidencial. Recibimos tus documentos a través del sistema de comunicación de extremo a extremo y los procesamos sólo dentro de nuestra empresa.
-
-Can I use my friend's account? / ¿Puedo usar la cuenta de mi amigo?
+## Can I use my friend's account? / ¿Puedo usar la cuenta de mi amigo?
 
 A ENG: No, you cannot. You can use only your own registered account. Moreover, our company policy states that there is a maximum of one account per user allowed. If you are found to be in possession of more than one account, all of your accounts will be suspended and access to your funds will be blocked.
 
@@ -550,5 +533,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3ODUzNzYyLC0xMzE3OTE0NTUyXX0=
+eyJoaXN0b3J5IjpbLTIwNzEyMDM0NzAsLTEzMTc5MTQ1NTJdfQ
+==
 -->
