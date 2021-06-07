@@ -351,19 +351,15 @@ If your casino game often freezes, please check whether you are connected to the
 
 # Other Questions
 
-Where can I find more information about the terms and conditions of your affiliate program? / ¿Dónde puedo encontrar más información sobre los términos y condiciones de vuestro programa de Afiliados?
+## Where can I find more information about the terms and conditions of your affiliate program?
 
-A ENG: Please contact us at support@odds96.com for further details.
+Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 
-A ESP: Para obtener más información, por favor, contáctanos enviando un email a support@odds96.com
+## Do you have an iOS/Android app?
 
-Do you have an iOS/Android app? / ¿Cuentan con una aplicación para iOS/Android?
-
-A ENG: Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
-
-A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
+Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzQwNTE0NSwxOTY4MjYzNjEwLDE0Nz
-c3Mzg0NzksLTI3Nzk1MDQwOCwxMjYyMTE3MTA0LC0xMzE3OTE0
-NTUyXX0=
+eyJoaXN0b3J5IjpbLTE2OTA2ODIwMjksMTk2ODI2MzYxMCwxND
+c3NzM4NDc5LC0yNzc5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkx
+NDU1Ml19
 -->
