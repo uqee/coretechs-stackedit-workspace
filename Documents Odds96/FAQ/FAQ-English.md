@@ -126,23 +126,17 @@ In order to check if you are eligible to register, please read our Terms and Con
 
 To register on our website, you just need to verify your email address.
 
-A ESP: Para registrarte en nuestra página web, solo tienes que verificar tu email.
+## Can I have more than one account with Odds96?
 
-Can I have more than one account with Odds96? / ¿Puedo tener más de una cuenta en Odds96?
+No, you cannot. Our company policy states that there is a maximum of one account per user allowed.If you are found to be in possession of more than one account, all of your accounts will be suspended and the access to your funds will be blocked.
 
-A ENG: No, you cannot. Our company policy states that there is a maximum of one account per user allowed.If you are found to be in possession of more than one account, all of your accounts will be suspended and the access to your funds will be blocked.
+## Can I register with my driving license?
 
-A ESP: No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
+When registering, you simply need to verify your email address. Your driving license, however, is required for verification procedures.
 
-Can I register with my driving license? / ¿Puedo registrarme con mi licencia de conducir?
+## Can I reopen my account?
 
-A ENG: When registering, you simply need to verify your email address. Your driving license, however, is required for verification procedures.
-
-A ESP: Para registrarte, solo tienes que verificar tu email. Puedes presentar tu licencia de conducir para verificar la cuenta.
-
-Can I reopen my account? / ¿Puedo reactivar mi cuenta?
-
-A ENG: Please contact our support team at: support@odds96.com. Make sure to explain why you would like to reopen your account.
+Please contact our support team at: support@odds96.com[](mailto:support@odds96.com). Make sure to explain why you would like to reopen your account.
 
 A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com y explica porqué has decidido reactivar tu cuenta.
 
@@ -523,5 +517,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0OTMwNTM4LC0xMzE3OTE0NTUyXX0=
+eyJoaXN0b3J5IjpbMjEzNDgxMzY2MywtMTMxNzkxNDU1Ml19
 -->
