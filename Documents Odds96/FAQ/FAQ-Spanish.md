@@ -33,30 +33,21 @@ Desplázate hacia abajo de cualquier página de nuestra web y haz click en el me
 
 ## ¿Cómo puedo cambiar mi preferencia de moneda?
 
-Por favor, contáctanos enviando un email a support@odds96.com. Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
+Por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com). Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
 
-Is it possible to place bets or play casino games using different types of cryptocurrency? / ¿Es posible realizar apuestas o jugar a juegos de casino utilizando diferentes tipos de criptomoneda?
+## ¿Es posible realizar apuestas o jugar a juegos de casino utilizando diferentes tipos de criptomoneda?
 
-A ENG: You can place bets or play casino games using the type of cryptocurrency that you chose at the moment of registering on our website.
+Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de criptomoneda que hayas elegido en el momento de registrarte en nuestra página web.
 
-A ESP:  Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de criptomoneda que hayas elegido en el momento de registrarte en nuestra página web.
+## ¿Cómo puedo cerrar mi cuenta?
 
-  
-  
+Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
 
-I would like to suspend my account. What should I do? / ¿Cómo puedo cerrar mi cuenta?
+## He olvidado mi contraseña y he perdido el acceso a mi correo electrónico. ¿Qué debería hacer?
 
-A ENG: To suspend your account, send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to send the notice from your registered email address. In the email, please explain why you decided to suspend your account.
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
-A ESP:  Para cerrar tu cuenta, envíanos un email a support@odds96.com desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
-
-I forgot my password, and as a result, lost access to my email. What should I do? / He olvidado mi contraseña y he perdido el acceso a mi correo electrónico. ¿Qué debería hacer?
-
-A ENG: Please contact our support team at: support@odds96.com.
-
-A ESP:  Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
-
-Why has my account been blocked? / ¿Por qué se ha bloqueado mi cuenta?
+## Why has my account been blocked? / ¿Por qué se ha bloqueado mi cuenta?
 
 A ENG: Please check your inbox and spam folder and search for any emails from Odds96. There will be an email explaining why your account has been blocked and what steps you should take in order to reactivate your account. Otherwise, you can contact  our support team at: support@odds96.com.
 
@@ -602,5 +593,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA0MDM0MywxMjg0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbMTU1NzUxMDA4NywxMjg0MDY2MTE4XX0=
 -->
