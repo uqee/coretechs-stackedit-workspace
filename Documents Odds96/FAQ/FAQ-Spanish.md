@@ -121,7 +121,7 @@ No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nu
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 
-# Registration
+# Registración
 
 ## ¿Tengo derecho a registrarme en Odds96?
 
@@ -133,27 +133,19 @@ Para registrarte en nuestra página web, solo tienes que verificar tu email.
 
 ## ¿Puedo tener más de una cuenta en Odds96?
 
-A ENG: No, you cannot. Our company policy states that there is a maximum of one account per user allowed.If you are found to be in possession of more than one account, all of your accounts will be suspended and the access to your funds will be blocked.
+No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
 
-A ESP: No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
+## ¿Puedo registrarme con mi licencia de conducir?
 
-Can I register with my driving license? / ¿Puedo registrarme con mi licencia de conducir?
+Para registrarte, solo tienes que verificar tu email. Puedes presentar tu licencia de conducir para verificar la cuenta.
 
-A ENG: When registering, you simply need to verify your email address. Your driving license, however, is required for verification procedures.
+## ¿Puedo reactivar mi cuenta?
 
-A ESP: Para registrarte, solo tienes que verificar tu email. Puedes presentar tu licencia de conducir para verificar la cuenta.
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com) y explica porqué has decidido reactivar tu cuenta.
 
-Can I reopen my account? / ¿Puedo reactivar mi cuenta?
+## ¿Puedo registrar una cuenta para alguien más?
 
-A ENG: Please contact our support team at: support@odds96.com. Make sure to explain why you would like to reopen your account.
-
-A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com y explica porqué has decidido reactivar tu cuenta.
-
-Can I open an account for someone else? / ¿Puedo registrar una cuenta para alguien más?
-
-A ENG: No, you cannot. An account should only ever be opened and accessed by the account holder. Find more info on this in our Terms & Conditions.
-
-A ESP: No, está prohibido. Solo el titular de la cuenta puede abrirla y acceder a ella. Más información está disponible en nuestros Términos y Condiciones.
+No, está prohibido. Solo el titular de la cuenta puede abrirla y acceder a ella. Más información está disponible en nuestros Términos y Condiciones.
 
 # Deposit & withdrawal
 
@@ -526,5 +518,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNzI2MTE1LDEyODQwNjYxMThdfQ==
+eyJoaXN0b3J5IjpbLTExODA3MzEzNDgsMTI4NDA2NjExOF19
 -->
