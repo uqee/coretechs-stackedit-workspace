@@ -58,41 +58,22 @@ There are two possible reasons as to why you have not received the password reco
 -   There is no account linked to the username or email that you provided. With this in mind, please double check that the username or email you are entering is correct.
 -   Check your spam folder. The email containing the password recovery code might have been filtered incorrectly.
 
-## Do you send any SMS notifications regarding my bets, results, withdrawals etc.? / ¿Envían notificaciones por SMS sobre mis apuestas, resultados, retiradas, etc?
+## Do you send any SMS notifications regarding my bets, results, withdrawals etc.?
 
-A ENG: For the moment, we do not. But, we may consider this in the future.
+For the moment, we do not. But, we may consider this in the future.
 
-A ESP:  Esta opción no está disponible todavía.
+## How can I change my password?
 
-How can I change my password? / ¿Cómo puedo cambiar mi contraseña?
-
-A ENG: To change your password, please follow these steps:
+To change your password, please follow these steps:
 
 1.  Log in into your Account,
-    
 2.  Go to the Security page,
-    
 3.  Click on "Change Password",
-    
 4.  In the window that appears, enter your current password, before selecting a new one and clicking "Change".
-    
 
-A ESP:  Para cambiar tu contraseña, sigue estos pasos:
+## How do I unsubscribe from your newsletter?
 
-1.  Inicia sesión y entra en tu cuenta,
-    
-2.  Ve a la página "Seguridad",
-    
-3.  Haz click en "Cambiar Contraseña",
-    
-4.  En la ventanilla emergente introduce tu contraseña actual y una contraseña nueva, luego haz click en "Cambiar"
-    
-
-How do I unsubscribe from your newsletter? / ¿Cómo puedo cancelar la suscripción a vuestro newsletter?
-
-A ENG: The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
-
-A ESP:  En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro Newsletter.
+The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 
 What is my ‘Account ID’? / ¿Cuál es el ID de mi cuenta?
 
@@ -576,5 +557,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NDEyNzBdfQ==
+eyJoaXN0b3J5IjpbMjU4ODEyMDgzXX0=
 -->
