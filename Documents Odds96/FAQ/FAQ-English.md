@@ -333,29 +333,21 @@ All selections and odds are offered at our own discretion. They change depending
 
 # Casino
 
-What is the minimum bet? / ¿Cuál es la apuesta mínima?
+## What is the minimum bet?
 
-A ENG: The minimum bet depends on the casino game you choose.
+The minimum bet depends on the casino game you choose.
 
-A ESP: La apuesta mínima depende del juego de casino que elijas.
+## What is the maximum bet?
 
-What is the maximum bet? / ¿Cuál es la apuesta máxima?
+The maximum bet depends on the casino game you choose.
 
-A ENG: The maximum bet depends on the casino game you choose.
+## My casino bet has been cancelled. What should I do?
 
-A ESP: La apuesta máxima depende del juego de casino que elijas.
+A casino bet may have been cancelled because your internet connection failed. Please check if you are connected to the internet and reload the page.
 
-My casino bet has been cancelled. What should I do? / Se ha cancelado mi apuesta de casino. ¿Qué debería hacer?
+## My casino game tends to freeze. What should I do?
 
-A ENG: A casino bet may have been cancelled because your internet connection failed. Please check if you are connected to the internet and reload the page.
-
-A ESP: Puede ser que se haya cancelado tu apuesta de casino porque se ha perdido la conexión al Internet. Por favor, comprueba si sigues conectado al Internet y vuelve a actualizar la página.
-
-My casino game tends to freeze. What should I do? / Mi juego de casino tiende a congelarse. ¿Qué debo hacer?
-
-A ENG: If your casino game often freezes, please check whether you are connected to the internet and reload the page. If this doesn’t help, delete the cookies and clear the browser’s cache. If the problem hasn’t been resolved, please contact our support team at: support@odds96.com. Alternatively, you may get in touch via our live-chat feature.
-
-A ESP: Si tu juego de casino se congela, comprueba si estás conectado a Internet y vuelve a actualizar la página del juego. Si el problema no se resuelve, elimina cookies y borra el caché del navegador. Si el problema persiste, contacta con nuestro equipo de soporte vía chat en vivo o enviando un email a  [support@odds96.com](mailto:support@odds96.com)
+If your casino game often freezes, please check whether you are connected to the internet and reload the page. If this doesn’t help, delete the cookies and clear the browser’s cache. If the problem hasn’t been resolved, please contact our support team at: [support@odds96.com](mailto:support@odds96.com). Alternatively, you may get in touch via our live-chat feature.
 
 # Other Questions
 
@@ -371,6 +363,7 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODI2MzYxMCwxNDc3NzM4NDc5LC0yNz
-c5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkxNDU1Ml19
+eyJoaXN0b3J5IjpbLTM5NzQwNTE0NSwxOTY4MjYzNjEwLDE0Nz
+c3Mzg0NzksLTI3Nzk1MDQwOCwxMjYyMTE3MTA0LC0xMzE3OTE0
+NTUyXX0=
 -->
