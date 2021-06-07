@@ -241,45 +241,27 @@ A delay can occur when our system is waiting for the verification of the match r
 
 ## How is the market of cards settled when a red card has been shown to a player?
 
-A ENG: A yellow card counts as one card. A red card counts as two cards. If a player receives the second yellow card that leads to a red card, this yellow card does not count. Therefore, in this case, one player cannot receive more than three cards (1 - for the first yellow card, 2 - for the red card).
+A yellow card counts as one card. A red card counts as two cards. If a player receives the second yellow card that leads to a red card, this yellow card does not count. Therefore, in this case, one player cannot receive more than three cards (1 - for the first yellow card, 2 - for the red card).
 
-A ESP: Una tarjeta amarilla cuenta como una tarjeta. Una tarjeta roja cuenta como dos tarjetas. Si un jugador recibe la segunda amarilla, que comportaría una expulsión, la segunda tarjeta amarilla no cuenta. El cómputo total de tarjetas en este caso sería 3 (1 - por la primera tarjeta amarilla recibida, 2 - por la tarjeta roja).
+## Do you accept bets on regular time or on regular time including overtime?
 
-Do you accept bets on regular time or on regular time including overtime? / ¿Aceptan apuestas por el tiempo reglamentario o por el tiempo reglamentario incluyendo la prórroga?
+We accept bets on regular time as well as on regular time including overtime. If a bet covers the whole match, we add a note in parenthesis "(incl. overtime)".
 
-A ENG: We accept bets on regular time as well as on regular time including overtime. If a bet covers the whole match, we add a note in parenthesis "(incl. overtime)".
+## I can’t find the event that I want to bet on. Can I somehow suggest that you add it?
 
-A ESP: Aceptamos apuestas por el tiempo reglamentario y por el tiempo reglamentario incluyendo la prórroga. Si una selección cubre el partido entero, encontrarás una nota entre paréntesis "(prórroga incl.)".
+Odds96 does not offer this option at the moment.
 
-I can’t find the event that I want to bet on. Can I somehow suggest that you add it? / No consigo encontrar el evento por el que quiero apostar. ¿Puedo dejar una sugerencia?
+## What are the bet slip settings?
 
-A ENG: Odds96 does not offer this option at the moment.
-
-A ESP: Esta opción aún no está disponible.
-
-What are the bet slip settings? / ¿Cuáles son los ajustes del talón de apuestas?
-
-A ENG: In the bet slip settings you can choose out of three options to handle odds changes:
+In the bet slip settings you can choose out of three options to handle odds changes:
 
 -   Accept increases - accept only increases by default and ask for confirmation in case of a decrease,
-    
 -   Accept any changes - accept any changes by default,
-    
 -   Ask for confirmation - ask for confirmation when the odds increase or decrease.
-    
 
-A ESP: Para gestionar el cambio de cuotas, en los ajustes del talón de apuestas puedes seleccionar una de tres opciones disponibles:
+## What are single and multiple bets?
 
--   Aceptar solo cuotas mayores - aceptar solo las cuotas mayores por defecto y solicitar confirmación si las cuotas bajan,
-    
--   Aceptar cualquier cambio de cuotas - aceptar cualquier cambio de cuotas por defecto,
-    
--   Solicitar confirmación - solicitar confirmación si las cuotas suben y bajan.
-    
-
-What are single and multiple bets? / ¿Qué son una apuesta simple y una apuesta múltiple/combinada?
-
-A ENG: A single bet is when you pick the outcome of one event. If your bet wins, the odds will be multiplied by your stake. A multiple bet (also known as a parlay) is a bet that depends on the outcome of more than one event. This is effectively an accumulator and you’ll need to have predicted every event correctly to get a return. If you win, your stake will be multiplied by the total odds of the selected events.
+A single bet is when you pick the outcome of one event. If your bet wins, the odds will be multiplied by your stake. A multiple bet (also known as a parlay) is a bet that depends on the outcome of more than one event. This is effectively an accumulator and you’ll need to have predicted every event correctly to get a return. If you win, your stake will be multiplied by the total odds of the selected events.
 
 A ESP: Una apuesta simple es cuando seleccionas el resultado de un evento deportivo. Si tu apuesta resulta ganadora, la cuota se multiplicará por el importe que has apostado. Una apuesta múltiple/combinada depende de los resultados de unos cuantos eventos. Para ganar esta apuesta, hay que predecir correctamente el resultado de cada partido. Si tu apuesta resulta ganadora, el importe que has apostado se multiplicará por el total de cuotas de los eventos seleccionados.
 
@@ -434,6 +416,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI0MjYyNTgsLTI3Nzk1MDQwOCwxMj
-YyMTE3MTA0LC0xMzE3OTE0NTUyXX0=
+eyJoaXN0b3J5IjpbLTYwMjA0Mzc3NywtMjc3OTUwNDA4LDEyNj
+IxMTcxMDQsLTEzMTc5MTQ1NTJdfQ==
 -->
