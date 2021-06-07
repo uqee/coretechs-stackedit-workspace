@@ -325,38 +325,30 @@ Todas las selecciones y cuotas se ofrecen a nuestra propia discreción y cambian
 
 La apuesta mínima depende del juego de casino que elijas.
 
-## What is the maximum bet? / ¿Cuál es la apuesta máxima?
+## ¿Cuál es la apuesta máxima?
 
-A ENG: The maximum bet depends on the casino game you choose.
+La apuesta máxima depende del juego de casino que elijas.
 
-A ESP: La apuesta máxima depende del juego de casino que elijas.
+## Se ha cancelado mi apuesta de casino. ¿Qué debería hacer?
 
-My casino bet has been cancelled. What should I do? / Se ha cancelado mi apuesta de casino. ¿Qué debería hacer?
+Puede ser que se haya cancelado tu apuesta de casino porque se ha perdido la conexión al Internet. Por favor, comprueba si sigues conectado al Internet y vuelve a actualizar la página.
 
-A ENG: A casino bet may have been cancelled because your internet connection failed. Please check if you are connected to the internet and reload the page.
+## Mi juego de casino tiende a congelarse. ¿Qué debo hacer?
 
-A ESP: Puede ser que se haya cancelado tu apuesta de casino porque se ha perdido la conexión al Internet. Por favor, comprueba si sigues conectado al Internet y vuelve a actualizar la página.
+Si tu juego de casino se congela, comprueba si estás conectado a Internet y vuelve a actualizar la página del juego. Si el problema no se resuelve, elimina cookies y borra el caché del navegador. Si el problema persiste, contacta con nuestro equipo de soporte vía chat en vivo o enviando un email a  [support@odds96.com](mailto:support@odds96.com).
 
-My casino game tends to freeze. What should I do? / Mi juego de casino tiende a congelarse. ¿Qué debo hacer?
+# Otras Preguntas
 
-A ENG: If your casino game often freezes, please check whether you are connected to the internet and reload the page. If this doesn’t help, delete the cookies and clear the browser’s cache. If the problem hasn’t been resolved, please contact our support team at: support@odds96.com. Alternatively, you may get in touch via our live-chat feature.
+## ¿Dónde puedo encontrar más información sobre los términos y condiciones de vuestro programa de Afiliados?
 
-A ESP: Si tu juego de casino se congela, comprueba si estás conectado a Internet y vuelve a actualizar la página del juego. Si el problema no se resuelve, elimina cookies y borra el caché del navegador. Si el problema persiste, contacta con nuestro equipo de soporte vía chat en vivo o enviando un email a  [support@odds96.com](mailto:support@odds96.com)
+Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
-# Other Questions
-
-Where can I find more information about the terms and conditions of your affiliate program? / ¿Dónde puedo encontrar más información sobre los términos y condiciones de vuestro programa de Afiliados?
-
-A ENG: Please contact us at support@odds96.com for further details.
-
-A ESP: Para obtener más información, por favor, contáctanos enviando un email a support@odds96.com
-
-Do you have an iOS/Android app? / ¿Cuentan con una aplicación para iOS/Android?
+## ¿Cuentan con una aplicación para iOS/Android?
 
 A ENG: Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzU2MDUyMywtMTAzMTc2Njc0MSwxMj
+eyJoaXN0b3J5IjpbLTg1NTUxMjQ3MSwtMTAzMTc2Njc0MSwxMj
 g0MDY2MTE4XX0=
 -->
