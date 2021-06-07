@@ -1,3 +1,5 @@
+<Version>Last updated: June 7, 2021</Version>
+
 # Account
 
 Why do I have to verify my Account? / ¿Por qué tengo que verificar mi cuenta?
@@ -631,5 +633,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzUwNDg3OV19
+eyJoaXN0b3J5IjpbODAwNjIwNDkzXX0=
 -->
