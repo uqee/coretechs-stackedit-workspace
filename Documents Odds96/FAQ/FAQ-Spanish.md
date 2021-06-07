@@ -311,27 +311,21 @@ Esta opción aún no está disponible.
 
 Para agregar un partido a "Favoritos", haz click en la estrella situada a la izquierda del nombre del equipo. Todos los equipos seleccionados se encuentran en "Favoritos".
 
-## Is ‘cash-out’ available? / ¿Está disponible la opción de cash-out?
+## ¿Está disponible la opción de cash-out?
 
-A ENG: We do not offer this option at the moment.
+Esta opción aún no está disponible.
 
-A ESP: Esta opción aún no está disponible.
+## ¿Por qué se actualizan y cambian las cuotas?
 
-Why do odds change? / ¿Por qué se actualizan y cambian las cuotas?
-
-A ENG: All selections and odds are offered at our own discretion. They change depending on the match score, time and other factors.
-
-A ESP: Todas las selecciones y cuotas se ofrecen a nuestra propia discreción y cambian en función del resultado del partido, tiempo u otros factores.
+Todas las selecciones y cuotas se ofrecen a nuestra propia discreción y cambian en función del resultado del partido, tiempo u otros factores.
 
 # Casino
 
-What is the minimum bet? / ¿Cuál es la apuesta mínima?
+## ¿Cuál es la apuesta mínima?
 
-A ENG: The minimum bet depends on the casino game you choose.
+La apuesta mínima depende del juego de casino que elijas.
 
-A ESP: La apuesta mínima depende del juego de casino que elijas.
-
-What is the maximum bet? / ¿Cuál es la apuesta máxima?
+## What is the maximum bet? / ¿Cuál es la apuesta máxima?
 
 A ENG: The maximum bet depends on the casino game you choose.
 
@@ -363,6 +357,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDg0ODk5MSwtMTAzMTc2Njc0MSwxMj
+eyJoaXN0b3J5IjpbLTU2NzU2MDUyMywtMTAzMTc2Njc0MSwxMj
 g0MDY2MTE4XX0=
 -->
