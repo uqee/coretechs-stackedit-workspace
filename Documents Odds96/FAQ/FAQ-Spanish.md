@@ -257,18 +257,11 @@ Puedes agregar hasta 20 eventos.
 
 ## Se ha interrumpido un evento por el que aposté. ¿Cómo se liquidará mi apuesta?
 
-A ENG: If an event is not finalized or ‘abandoned’ after initiation (because of disqualification, interruption, refusal, changes in the results, etc), all undecided bets will be declared void. Please read our General Betting Rules for further details.
+Si un evento no ha terminado o ha sido abandonado después del inicio (debido a descalificación, interrupción, rechazo, cambios en el resultado, etc), todas las apuestas en mercados donde no se haya decidido el resultado serán nulas. Para obtener más información, por favor, lee nuestras Reglas Generales de Apuestas.
 
-A ESP: Si un evento no ha terminado o ha sido abandonado después del inicio (debido a descalificación, interrupción, rechazo, cambios en el resultado, etc), todas las apuestas en mercados donde no se haya decidido el resultado serán nulas. Para obtener más información, por favor, lee nuestras Reglas Generales de Apuestas.
+## ¿Pueden aumentar mi límite del importe de apuesta?
 
-Can you increase my maximum stake limit? / ¿Pueden aumentar mi límite del importe de apuesta?
-
-A ENG: Odds96 does not offer this option at the moment.
-
-A ESP: Esta opción aún no está disponible.
-
-  
-  
+Esta opción aún no está disponible.
 
 What event should I bet on? Give me some advice! / ¡Aconséjenme partido por el que apostar!
 
@@ -394,5 +387,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE3NjY3NDEsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTE4NjAzNTU4NDksLTEwMzE3NjY3NDEsMT
+I4NDA2NjExOF19
 -->
