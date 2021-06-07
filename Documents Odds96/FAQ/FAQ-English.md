@@ -9,48 +9,26 @@ Verification is required to confirm the identity of an account owner in line wit
 Follow these steps to verify your account:
 -   Go to the ‘Verification’ page,
 -   Choose the document (e.g. an ID card, passport or driving license) that you’d like to provide as your proof of identity,
--   Make sure that your file meets our formatting requirements (JPG, PNG, PDF or GIF with a maximum size of 5 Mb)
--   Upload your document
+-   Make sure that your file meets our formatting requirements (JPG, PNG, PDF or GIF with a maximum size of 5 Mb),
+-   Upload your document.
     
+## How long does it take to verify my account?
 
-ESP:  Sigue estos pasos para verificar tu cuenta:
+There are no established or standard deadlines that we need to observe when verifying your account. Usually, the duration is case-specific.
 
--   Ve a la página de Verificación,
-    
--   Selecciona un documento (por ejemplo, el DNI, pasaporte o licencia de conducir) que deseas proporcionar como comprobante de identidad,
-    
--   Asegúrate de que tu archivo cumple nuestros requisitos (JPG, PNG, PDF o GIF con el tamaño máximo de 5 Mb),
-    
--   Adjunta y carga tu archivo.
-    
+## I lost access to the email that I used to register. Is it possible to change my email address from my account?
 
-How long does it take to verify my account? / ¿Cuánto tiempo se demora en verificar mi cuenta?
+If you have lost access to your registered email address, we would greatly appreciate it if you could try to restore it yourself. If you fail to do so, please send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to iterate the new email address which you would like to attach to your account. We will then provide you with further instructions.
 
-ENG: There are no established or standard deadlines that we need to observe when verifying your account. Usually, the duration is case-specific.
+## How do I change the format of the odds?
 
-ESP: No hay plazos establecidos que tenemos que respetar cuando verificamos tu cuenta. Normalmente, el plazo depende de cada caso en particular.
+Odds96 supports only decimal odds.
 
-  
-  
-  
+## How do I change my language preference?
 
-I lost access to the email that I used to register. Is it possible to change my email address from my account? / He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
+Open any page on our website, scroll down and click on the language selector in the lower right-hand corner. You can choose either English or Spanish.
 
-ENG: If you have lost access to your registered email address, we would greatly appreciate it if you could try to restore it yourself. If you fail to do so, please send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to iterate the new email address which you would like to attach to your account. We will then provide you with further instructions.
 
-ESP:  Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a support@odds96.com desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
-
-How do I change the format of the odds? / ¿Cómo puedo cambiar el formato de cuotas?
-
-A ENG: Odds96 supports only decimal odds.
-
-A ESP:  De momento solo se puede visualizar el formato de cuotas decimales (europeas).
-
-How do I change my language preference? / ¿Cómo puedo cambiar el idioma?
-
-A ENG: Open any page on our website, scroll down and click on the language selector in the lower right-hand corner. You can choose either English or Spanish.
-
-A ESP:  Desplázate hacia abajo de cualquier página de nuestra web y haz click en el menú desplegable situado a la derecha. Puedes elegir entre inglés y español.
 
 How do I change my currency preference? / ¿Cómo puedo cambiar mi preferencia de moneda?
 
@@ -625,5 +603,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDEwNDUzM119
+eyJoaXN0b3J5IjpbMjAwODUwMzkwMl19
 -->
