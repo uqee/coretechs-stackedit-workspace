@@ -151,18 +151,6 @@ No, you cannot. An account should only ever be opened and accessed by the accoun
 
 Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
 
-## How do I make a deposit?
-
-There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
-
-1.  Register with one of the most popular e-wallet services like Binance or Copay (on their websites or Android/iOS apps).
-2.  Buy crypto via a bank card or any other payment methods.
-3.  Go to [Odds96.com](http://odds96.com).  
-4.  In the top right-hand corner, click on the wallet-like icon.
-5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
-6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
-7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
-
 ## How can I make a withdrawal?
 
 To withdraw your funds, please follow these steps:
@@ -174,10 +162,6 @@ To withdraw your funds, please follow these steps:
 ## I made a deposit 30 minutes ago but it hasn’t yet been credited to my account. What happened?
 
 Your transaction is being processed. Odds96 requests a certain number of blockchain confirmations depending on the cryptocurrency you chose. For example, Bitcoin only requires one confirmation. To track the status of your deposit, you can click on the wallet-like icon and scroll down to "Transactions". Clicking on the Hash link will take you to the network page related to this transaction. Currently, we are using Blockcypher. You can check the number of blockchain confirmations in the bottom right-hand corner.
-
-## Can I top up my account in a currency other than crypto?
-
-You can top up your account in USD as well.
 
 ## Where can I find the information about my withdrawal and its status?
 
@@ -357,7 +341,7 @@ Please contact us at [support@odds96.com](mailto:support@odds96.com) for further
 
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE5MDkwMjQsMTk2ODI2MzYxMCwxND
-c3NzM4NDc5LC0yNzc5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkx
-NDU1Ml19
+eyJoaXN0b3J5IjpbMTYxMDA0MTYsMTk2ODI2MzYxMCwxNDc3Nz
+M4NDc5LC0yNzc5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkxNDU1
+Ml19
 -->
