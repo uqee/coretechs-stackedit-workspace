@@ -263,43 +263,31 @@ Si un evento no ha terminado o ha sido abandonado después del inicio (debido a 
 
 Esta opción aún no está disponible.
 
-What event should I bet on? Give me some advice! / ¡Aconséjenme partido por el que apostar!
+## ¡Aconséjenme partido por el que apostar!
 
-A ENG: We do not provide any advice about betting. It must be your own choice and at your own risk.
+No proporcionamos ningún tipo de consejos sobre apuestas deportivas. Debe ser tu propia decisión y a tu propio riesgo.
 
-A ESP: No proporcionamos ningún tipo de consejos sobre apuestas deportivas. Debe ser tu propia decisión y a tu propio riesgo.
+## Hándicap asiático de cuartos (Х.25/Х.75)
 
-Asian  Handicap - Quarter Lines (Х.25/Х.75) / Hándicap asiático de cuartos (Х.25/Х.75)
+El hándicap asiático de cuartos ofrece las cuotas que terminan en .25 o .75 y por eso es un poco más complicado que otros hándicaps. También lo suelen llamar el hándicap doble como si colocáramos dos apuestas con hándicap. Por ejemplo, el hándicap de -0.25 se escribiría como (0, -0.5).
 
-A ENG: The quarter lines refer to values ending in .25 or .75 and are a little more complex than the other handicaps. They are also called double handicaps, as they are calculated using two virtual bets and handicaps. For example, the handicap -0.25 can also be written as (0, -0.5).
+## ¿Están disponibles las apuestas de sistema?
 
-A ESP: El hándicap asiático de cuartos ofrece las cuotas que terminan en .25 o .75 y por eso es un poco más complicado que otros hándicaps. También lo suelen llamar el hándicap doble como si colocáramos dos apuestas con hándicap. Por ejemplo, el hándicap de -0.25 se escribiría como (0, -0.5).
+Este tipo de apuestas aún no está disponible en nuestra web.
 
-Are system bets available on your website? / ¿Están disponibles las apuestas de sistema?
+## He realizado una apuesta pero no encuentro ningún tipo de información sobre ella en mi historial. ¿Qué debería hacer?
 
-A ENG: Odds96 does not offer these types of bets.
+Por favor, contacta con nuestro equipo de soporte.
 
-A ESP: Este tipo de apuestas aún no está disponible en nuestra web.
+## Mi apuesta no se ha liquidado correctamente. ¿Qué debería hacer?
 
-I’ve placed a bet but there is no information about it in my betting history. What should I do? / He realizado una apuesta pero no encuentro ningún tipo de información sobre ella en mi historial. ¿Qué debería hacer?
+En el caso poco probable de que tu apuesta no se haya liquidado correctamente, puedes contactar a nuestro equipo de soporte.
 
-A ENG: Please contact our support team.
+## ¿Cómo se resuelve una apuesta por un partido de tenis que no ha terminado porque uno de los jugadores se niega a continuar o ha sido descalificado?
 
-A ESP: Por favor, contacta con nuestro equipo de soporte.
+Todas las apuestas en mercados donde no se haya decidido el resultado serán nulas.
 
-My bet was settled incorrectly. What should I do? / Mi apuesta no se ha liquidado correctamente. ¿Qué debería hacer?
-
-A ENG: In the unlikely event that your bet has been settled incorrectly, please contact our support team.
-
-A ESP: En el caso poco probable de que tu apuesta no se haya liquidado correctamente, puedes contactar a nuestro equipo de soporte.
-
-How do you settle a bet on an unfinished tennis match where one of the players refused to continue or was disqualified? / ¿Cómo se resuelve una apuesta por un partido de tenis que no ha terminado porque uno de los jugadores se niega a continuar o ha sido descalificado?
-
-A ENG: All bets on results that remain undecided are declared void.
-
-A ESP: Todas las apuestas en mercados donde no se haya decidido el resultado serán nulas.
-
-How do you settle bets like Total Over 1.5 and Total Under 1.5 for MMA? / ¿Cómo se resuelven las apuestas como Más de 1.5 o Menos de 1.5 en MMA?
+## How do you settle bets like Total Over 1.5 and Total Under 1.5 for MMA? / ¿Cómo se resuelven las apuestas como Más de 1.5 o Menos de 1.5 en MMA?
 
 A ENG: These bets indicate the number of rounds played.
 
@@ -387,6 +375,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAzNTU4NDksLTEwMzE3NjY3NDEsMT
-I4NDA2NjExOF19
+eyJoaXN0b3J5IjpbNjQyNTYzNzY1LC0xMDMxNzY2NzQxLDEyOD
+QwNjYxMThdfQ==
 -->
