@@ -81,13 +81,11 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 ## ¿Cuál es el ID de mi cuenta?
 
-El ID de tu cuenta es el email que usaste para registr en nuestra página web.
+El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
 
-Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account? / ¿Es posible quitar las limitaciones de Auto-Exclusión? ¿Cómo puedo reactivar mi cuenta?
+## ¿Es posible quitar las limitaciones de ‘Auto-Exclusión’? ¿Cómo puedo reactivar mi cuenta?
 
-A ENG: Please contact our support team at: support@odds96.com[](mailto:support@odds96.com)
-
-A ESP: Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
+Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
 
 Is it possible to set a deposit limit? I think I may have gambling addiction. / ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
 
@@ -559,5 +557,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjUxMzgxNSwxMjg0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbNzgxMjczNTc2LDEyODQwNjYxMThdfQ==
 -->
