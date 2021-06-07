@@ -175,7 +175,7 @@ Your transaction is being processed. Odds96 requests a certain number of blockch
 
 ## Can I top up my account in a currency other than crypto?
 
-We do not offer this option for the moment.
+You can top up your account in USD as well.
 
 ## Where can I find the information about my withdrawal and its status?
 
@@ -204,10 +204,6 @@ Transaction fees vary depending on the cryptocurrency you chose: BTC - 0, ETH - 
 ## Is there a transaction fee for deposits?
 
 We do not charge any additional fees for making deposits, however,  blockchain networks might do so.
-
-## Can I cancel my withdrawal?
-
-We do not offer this option at the moment.
 
 ## I’ve already submitted my documents for the purposes of account verification but the withdrawal I requested has not yet been completed. What should I do?
 
@@ -359,7 +355,7 @@ Please contact us at [support@odds96.com](mailto:support@odds96.com) for further
 
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2ODIwMjksMTk2ODI2MzYxMCwxND
-c3NzM4NDc5LC0yNzc5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkx
-NDU1Ml19
+eyJoaXN0b3J5IjpbMTgwOTk2MzIwNCwxOTY4MjYzNjEwLDE0Nz
+c3Mzg0NzksLTI3Nzk1MDQwOCwxMjYyMTE3MTA0LC0xMzE3OTE0
+NTUyXX0=
 -->
