@@ -75,13 +75,11 @@ To change your password, please follow these steps:
 
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 
-What is my ‘Account ID’? / ¿Cuál es el ID de mi cuenta?
+## What is my ‘Account ID’?
 
-A ENG: Your ‘Account ID’ is the email address that you used to register your account with.
+Your ‘Account ID’ is the email address that you used to register your account with.
 
-A ESP: El ID de tu cuenta es tu email registrado en nuestra página web.
-
-Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account? / ¿Es posible quitar las limitaciones de Auto-Exclusión? ¿Cómo puedo reactivar mi cuenta?
+## Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account? / ¿Es posible quitar las limitaciones de Auto-Exclusión? ¿Cómo puedo reactivar mi cuenta?
 
 A ENG: Please contact our support team at: support@odds96.com[](mailto:support@odds96.com)
 
@@ -557,5 +555,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4ODEyMDgzXX0=
+eyJoaXN0b3J5IjpbLTEzMTc5MTQ1NTJdfQ==
 -->
