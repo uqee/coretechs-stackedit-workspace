@@ -147,13 +147,11 @@ Por favor, contacta con nuestro equipo de soporte enviando un email a [support@o
 
 No, está prohibido. Solo el titular de la cuenta puede abrirla y acceder a ella. Más información está disponible en nuestros Términos y Condiciones.
 
-# Deposit & withdrawal
+# Depósitos y Retiradas
 
-How long do withdrawals take? / ¿Cuánto se tarda en retirar?
+## ¿Cuánto se tarda en retirar?
 
-A ENG: Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
-
-A ESP: La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
+La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
 
 How do I make a deposit? / ¿Cómo hago un depósito?
 
@@ -518,5 +516,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA3MzEzNDgsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbMzcwMzM5MjM4LDEyODQwNjYxMThdfQ==
 -->
