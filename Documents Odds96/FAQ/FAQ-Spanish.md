@@ -21,27 +21,19 @@ No hay plazos establecidos que tenemos que respetar cuando verificamos tu cuenta
 
 ## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
 
-ENG: If you have lost access to your registered email address, we would greatly appreciate it if you could try to restore it yourself. If you fail to do so, please send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to iterate the new email address which you would like to attach to your account. We will then provide you with further instructions.
+Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a [support@odds96.com](mailto:support@odds96.com) desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
 
-ESP:  Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a support@odds96.com desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
+## ¿Cómo puedo cambiar el formato de cuotas?
 
-How do I change the format of the odds? / ¿Cómo puedo cambiar el formato de cuotas?
+De momento solo se puede visualizar el formato de cuotas decimales (europeas).
 
-A ENG: Odds96 supports only decimal odds.
+## ¿Cómo puedo cambiar el idioma?
 
-A ESP:  De momento solo se puede visualizar el formato de cuotas decimales (europeas).
+Desplázate hacia abajo de cualquier página de nuestra web y haz click en el menú desplegable situado a la derecha. Puedes elegir entre inglés y español.
 
-How do I change my language preference? / ¿Cómo puedo cambiar el idioma?
+## ¿Cómo puedo cambiar mi preferencia de moneda?
 
-A ENG: Open any page on our website, scroll down and click on the language selector in the lower right-hand corner. You can choose either English or Spanish.
-
-A ESP:  Desplázate hacia abajo de cualquier página de nuestra web y haz click en el menú desplegable situado a la derecha. Puedes elegir entre inglés y español.
-
-How do I change my currency preference? / ¿Cómo puedo cambiar mi preferencia de moneda?
-
-A ENG: Please contact us at: support@odds96.com. Only verified clients are allowed to change the cryptocurrency type that they use on our website.
-
-A ESP:  Por favor, contáctanos enviando un email a support@odds96.com. Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
+Por favor, contáctanos enviando un email a support@odds96.com. Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
 
 Is it possible to place bets or play casino games using different types of cryptocurrency? / ¿Es posible realizar apuestas o jugar a juegos de casino utilizando diferentes tipos de criptomoneda?
 
@@ -610,5 +602,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM0NTc4NjQsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTE1OTA0MDM0MywxMjg0MDY2MTE4XX0=
 -->
