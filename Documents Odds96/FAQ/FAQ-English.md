@@ -1,3 +1,5 @@
+<Version>Last updated: June 7, 2021</Version>
+
 # Account
 
 ## Why do I have to verify my Account?
@@ -355,7 +357,7 @@ Please contact us at [support@odds96.com](mailto:support@odds96.com) for further
 
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTk2MzIwNCwxOTY4MjYzNjEwLDE0Nz
+eyJoaXN0b3J5IjpbLTY3OTY0MjYxNiwxOTY4MjYzNjEwLDE0Nz
 c3Mzg0NzksLTI3Nzk1MDQwOCwxMjYyMTE3MTA0LC0xMzE3OTE0
 NTUyXX0=
 -->
