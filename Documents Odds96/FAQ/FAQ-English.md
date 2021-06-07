@@ -287,7 +287,7 @@ All bets on results that remain undecided are declared void.
 
 ## How do you settle bets like Total Over 1.5 and Total Under 1.5 for MMA?
 
-These bets indicate the number of full rounds played.
+These bets indicate the number of completed rounds played.
 
 ## What are SRL matches?
 
@@ -341,7 +341,7 @@ Please contact us at [support@odds96.com](mailto:support@odds96.com) for further
 
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MTE2Njg1LDE3OTgzODkyNiwxOTY4Mj
-YzNjEwLDE0Nzc3Mzg0NzksLTI3Nzk1MDQwOCwxMjYyMTE3MTA0
-LC0xMzE3OTE0NTUyXX0=
+eyJoaXN0b3J5IjpbLTE2Mjg2MDYyNzMsMTc5ODM4OTI2LDE5Nj
+gyNjM2MTAsMTQ3NzczODQ3OSwtMjc3OTUwNDA4LDEyNjIxMTcx
+MDQsLTEzMTc5MTQ1NTJdfQ==
 -->
