@@ -267,7 +267,7 @@ Esta opción aún no está disponible.
 
 No proporcionamos ningún tipo de consejos sobre apuestas deportivas. Debe ser tu propia decisión y a tu propio riesgo.
 
-## Hándicap asiático de cuartos (Х.25/Х.75)
+## ¿Qué es un hándicap asiático de cuartos (Х.25/Х.75)?
 
 El hándicap asiático de cuartos ofrece las cuotas que terminan en .25 o .75 y por eso es un poco más complicado que otros hándicaps. También lo suelen llamar el hándicap doble como si colocáramos dos apuestas con hándicap. Por ejemplo, el hándicap de -0.25 se escribiría como (0, -0.5).
 
@@ -343,6 +343,6 @@ Para obtener más información, por favor, contáctanos enviando un email a [sup
 
 Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTMzNDc4OCwtMTAzMTc2Njc0MSwxMj
-g0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbNzg3MjM2ODMyLC0xMDMxNzY2NzQxLDEyOD
+QwNjYxMThdfQ==
 -->
