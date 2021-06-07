@@ -152,44 +152,16 @@ No, está prohibido. Solo el titular de la cuenta puede abrirla y acceder a ella
 ## ¿Cuánto se tarda en retirar?
 
 La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
-
-## ¿Cómo hago un depósito?
-
-Podrás elegir entre dos métodos: hacer un depósito mediante el código QR único o utilizando la dirección de tu billetera. Consideremos una transacción de Bitcoin para dar un ejemplo:
-
-1.  Regístrate en uno de los servicios de monederos electrónicos más populares como Binance o Copay (en sus páginas web o en aplicaciones para Android/iOS).
-2.  Compra criptomonedas con tu tarjeta bancaria o utilizando otros métodos de pago.
-3.  Ve a Odds96.com[enter link description here](odds96.com).
-4.  En la esquina superior derecha, haz click en el icono de billetera.
     
-5.  En el apartado "Saldo" que aparecerá, encontrarás la dirección de tu cuenta. Cópiala y pégala en la libreta de direcciones de tu billetera electrónica para efectuar la transacción. Alternativamente, puedes escanear el código QR usando la aplicación móvil de tu billetera.
-    
-6.  Una vez que haya como mínimo una confirmación en el blockchain, los Bitcoins se acreditarán en tu cuenta.
-    
-7.  Ten en cuenta que pueden ocurrir algunos retrasos en los servicios de terceros (por ejemplo, eWallets o intercambios de criptomoneda) que pueden debitar tu cuenta privada pero no agregar la transacción al blockchain durante varias horas. Una vez efectuado el depósito, recibirás una notificación de confirmación.
-    
+## ¿Cómo puedo retirar fondos?
 
-How can I make a withdrawal? / ¿Cómo puedo retirar fondos?
-
-A ENG: To withdraw your funds, please follow these steps:
-
-1.  In the top right-hand corner, click on the wallet-like icon.
-    
-2.  In the section named "Balance", you’ll find the button "Withdraw". Click on it to proceed.
-    
-3.  Enter the sum you would like to withdraw in addition to your e-wallet address, then click on "Withdraw" again.
-    
-
-A ESP: Para retirar fondos, sigue estos pasos:
+Para retirar fondos, sigue estos pasos:
 
 1.  En la esquina superior derecha, haz click en el icono de billetera.
-    
 2.  En el apartado "Saldo" que aparecerá, encontrarás un botón "Retirar". Haz click para iniciar.
-    
 3.  Introduce el importe que deseas retirar junto con la dirección de tu billetera, luego haz click en "Retirar".
-    
 
-I made a deposit 30 minutes ago but it hasn’t yet been credited to my account. What happened? / He depositado hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
+## I made a deposit 30 minutes ago but it hasn’t yet been credited to my account. What happened? / He depositado hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
 
 A ENG: Your transaction is being processed. Odds96 requests a certain number of blockchain confirmations depending on the cryptocurrency you chose. For example, Bitcoin only requires one confirmation. To track the status of your deposit, you can click on the wallet-like icon and scroll down to "Transactions". Clicking on the Hash link will take you to the network page related to this transaction. Currently, we are using Blockcypher. You can check the number of blockchain confirmations in the bottom right-hand corner.
 
@@ -496,5 +468,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTI1MjIxMiwxMjg0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbMTk0MDM0NzQxMCwxMjg0MDY2MTE4XX0=
 -->
