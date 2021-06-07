@@ -327,17 +327,9 @@ Odds96 does not offer this option at the moment.
 
 To add a match to "Favorites", click on the star located to the left of the team’s name. All selected matches can be found in "Favorites".
 
-Is ‘cash-out’ available? / ¿Está disponible la opción de cash-out?
+## Why do odds change?
 
-A ENG: We do not offer this option at the moment.
-
-A ESP: Esta opción aún no está disponible.
-
-Why do odds change? / ¿Por qué se actualizan y cambian las cuotas?
-
-A ENG: All selections and odds are offered at our own discretion. They change depending on the match score, time and other factors.
-
-A ESP: Todas las selecciones y cuotas se ofrecen a nuestra propia discreción y cambian en función del resultado del partido, tiempo u otros factores.
+All selections and odds are offered at our own discretion. They change depending on the match score, time and other factors.
 
 # Casino
 
@@ -379,6 +371,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ5OTQxODksMTQ3NzczODQ3OSwtMj
-c3OTUwNDA4LDEyNjIxMTcxMDQsLTEzMTc5MTQ1NTJdfQ==
+eyJoaXN0b3J5IjpbMTk2ODI2MzYxMCwxNDc3NzM4NDc5LC0yNz
+c5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkxNDU1Ml19
 -->
