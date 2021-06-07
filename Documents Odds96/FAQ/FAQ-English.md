@@ -177,15 +177,13 @@ Your transaction is being processed. Odds96 requests a certain number of blockch
 
 We do not offer this option for the moment.
 
-## Where can I find the information about my withdrawal and its status? / ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
+## Where can I find the information about my withdrawal and its status?
 
-A ENG: This information can be found in your account. Click on the wallet-like icon and scroll down to "Transactions".
+This information can be found in your account. Click on the wallet-like icon and scroll down to "Transactions".
 
-A ESP: Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
+## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 
-I’ve tried to withdraw funds but the money was returned to my account balance. What should I do? / He intentado retirar fondos pero el dinero fue devuelto a mi cuenta. ¿Qué debería hacer?
-
-A ENG: Please contact our support team at: support@odds96.com.
+Please contact our support team at: support@odds96.com.
 
 A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
 
@@ -472,5 +470,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTE5ODEwMywtMTMxNzkxNDU1Ml19
+eyJoaXN0b3J5IjpbMTI2MjExNzEwNCwtMTMxNzkxNDU1Ml19
 -->
