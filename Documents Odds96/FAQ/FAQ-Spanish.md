@@ -87,33 +87,20 @@ El ID de tu cuenta es el email que usaste para registrarte en nuestra página we
 
 Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
 
-##Is it possible to set a deposit limit? I think I may have gambling addiction. / ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
+## ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
 
-A ENG: At the moment, Odds96 is not offering this option. If you feel that you may have a problem, it is important that you seek help. Never spend more than you can afford.
+Esta opción no está disponible todavía. Si crees que puedes tener un problema, es importante que busques ayuda. Nunca gastes más de lo que puedas pagar.
 
-A ESP: Esta opción no está disponible todavía. Si crees que puedes tener un problema, es importante que busques ayuda. Nunca gastes más de lo que puedas pagar.
+## ¿Es posible cambiar la visualización de BTC en USD?
 
-Is it possible to display BTC in US dollars? / ¿Es posible cambiar la visualización de BTC en USD?
+Para cambiar tu visualización de moneda, sigue estos pasos:
 
-A ENG: To change your currency display preference, follow these steps:
-
--   In the upper right-hand corner, click on your ‘Account Balance’.
-    
--   In the window that appears below, you can choose the currency display option that you prefer.
-    
-
-Important! The exchange rate is approximate. All your bets and transactions will be settled in the currency that you initially chose when registering.
-
-A ESP: Para cambiar tu visualización de moneda, sigue estos pasos:
-
--   En la esquina superior derecha haz click en el Saldo de tu cuenta,
-    
+-   En la esquina superior derecha haz click en el "Saldo" de tu cuenta,
 -   En la ventanilla emergente selecciona la opción de visualización que te convenga.
     
-
 ¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
-Is it possible to log out remotely? / ¿Puedo cerrar sesión de forma remota?
+## ¿Puedo cerrar sesión de forma remota?
 
 A ENG: This isn’t an option at the current moment.
 
@@ -557,5 +544,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjM2NTMyMCwxMjg0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbODU2MzI3NjI4LDEyODQwNjYxMThdfQ==
 -->
