@@ -293,17 +293,13 @@ Odds96 does not offer these types of bets.
 
 ## I’ve placed a bet but there is no information about it in my betting history. What should I do?
 
-A ENG: Please contact our support team.
+Please contact our support team.
 
-A ESP: Por favor, contacta con nuestro equipo de soporte.
+## My bet was settled incorrectly. What should I do?
 
-My bet was settled incorrectly. What should I do? / Mi apuesta no se ha liquidado correctamente. ¿Qué debería hacer?
+In the unlikely event that your bet has been settled incorrectly, please contact our support team.
 
-A ENG: In the unlikely event that your bet has been settled incorrectly, please contact our support team.
-
-A ESP: En el caso poco probable de que tu apuesta no se haya liquidado correctamente, puedes contactar a nuestro equipo de soporte.
-
-How do you settle a bet on an unfinished tennis match where one of the players refused to continue or was disqualified? / ¿Cómo se resuelve una apuesta por un partido de tenis que no ha terminado porque uno de los jugadores se niega a continuar o ha sido descalificado?
+## How do you settle a bet on an unfinished tennis match where one of the players refused to continue or was disqualified? / ¿Cómo se resuelve una apuesta por un partido de tenis que no ha terminado porque uno de los jugadores se niega a continuar o ha sido descalificado?
 
 A ENG: All bets on results that remain undecided are declared void.
 
@@ -397,6 +393,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzczODQ3OSwtMjc3OTUwNDA4LDEyNj
-IxMTcxMDQsLTEzMTc5MTQ1NTJdfQ==
+eyJoaXN0b3J5IjpbMTkyMTQyMTk4NSwxNDc3NzM4NDc5LC0yNz
+c5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkxNDU1Ml19
 -->
