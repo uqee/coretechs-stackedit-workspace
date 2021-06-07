@@ -213,57 +213,34 @@ En general, hay tres razones principales por las cuales tu apuesta puede haber s
 
 -   El importe de tu apuesta es demasiado alto.
 -   Han cambiado las cuotas desde el momento en que has colocado tu apuesta y cuando la hemos confirmado.
-
 -   Ha surgido un problema con el servidor automatizado.
-    
 
-I made a mistake while placing my bet. Can I cancel it? / Me he equivocado al colocar mi apuesta. ¿Puedo cancelarla?
+## Me he equivocado al colocar mi apuesta. ¿Puedo cancelarla?
 
-A ENG: Always check that your betting slip is correct before confirming. As stated in our Terms and Conditions, we can never change, modify or cancel any bet that has been confirmed by a client.
+Antes de confirmar tu apuesta, siempre verifica que el talón de apuesta sea correcto. Según nuestros Términos y Condiciones, está prohibido cambiar, modificar o cancelar ninguna apuesta confirmada por un cliente.
 
-A ESP: Antes de confirmar tu apuesta, siempre verifica que el talón de apuesta sea correcto. Según nuestros Términos y Condiciones, está prohibido cambiar, modificar o cancelar ninguna apuesta confirmada por un cliente.
+## El partido ha terminado pero mi apuesta no se ha liquidado, ¿por qué?
 
-The match has ended but my bet has not yet been settled yet. Why? / El partido ha terminado pero mi apuesta no se ha liquidado, ¿por qué?
+Los retrasos suelen ocurrir cuando nuestro sistema está esperando la verificación del resultado del partido. Los retrasos son más cortos para los eventos más populares y pueden ser un poco más largos para los eventos del nivel más bajo.
 
-A ENG: A delay can occur when our system is waiting for the verification of the match result. The delays are shorter for popular events and might be a bit longer for low-profile events.
+## ¿Cómo se resuelve el mercado de tarjetas si a un jugador le han sacado una tarjeta roja?
 
-A ESP: Los retrasos suelen ocurrir cuando nuestro sistema está esperando la verificación del resultado del partido. Los retrasos son más cortos para los eventos más populares y pueden ser un poco más largos para los eventos del nivel más bajo.
+Una tarjeta amarilla cuenta como una tarjeta. Una tarjeta roja cuenta como dos tarjetas. Si un jugador recibe la segunda amarilla, que comportaría una expulsión, la segunda tarjeta amarilla no cuenta. El cómputo total de tarjetas en este caso sería 3 (1 - por la primera tarjeta amarilla recibida, 2 - por la tarjeta roja).
 
-How is the market of cards settled when a red card has been shown to a player? / ¿Cómo se resuelve el mercado de tarjetas si a un jugador le han sacado una tarjeta roja?
+## ¿Aceptan apuestas por el tiempo reglamentario o por el tiempo reglamentario incluyendo la prórroga?
 
-A ENG: A yellow card counts as one card. A red card counts as two cards. If a player receives the second yellow card that leads to a red card, this yellow card does not count. Therefore, in this case, one player cannot receive more than three cards (1 - for the first yellow card, 2 - for the red card).
+Aceptamos apuestas por el tiempo reglamentario y por el tiempo reglamentario incluyendo la prórroga. Si una selección cubre el partido entero, encontrarás una nota entre paréntesis "(prórroga incl.)".
 
-A ESP: Una tarjeta amarilla cuenta como una tarjeta. Una tarjeta roja cuenta como dos tarjetas. Si un jugador recibe la segunda amarilla, que comportaría una expulsión, la segunda tarjeta amarilla no cuenta. El cómputo total de tarjetas en este caso sería 3 (1 - por la primera tarjeta amarilla recibida, 2 - por la tarjeta roja).
+## No consigo encontrar el evento por el que quiero apostar. ¿Puedo dejar una sugerencia?
 
-Do you accept bets on regular time or on regular time including overtime? / ¿Aceptan apuestas por el tiempo reglamentario o por el tiempo reglamentario incluyendo la prórroga?
+Esta opción aún no está disponible.
 
-A ENG: We accept bets on regular time as well as on regular time including overtime. If a bet covers the whole match, we add a note in parenthesis "(incl. overtime)".
+## ¿Cuáles son los ajustes del talón de apuestas?
 
-A ESP: Aceptamos apuestas por el tiempo reglamentario y por el tiempo reglamentario incluyendo la prórroga. Si una selección cubre el partido entero, encontrarás una nota entre paréntesis "(prórroga incl.)".
-
-I can’t find the event that I want to bet on. Can I somehow suggest that you add it? / No consigo encontrar el evento por el que quiero apostar. ¿Puedo dejar una sugerencia?
-
-A ENG: Odds96 does not offer this option at the moment.
-
-A ESP: Esta opción aún no está disponible.
-
-What are the bet slip settings? / ¿Cuáles son los ajustes del talón de apuestas?
-
-A ENG: In the bet slip settings you can choose out of three options to handle odds changes:
-
--   Accept increases - accept only increases by default and ask for confirmation in case of a decrease,
-    
--   Accept any changes - accept any changes by default,
-    
--   Ask for confirmation - ask for confirmation when the odds increase or decrease.
-    
-
-A ESP: Para gestionar el cambio de cuotas, en los ajustes del talón de apuestas puedes seleccionar una de tres opciones disponibles:
+Para gestionar el cambio de cuotas, en los ajustes del talón de apuestas puedes seleccionar una de tres opciones disponibles:
 
 -   Aceptar solo cuotas mayores - aceptar solo las cuotas mayores por defecto y solicitar confirmación si las cuotas bajan,
-    
 -   Aceptar cualquier cambio de cuotas - aceptar cualquier cambio de cuotas por defecto,
-    
 -   Solicitar confirmación - solicitar confirmación si las cuotas suben y bajan.
     
 
@@ -424,5 +401,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNzcyMDAsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTE0NzYwNzA1NzQsMTI4NDA2NjExOF19
 -->
