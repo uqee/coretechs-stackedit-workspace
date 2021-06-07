@@ -191,23 +191,17 @@ Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis
 
 ## ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
 
-A ENG: We do not charge any additional fees for making deposits, however,  blockchain networks might do so.
+Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
-A ESP: Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
+## ¿Puedo cancelar mi retirada?
 
-Can I cancel my withdrawal? / ¿Puedo cancelar mi retirada?
+Esta opción aún no está disponible.
 
-A ENG: We do not offer this option at the moment.
+## He enviado los documentos necesarios para verificar mi cuenta pero mi retirada no se ha efectuado todavía. ¿Qué debería hacer?
 
-A ESP: Esta opción aún no está disponible.
+Por favor, espera hasta que finalice el proceso de verificación.
 
-I’ve already submitted my documents for the purposes of account verification but the withdrawal I requested has not yet been completed. What should I do? / He enviado los documentos necesarios para verificar mi cuenta pero mi retirada no se ha efectuado todavía. ¿Qué debería hacer?
-
-A ENG: Please wait until the verification process has finished.
-
-A ESP: Por favor, espera hasta que finalice el proceso de verificación.
-
-# Betting
+# Apuestas Deportivas
 
 What is the minimum bet? / ¿Cuál es el importe mínimo que puedo apostar?
 
@@ -448,5 +442,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkxODI1MTcsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbMzQ2MTE2MzkzLDEyODQwNjYxMThdfQ==
 -->
