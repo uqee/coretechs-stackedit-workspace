@@ -219,33 +219,19 @@ Please wait until the verification process has finished.
 
 The minimum bet varies depending on the cryptocurrency you choose: BTC - 0.00002, ETH - 0.0005, USDT - 1.
 
-## What is the maximum bet? / ¿Cuál es el importe máximo que puedo apostar?
+## What is the maximum bet?
 
-A ENG: Maximum bet amounts can vary based on a lot of factors, such as the type of sport, league, tournament or even the market.
+Maximum bet amounts can vary based on a lot of factors, such as the type of sport, league, tournament or even the market.
 
-A ESP: El importe máximo depende de varios factores como el tipo de deporte, liga, campeonato o mercado.
+## Why was my bet rejected?
 
-Why was my bet rejected? / ¿Por qué ha sido rechazada mi apuesta?
-
-A ENG: Generally, there are three main reasons as to why your bet may have been rejected:
+Generally, there are three main reasons as to why your bet may have been rejected:
 
 -   The stake you have placed is too high.
-    
 -   The odds have changed in the period between placing the bet and confirmation.
-    
 -   There is an issue with the automated server.
-    
 
-A ESP: En general, hay tres razones principales por las cuales tu apuesta puede haber sido rechazada:
-
--   El importe de tu apuesta es demasiado alto.
-    
--   Han cambiado las cuotas desde el momento en que has colocado tu apuesta y cuando la hemos confirmado.
-    
--   Ha surgido un problema con el servidor automatizado.
-    
-
-I made a mistake while placing my bet. Can I cancel it? / Me he equivocado al colocar mi apuesta. ¿Puedo cancelarla?
+## I made a mistake while placing my bet. Can I cancel it?
 
 A ENG: Always check that your betting slip is correct before confirming. As stated in our Terms and Conditions, we can never change, modify or cancel any bet that has been confirmed by a client.
 
@@ -452,6 +438,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjM4NjMwOCwxMjYyMTE3MTA0LC0xMz
+eyJoaXN0b3J5IjpbLTI3Nzk1MDQwOCwxMjYyMTE3MTA0LC0xMz
 E3OTE0NTUyXX0=
 -->
