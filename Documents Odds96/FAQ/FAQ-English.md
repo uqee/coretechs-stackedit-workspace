@@ -175,11 +175,9 @@ Your transaction is being processed. Odds96 requests a certain number of blockch
 
 ## Can I top up my account in a currency other than crypto?
 
-A ENG: We do not offer this option for the moment.
+We do not offer this option for the moment.
 
-A ESP: Esta opción no está disponible todavía.
-
-Where can I find the information about my withdrawal and its status? / ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
+## Where can I find the information about my withdrawal and its status? / ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
 
 A ENG: This information can be found in your account. Click on the wallet-like icon and scroll down to "Transactions".
 
@@ -474,5 +472,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzEyMjUzOSwtMTMxNzkxNDU1Ml19
+eyJoaXN0b3J5IjpbMTE4NTE5ODEwMywtMTMxNzkxNDU1Ml19
 -->
