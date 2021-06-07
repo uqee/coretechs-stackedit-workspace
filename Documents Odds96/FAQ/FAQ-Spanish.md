@@ -289,7 +289,7 @@ Todas las apuestas en mercados donde no se haya decidido el resultado serán nul
 
 ## ¿Cómo se resuelven las apuestas como Más de 1.5 o Menos de 1.5 en MMA?
 
-Estas selecciones indican el número total de asaltos.
+Estas selecciones indican el número total de asaltos completados.
 
 ## ¿Qué son los partidos de SRL?
 
@@ -343,6 +343,6 @@ Para obtener más información, por favor, contáctanos enviando un email a [sup
 
 Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzgxNzQyNiw3ODcyMzY4MzIsLTEwMz
-E3NjY3NDEsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbODI4MDg4OTI3LDE3MDc4MTc0MjYsNzg3Mj
+M2ODMyLC0xMDMxNzY2NzQxLDEyODQwNjYxMThdfQ==
 -->
