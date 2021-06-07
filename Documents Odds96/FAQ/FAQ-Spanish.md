@@ -311,10 +311,6 @@ Esta opción aún no está disponible.
 
 Para agregar un partido a "Favoritos", haz click en la estrella situada a la izquierda del nombre del equipo. Todos los equipos seleccionados se encuentran en "Favoritos".
 
-## ¿Está disponible la opción de cash-out?
-
-Esta opción aún no está disponible.
-
 ## ¿Por qué se actualizan y cambian las cuotas?
 
 Todas las selecciones y cuotas se ofrecen a nuestra propia discreción y cambian en función del resultado del partido, tiempo u otros factores.
@@ -345,10 +341,8 @@ Para obtener más información, por favor, contáctanos enviando un email a [sup
 
 ## ¿Cuentan con una aplicación para iOS/Android?
 
-A ENG: Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
-
-A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
+Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTUxMjQ3MSwtMTAzMTc2Njc0MSwxMj
+eyJoaXN0b3J5IjpbLTE5NjIzMjk3MiwtMTAzMTc2Njc0MSwxMj
 g0MDY2MTE4XX0=
 -->
