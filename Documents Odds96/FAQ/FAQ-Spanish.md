@@ -102,15 +102,11 @@ Para cambiar tu visualización de moneda, sigue estos pasos:
 
 ## ¿Puedo cerrar sesión de forma remota?
 
-A ENG: This isn’t an option at the current moment.
+Esta opción no está disponible todavía.
 
-A ESP: Esta opción no está disponible todavía.
+## ¿Dónde puedo encontrar las estadísticas de partidos?
 
-Where can I find match statistics? / ¿Dónde puedo encontrar las estadísticas de partidos?
-
-A ENG: Match statistics can be found inside the match card in a special section which contains an automatic match tracker.
-
-A ESP: Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
+Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
 
 Is it safe to upload my identity documents to your system? / ¿Es seguro agregar y enviar mis documentos de identificación?
 
@@ -544,5 +540,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MzI3NjI4LDEyODQwNjYxMThdfQ==
+eyJoaXN0b3J5IjpbLTY5MzY1MjUwNywxMjg0MDY2MTE4XX0=
 -->
