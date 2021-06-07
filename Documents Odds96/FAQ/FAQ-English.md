@@ -299,37 +299,27 @@ Please contact our support team.
 
 In the unlikely event that your bet has been settled incorrectly, please contact our support team.
 
-## How do you settle a bet on an unfinished tennis match where one of the players refused to continue or was disqualified? / ¿Cómo se resuelve una apuesta por un partido de tenis que no ha terminado porque uno de los jugadores se niega a continuar o ha sido descalificado?
+## How do you settle a bet on an unfinished tennis match where one of the players refused to continue or was disqualified?
 
-A ENG: All bets on results that remain undecided are declared void.
+All bets on results that remain undecided are declared void.
 
-A ESP: Todas las apuestas en mercados donde no se haya decidido el resultado serán nulas.
+## How do you settle bets like Total Over 1.5 and Total Under 1.5 for MMA?
 
-How do you settle bets like Total Over 1.5 and Total Under 1.5 for MMA? / ¿Cómo se resuelven las apuestas como Más de 1.5 o Menos de 1.5 en MMA?
+These bets indicate the number of rounds played.
 
-A ENG: These bets indicate the number of rounds played.
+## What are SRL matches?
 
-A ESP: Estas selecciones indican el número total de asaltos.
+SRL stands for ‘Simulated Reality League’. These are virtual matches simulated with the help of a database. These matches are not real and therefore there are no real teams taking part in them.
 
-What are SRL matches? / ¿Qué son los partidos de SRL?
+## I cannot find the "Live" page.
 
-A ENG: SRL stands for ‘Simulated Reality League’. These are virtual matches simulated with the help of a database. These matches are not real and therefore there are no real teams taking part in them.
+When choosing any sport, you’ll automatically be directed to "Live".
 
-A ESP: SRL es la abreviación de la Liga de Realidad Simulada. Se trata de partidos virtuales simulados con la ayuda de una base de datos. Estos partidos no son reales y ningún equipo real participa en ellos.
+## Are you going to cover the match between X and X?
 
-I cannot find the "Live" page. / No encuentro la página "En Vivo".
+All matches are offered at our own discretion.
 
-A ENG: When choosing any sport, you’ll automatically be directed to "Live".
-
-A ESP: Al elegir cualquier deporte serás redirigido a la página "En Vivo".
-
-Are you going to cover the match between X and X? / ¿Vais a cubrir el partido entre X y X?
-
-A ENG: All matches are offered at our own discretion.
-
-A ESP: Todos los partidos se ofrecen a nuestra propia discreción.
-
-Can I add certain teams to "Favorites"? / ¿Puedo agregar equipos a "Favoritos"?
+## Can I add certain teams to "Favorites"?
 
 A ENG: Odds96 does not offer this option at the moment.
 
@@ -393,6 +383,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTQyMTk4NSwxNDc3NzM4NDc5LC0yNz
+eyJoaXN0b3J5IjpbLTkzNDgzOTQwOCwxNDc3NzM4NDc5LC0yNz
 c5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkxNDU1Ml19
 -->
