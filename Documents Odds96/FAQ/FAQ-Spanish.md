@@ -287,43 +287,31 @@ En el caso poco probable de que tu apuesta no se haya liquidado correctamente, p
 
 Todas las apuestas en mercados donde no se haya decidido el resultado serán nulas.
 
-## How do you settle bets like Total Over 1.5 and Total Under 1.5 for MMA? / ¿Cómo se resuelven las apuestas como Más de 1.5 o Menos de 1.5 en MMA?
+## ¿Cómo se resuelven las apuestas como Más de 1.5 o Menos de 1.5 en MMA?
 
-A ENG: These bets indicate the number of rounds played.
+Estas selecciones indican el número total de asaltos.
 
-A ESP: Estas selecciones indican el número total de asaltos.
+## ¿Qué son los partidos de SRL?
 
-What are SRL matches? / ¿Qué son los partidos de SRL?
+SRL es la abreviación de la Liga de Realidad Simulada. Se trata de partidos virtuales simulados con la ayuda de una base de datos. Estos partidos no son reales y ningún equipo real participa en ellos.
 
-A ENG: SRL stands for ‘Simulated Reality League’. These are virtual matches simulated with the help of a database. These matches are not real and therefore there are no real teams taking part in them.
+## No encuentro la página "En Vivo".
 
-A ESP: SRL es la abreviación de la Liga de Realidad Simulada. Se trata de partidos virtuales simulados con la ayuda de una base de datos. Estos partidos no son reales y ningún equipo real participa en ellos.
+Al elegir cualquier deporte serás redirigido a la página "En Vivo".
 
-I cannot find the "Live" page. / No encuentro la página "En Vivo".
+## ¿Van a cubrir el partido entre X y X?
 
-A ENG: When choosing any sport, you’ll automatically be directed to "Live".
+Todos los partidos se ofrecen a nuestra propia discreción.
 
-A ESP: Al elegir cualquier deporte serás redirigido a la página "En Vivo".
+## ¿Puedo agregar algunos equipos a "Favoritos"?
 
-Are you going to cover the match between X and X? / ¿Vais a cubrir el partido entre X y X?
+Esta opción aún no está disponible.
 
-A ENG: All matches are offered at our own discretion.
+## ¿Cómo funciona "Favoritos"?
 
-A ESP: Todos los partidos se ofrecen a nuestra propia discreción.
+Para agregar un partido a "Favoritos", haz click en la estrella situada a la izquierda del nombre del equipo. Todos los equipos seleccionados se encuentran en "Favoritos".
 
-Can I add certain teams to "Favorites"? / ¿Puedo agregar equipos a "Favoritos"?
-
-A ENG: Odds96 does not offer this option at the moment.
-
-A ESP: Esta opción aún no está disponible.
-
-How does "Favorites" work? / ¿Cómo funciona "Favoritos"?
-
-A ENG: To add a match to "Favorites", click on the star located to the left of the team’s name. All selected matches can be found in "Favorites".
-
-A ESP: Para agregar un partido a "Favoritos", haz click en la estrella situada a la izquierda del nombre del equipo. Todos los equipos seleccionados se encuentran en "Favoritos".
-
-Is ‘cash-out’ available? / ¿Está disponible la opción de cash-out?
+## Is ‘cash-out’ available? / ¿Está disponible la opción de cash-out?
 
 A ENG: We do not offer this option at the moment.
 
@@ -375,6 +363,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNTYzNzY1LC0xMDMxNzY2NzQxLDEyOD
-QwNjYxMThdfQ==
+eyJoaXN0b3J5IjpbLTY5NDg0ODk5MSwtMTAzMTc2Njc0MSwxMj
+g0MDY2MTE4XX0=
 -->
