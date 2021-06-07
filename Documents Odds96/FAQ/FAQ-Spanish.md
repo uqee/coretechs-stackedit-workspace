@@ -2,7 +2,7 @@
 
 # Cuenta
 
-Why do I have to verify my Account? / ¿Por qué tengo que verificar mi cuenta?
+## Why do I have to verify my Account? / ¿Por qué tengo que verificar mi cuenta?
 
 ENG: Verification is required to confirm the identity of an account owner in line with standard account verification procedures. It’s also necessary when suspicious activity is detected. We will ask you to provide several photos or screenshots of certain documents at the relevant stages of the verification process. Alternatively, you can upload these documents via the ‘Verification’ page.
 
@@ -633,5 +633,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTIwNDY0OTk4ODgsMTI4NDA2NjExOF19
 -->
