@@ -165,10 +165,6 @@ Para retirar fondos, sigue estos pasos:
 
 Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
 
-## ¿Puedo hacer un depósito en otra moneda que no sea criptomoneda?
-
-Sí, puedes hacer depósitos en USD.
-
 ## ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
 
 Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
@@ -177,31 +173,23 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
-## What are the withdrawal limits? / ¿Hay algún límite establecido para las retiradas?
+## ¿Hay algún límite establecido para las retiradas?
 
-A ENG: The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
+El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC - 0.00036, ETH - 0.0096, USDT - 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
 
-A ESP: El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC - 0.00036, ETH - 0.0096, USDT - 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
+## ¿Puedo depositar Bitcoin usando la red de protocolo BEP2 o Tron?
 
-Can I deposit Bitcoin over BEP2 or Tron network? / ¿Puedo depositar Bitcoin usando la red de protocolo BEP2 o Tron?
+Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de la red de protocolo Bitcoin. No puedes enviar Bitcoin usando otras redes de protocolo como BEP2, BEP20, TRC-20, ERC-20.
 
-A ENG: If you are going to deposit Bitcoin, please note that you can send them only via the Bitcoin protocol network. You cannot send Bitcoin via other protocol networks such as BEP2, BEP20, TRC-20 or ERC-20.
+## ¿Puedo enviar tockens ERC-20 a la dirección de mi cuenta registrada con la moneda Ethereum?
 
-A ESP: Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de la red de protocolo Bitcoin. No puedes enviar Bitcoin usando otras redes de protocolo como BEP2, BEP20, TRC-20, ERC-20.
+Si al haber registrado tu cuenta en Odds96 has seleccionado Ethereum, solo podrás depositar Ethereum coin. Si envías otros tockens ERC-20 a la dirección de tu cuenta, tu depósito se perderá.
 
-Can I send ERC-20 tokens to my Ethereum deposit address on Odds96? / ¿Puedo enviar tockens ERC-20 a la dirección de mi cuenta registrada con la moneda Ethereum?
+## ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
 
-A ENG: The Ethereum deposit address on your account has been created for receiving Ethereum coins only. Sending any other ERC-20 currency tokens to this address will result in the loss of your deposit.
+Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis, ETH - 0.003, USDT - 4.
 
-A ESP: Si al haber registrado tu cuenta en Odds96 has seleccionado Ethereum, solo podrás depositar Ethereum coin. Si envías otros tockens ERC-20 a la dirección de tu cuenta, tu depósito se perderá.
-
-Is there a transaction fee for withdrawals? / ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
-
-A ENG: Transaction fees vary depending on the cryptocurrency you chose: BTC - 0, ETH - 0.003, USDT - 4.
-
-A ESP: Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis, ETH - 0.003, USDT - 4.
-
-Is there a transaction fee for deposits? / ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
+## ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
 
 A ENG: We do not charge any additional fees for making deposits, however,  blockchain networks might do so.
 
@@ -460,5 +448,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4NDQwMzYsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTEwNDkxODI1MTcsMTI4NDA2NjExOF19
 -->
