@@ -155,6 +155,7 @@ Examples of the outrights:
 - Baseball - National (American) League Winner
 - Volleyball - Italian Superlega Winner
 
+All outright bets regarding team’s or players’ statistics such as goals, corners, yellow and red cards are settled taking into account extra time in play-off matches. The goals scored in a penalty shootout do not count.
 
 Unless otherwise stated, outright markets are considered All-in Run or Not, therefore bets will stand on any team which does not complete all of its fixtures and either retires or forfeits the competition.
 
@@ -741,5 +742,5 @@ The examples of fast markets intervals:
 
 - If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY3MDk4NTVdfQ==
+eyJoaXN0b3J5IjpbODg0NzM5Mjc0XX0=
 -->
