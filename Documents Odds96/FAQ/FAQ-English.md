@@ -138,36 +138,26 @@ When registering, you simply need to verify your email address. Your driving lic
 
 Please contact our support team at: support@odds96.com[](mailto:support@odds96.com). Make sure to explain why you would like to reopen your account.
 
-A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com y explica porqué has decidido reactivar tu cuenta.
+## Can I open an account for someone else?
 
-Can I open an account for someone else? / ¿Puedo registrar una cuenta para alguien más?
+No, you cannot. An account should only ever be opened and accessed by the account holder. Find more info on this in our Terms & Conditions.
 
-A ENG: No, you cannot. An account should only ever be opened and accessed by the account holder. Find more info on this in our Terms & Conditions.
 
-A ESP: No, está prohibido. Solo el titular de la cuenta puede abrirla y acceder a ella. Más información está disponible en nuestros Términos y Condiciones.
+# Deposit & Withdrawal
 
-# Deposit & withdrawal
+## How long do withdrawals take?
 
-How long do withdrawals take? / ¿Cuánto se tarda en retirar?
+Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
 
-A ENG: Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
+## How do I make a deposit?
 
-A ESP: La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
-
-How do I make a deposit? / ¿Cómo hago un depósito?
-
-A ENG: There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
+There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
 
 1.  Register with one of the most popular e-wallet services like Binance or Copay (on their websites or Android/iOS apps).
-    
 2.  Buy crypto via a bank card or any other payment methods.
-    
-3.  Go to [Odds96.com](http://odds96.com).
-    
+3.  Go to [Odds96.com](http://odds96.com).  
 4.  In the top right-hand corner, click on the wallet-like icon.
-    
 5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
-    
 6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
     
 7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
@@ -517,5 +507,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDgxMzY2MywtMTMxNzkxNDU1Ml19
+eyJoaXN0b3J5IjpbODMyODIxNjM3LC0xMzE3OTE0NTUyXX0=
 -->
