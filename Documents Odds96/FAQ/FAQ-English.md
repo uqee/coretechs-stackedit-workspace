@@ -275,36 +275,23 @@ You can add up to  20 events to a parlay.
 
 If an event is not finalized or ‘abandoned’ after initiation (because of disqualification, interruption, refusal, changes in the results, etc), all undecided bets will be declared void. Please read our General Betting Rules for further details.
 
-A ESP: Si un evento no ha terminado o ha sido abandonado después del inicio (debido a descalificación, interrupción, rechazo, cambios en el resultado, etc), todas las apuestas en mercados donde no se haya decidido el resultado serán nulas. Para obtener más información, por favor, lee nuestras Reglas Generales de Apuestas.
+## Can you increase my maximum stake limit?
 
-Can you increase my maximum stake limit? / ¿Pueden aumentar mi límite del importe de apuesta?
+Odds96 does not offer this option at the moment.
 
-A ENG: Odds96 does not offer this option at the moment.
+## What event should I bet on? Give me some advice!
 
-A ESP: Esta opción aún no está disponible.
+We do not provide any advice about betting. It must be your own choice and at your own risk.
 
-  
-  
+## Asian Handicap - Quarter Lines (Х.25/Х.75)
 
-What event should I bet on? Give me some advice! / ¡Aconséjenme partido por el que apostar!
+The quarter lines refer to values ending in .25 or .75 and are a little more complex than the other handicaps. They are also called double handicaps, as they are calculated using two virtual bets and handicaps. For example, the handicap -0.25 can also be written as (0, -0.5).
 
-A ENG: We do not provide any advice about betting. It must be your own choice and at your own risk.
+## Are system bets available on your website?
 
-A ESP: No proporcionamos ningún tipo de consejos sobre apuestas deportivas. Debe ser tu propia decisión y a tu propio riesgo.
+Odds96 does not offer these types of bets.
 
-Asian  Handicap - Quarter Lines (Х.25/Х.75) / Hándicap asiático de cuartos (Х.25/Х.75)
-
-A ENG: The quarter lines refer to values ending in .25 or .75 and are a little more complex than the other handicaps. They are also called double handicaps, as they are calculated using two virtual bets and handicaps. For example, the handicap -0.25 can also be written as (0, -0.5).
-
-A ESP: El hándicap asiático de cuartos ofrece las cuotas que terminan en .25 o .75 y por eso es un poco más complicado que otros hándicaps. También lo suelen llamar el hándicap doble como si colocáramos dos apuestas con hándicap. Por ejemplo, el hándicap de -0.25 se escribiría como (0, -0.5).
-
-Are system bets available on your website? / ¿Están disponibles las apuestas de sistema?
-
-A ENG: Odds96 does not offer these types of bets.
-
-A ESP: Este tipo de apuestas aún no está disponible en nuestra web.
-
-I’ve placed a bet but there is no information about it in my betting history. What should I do? / He realizado una apuesta pero no encuentro ningún tipo de información sobre ella en mi historial. ¿Qué debería hacer?
+## I’ve placed a bet but there is no information about it in my betting history. What should I do?
 
 A ENG: Please contact our support team.
 
@@ -410,6 +397,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzkxMzE3MCwtMjc3OTUwNDA4LDEyNj
+eyJoaXN0b3J5IjpbMTQ3NzczODQ3OSwtMjc3OTUwNDA4LDEyNj
 IxMTcxMDQsLTEzMTc5MTQ1NTJdfQ==
 -->
