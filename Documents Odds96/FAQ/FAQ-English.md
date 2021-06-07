@@ -251,7 +251,7 @@ The maximum coefficient is limited by the maximum payout.
 
 ## What is the maximum number of events that I can add to a parlay?
 
-You can add up to  20 events to a parlay.
+You can add up to 20 events to a parlay.
 
 ## An event that I bet on was interrupted. How will you settle my bet?
 
@@ -341,7 +341,7 @@ Please contact us at [support@odds96.com](mailto:support@odds96.com) for further
 
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDA0MTYsMTk2ODI2MzYxMCwxNDc3Nz
-M4NDc5LC0yNzc5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkxNDU1
-Ml19
+eyJoaXN0b3J5IjpbMTc5ODM4OTI2LDE5NjgyNjM2MTAsMTQ3Nz
+czODQ3OSwtMjc3OTUwNDA4LDEyNjIxMTcxMDQsLTEzMTc5MTQ1
+NTJdfQ==
 -->
