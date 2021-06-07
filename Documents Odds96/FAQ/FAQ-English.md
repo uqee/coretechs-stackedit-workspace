@@ -145,7 +145,7 @@ Please contact our support team at: [support@odds96.com](mailto:support@odds96.c
 No, you cannot. An account should only ever be opened and accessed by the account holder. Find more info on this in our Terms & Conditions.
 
 
-# Deposit & Withdrawal
+# Deposits & Withdrawals
 
 ## How long do withdrawals take?
 
@@ -357,7 +357,7 @@ Please contact us at [support@odds96.com](mailto:support@odds96.com) for further
 
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTY0MjYxNiwxOTY4MjYzNjEwLDE0Nz
-c3Mzg0NzksLTI3Nzk1MDQwOCwxMjYyMTE3MTA0LC0xMzE3OTE0
-NTUyXX0=
+eyJoaXN0b3J5IjpbLTE1NzE5MDkwMjQsMTk2ODI2MzYxMCwxND
+c3NzM4NDc5LC0yNzc5NTA0MDgsMTI2MjExNzEwNCwtMTMxNzkx
+NDU1Ml19
 -->
