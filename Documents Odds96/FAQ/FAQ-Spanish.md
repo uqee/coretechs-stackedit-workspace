@@ -242,27 +242,20 @@ Para gestionar el cambio de cuotas, en los ajustes del talón de apuestas puedes
 -   Aceptar solo cuotas mayores - aceptar solo las cuotas mayores por defecto y solicitar confirmación si las cuotas bajan,
 -   Aceptar cualquier cambio de cuotas - aceptar cualquier cambio de cuotas por defecto,
 -   Solicitar confirmación - solicitar confirmación si las cuotas suben y bajan.
-    
 
-What are single and multiple bets? / ¿Qué son una apuesta simple y una apuesta múltiple/combinada?
+## ¿Qué son una apuesta simple y una apuesta múltiple/combinada?
 
-A ENG: A single bet is when you pick the outcome of one event. If your bet wins, the odds will be multiplied by your stake. A multiple bet (also known as a parlay) is a bet that depends on the outcome of more than one event. This is effectively an accumulator and you’ll need to have predicted every event correctly to get a return. If you win, your stake will be multiplied by the total odds of the selected events.
+Una apuesta simple es cuando seleccionas el resultado de un evento deportivo. Si tu apuesta resulta ganadora, la cuota se multiplicará por el importe que has apostado. Una apuesta múltiple/combinada depende de los resultados de unos cuantos eventos. Para ganar esta apuesta, hay que predecir correctamente el resultado de cada partido. Si tu apuesta resulta ganadora, el importe que has apostado se multiplicará por el total de cuotas de los eventos seleccionados.
 
-A ESP: Una apuesta simple es cuando seleccionas el resultado de un evento deportivo. Si tu apuesta resulta ganadora, la cuota se multiplicará por el importe que has apostado. Una apuesta múltiple/combinada depende de los resultados de unos cuantos eventos. Para ganar esta apuesta, hay que predecir correctamente el resultado de cada partido. Si tu apuesta resulta ganadora, el importe que has apostado se multiplicará por el total de cuotas de los eventos seleccionados.
+## ¿Cuál es la cuota máxima para una apuesta combinada (parlay)?
 
-What are the maximum odds for a parlay? / ¿Cuál es la cuota máxima para una apuesta combinada (parlay)?
+La cuota máxima está limitada por el importe de pago máximo.
 
-A ENG: The maximum coefficient is limited by the maximum payout.
+## ¿Cuántos eventos puedo agregar a una apuesta combinada (parlay)?
 
-A ESP: La cuota máxima está limitada por el importe de pago máximo.
+Puedes agregar hasta 20 eventos.
 
-What is the maximum number of events that I can add to a parlay? / ¿Cuántos eventos puedo agregar a una apuesta combinada (parlay)?
-
-A ENG: You can add up to  20 events to a parlay.
-
-A ESP: Puedes agregar hasta 20 eventos.
-
-An event that I bet on was interrupted. How will you settle my bet? / Se ha interrumpido un evento por el que aposté. ¿Cómo se liquidará mi apuesta?
+## Se ha interrumpido un evento por el que aposté. ¿Cómo se liquidará mi apuesta?
 
 A ENG: If an event is not finalized or ‘abandoned’ after initiation (because of disqualification, interruption, refusal, changes in the results, etc), all undecided bets will be declared void. Please read our General Betting Rules for further details.
 
@@ -401,5 +394,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYwNzA1NzQsMTI4NDA2NjExOF19
+eyJoaXN0b3J5IjpbLTEwMzE3NjY3NDEsMTI4NDA2NjExOF19
 -->
