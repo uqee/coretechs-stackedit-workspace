@@ -108,44 +108,30 @@ Esta opción no está disponible todavía.
 
 Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
 
-Is it safe to upload my identity documents to your system? / ¿Es seguro agregar y enviar mis documentos de identificación?
+## ¿Es seguro agregar y enviar mis documentos de identificación?
 
-A ENG: Your privacy is our top priority. According to data protection laws, we treat any information that you send to us as strictly confidential. We receive your documents through an end-to-end communication system and your information is processed only within our company.
+Tu privacidad es nuestra máxima prioridad. De acuerdo con las leyes de protección de datos, tratamos cualquier información que nos envíes como estrictamente confidencial. Recibimos tus documentos a través del sistema de comunicación de extremo a extremo y los procesamos sólo dentro de nuestra empresa.
 
-A ESP: Tu privacidad es nuestra máxima prioridad. De acuerdo con las leyes de protección de datos, tratamos cualquier información que nos envíes como estrictamente confidencial. Recibimos tus documentos a través del sistema de comunicación de extremo a extremo y los procesamos sólo dentro de nuestra empresa.
+## ¿Puedo usar la cuenta de mi amigo?
 
-Can I use my friend's account? / ¿Puedo usar la cuenta de mi amigo?
+No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
 
-A ENG: No, you cannot. You can use only your own registered account. Moreover, our company policy states that there is a maximum of one account per user allowed. If you are found to be in possession of more than one account, all of your accounts will be suspended and access to your funds will be blocked.
+## Mi cuenta fue hackeada o robada. ¿Qué debo hacer?
 
-A ESP: No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
-My account was hacked. What should I do? / Mi cuenta fue hackeada o robada. ¿Qué debo hacer?
-
-A ENG: Please contact our support team at: support@odds96.com.
-
-A ESP: Por favor, contacta con nuestro equipo de soporte enviando un email a support@odds96.com
-
-  
-  
-  
-  
 
 # Registration
 
-How do I know if I’m eligible to register with Odds96? / ¿Tengo derecho a registrarme en Odds96?
+## ¿Tengo derecho a registrarme en Odds96?
 
-A ENG: In order to check if you are eligible to register, please read our Terms and Conditions.
+Para verificar si tienes derecho a registrarte en Odds96, visita la página con nuestros Términos y Condiciones.
 
-A ESP: Para verificar si tienes derecho a registrarte en Odds96, visita la página con nuestros Términos y Condiciones.
+## ¿Cómo puedo registrarme? ¿Hay algunos requisitos especiales?
 
-How do I register? Are there any special requirements? / ¿Cómo puedo registrarme? ¿Hay algunos requisitos especiales?
+Para registrarte en nuestra página web, solo tienes que verificar tu email.
 
-A ENG: To register on our website, you just need to verify your email address.
-
-A ESP: Para registrarte en nuestra página web, solo tienes que verificar tu email.
-
-Can I have more than one account with Odds96? / ¿Puedo tener más de una cuenta en Odds96?
+## ¿Puedo tener más de una cuenta en Odds96?
 
 A ENG: No, you cannot. Our company policy states that there is a maximum of one account per user allowed.If you are found to be in possession of more than one account, all of your accounts will be suspended and the access to your funds will be blocked.
 
@@ -540,5 +526,5 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzY1MjUwNywxMjg0MDY2MTE4XX0=
+eyJoaXN0b3J5IjpbNzQyNzI2MTE1LDEyODQwNjYxMThdfQ==
 -->
