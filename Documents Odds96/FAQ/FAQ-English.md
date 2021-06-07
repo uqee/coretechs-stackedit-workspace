@@ -263,23 +263,17 @@ In the bet slip settings you can choose out of three options to handle odds chan
 
 A single bet is when you pick the outcome of one event. If your bet wins, the odds will be multiplied by your stake. A multiple bet (also known as a parlay) is a bet that depends on the outcome of more than one event. This is effectively an accumulator and you’ll need to have predicted every event correctly to get a return. If you win, your stake will be multiplied by the total odds of the selected events.
 
-A ESP: Una apuesta simple es cuando seleccionas el resultado de un evento deportivo. Si tu apuesta resulta ganadora, la cuota se multiplicará por el importe que has apostado. Una apuesta múltiple/combinada depende de los resultados de unos cuantos eventos. Para ganar esta apuesta, hay que predecir correctamente el resultado de cada partido. Si tu apuesta resulta ganadora, el importe que has apostado se multiplicará por el total de cuotas de los eventos seleccionados.
+## What are the maximum odds for a parlay?
 
-What are the maximum odds for a parlay? / ¿Cuál es la cuota máxima para una apuesta combinada (parlay)?
+The maximum coefficient is limited by the maximum payout.
 
-A ENG: The maximum coefficient is limited by the maximum payout.
+## What is the maximum number of events that I can add to a parlay?
 
-A ESP: La cuota máxima está limitada por el importe de pago máximo.
+You can add up to  20 events to a parlay.
 
-What is the maximum number of events that I can add to a parlay? / ¿Cuántos eventos puedo agregar a una apuesta combinada (parlay)?
+## An event that I bet on was interrupted. How will you settle my bet?
 
-A ENG: You can add up to  20 events to a parlay.
-
-A ESP: Puedes agregar hasta 20 eventos.
-
-An event that I bet on was interrupted. How will you settle my bet? / Se ha interrumpido un evento por el que aposté. ¿Cómo se liquidará mi apuesta?
-
-A ENG: If an event is not finalized or ‘abandoned’ after initiation (because of disqualification, interruption, refusal, changes in the results, etc), all undecided bets will be declared void. Please read our General Betting Rules for further details.
+If an event is not finalized or ‘abandoned’ after initiation (because of disqualification, interruption, refusal, changes in the results, etc), all undecided bets will be declared void. Please read our General Betting Rules for further details.
 
 A ESP: Si un evento no ha terminado o ha sido abandonado después del inicio (debido a descalificación, interrupción, rechazo, cambios en el resultado, etc), todas las apuestas en mercados donde no se haya decidido el resultado serán nulas. Para obtener más información, por favor, lee nuestras Reglas Generales de Apuestas.
 
@@ -416,6 +410,6 @@ A ENG: Unfortunately, we do not have an iOS or Android app at the moment. Howeve
 
 A ESP: Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjA0Mzc3NywtMjc3OTUwNDA4LDEyNj
+eyJoaXN0b3J5IjpbMTc1NzkxMzE3MCwtMjc3OTUwNDA4LDEyNj
 IxMTcxMDQsLTEzMTc5MTQ1NTJdfQ==
 -->
