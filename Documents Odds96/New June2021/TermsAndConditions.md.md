@@ -203,13 +203,13 @@ The documents that a Client provided shall be not approved if:
 
 ### 8. Security
 
-8.1. You are fully responsible for ensuring that their Registered Email Address is secure and for preventing any third party from using that address. We shall not be liable for any loss or damage that is deemed or claimed to be incurred as a result of the exchange of messages between us and you as our Client using the Email Address you registered when opening your Account.
+8.1. You are fully responsible for ensuring that their registered email address is secure and for preventing any third party from using that address. We shall not be liable for any loss or damage that is deemed or claimed to be incurred as a result of the exchange of messages between us and you as our Client using the email address you registered when opening your account.
 
-8.2. You must maintain the confidentiality of the password you use for accessing the Website. Provided that the requested account information is correct, we have the right to assume that bets, deposits and withdrawals to/from the Account have been carried out by you. We recommend that you change your password regularly and never share it with a third party. Passwords must contain at least one letter, one number, and one special character. Each password must be at least eight characters in length. At the end of each session, we advise that you log out of the Services.
+8.2. You must maintain the confidentiality of the password you use for accessing the Website. Provided that the requested account information is correct, we have the right to assume that bets, deposits and withdrawals to/from the account have been carried out by you. We recommend that you change your password regularly and never share it with a third party. Passwords must contain at least one letter, one number, and one special character. Each password must be at least eight characters in length. At the end of each session, we advise that you log out of the Services.
 
-8.3. If you believe that any of the information about your Account is being used illegally by a third party, that your Account has been hacked or your password has become known to a third party, you must immediately notify us of this by contacting our Support team at [support@odds96.com](mailto:support@odds96.com).
+8.3. If you believe that any of the information about your account is being used illegally by a third party, that your account has been hacked or your password has become known to a third party, you must immediately notify us of this by contacting our support team at [support@odds96.com](mailto:support@odds96.com).
 
-8.4. If the Email Address you registered when opening your Account was hacked, you must notify us immediately. However, we may require that you provide additional information or documentation verifying your identity. Nonetheless, you are responsible for all actions performed using your Account, including third-party access, regardless of whether or not their access was authorised by you.
+8.4. If the email address you registered when opening your account was hacked, you must notify us immediately. However, we may require that you provide additional information or documentation verifying your identity. Nonetheless, you are responsible for all actions performed using your account, including third-party access, regardless of whether or not their access was authorised by you.
 
 ### 9. Force Majeure
 
@@ -248,6 +248,6 @@ ZeKApiJ9fSwiY29tbWVudHMiOnsidEVNdlJTd0xmUHlBWDdKNi
 I6eyJkaXNjdXNzaW9uSWQiOiJWS0M2OEgwbk81bkNiU2hEIiwi
 c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0J3Rg9C20L3Qvi
 DQvtCx0L3QvtCy0LjRgtGMIiwiY3JlYXRlZCI6MTYyMzE2MjYw
-NzYzOX19LCJoaXN0b3J5IjpbNDQ5MDcwNzE3LC01NjczNjMxNT
+NzYzOX19LCJoaXN0b3J5IjpbNzY4MzAxNjkzLC01NjczNjMxNT
 ddfQ==
 -->
