@@ -50,9 +50,7 @@ By using the Services, you agree to the provisions below:
 8.  You are solely responsible for reporting and accounting for any taxes applicable to you under applicable laws for any winnings that you receive while using our services.
 9.  You agree that you use the Services solely at your own discretion and at your own risk. You understand that by placing bets and playing casino games you take the risk of losing money you deposited into your account. You accept that you will be solely and fully responsible for any such loss.
 10. When placing bets and playing casino games using the Services, you should not use any information received in violation of the law in force in the country of your residence at the time of bet placement.
-
 11. By accepting these Terms and Conditions and/or registering on the Website in order to use it, you agree that from time to time we may carry out any identification, credit and other verification checks that are required by us and/or required in accordance with applicable laws and regulations (including, without limitation, compliance with anti-money laundering laws and regulations) and/or are requested by the relevant regulatory authorities for the use of our Website and our products in general. You agree to provide the requested information in connection with these verification checks. We have the right to suspend your account or restrict access to it in any way that we deem appropriate until the relevant checks have been completed to our satisfaction.
-
 12. You are not a Politically Exposed Person (PEP), i.e. a person holding significant public office (or who has held it at any time in the preceding year), having access to public funds or in a position of influence. PEPs include the readily identifiable family and associates of such persons.
 
 ### 4. No Warranties. Limitation of Liability
@@ -251,6 +249,6 @@ ZeKApiJ9fSwiY29tbWVudHMiOnsidEVNdlJTd0xmUHlBWDdKNi
 I6eyJkaXNjdXNzaW9uSWQiOiJWS0M2OEgwbk81bkNiU2hEIiwi
 c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0J3Rg9C20L3Qvi
 DQvtCx0L3QvtCy0LjRgtGMIiwiY3JlYXRlZCI6MTYyMzE2MjYw
-NzYzOX19LCJoaXN0b3J5IjpbMTY5MDE3NTQyNiwtNTY3MzYzMT
-U3XX0=
+NzYzOX19LCJoaXN0b3J5IjpbLTIxMTU2NjU2OTAsLTU2NzM2Mz
+E1N119
 -->
