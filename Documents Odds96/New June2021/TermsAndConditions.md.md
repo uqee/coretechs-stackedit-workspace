@@ -1,4 +1,4 @@
-<Version>Last updated: April 7, 2021</Version>
+<Version>Last updated: June X, 2021</Version>
 
 These Terms and Conditions and the documents referred to or indicated below (hereinafter collectively the “Terms and Conditions”) define the basic concepts, mutual rights and obligations according to which clients will be able to use the website Odds96.com (hereinafter “Odds96.com”, or the “Website”) and related gambling services offered on the Website (hereinafter collectively referred to as the “Services”).
 
@@ -235,13 +235,22 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 ### 11. Complaints
 
-12.1. If you have a complaint to make regarding our services, please contact us by email at [support@odds96.com](mailto:support@odds96.com) or by the customer support chat function.
+11.1. If you have a complaint to make regarding our services, please contact us by email at [support@odds96.com](mailto:support@odds96.com) or by the customer support chat function.
 
-12.2. You understand and accept that records on the Odds96’s server will act as final evidence in determining the outcome of any disputed situation.
+11.2. You understand and accept that records on the Odds96’s server will act as final evidence in determining the outcome of any disputed situation.
 
-12.3. The parties seek resolution of disputes by negotiation and/or mediation prior to arbitration.
+11.3. The parties seek resolution of disputes by negotiation and/or mediation prior to arbitration.
 
-12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
+11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Nzc4NTY3MCwtNTY3MzYzMTU3XX0=
+eyJkaXNjdXNzaW9ucyI6eyJWS0M2OEgwbk81bkNiU2hEIjp7In
+N0YXJ0IjoxNTIxLCJlbmQiOjE3MTEsInRleHQiOiIqKkkuIFBy
+b3ZpZGVyIEF2YWlsYWJpbGl0eSBQb2xpY3kqKlxuXG4qKklJLi
+BQcml2YWN5IFBvbGljeSoqXG5cbioqSUlJLiBSZXNwb25zaWJs
+ZeKApiJ9fSwiY29tbWVudHMiOnsidEVNdlJTd0xmUHlBWDdKNi
+I6eyJkaXNjdXNzaW9uSWQiOiJWS0M2OEgwbk81bkNiU2hEIiwi
+c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0J3Rg9C20L3Qvi
+DQvtCx0L3QvtCy0LjRgtGMIiwiY3JlYXRlZCI6MTYyMzE2MjYw
+NzYzOX19LCJoaXN0b3J5IjpbMTY5MDE3NTQyNiwtNTY3MzYzMT
+U3XX0=
 -->
