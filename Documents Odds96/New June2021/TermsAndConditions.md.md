@@ -204,61 +204,19 @@ The documents that a Client provided shall be not approved if:
 
 7.9. When opening an Account or using the Website, you are responsible for verifying whether gambling is legal in a jurisdiction where you are located or residing (please read our Provider Availability Policy).
 
-### 8. Deposits and Withdrawals
+### 8. Security
 
-8.1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your Account.
+8.1. You are fully responsible for ensuring that their Registered Email Address is secure and for preventing any third party from using that address. We shall not be liable for any loss or damage that is deemed or claimed to be incurred as a result of the exchange of messages between us and you as our Client using the Email Address you registered when opening your Account.
 
-8.2.You accept and acknowledge that to withdraw funds from your Account Balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
+8.2. You must maintain the confidentiality of the password you use for accessing the Website. Provided that the requested account information is correct, we have the right to assume that bets, deposits and withdrawals to/from the Account have been carried out by you. We recommend that you change your password regularly and never share it with a third party. Passwords must contain at least one letter, one number, and one special character. Each password must be at least eight characters in length. At the end of each session, we advise that you log out of the Services.
 
-1.  You deposit 100 USDT. Your Account Balance is 100 USDT.
-2.  You bet 20 USDT with the odds of 3.
-3.  Your bet wins. Your Account Balance is 140 USDT.
-4.  The amount available for withdrawal equals 60 USDT. The amount you still need to wager equals 80 USDT.
+8.3. If you believe that any of the information about your Account is being used illegally by a third party, that your Account has been hacked or your password has become known to a third party, you must immediately notify us of this by contacting our Support team at [support@odds96.com](mailto:support@odds96.com).
 
-We reserve the right to change the wagering requirements for all Clients or personally for individual Clients.
+8.4. If the Email Address you registered when opening your Account was hacked, you must notify us immediately. However, we may require that you provide additional information or documentation verifying your identity. Nonetheless, you are responsible for all actions performed using your Account, including third-party access, regardless of whether or not their access was authorised by you.
 
-8.3. Please note that the minimum deposit is approximately $10 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a deposit, you will be informed of the exact amount of the minimum deposit in US dollars on the Website.
+### 9. Force Majeure
 
-8.4. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
-
-Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
-
-8.5. Be sure to deposit only the cryptocurrency you chose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
-
-8.6. You are fully responsible for checking deposit and withdrawal addresses when moving your cryptocurrency funds between wallets and accounts.
-
-8.7. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up to more than 60 minutes. Withdrawals in any other cryptocurrency may take up to more than 10 minutes.
-
-8.8. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
-
-8.9. We may ask a Client to provide source of funds documentation, which is important to make sure that a Client provides evidence that identifies the actual source(s) of funds that he uses to bet or play with.
-
-This information may be in the form of:
-
-- proof of earnings: Payslip/Director remuneration/Dividends/Pension;
-- a bank statement/savings account that clearly shows consistent incoming values from an identifiable source;
-- a Trust deed clearly showing a consistent entitlement to funds;
-- dated proof of an award/payment made to the player.
-
-8.10. To guarantee your financial viability, we may use the services of third-party information providers if necessary.
-
-8.11.We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on www.odds96.com. However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
-
-8.12. Please read our Crypto Funds Policy for more information about the cryptocurrency payment options offered by us.
-
-### 9. Security
-
-9.1. You are fully responsible for ensuring that their Registered Email Address is secure and for preventing any third party from using that address. We shall not be liable for any loss or damage that is deemed or claimed to be incurred as a result of the exchange of messages between us and you as our Client using the Email Address you registered when opening your Account.
-
-9.2. You must maintain the confidentiality of the password you use for accessing the Website. Provided that the requested account information is correct, we have the right to assume that bets, deposits and withdrawals to/from the Account have been carried out by you. We recommend that you change your password regularly and never share it with a third party. Passwords must contain at least one letter, one number, and one special character. Each password must be at least eight characters in length. At the end of each session, we advise that you log out of the Services.
-
-9.3. If you believe that any of the information about your Account is being used illegally by a third party, that your Account has been hacked or your password has become known to a third party, you must immediately notify us of this by contacting our Support team at [support@odds96.com](mailto:support@odds96.com).
-
-9.4. If the Email Address you registered when opening your Account was hacked, you must notify us immediately. However, we may require that you provide additional information or documentation verifying your identity. Nonetheless, you are responsible for all actions performed using your Account, including third-party access, regardless of whether or not their access was authorised by you.
-
-### 10. Force Majeure
-
-10.1. We cannot be held responsible for any malfunctions or delays in the provision of the Services arising as a result of force majeure, which may reasonably be considered outside of our control, despite the adoption of rationally determined preventive measures. These circumstances include:
+9.1. We cannot be held responsible for any malfunctions or delays in the provision of the Services arising as a result of force majeure, which may reasonably be considered outside of our control, despite the adoption of rationally determined preventive measures. These circumstances include:
 
 - natural disasters;
 - wars and civil unrests;
@@ -269,13 +227,13 @@ This information may be in the form of:
 - DDOS attacks or similar Internet attacks that may have adverse consequences;
 - any other delays or interruptions by a third party.
 
-10.2. We are not responsible for any loss or damage incurred in connection therewith. In this case, we reserve the right to cancel or suspend the Services without any liability.
+9.2. We are not responsible for any loss or damage incurred in connection therewith. In this case, we reserve the right to cancel or suspend the Services without any liability.
 
-### 11. Severability
+### 10. Severability
 
 Should any of the provisions of the Terms become legally enforceable, the terms “condition” or “provision” will be separated from the remaining terms, conditions and words, which will remain fully enforceable as provided for by law. In such cases, the part deemed to be invalid shall be modified according to applicable law to reflect the original purposes as accurately as possible.
 
-### 12. Complaints
+### 11. Complaints
 
 12.1. If you have a complaint to make regarding our services, please contact us by email at [support@odds96.com](mailto:support@odds96.com) or by the customer support chat function.
 
@@ -285,5 +243,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 12.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzM2MzE1N119
+eyJoaXN0b3J5IjpbMTI3Nzc4NTY3MCwtNTY3MzYzMTU3XX0=
 -->
