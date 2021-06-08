@@ -145,7 +145,7 @@ n. a Client violates other rules and obligations set forth in these Terms and Co
 
 6.3. If we cancel all Client's bets and winnings, the Client will be required to return funds that were withdrawn from his or her account.
 
-6.4. If you violate the terms of the clauses 6.1. (e), 6.1. (f), 6.1. (g), 6.1. (h), 6.1. (j) of these Terms and Conditions or clause 7 of the Legal document titled “Bonuses and Promo” , (1) we shall withdraw our obligation to return or otherwise compensate you for the funds deposited in your account; (2) your account shall be terminated; (3) all transactions made during the specified period shall be cancelled.
+6.4. If you violate the terms of the clauses 6.1. (e), 6.1. (f), 6.1. (g), 6.1. (h), 6.1. (j) of these Terms and Conditions or clause 7 of the Legal document titled “Bonuses and Promos” , (1) we shall withdraw our obligation to return or otherwise compensate you for the funds deposited in your account; (2) your account shall be terminated; (3) all transactions made during the specified period shall be cancelled.
 
 6.5. We reserve the right to temporarily suspend or permanently terminate your account at any time without explanation, including in cases where we believe that your account is being used in connection with suspicious activity, as well as in any other cases where this is required in accordance with applicable law or our internal policies.
 
@@ -177,7 +177,6 @@ Additional documents are:
 - additional national identity card (driver's license, military ID, etc.);
 - bank statements;
 - photos of a player with an open passport against the background of his face (the document should be readable);
-
 - photo of the bank card on the front side (5 first and 4 last digits, owner's name and date of expiry shall be readable);
 - document confirming source of funds.
 
@@ -249,6 +248,6 @@ ZeKApiJ9fSwiY29tbWVudHMiOnsidEVNdlJTd0xmUHlBWDdKNi
 I6eyJkaXNjdXNzaW9uSWQiOiJWS0M2OEgwbk81bkNiU2hEIiwi
 c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0J3Rg9C20L3Qvi
 DQvtCx0L3QvtCy0LjRgtGMIiwiY3JlYXRlZCI6MTYyMzE2MjYw
-NzYzOX19LCJoaXN0b3J5IjpbLTIxMTU2NjU2OTAsLTU2NzM2Mz
-E1N119
+NzYzOX19LCJoaXN0b3J5IjpbNDQ5MDcwNzE3LC01NjczNjMxNT
+ddfQ==
 -->
