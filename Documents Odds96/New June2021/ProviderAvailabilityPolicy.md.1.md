@@ -1,8 +1,10 @@
-<Version>Last updated: April 7, 2021</Version>
+<Version>Last updated: June X, 2021</Version>
 
 ### General
 
-Odds96 prohibits opening accounts, depositing and withdrawing money for users who are citizens of, located in or residing in the following countries: United States of America and all of its territories such as American Samoa, Virgin Islands (American), Guam, Puerto Rico, Northern Mariana Islands, United States Minor Outlying Islands; Curaçao, Iraq, Syria, the former Netherlands Antilles (Aruba, Bonaire, Saba, Statia, St. Maarten), United Kingdom, Cyprus, Spain, Italy, Sweden, France, Finland, Denmark, Portugal, Germany, Hungary, Netherlands, Belgium, Czech Republic, Latvia, Slovakia, Switzerland, Serbia, Ukraine, Russia, Israel, Turkey, Tunisia, Iran, Mauritius, North Korea, Macau, Taiwan, Hong Kong, Australia, Poland, China, Singapore, United Arab Emirates, Brunei, China, Lebanon, Cambodia, Japan, Qatar, Belize.
+Odds96 prohibits opening accounts, depositing and withdrawing money for users who are citizens of, located in or residing in the following countries: 
+
+Afghanistan, Algeria, Australia, Azerbaijan, Bangladesh, Barbados, Belgium, Belize, Bhutan, Brazil, Brunei, Cambodia, Cayman Islands, China, Cuba, Cyprus, Curaçao, Czech Republic, Denmark, Ecuador, Finland, France, Germany, Guatemala, Hong Kong, Hungary, Iceland, Indonesia, Iran, Iraq, Israel, Italy, Japan, Jordan, Kuwait, Kyrgyzstan, Latvia, Lebanon, Libya, Macau, Maldives, Mali, Mauritius, Mauritania, Netherlands, New Zealand, North Korea, Norway, Oman, Pakistan, Palau, Poland, Portugal, Qatar, Russia, Saudi Arabia, Serbia, Singapore, Slovakia, Somalia, South Africa, Spain, Syria, Sudan, Sweden, Switzerland, Taiwan, the former Netherlands Antilles (Aruba, Bonaire, Saba, Statia, St. Maarten), Tunisia, Turkey, Tuvalu, UAE, Ukraine, UK; USA and all of its territories (American Samoa, Virgin Islands (American), Guam, Puerto Rico, Northern Mariana Islands, United States Minor Outlying Islands); Uzbekistan, Yemen.
 
 #### NetEnt
 
@@ -122,5 +124,5 @@ The following shall only apply to the Game “Reel King Mega”. Red Tiger custo
 
 The following shall only apply to the Game “Trillionaire by Fashion TV”. Red Tiger customers must not allow participation in the Game “Trillionaire by Fashion TV” to players from the following jurisdictions under any circumstances: Cuba, Jordan, Turkey, Saudi Arabia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NDY0NjgyXX0=
+eyJoaXN0b3J5IjpbLTM5NTg1Mzg3Myw0NTk0NjQ2ODJdfQ==
 -->
