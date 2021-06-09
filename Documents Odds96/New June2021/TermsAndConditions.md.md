@@ -23,11 +23,6 @@ By accepting these Terms and Conditions you thereby accept the following legal d
 **VII. Responsible Gambling and Self-Exclusion**
 
 
-
-
-
-
-
 ### 1. General
 
 1.1. These Terms and Conditions apply to both sports betting and the use of casino-style games accessible on Odds96.com.
@@ -248,14 +243,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJWS0M2OEgwbk81bkNiU2hEIjp7In
-N0YXJ0IjoxNTE1LCJlbmQiOjE3NjcsInRleHQiOiIqKkkuIFBy
-b3ZpZGVyIEF2YWlsYWJpbGl0eSBQb2xpY3kqKlxuXG4qKklJLi
-BQcml2YWN5IFBvbGljeSoqXG5cbioqSUlJLiBSZXNwb25zaWJs
-ZeKApiJ9fSwiY29tbWVudHMiOnsidEVNdlJTd0xmUHlBWDdKNi
-I6eyJkaXNjdXNzaW9uSWQiOiJWS0M2OEgwbk81bkNiU2hEIiwi
-c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0J3Rg9C20L3Qvi
-DQvtCx0L3QvtCy0LjRgtGMIiwiY3JlYXRlZCI6MTYyMzE2MjYw
-NzYzOX19LCJoaXN0b3J5IjpbLTE5OTczMzQxMzUsLTU2NzM2Mz
-E1N119
+eyJoaXN0b3J5IjpbMjAxNzU3NzAxOCwtNTY3MzYzMTU3XX0=
 -->
