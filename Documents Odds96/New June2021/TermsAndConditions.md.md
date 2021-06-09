@@ -6,21 +6,25 @@ The Website and the Services are operated by Breakout Group B.V. (“our”, “
 
 Please read these Terms and Conditions carefully as they constitute an agreement between you as our client (hereinafter the “Client”, “you”) and us. This agreement is legally binding. By opening an account (hereinafter the “Account”), using the Services, depositing and withdrawing funds, you agree to the actual version of these Terms and Conditions and to any and all amendments which may be published periodically.
 
-By accepting these Terms and Conditions you thereby accept the following legal documents (“Legal documents”) which constitute an integral part of these Terms and Conditions:
+By accepting these Terms and Conditions you thereby accept the following legal documents (“Documents”) which constitute an integral part of these Terms and Conditions:
 
 **I. Deposits and Withdrawals**
 
-**VI. Deposits and Withdrawals in**
+**II. Deposits and Withdrawals in Crypto**
 
-Provider Availability Policy**
+**III. Bonuses and Promos**
 
-**II. Privacy Policy**
+**IV. Privacy Policy**
 
-**III. Responsible Gambling and Self-Exclusion**
+**V. Provider Availability Policy**
 
-**IV. General Betting Rules**
+**VI. General Betting Rules**
 
-**V. Bonuses and Promos**
+**VII. Responsible Gambling and Self-Exclusion**
+
+
+
+
 
 
 
@@ -245,13 +249,13 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJWS0M2OEgwbk81bkNiU2hEIjp7In
-N0YXJ0IjoxNTIxLCJlbmQiOjE3NTUsInRleHQiOiIqKkkuIFBy
+N0YXJ0IjoxNTE1LCJlbmQiOjE3NjcsInRleHQiOiIqKkkuIFBy
 b3ZpZGVyIEF2YWlsYWJpbGl0eSBQb2xpY3kqKlxuXG4qKklJLi
 BQcml2YWN5IFBvbGljeSoqXG5cbioqSUlJLiBSZXNwb25zaWJs
 ZeKApiJ9fSwiY29tbWVudHMiOnsidEVNdlJTd0xmUHlBWDdKNi
 I6eyJkaXNjdXNzaW9uSWQiOiJWS0M2OEgwbk81bkNiU2hEIiwi
 c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0J3Rg9C20L3Qvi
 DQvtCx0L3QvtCy0LjRgtGMIiwiY3JlYXRlZCI6MTYyMzE2MjYw
-NzYzOX19LCJoaXN0b3J5IjpbNzk2MDcyMzU5LC01NjczNjMxNT
-ddfQ==
+NzYzOX19LCJoaXN0b3J5IjpbLTE5OTczMzQxMzUsLTU2NzM2Mz
+E1N119
 -->
