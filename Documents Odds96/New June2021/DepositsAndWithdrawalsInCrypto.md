@@ -19,51 +19,26 @@ We reserve the right to change the wagering requirements for all Clients or pers
 
 1.6. Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
 
-  
+1.7. Be sure to deposit only the cryptocurrency you choose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
 
-Be sure to deposit only the cryptocurrency you choose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
+1.8. You are fully responsible for checking deposit and withdrawal addresses when moving your cryptocurrency funds between wallets and accounts.
 
-  
+1.9. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up to more than 60 minutes. Withdrawals in any other cryptocurrency may take up to more than 10 minutes.
 
-7. You are fully responsible for checking deposit and withdrawal addresses when moving your cryptocurrency funds between wallets and accounts.
+1.10. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
 
-  
-
-8. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up to more than 60 minutes. Withdrawals in any other cryptocurrency may take up to more than 10 minutes.
-
-  
-
-9. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
-
-  
-
-10. We may ask a Client to provide source of funds documentation, which is important to make sure that a Client provides evidence that identifies the actual source(s) of funds that he uses to bet or play with.
-
-  
-
+1.11. We may ask a Client to provide source of funds documentation, which is important to make sure that a Client provides evidence that identifies the actual source(s) of funds that he uses to bet or play with.
 This information may be in the form of:
-
-  
-
 - proof of earnings: Payslip/Director remuneration/Dividends/Pension;
-
 - a bank statement/savings account that clearly shows consistent incoming values from an identifiable source;
-
 - a Trust deed clearly showing a consistent entitlement to funds;
-
 - dated proof of an award/payment made to the player.
 
-  
+1.12. To guarantee your financial viability, we may use the services of third-party information providers if necessary.
 
-11. To guarantee your financial viability, we may use the services of third-party information providers if necessary.
+1.13. According to our Anti Money Laundering (AML) procedures, we follow a strict anti coin mixing policy.
 
-  
-
-12. According to our Anti Money Laundering (AML) procedures, we follow a strict anti coin mixing policy.
-
-  
-
-13. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on www.odds96.com. However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
+1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on www.odds96.com. However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
 
 14. The Multi Currency Display feature allows you to choose the way your currency is displayed in your Account. Display options include but are not limited to USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be still settled in the currency you have chosen when registering your Account. Note that the history of your bets and transactions will be shown in the currency you have chosen in the Multi Currency Display feature according to the current exchange rates. The exchange rates between cryptocurrency and USD or other fiat currencies that we show on our Website are approximate.
 
@@ -124,5 +99,5 @@ This information can be found in your account. Click on the wallet-like icon and
 ## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTU1NDkwM119
+eyJoaXN0b3J5IjpbNDA3MzQ3MzU2XX0=
 -->
