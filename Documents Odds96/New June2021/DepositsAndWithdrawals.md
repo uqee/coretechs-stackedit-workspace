@@ -1,6 +1,8 @@
 <Version>Last updated: June 10, 2021</Version>
 
+[Payment Methods](#payment-methods)
 [General Information](#general-information)
+[Refund Policy](#refund-policy)
 
 # Payment Methods
 
@@ -70,5 +72,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjIxMDBdfQ==
+eyJoaXN0b3J5IjpbLTMxMzkzMDI3MF19
 -->
