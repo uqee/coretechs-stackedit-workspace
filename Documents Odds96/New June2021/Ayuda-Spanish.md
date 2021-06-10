@@ -88,32 +88,8 @@ Si has perdido el acceso al correo electrónico con el que te registraste en nue
 
 # Depósitos
 
-## ¿Cuánto se tarda en retirar?
-
-La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
-    
-## ¿Cómo puedo retirar fondos?
-
-Para retirar fondos, sigue estos pasos:
-
-1.  En la esquina superior derecha, haz click en el icono de billetera.
-2.  En el apartado "Saldo" que aparecerá, encontrarás un botón "Retirar". Haz click para iniciar.
-3.  Introduce el importe que deseas retirar junto con la dirección de tu billetera, luego haz click en "Retirar".
-
 ## Deposité hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
-
 Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
-
-## ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
-
-Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
-
-## He intentado retirar fondos pero el dinero fue devuelto a mi cuenta. ¿Qué debería hacer?
-
-Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
-
-
-
 
 ## ¿Puedo depositar Bitcoin usando la red de protocolo BEP2 o Tron?
 Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de la red de protocolo Bitcoin. No puedes enviar Bitcoin usando otras redes de protocolo como BEP2, BEP20, TRC-20, ERC-20.
@@ -122,10 +98,18 @@ Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de
 Si al haber registrado tu cuenta en Odds96 has seleccionado Ethereum, solo podrás depositar Ethereum coin. Si envías otros tockens ERC-20 a la dirección de tu cuenta, tu depósito se perderá.
 
 ## ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
-
 Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
 # Retiradas
+
+## ¿Cómo puedo retirar fondos?
+Para retirar fondos, sigue estos pasos:
+1.  En la esquina superior derecha, haz click en el icono de billetera.
+2.  En el apartado "Saldo" que aparecerá, encontrarás un botón "Retirar". Haz click para iniciar.
+3.  Introduce el importe que deseas retirar junto con la dirección de tu billetera, luego haz click en "Retirar".
+
+## ¿Cuánto se tarda en retirar?
+La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
 
 ## ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
 Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis, ETH - 0.003, USDT - 4.
@@ -133,8 +117,14 @@ Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis
 ## ¿Hay algún límite establecido para las retiradas?
 El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC - 0.00036, ETH - 0.0096, USDT - 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
 
+## ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
+Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
+
 ## He enviado los documentos necesarios para verificar mi cuenta pero mi retirada no se ha efectuado todavía. ¿Qué debería hacer?
 Por favor, espera hasta que finalice el proceso de verificación.
+
+## He intentado retirar fondos pero el dinero fue devuelto a mi cuenta. ¿Qué debería hacer?
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 # Apuestas Deportivas
 
@@ -181,5 +171,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxOTE2MjQ0LDIwODQzNjU1OF19
+eyJoaXN0b3J5IjpbMTI3Mjc1MTQyOCwyMDg0MzY1NThdfQ==
 -->
