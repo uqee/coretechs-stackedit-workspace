@@ -5,15 +5,15 @@
 
 # General Information
 
-1.1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your Account.
+1.1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your account.
 
 1.2. You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on the market fluctuations. You bear full financial responsibility related to changes in exchange rates and further conversion of funds.
 
-1.3. You accept and acknowledge that to withdraw funds from your Account Balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
+1.3. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
 
-1. You deposit 100 USDT. Your Account Balance is 100 USDT.
+1. You deposit 100 USDT. Your account balance is 100 USDT.
 2. You bet 20 USDT with the odds of 3.
-3. Your bet wins. Your Account Balance is 140 USDT.
+3. Your bet wins. Your account balance is 140 USDT.
 4. The amount available for withdrawal equals 60 USDT. The amount you still need to wager equals 80 USDT.
 
 We reserve the right to change the wagering requirements for all Clients or personally for individual Clients.
@@ -105,5 +105,5 @@ This information can be found in your account. Click on the wallet-like icon and
 ## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDM1MTIxOV19
+eyJoaXN0b3J5IjpbMTEzMDQ0NTA3NV19
 -->
