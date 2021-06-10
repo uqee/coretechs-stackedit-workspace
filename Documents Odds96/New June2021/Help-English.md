@@ -486,74 +486,33 @@ The maximum bet depends on the casino game you choose.
 
 A casino bet may have been cancelled because your internet connection failed. Please check if you are connected to the internet and reload the page.
 
-  
-
 ## My casino game tends to freeze. What should I do?
-
-  
-
 If your casino game often freezes, please check whether you are connected to the internet and reload the page. If this doesn’t help, delete the cookies and clear the browser’s cache. If the problem hasn’t been resolved, please contact our support team at: [support@odds96.com](mailto:support@odds96.com). Alternatively, you may get in touch via our live-chat feature.
 
-  
-  
 
-# # Responsible Gambling
-
-  
-
+# Responsible Gambling
 ## I would like to suspend my account. What should I do?
-
-  
-
 To suspend your account, send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to send the notice from your registered email address. In the email, please explain why you decided to suspend your account.
 
-  
-
 ## Is it possible to remove the ‘Self-Exclusion’ limitations? How can I reactivate my account?
-
-  
-
-Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
-
-  
+Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).  
 
 ## Is it possible to set a deposit limit? I think I may have gambling addiction.
-
-  
-
 At the moment, Odds96 is not offering this option. If you feel that you may have a problem, it is important that you seek help. Never spend more than you can afford.
 
-  
-  
 
-# # Other Questions
-
-  
-
+# Other Questions
 ## Where can I find more information about the terms and conditions of your affiliate program?
-
-  
-
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 
-  
-
 ## Do you have an iOS/Android app?
-
-  
-
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 
-  
-
 ## Do you send any SMS notifications regarding my bets, results, withdrawals etc.?
-
-  
-
 For the moment, we do not. But, we may consider this in the future.
 
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDg0OTAyXX0=
+eyJoaXN0b3J5IjpbMTI2MjgxNDkwNF19
 -->
