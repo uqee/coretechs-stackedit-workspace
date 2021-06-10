@@ -1,5 +1,7 @@
 <Version>Última actualización: el X de junio de 2021</Version>
 
+[General Rules](#cuenta)
+
 # Cuenta
 
 ## ¿Por qué tengo que verificar mi cuenta?
@@ -254,9 +256,6 @@ Esta opción no está disponible todavía. Si crees que puedes tener un problema
 
 # Otras Preguntas
 
-## ¿Dónde puedo encontrar más información sobre los términos y condiciones de vuestro programa de Afiliados?
-Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
-
 ## ¿Cuentan con una aplicación para iOS/Android?
 Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 
@@ -266,6 +265,9 @@ Esta opción no está disponible todavía.
 ## ¿Cómo puedo cancelar la suscripción a vuestro newsletter?
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
+## ¿Dónde puedo encontrar más información sobre los términos y condiciones de vuestro programa de Afiliados?
+Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDgzNjczNSwyMDg0MzY1NThdfQ==
+eyJoaXN0b3J5IjpbNDYxOTUxNTY0LDIwODQzNjU1OF19
 -->
