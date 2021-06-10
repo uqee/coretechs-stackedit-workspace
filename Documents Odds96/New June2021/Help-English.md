@@ -7,7 +7,7 @@
 [Betting](#betting)
 [Casino](#casino)
 [Responsible Gambling](#responsible-gambling)
-[Otras Preguntas](#otras-preguntas)
+[Other Questions](#other-questions)
 
 # Account
 
@@ -267,5 +267,5 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 ## Where can I find more information about the terms and conditions of your affiliate program?
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzY2Njk0NCwtMTA5NjQ0MzY5NV19
+eyJoaXN0b3J5IjpbLTUwMTc4NTMyMiwtMTA5NjQ0MzY5NV19
 -->
