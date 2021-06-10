@@ -1,5 +1,8 @@
 <Version>Last updated: June 10, 2021</Version>
 
+[General Information](#general-information)
+[FAQ](#faq)
+
 # General Information
 
 1.1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your Account.
@@ -47,6 +50,7 @@ This information may be in the form of:
 1.16. Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [learncrypto.com]([https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base))
 
 # FAQ
+
 ## How do I change my currency preference?
 For the moment, you are not allowed to change your currency preference after registering your account. But you can contact us at: [[support@odds96.com](mailto:support@odds96.com)](mailto:support@odds96.com) and we will try to find a solution for you.
 
@@ -101,5 +105,5 @@ This information can be found in your account. Click on the wallet-like icon and
 ## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODM5MzQxMF19
+eyJoaXN0b3J5IjpbMTU5MDM1MTIxOV19
 -->
