@@ -310,91 +310,35 @@ We accept bets on regular time as well as on regular time including overtime. If
 
 Odds96 does not offer this option at the moment.
 
-  
-
 ## What are the bet slip settings?
-
-  
-
 In the bet slip settings you can choose out of three options to handle odds changes:
-
-  
-
 - Accept increases - accept only increases by default and ask for confirmation in case of a decrease,
-
 - Accept any changes - accept any changes by default,
-
 - Ask for confirmation - ask for confirmation when the odds increase or decrease.
 
-  
-
 ## What are single and multiple bets?
-
-  
-
 A single bet is when you pick the outcome of one event. If your bet wins, the odds will be multiplied by your stake. A multiple bet (also known as a parlay) is a bet that depends on the outcome of more than one event. This is effectively an accumulator and you’ll need to have predicted every event correctly to get a return. If you win, your stake will be multiplied by the total odds of the selected events.
 
-  
-
 ## What are the maximum odds for a parlay?
-
-  
-
 The maximum coefficient is limited by the maximum payout.
 
-  
-  
-
 ## What is the maximum number of events that I can add to a parlay?
-
-  
-
-You can add up to 20 events to a parlay.
-
-  
-  
+You can add up to 20 events to a parlay. 
 
 ## Are system bets available on your website?
-
-  
-
 Odds96 does not offer these types of bets.
 
-  
-  
-
 ## Can you increase my maximum stake limit?
-
-  
-
 Odds96 does not offer this option at the moment.
 
-  
-  
-
 ## What is an Asian Handicap/Total - Quarter Lines (Х.25/Х.75)?
-
-  
-
 The quarter lines refer to values ending in .25 or .75 and are a little more complex than the other handicaps/totals. They are also called double handicaps/totals, as they are calculated using two virtual bets and handicaps/totals. For example, the handicap/total -0.25 can also be written as (0, -0.5).
 
-  
-
 ## An event that I bet on was interrupted. How will you settle my bet?
-
-  
-
 If an event is not finalized or ‘abandoned’ after initiation (because of disqualification, interruption, refusal, changes in the results, etc), all undecided bets will be declared void. Please read our General Betting Rules for further details.
 
-  
-
 ## I’ve placed a bet but there is no information about it in my betting history. What should I do?
-
-  
-
 Please contact our support team.
-
-  
 
 ## My bet was settled incorrectly. What should I do?
 In the unlikely event that your bet has been settled incorrectly, please contact our support team.
@@ -460,5 +404,5 @@ For the moment, we do not. But, we may consider this in the future.
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUwNjE4ODddfQ==
+eyJoaXN0b3J5IjpbLTM0MjE4NDU1MV19
 -->
