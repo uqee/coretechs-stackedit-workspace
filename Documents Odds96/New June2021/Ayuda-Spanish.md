@@ -8,19 +8,13 @@ La verificación sirve para confirmar la identidad del propietario de la cuenta 
 ## ¿Cuánto tiempo se demora en verificar mi cuenta?
 No hay plazos establecidos que tenemos que respetar cuando verificamos tu cuenta. Normalmente, el plazo depende de cada caso en particular.
 
-
-
-
 ## ¿Cómo puedo cambiar el formato de cuotas?
-
 De momento solo se puede visualizar el formato de cuotas decimales (europeas).
 
 ## ¿Cómo puedo cambiar el idioma?
-
 Desplázate hacia abajo de cualquier página de nuestra web y haz click en el menú desplegable situado a la derecha. Puedes elegir entre inglés y español.
 
 ## ¿Cómo puedo cambiar mi preferencia de moneda?
-
 Por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com). Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
 
 ## ¿Es posible realizar apuestas o jugar a juegos de casino utilizando diferentes tipos de criptomoneda?
@@ -136,5 +130,5 @@ Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin em
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzE5NzA3N119
+eyJoaXN0b3J5IjpbLTgzNTg5NjAwN119
 -->
