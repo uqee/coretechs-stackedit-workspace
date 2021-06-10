@@ -8,8 +8,8 @@ La verificación sirve para confirmar la identidad del propietario de la cuenta 
 ## ¿Cuánto tiempo se demora en verificar mi cuenta?
 No hay plazos establecidos que tenemos que respetar cuando verificamos tu cuenta. Normalmente, el plazo depende de cada caso en particular.
 
-## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
-Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a [support@odds96.com](mailto:support@odds96.com) desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
+
+
 
 ## ¿Cómo puedo cambiar el formato de cuotas?
 
@@ -71,13 +71,8 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
 
-## ¿Es posible quitar las limitaciones de ‘Auto-Exclusión’? ¿Cómo puedo reactivar mi cuenta?
 
-Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
 
-## ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
-
-Esta opción no está disponible todavía. Si crees que puedes tener un problema, es importante que busques ayuda. Nunca gastes más de lo que puedas pagar.
 
 ## ¿Es posible cambiar la visualización de BTC en USD?
 
@@ -107,7 +102,11 @@ No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nu
 ## Mi cuenta fue hackeada o robada. ¿Qué debo hacer?
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
+
 # Contraseña
+
+## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
+Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a [support@odds96.com](mailto:support@odds96.com) desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
 
 # Depósitos
 
@@ -118,6 +117,12 @@ Por favor, contacta con nuestro equipo de soporte enviando un email a [support@o
 # Casino 
 
 # Juego Responsable
+
+## ¿Es posible quitar las limitaciones de ‘Auto-Exclusión’? ¿Cómo puedo reactivar mi cuenta?
+Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
+
+## ¿Es posible establecer un límite de depósito? Creo que padezco ludopatía.
+Esta opción no está disponible todavía. Si crees que puedes tener un problema, es importante que busques ayuda. Nunca gastes más de lo que puedas pagar.
 
 # Otras Preguntas
 
@@ -131,5 +136,5 @@ Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin em
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ4NDU1NjldfQ==
+eyJoaXN0b3J5IjpbMTA2MzE5NzA3N119
 -->
