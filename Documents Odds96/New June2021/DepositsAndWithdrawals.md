@@ -1,3 +1,7 @@
+<Version>Last updated: June 10, 2021</Version>
+
+[General Information](#general-information)
+
 # Payment Methods
 
 ## Deposits:
@@ -14,7 +18,7 @@
 -   **MasterCard / Cabal**: min. $20, max. $1000, commission 5%;
 -   **Bank Transfer**: min. $20, max. $1000, commission 5%.
     
-# General Information
+# 1. General Information
 
 1.1. There are several ways of depositing and withdrawing money to and from your account. These methods, minimum and maximum deposits/withdrawals and commission rates are shown in the list above ([Payment Methods](#payment-methods)). If the payment method you used to make a deposit doesn’t support withdrawals, please select a different payment method to make a withdrawal.
 
@@ -56,15 +60,15 @@ This information may be in the form of:
    
 1.11. If you have any problems or questions when depositing or withdrawing, please contact our support team. We are available 24/7 via live chat or email.
 
-# Refund Policy
+# 2. Refund Policy
 
 2.1. A refund request will only be considered if it is requested within the first twenty-four (24) hours of the alleged transaction, or within thirty (30) calendar days if a Client alleges that another individual has accessed his or her account. Each refund request should be a matter of the anti-fraud check and can be processed only in case of the positive conclusion of the anti-fraud department.
 
-2. Before a refund is processed all bonuses and winnings in Client's balance will be deducted prior to calculating the amount to be refunded.
+2.2. Before a refund is processed all bonuses and winnings in Client's balance will be deducted prior to calculating the amount to be refunded.
 
-3. In case any сredit сard purchases are considered to carry an unacceptable risk for security or legal reasons, we will initiate refunds for all such transactions back to the сredit сard, and notify all the appropriate authorities and parties.
+2.3. In case any сredit сard purchases are considered to carry an unacceptable risk for security or legal reasons, we will initiate refunds for all such transactions back to the сredit сard, and notify all the appropriate authorities and parties.
 
-4. All costs that may occur upon the refund procedure are on the Client.
+2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk0NTgzNjJdfQ==
+eyJoaXN0b3J5IjpbMTIxNjIxMDBdfQ==
 -->
