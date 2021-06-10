@@ -17,6 +17,12 @@ Para registrarte en nuestra página web, solo tienes que verificar tu email.
 ## ¿Puedo registrarme con mi licencia de conducir?
 Para registrarte, solo tienes que verificar tu email. Puedes presentar tu licencia de conducir para verificar la cuenta.
 
+## ¿Por qué ha sido bloqueado mi cuenta?
+Por favor, comprueba si hay algún email de Odds96 en la bandeja de entrada de tu correo electrónico. Seguramente te hemos enviado un email que explica porqué tu cuenta está bloqueada y que pasos debes seguir para reactivarla. En caso contrario, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
+
+## Mi cuenta fue hackeada o robada. ¿Qué debo hacer?
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
+
 ## ¿Puedo tener más de una cuenta en Odds96?
 No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
 
@@ -41,9 +47,6 @@ Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de c
 ## ¿Cómo puedo cerrar mi cuenta?
 Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
 
-## ¿Por qué se ha bloqueado mi cuenta?
-Por favor, comprueba si hay algún email de Odds96 en la bandeja de entrada de tu correo electrónico. Seguramente te hemos enviado un email que explica porqué tu cuenta está bloqueada y que pasos debes seguir para reactivarla. En caso contrario, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
-
 ## ¿Cuál es el ID de mi cuenta?
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
 
@@ -65,9 +68,6 @@ Tu privacidad es nuestra máxima prioridad. De acuerdo con las leyes de protecci
 
 ## ¿Puedo usar la cuenta de mi amigo?
 No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
-
-## Mi cuenta fue hackeada o robada. ¿Qué debo hacer?
-Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 # Contraseña
 
@@ -136,12 +136,12 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI5a3FXMmJYQzlLd0VMY0xNIjp7In
-N0YXJ0IjoyMjQzLCJlbmQiOjI0MTYsInRleHQiOiJQb3IgZmF2
+N0YXJ0IjoyODExLCJlbmQiOjI5ODQsInRleHQiOiJQb3IgZmF2
 b3IsIGNvbnTDoWN0YW5vcyBlbnZpYW5kbyB1biBlbWFpbCBhIF
 tzdXBwb3J0QG9kZHM5Ni5jb21dKG1haWx0bzpzdXBwb3J0QOKA
 piJ9fSwiY29tbWVudHMiOnsiOENlZ21QRzI4T1NEbnNFMyI6ey
 JkaXNjdXNzaW9uSWQiOiI5a3FXMmJYQzlLd0VMY0xNIiwic3Vi
 IjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC80LXQvdGP0Y
 LRjCIsImNyZWF0ZWQiOjE2MjMzMTUxNTc5MzF9fSwiaGlzdG9y
-eSI6WzI1MDQ1MTY2MCwyMDg0MzY1NThdfQ==
+eSI6WzkxODQwMTU0MCwyMDg0MzY1NThdfQ==
 -->
