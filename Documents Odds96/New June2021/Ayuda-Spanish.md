@@ -23,24 +23,17 @@ Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de c
 ## ¿Cómo puedo cerrar mi cuenta?
 Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
 
-
-
-
 ## ¿Por qué se ha bloqueado mi cuenta?
 Por favor, comprueba si hay algún email de Odds96 en la bandeja de entrada de tu correo electrónico. Seguramente te hemos enviado un email que explica porqué tu cuenta está bloqueada y que pasos debes seguir para reactivarla. En caso contrario, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
-
-
-
 
 ## ¿Cuál es el ID de mi cuenta?
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
 
 ## ¿Es posible cambiar la visualización de BTC en USD?
 Para cambiar tu visualización de moneda, sigue estos pasos:
-
 -   En la esquina superior derecha haz click en el "Saldo" de tu cuenta,
 -   En la ventanilla emergente selecciona la opción de visualización que te convenga.
-    
+
 ¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
 ## ¿Puedo cerrar sesión de forma remota?
@@ -61,7 +54,6 @@ Por favor, contacta con nuestro equipo de soporte enviando un email a [support@o
 # Contraseña
 
 ## He olvidado mi contraseña.
-
 Puedes restablecer tu contraseña haciendo click en '¿Olvidaste tu contraseña?' en la ventanilla de inicio de sesión. Introduce tu correo electrónico registrado para recibir un código de recuperación de contraseña. Siguiendo las instrucciones, introduce este código y establece una nueva contraseña.
 
 ## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
@@ -89,6 +81,18 @@ Hay dos posibles razones por las que no has recibido el código de recuperación
 # Apuestas Deportivas
 
 # Casino 
+
+## ¿Cuál es la apuesta mínima?
+La apuesta mínima depende del juego de casino que elijas.
+
+## ¿Cuál es la apuesta máxima?
+La apuesta máxima depende del juego de casino que elijas.
+
+## Se ha cancelado mi apuesta de casino. ¿Qué debería hacer?
+Puede ser que se haya cancelado tu apuesta de casino porque se ha perdido la conexión al Internet. Por favor, comprueba si sigues conectado al Internet y vuelve a actualizar la página.
+
+## Mi juego de casino tiende a congelarse. ¿Qué debo hacer?
+Si tu juego de casino se congela, comprueba si estás conectado a Internet y vuelve a actualizar la página del juego. Si el problema no se resuelve, elimina cookies y borra el caché del navegador. Si el problema persiste, contacta con nuestro equipo de soporte vía chat en vivo o enviando un email a  [support@odds96.com](mailto:support@odds96.com).
 
 # Juego Responsable
 
@@ -121,5 +125,5 @@ piJ9fSwiY29tbWVudHMiOnsiOENlZ21QRzI4T1NEbnNFMyI6ey
 JkaXNjdXNzaW9uSWQiOiI5a3FXMmJYQzlLd0VMY0xNIiwic3Vi
 IjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC80LXQvdGP0Y
 LRjCIsImNyZWF0ZWQiOjE2MjMzMTUxNTc5MzF9fSwiaGlzdG9y
-eSI6WzEzMDMwOTQyNjldfQ==
+eSI6WzIwODQzNjU1OF19
 -->
