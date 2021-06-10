@@ -29,32 +29,8 @@ Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@
 ## ¿Por qué se ha bloqueado mi cuenta?
 Por favor, comprueba si hay algún email de Odds96 en la bandeja de entrada de tu correo electrónico. Seguramente te hemos enviado un email que explica porqué tu cuenta está bloqueada y que pasos debes seguir para reactivarla. En caso contrario, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
-## He olvidado mi contraseña.
 
-Puedes restablecer tu contraseña haciendo click en '¿Olvidaste tu contraseña?' en la ventanilla de inicio de sesión. Introduce tu correo electrónico registrado para recibir un código de recuperación de contraseña. Siguiendo las instrucciones, introduce este código y establece una nueva contraseña.
 
-## No he recibido el  código de recuperación de contraseña. ¿Qué debería hacer?
-
-Hay dos posibles razones por las que no has recibido el código de recuperación de contraseña:
-
--   No se ha encontrado ninguna cuenta con el nombre de usuario o el email que has proporcionado. Por favor, vuelve a comprobar el nombre de usuario o el email que introduces.
--   Revisa la carpeta de spam. Probablemente el correo que contiene el código de recuperación de contraseña esté allá.
-
-## ¿Envían notificaciones por SMS sobre mis apuestas, resultados, retiradas, etc.?
-
-Esta opción no está disponible todavía.
-
-## ¿Cómo puedo cambiar mi contraseña?
-
-Para cambiar tu contraseña, sigue estos pasos:
-
-1.  Inicia sesión y entra en tu cuenta,
-2.  Ve a la página "Seguridad",
-3.  Haz click en "Cambiar Contraseña",
-4.  En la ventanilla emergente introduce tu contraseña actual y una contraseña nueva, luego haz click en "Cambiar".
-
-## ¿Cómo puedo cancelar la suscripción a vuestro newsletter?
-En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 ## ¿Cuál es el ID de mi cuenta?
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
@@ -84,11 +60,27 @@ Por favor, contacta con nuestro equipo de soporte enviando un email a [support@o
 
 # Contraseña
 
+## He olvidado mi contraseña.
+
+Puedes restablecer tu contraseña haciendo click en '¿Olvidaste tu contraseña?' en la ventanilla de inicio de sesión. Introduce tu correo electrónico registrado para recibir un código de recuperación de contraseña. Siguiendo las instrucciones, introduce este código y establece una nueva contraseña.
+
 ## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
 Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a [support@odds96.com](mailto:support@odds96.com) desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
 
 ## He olvidado mi contraseña y he perdido el acceso a mi correo electrónico. ¿Qué debería hacer?
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
+
+## ¿Cómo puedo cambiar mi contraseña?
+Para cambiar tu contraseña, sigue estos pasos:
+1.  Inicia sesión y entra en tu cuenta,
+2.  Ve a la página "Seguridad",
+3.  Haz click en "Cambiar Contraseña",
+4.  En la ventanilla emergente introduce tu contraseña actual y una contraseña nueva, luego haz click en "Cambiar".
+
+## No he recibido el  código de recuperación de contraseña. ¿Qué debería hacer?
+Hay dos posibles razones por las que no has recibido el código de recuperación de contraseña:
+-   No se ha encontrado ninguna cuenta con el nombre de usuario o el email que has proporcionado. Por favor, vuelve a comprobar el nombre de usuario o el email que introduces.
+-   Revisa la carpeta de spam. Probablemente el correo que contiene el código de recuperación de contraseña esté allá.
 
 # Depósitos
 
@@ -114,6 +106,9 @@ Para obtener más información, por favor, contáctanos enviando un email a [sup
 ## ¿Cuentan con una aplicación para iOS/Android?
 Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 
+## ¿Envían notificaciones por SMS sobre mis apuestas, resultados, retiradas, etc.?
+Esta opción no está disponible todavía.
+
 ## ¿Cómo puedo cancelar la suscripción a vuestro newsletter?
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
@@ -126,5 +121,5 @@ piJ9fSwiY29tbWVudHMiOnsiOENlZ21QRzI4T1NEbnNFMyI6ey
 JkaXNjdXNzaW9uSWQiOiI5a3FXMmJYQzlLd0VMY0xNIiwic3Vi
 IjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC80LXQvdGP0Y
 LRjCIsImNyZWF0ZWQiOjE2MjMzMTUxNTc5MzF9fSwiaGlzdG9y
-eSI6WzM0NDI2NTU4N119
+eSI6WzEzMDMwOTQyNjldfQ==
 -->
