@@ -32,6 +32,9 @@ Por favor, contacta con nuestro equipo de soporte enviando un email a [support@o
 ## ¿Puedo registrar una cuenta para alguien más?
 No, está prohibido. Solo el titular de la cuenta puede abrirla y acceder a ella. Más información está disponible en nuestros Términos y Condiciones.
 
+## ¿Puedo usar la cuenta de mi amigo?
+No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
+
 ## ¿Cómo puedo cambiar el formato de cuotas?
 De momento solo se puede visualizar el formato de cuotas decimales (europeas).
 
@@ -57,14 +60,8 @@ El ID de tu cuenta es el email que usaste para registrarte en nuestra página we
 ## ¿Puedo cerrar sesión de forma remota?
 Esta opción no está disponible todavía.
 
-## ¿Dónde puedo encontrar las estadísticas de partidos?
-Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
-
 ## ¿Es seguro agregar y enviar mis documentos de identificación?
 Tu privacidad es nuestra máxima prioridad. De acuerdo con las leyes de protección de datos, tratamos cualquier información que nos envíes como estrictamente confidencial. Recibimos tus documentos a través del sistema de comunicación de extremo a extremo y los procesamos sólo dentro de nuestra empresa.
-
-## ¿Puedo usar la cuenta de mi amigo?
-No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
 
 # Contraseña
 
@@ -94,6 +91,9 @@ Hay dos posibles razones por las que no has recibido el código de recuperación
 # Retiradas
 
 # Apuestas Deportivas
+
+## ¿Dónde puedo encontrar las estadísticas de partidos?
+Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
 
 # Casino 
 
@@ -135,5 +135,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjEzNjc4OTIsMjA4NDM2NTU4XX0=
+eyJoaXN0b3J5IjpbMTg2NjE4NDkyNiwyMDg0MzY1NThdfQ==
 -->
