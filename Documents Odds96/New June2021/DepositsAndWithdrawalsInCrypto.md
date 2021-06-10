@@ -1,3 +1,5 @@
+<Version>Last updated: June 10, 2021</Version>
+
 # General Information
 
 1.1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your Account.
@@ -38,11 +40,11 @@ This information may be in the form of:
 
 1.13. According to our Anti Money Laundering (AML) procedures, we follow a strict anti coin mixing policy.
 
-1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on www.odds96.com. However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
+1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on [Odds96.com](http://odds96.com). However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
 
-14. The Multi Currency Display feature allows you to choose the way your currency is displayed in your Account. Display options include but are not limited to USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be still settled in the currency you have chosen when registering your Account. Note that the history of your bets and transactions will be shown in the currency you have chosen in the Multi Currency Display feature according to the current exchange rates. The exchange rates between cryptocurrency and USD or other fiat currencies that we show on our Website are approximate.
+1.15. The Multi Currency Display feature allows you to choose the way your currency is displayed in your Account. Display options include but are not limited to USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be still settled in the currency you have chosen when registering your Account. Note that the history of your bets and transactions will be shown in the currency you have chosen in the Multi Currency Display feature according to the current exchange rates. The exchange rates between cryptocurrency and USD or other fiat currencies that we show on our Website are approximate.
 
-15. Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [learncrypto.com]([https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base))
+1.16. Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [learncrypto.com]([https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base))
 
 # FAQ
 ## How do I change my currency preference?
@@ -99,5 +101,5 @@ This information can be found in your account. Click on the wallet-like icon and
 ## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MzQ3MzU2XX0=
+eyJoaXN0b3J5IjpbMTI5ODM5MzQxMF19
 -->
