@@ -1,7 +1,11 @@
 <Version>Última actualización: el X de junio de 2021</Version>
 
 [Cuenta](#cuenta)
-[Contraseña](#contrasena)
+[Contraseña](#contraseña)
+[Depósitos](#depósitos)
+[Retiradas](#retiradas)
+[Apuestas Deportivas](#apuestas-deportivas)
+[General Rules](#general-rules)
 
 # Cuenta
 
@@ -270,5 +274,5 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTMyNzIyLDIwODQzNjU1OF19
+eyJoaXN0b3J5IjpbNTAxNDcwNTksMjA4NDM2NTU4XX0=
 -->
