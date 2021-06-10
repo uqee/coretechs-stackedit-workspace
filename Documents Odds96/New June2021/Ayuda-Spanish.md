@@ -46,7 +46,7 @@ Para cambiar tu visualización de moneda, sigue estos pasos:
 ¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
 ## ¿Cómo puedo cambiar mi preferencia de moneda?
-Por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com). Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
+Por el momento, no está permitido cambiar tu preferencia de moneda después de haber registrado tu cuenta. De todos modos, puedes contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com) e intentaremos 
 
 ## ¿Es posible realizar apuestas o jugar a juegos de casino utilizando diferentes tipos de criptomoneda?
 Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de criptomoneda que hayas elegido en el momento de registrarte en nuestra página web.
@@ -135,13 +135,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyI5a3FXMmJYQzlLd0VMY0xNIjp7In
-N0YXJ0IjozMjQ0LCJlbmQiOjM0MTcsInRleHQiOiJQb3IgZmF2
-b3IsIGNvbnTDoWN0YW5vcyBlbnZpYW5kbyB1biBlbWFpbCBhIF
-tzdXBwb3J0QG9kZHM5Ni5jb21dKG1haWx0bzpzdXBwb3J0QOKA
-piJ9fSwiY29tbWVudHMiOnsiOENlZ21QRzI4T1NEbnNFMyI6ey
-JkaXNjdXNzaW9uSWQiOiI5a3FXMmJYQzlLd0VMY0xNIiwic3Vi
-IjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC80LXQvdGP0Y
-LRjCIsImNyZWF0ZWQiOjE2MjMzMTUxNTc5MzF9fSwiaGlzdG9y
-eSI6WzIzODEyNzg5NywyMDg0MzY1NThdfQ==
+eyJoaXN0b3J5IjpbLTU4OTY5MzUyNCwyMDg0MzY1NThdfQ==
 -->
