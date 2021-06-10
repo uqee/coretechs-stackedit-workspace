@@ -46,16 +46,16 @@ Para cambiar tu visualización de moneda, sigue estos pasos:
 ¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
 ## ¿Cómo puedo cambiar mi preferencia de moneda?
-Por el momento, no está permitido cambiar tu preferencia de moneda después de haber registrado tu cuenta. De todos modos, puedes contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com) e intentaremos 
+Por el momento, no está permitido cambiar tu preferencia de moneda después de haber registrado tu cuenta. De todos modos, puedes contactarnos enviando un email a [support@odds96.com](mailto:support@odds96.com) e intentaremos encontrar una solución para ti.
 
 ## ¿Es posible realizar apuestas o jugar a juegos de casino utilizando diferentes tipos de criptomoneda?
-Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de criptomoneda que hayas elegido en el momento de registrarte en nuestra página web.
-
-## ¿Cómo puedo cerrar mi cuenta?
-Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
+Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de moneda que hayas elegido en el momento de registrarte en nuestra página web.
 
 ## ¿Cuál es el ID de mi cuenta?
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
+
+## ¿Cómo puedo cerrar mi cuenta?
+Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
 
 ## ¿Puedo cerrar sesión de forma remota?
 Esta opción no está disponible todavía.
@@ -135,5 +135,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTY5MzUyNCwyMDg0MzY1NThdfQ==
+eyJoaXN0b3J5IjpbLTE0OTcwMTc5MTIsMjA4NDM2NTU4XX0=
 -->
