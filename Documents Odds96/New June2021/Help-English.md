@@ -1,4 +1,5 @@
-<Version>Last updated: June 7, 2021</Version>
+<Version>Last updated: June X, 2021</Version>
+
 # Account
 
 ## Why do I have to verify my Account?
@@ -256,5 +257,5 @@ For the moment, we do not. But, we may consider this in the future.
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTI2MTQyNF19
+eyJoaXN0b3J5IjpbLTE1NTg4NTczNzNdfQ==
 -->
