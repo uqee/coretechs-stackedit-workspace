@@ -1,4 +1,5 @@
-<Version>Last updated: June 7, 2021</Version>
+<Version>Última actualización: el X de junio de 2021</Version>
+
 # Cuenta
 
 # Contraseña
@@ -22,5 +23,5 @@ Para obtener más información, por favor, contáctanos enviando un email a [sup
 Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin embargo, te invitamos a que uses la versión de nuestra web adaptada para cualquier tipo de celulares.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MzA4Njc4XX0=
+eyJoaXN0b3J5IjpbNzczMDE2Mjc0XX0=
 -->
