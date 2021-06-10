@@ -117,14 +117,14 @@ Para retirar fondos, sigue estos pasos:
 2.  En el apartado "Saldo" que aparecerá, encontrarás un botón "Retirar". Haz click para iniciar.
 3.  Introduce el importe que deseas retirar junto con la dirección de tu billetera, luego haz click en "Retirar".
 
-## ¿Cuánto se tarda en retirar?
-La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
-
 ## ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
 Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC - gratis, ETH - 0.003, USDT - 4.
 
 ## ¿Hay algún límite establecido para las retiradas?
 El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC - 0.00036, ETH - 0.0096, USDT - 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
+
+## ¿Cuánto tiempo se demora en en retirar?
+La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
 
 ## ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
 Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
@@ -180,5 +180,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzY4OTksMjA4NDM2NTU4XX0=
+eyJoaXN0b3J5IjpbNDc1ODc1OTIwLDIwODQzNjU1OF19
 -->
