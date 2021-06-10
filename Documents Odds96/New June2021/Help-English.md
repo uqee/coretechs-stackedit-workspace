@@ -397,93 +397,39 @@ Please contact our support team.
   
 
 ## My bet was settled incorrectly. What should I do?
-
-  
-
 In the unlikely event that your bet has been settled incorrectly, please contact our support team.
 
-  
-
 ## How do you settle a bet on an unfinished tennis match where one of the players refused to continue or was disqualified?
-
-  
-
-All bets on results that remain undecided are declared void.
-
-  
+All bets on results that remain undecided are declared void. 
 
 ## What are SRL matches?
-
-  
-
 SRL stands for ‘Simulated Reality League’. These are virtual matches simulated with the help of a database. These matches are not real and therefore there are no real teams taking part in them.
 
-  
-
 ## I cannot find the "Live" page.
-
-  
-
 When choosing any sport, you’ll automatically be directed to "Live".
 
-  
-
 ## Where can I find match statistics?
-
-  
-
 Match statistics can be found inside the match card in a special section which contains an automatic match tracker.
 
-  
-
 ## Are you going to cover the match between X and X?
-
-  
-
 All matches are offered at our own discretion.
 
-  
-
 ## Can I add certain teams to "Favorites"?
-
-  
-
-Odds96 does not offer this option at the moment.
-
-  
+Odds96 does not offer this option at the moment. 
 
 ## How does "Favorites" work?
-
-  
-
 To add a match to "Favorites", click on the star located to the left of the team’s name. All selected matches can be found in "Favorites".
 
   
 
-# # Casino
-
-  
-
+# Casino
 ## What is the minimum bet?
-
-  
-
 The minimum bet depends on the casino game you choose.
 
-  
-
 ## What is the maximum bet?
-
-  
-
 The maximum bet depends on the casino game you choose.
 
-  
-
 ## My casino bet has been cancelled. What should I do?
-
-  
-
 A casino bet may have been cancelled because your internet connection failed. Please check if you are connected to the internet and reload the page.
 
 ## My casino game tends to freeze. What should I do?
@@ -514,5 +460,5 @@ For the moment, we do not. But, we may consider this in the future.
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjgxNDkwNF19
+eyJoaXN0b3J5IjpbLTEzOTUwNjE4ODddfQ==
 -->
