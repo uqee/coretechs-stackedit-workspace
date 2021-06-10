@@ -91,14 +91,14 @@ Si has perdido el acceso al correo electrónico con el que te registraste en nue
 Podrás elegir entre dos métodos: hacer un depósito mediante el código QR único o utilizando la dirección de tu billetera. Consideremos una transacción de Bitcoin para dar un ejemplo:
 1.  Regístrate en uno de los servicios de monederos electrónicos más populares como Binance o Copay (en sus páginas web o en aplicaciones para Android/iOS).
 2.  Compra criptomonedas con tu tarjeta bancaria o utilizando otros métodos de pago.
-3.  Ve a Odds96.com.
+3.  Abre nuestra página [Odds96.com](http://odds96.com).
 4.  En la esquina superior derecha, haz click en el icono de billetera.
-    
 5.  En el apartado "Saldo" que aparecerá, encontrarás la dirección de tu cuenta. Cópiala y pégala en la libreta de direcciones de tu billetera electrónica para efectuar la transacción. Alternativamente, puedes escanear el código QR usando la aplicación móvil de tu billetera.
-    
 6.  Una vez que haya como mínimo una confirmación en el blockchain, los Bitcoins se acreditarán en tu cuenta.
-    
 7.  Ten en cuenta que pueden ocurrir algunos retrasos en los servicios de terceros (por ejemplo, eWallets o intercambios de criptomoneda) que pueden debitar tu cuenta privada pero no agregar la transacción al blockchain durante varias horas. Una vez efectuado el depósito, recibirás una notificación de confirmación.
+
+## ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
+Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
 ## Deposité hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
 Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
@@ -108,9 +108,6 @@ Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de
 
 ## ¿Puedo enviar tockens ERC-20 a la dirección de mi cuenta registrada con la moneda Ethereum?
 Si al haber registrado tu cuenta en Odds96 has seleccionado Ethereum, solo podrás depositar Ethereum coin. Si envías otros tockens ERC-20 a la dirección de tu cuenta, tu depósito se perderá.
-
-## ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
-Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
 # Retiradas
 
@@ -183,5 +180,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjQyMDM0MCwyMDg0MzY1NThdfQ==
+eyJoaXN0b3J5IjpbLTczMzY4OTksMjA4NDM2NTU4XX0=
 -->
