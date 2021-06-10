@@ -68,16 +68,14 @@ Your privacy is our top priority. According to data protection laws, we treat an
 ## I forgot my password.
 Reset your password by clicking the 'Forgot your password?' button on the 'Log In' window. Enter the email address that you used to register and you’ll receive a password recovery code. Following the instructions, enter the code that was sent and you’ll be prompted to set a new password.
 
+## I haven’t received any password recovery code. What should I do?
+There are two possible reasons as to why you have not received the password recovery code:
+- There is no account linked to the username or email that you provided. With this in mind, please double check that the username or email you are entering is correct.
+- Check your spam folder. The email containing the password recovery code might have been filtered incorrectly.
+
 ## How can I change my password?
-
-  
-
 To change your password, please follow these steps:
-
-  
-
 1. Log in into your Account,
-
 2. Go to the Security page,
 3. Click on "Change Password",
 4. In the window that appears, enter your current password, before selecting a new one and clicking "Change".
@@ -87,11 +85,6 @@ Please contact our support team at: [support@odds96.com](mailto:support@odds96.c
 
 ## I lost access to the email that I used to register. Is it possible to change my email address from my account?
 If you have lost access to your registered email address, we would greatly appreciate it if you could try to restore it yourself. If you fail to do so, please send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to iterate the new email address which you would like to attach to your account. We will then provide you with further instructions.
-
-## I haven’t received any password recovery code. What should I do?
-There are two possible reasons as to why you have not received the password recovery code:
-- There is no account linked to the username or email that you provided. With this in mind, please double check that the username or email you are entering is correct.
-- Check your spam folder. The email containing the password recovery code might have been filtered incorrectly.
 
 # Deposits
 ## How do I make a deposit?
@@ -262,5 +255,5 @@ For the moment, we do not. But, we may consider this in the future.
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjY3MTk0OF19
+eyJoaXN0b3J5IjpbNDYwMzkyMTI2XX0=
 -->
