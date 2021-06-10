@@ -79,63 +79,33 @@ To change your password, please follow these steps:
 1. Log in into your Account,
 
 2. Go to the Security page,
-
 3. Click on "Change Password",
-
 4. In the window that appears, enter your current password, before selecting a new one and clicking "Change".
 
 ## I forgot my password, and as a result, lost access to my email. What should I do?
-
-  
-
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 
-  
-
 ## I lost access to the email that I used to register. Is it possible to change my email address from my account?
-
-  
-
 If you have lost access to your registered email address, we would greatly appreciate it if you could try to restore it yourself. If you fail to do so, please send an email to: [support@odds96.com](mailto:support@odds96.com). Make sure to iterate the new email address which you would like to attach to your account. We will then provide you with further instructions.
 
-  
-
 ## I haven’t received any password recovery code. What should I do?
-
-  
-
 There are two possible reasons as to why you have not received the password recovery code:
-
 - There is no account linked to the username or email that you provided. With this in mind, please double check that the username or email you are entering is correct.
-
 - Check your spam folder. The email containing the password recovery code might have been filtered incorrectly.
 
-  
-  
-  
-  
-
-# # Deposits
-
-  
-
+# Deposits
 ## How do I make a deposit?
-
 There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
-
 1.  Register with one of the most popular e-wallet services like Binance or Copay (on their websites or Android/iOS apps).
-    
 2.  Buy crypto via a bank card or any other payment methods.
-    
 3.  Go to [Odds96.com](http://odds96.com).
-    
 4.  In the top right-hand corner, click on the wallet-like icon.
-    
 5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
-    
 6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
-    
 7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.  
+
+## Is there a transaction fee for deposits?
+We do not charge any additional fees for making deposits, however, blockchain networks might do so.
 
 ## I made a deposit 30 minutes ago but it hasn’t yet been credited to my account. What happened?
 Your transaction is being processed. Odds96 requests a certain number of blockchain confirmations depending on the cryptocurrency you chose. For example, Bitcoin only requires one confirmation. To track the status of your deposit, you can click on the wallet-like icon and scroll down to "Transactions". Clicking on the Hash link will take you to the network page related to this transaction. Currently, we are using Blockcypher. You can check the number of blockchain confirmations in the bottom right-hand corner.
@@ -146,8 +116,6 @@ If you are going to deposit Bitcoin, please note that you can send them only via
 ## Can I send ERC-20 tokens to my Ethereum deposit address on Odds96?
 The Ethereum deposit address on your account has been created for receiving Ethereum coins only. Sending any other ERC-20 currency tokens to this address will result in the loss of your deposit.
 
-## Is there a transaction fee for deposits?
-We do not charge any additional fees for making deposits, however, blockchain networks might do so.
 
 # Withdrawals
 ## How can I make a withdrawal?
@@ -294,5 +262,5 @@ For the moment, we do not. But, we may consider this in the future.
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxOTgzNzkzXX0=
+eyJoaXN0b3J5IjpbMTcxMjY3MTk0OF19
 -->
