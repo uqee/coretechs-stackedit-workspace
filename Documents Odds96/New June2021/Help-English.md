@@ -38,6 +38,35 @@ Odds96 supports only decimal odds.
 
 ## How do I change my language preference?
 Open any page on our website, scroll down and click on the language selector in the lower right-hand corner. You can choose either English or Spanish.
+
+## Is it possible to display BTC in US dollars?
+To change your currency display preference, follow these steps:
+
+- In the upper right-hand corner, click on your ‘Account Balance’.
+
+- In the window that appears below, you can choose the currency display option that you prefer.
+
+Important! The exchange rate is approximate. All your bets and transactions will be settled in the currency that you have initially chosen when registering.
+
+## How do I change my currency preference?
+For the moment, you are not allowed to change your currency preference after registering your account. But you can contact us at: [[support@odds96.com](mailto:support@odds96.com)](mailto:support@odds96.com) and we will try to find a solution for you.
+
+## Is it possible to place bets or play casino games using different types of currency?
+You can place bets or play casino games using the type of currency that you chose at the moment of registering on our website.
+
+## What is my ‘Account ID’?
+Your ‘Account ID’ is the email address that you used to register your account with.
+
+## Is it possible to log out remotely?
+This isn’t an option at the current moment.
+
+## Is it safe to upload my identity documents to your system?
+Your privacy is our top priority. According to data protection laws, we treat any information that you send to us as strictly confidential. We receive your documents through an end-to-end communication system and your information is processed only within our company.
+  
+
+# Login
+## I forgot my password.
+Reset your password by clicking the 'Forgot your password?' button on the 'Log In' window. Enter the email address that you used to register and you’ll receive a password recovery code. Following the instructions, enter the code that was sent and you’ll be prompted to set a new password.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjQ3ODY3N119
+eyJoaXN0b3J5IjpbLTkzMDExNzA3MF19
 -->
