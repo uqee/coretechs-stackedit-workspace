@@ -68,11 +68,10 @@ Tu privacidad es nuestra máxima prioridad. De acuerdo con las leyes de protecci
 ## He olvidado mi contraseña.
 Puedes restablecer tu contraseña haciendo click en '¿Olvidaste tu contraseña?' en la ventanilla de inicio de sesión. Introduce tu correo electrónico registrado para recibir un código de recuperación de contraseña. Siguiendo las instrucciones, introduce este código y establece una nueva contraseña.
 
-## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
-Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a [support@odds96.com](mailto:support@odds96.com) desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
-
-## He olvidado mi contraseña y he perdido el acceso a mi correo electrónico. ¿Qué debería hacer?
-Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
+## No he recibido el  código de recuperación de contraseña. ¿Qué debería hacer?
+Hay dos posibles razones por las que no has recibido el código de recuperación de contraseña:
+-   No se ha encontrado ninguna cuenta con el nombre de usuario o el email que has proporcionado. Por favor, vuelve a comprobar el nombre de usuario o el email que introduces.
+-   Revisa la carpeta de spam. Probablemente el correo que contiene el código de recuperación de contraseña esté allá.
 
 ## ¿Cómo puedo cambiar mi contraseña?
 Para cambiar tu contraseña, sigue estos pasos:
@@ -81,10 +80,13 @@ Para cambiar tu contraseña, sigue estos pasos:
 3.  Haz click en "Cambiar Contraseña",
 4.  En la ventanilla emergente introduce tu contraseña actual y una contraseña nueva, luego haz click en "Cambiar".
 
-## No he recibido el  código de recuperación de contraseña. ¿Qué debería hacer?
-Hay dos posibles razones por las que no has recibido el código de recuperación de contraseña:
--   No se ha encontrado ninguna cuenta con el nombre de usuario o el email que has proporcionado. Por favor, vuelve a comprobar el nombre de usuario o el email que introduces.
--   Revisa la carpeta de spam. Probablemente el correo que contiene el código de recuperación de contraseña esté allá.
+## He olvidado mi contraseña y he perdido el acceso a mi correo electrónico. ¿Qué debería hacer?
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
+
+## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
+Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a [support@odds96.com](mailto:support@odds96.com) desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
+
+
 
 # Depósitos
 
@@ -135,5 +137,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjE4NDkyNiwyMDg0MzY1NThdfQ==
+eyJoaXN0b3J5IjpbNTM5NDM2NDIyLDIwODQzNjU1OF19
 -->
