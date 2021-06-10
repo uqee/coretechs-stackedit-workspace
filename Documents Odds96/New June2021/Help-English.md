@@ -1,4 +1,13 @@
-<Version>Last updated: June X, 2021</Version>
+<Version>Last updated: June 10, 2021</Version>
+
+[Cuenta](#cuenta)
+[Contraseña](#contraseña)
+[Depósitos](#depósitos)
+[Retiradas](#retiradas)
+[Apuestas Deportivas](#apuestas-deportivas)
+[Casino](#casino)
+[Juego Responsable](#juego-responsable)
+[Otras Preguntas](#otras-preguntas)
 
 # Account
 
@@ -258,6 +267,5 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 ## Where can I find more information about the terms and conditions of your affiliate program?
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcxMzE2MTksLTEwOTY0NDM2OTVdfQ
-==
+eyJoaXN0b3J5IjpbLTkwNDEwMzQ4MywtMTA5NjQ0MzY5NV19
 -->
