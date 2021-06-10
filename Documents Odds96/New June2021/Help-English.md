@@ -135,51 +135,21 @@ There are two methods that you can use in making a deposit: via a unique QR code
     
 6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
     
-7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
-    
-
-  
-  
+7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.  
 
 ## I made a deposit 30 minutes ago but it hasn’t yet been credited to my account. What happened?
-
-  
-
 Your transaction is being processed. Odds96 requests a certain number of blockchain confirmations depending on the cryptocurrency you chose. For example, Bitcoin only requires one confirmation. To track the status of your deposit, you can click on the wallet-like icon and scroll down to "Transactions". Clicking on the Hash link will take you to the network page related to this transaction. Currently, we are using Blockcypher. You can check the number of blockchain confirmations in the bottom right-hand corner.
 
-  
-  
-
 ## Can I deposit Bitcoin over BEP2 or Tron network?
-
-  
-
 If you are going to deposit Bitcoin, please note that you can send them only via the Bitcoin protocol network. You cannot send Bitcoin via other protocol networks such as BEP2, BEP20, TRC-20 or ERC-20.
 
-  
-
 ## Can I send ERC-20 tokens to my Ethereum deposit address on Odds96?
-
-  
-
 The Ethereum deposit address on your account has been created for receiving Ethereum coins only. Sending any other ERC-20 currency tokens to this address will result in the loss of your deposit.
 
-  
-  
-
 ## Is there a transaction fee for deposits?
-
-  
-
 We do not charge any additional fees for making deposits, however, blockchain networks might do so.
 
-  
-  
-
 # Withdrawals
-## How long do withdrawals take?
-Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
-
 ## How can I make a withdrawal?
 To withdraw your funds, please follow these steps:
 1. In the top right-hand corner, click on the wallet-like icon.
@@ -189,14 +159,17 @@ To withdraw your funds, please follow these steps:
 ## Is there a transaction fee for withdrawals?
 Transaction fees vary depending on the cryptocurrency you chose: BTC - 0, ETH - 0.003, USDT - 4.
 
+## What are the withdrawal limits?
+The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
+
+## How long do withdrawals take?
+Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
+
 ## Where can I find the information about my withdrawal and its status?
 This information can be found in your account. Click on the wallet-like icon and scroll down to "Transactions".
 
 ## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
-
-## What are the withdrawal limits?
-The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
 
 ## I’ve already submitted my documents for the purposes of account verification but the withdrawal I requested has not yet been completed. What should I do?
 Please wait until the verification process has finished.
@@ -321,5 +294,5 @@ For the moment, we do not. But, we may consider this in the future.
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM0MjgxMDNdfQ==
+eyJoaXN0b3J5IjpbNDMxOTgzNzkzXX0=
 -->
