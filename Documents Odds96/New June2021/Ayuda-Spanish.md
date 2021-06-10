@@ -38,6 +38,13 @@ De momento solo se puede visualizar el formato de cuotas decimales (europeas).
 ## ¿Cómo puedo cambiar el idioma?
 Desplázate hacia abajo de cualquier página de nuestra web y haz click en el menú desplegable situado a la derecha. Puedes elegir entre inglés y español.
 
+## ¿Es posible cambiar la visualización de BTC en USD?
+Para cambiar tu visualización de moneda, sigue estos pasos:
+-   En la esquina superior derecha haz click en el "Saldo" de tu cuenta,
+-   En la ventanilla emergente selecciona la opción de visualización que te convenga.
+
+¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
+
 ## ¿Cómo puedo cambiar mi preferencia de moneda?
 Por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com). Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
 
@@ -49,13 +56,6 @@ Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@
 
 ## ¿Cuál es el ID de mi cuenta?
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
-
-## ¿Es posible cambiar la visualización de BTC en USD?
-Para cambiar tu visualización de moneda, sigue estos pasos:
--   En la esquina superior derecha haz click en el "Saldo" de tu cuenta,
--   En la ventanilla emergente selecciona la opción de visualización que te convenga.
-
-¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
 ## ¿Puedo cerrar sesión de forma remota?
 Esta opción no está disponible todavía.
@@ -136,12 +136,12 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI5a3FXMmJYQzlLd0VMY0xNIjp7In
-N0YXJ0IjoyODExLCJlbmQiOjI5ODQsInRleHQiOiJQb3IgZmF2
+N0YXJ0IjozMjQ0LCJlbmQiOjM0MTcsInRleHQiOiJQb3IgZmF2
 b3IsIGNvbnTDoWN0YW5vcyBlbnZpYW5kbyB1biBlbWFpbCBhIF
 tzdXBwb3J0QG9kZHM5Ni5jb21dKG1haWx0bzpzdXBwb3J0QOKA
 piJ9fSwiY29tbWVudHMiOnsiOENlZ21QRzI4T1NEbnNFMyI6ey
 JkaXNjdXNzaW9uSWQiOiI5a3FXMmJYQzlLd0VMY0xNIiwic3Vi
 IjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC80LXQvdGP0Y
 LRjCIsImNyZWF0ZWQiOjE2MjMzMTUxNTc5MzF9fSwiaGlzdG9y
-eSI6WzkxODQwMTU0MCwyMDg0MzY1NThdfQ==
+eSI6WzIzODEyNzg5NywyMDg0MzY1NThdfQ==
 -->
