@@ -137,8 +137,103 @@ Por favor, espera hasta que finalice el proceso de verificación.
 
 # Apuestas Deportivas
 
+## ¿Cuál es el importe mínimo que puedo apostar?
+
+El importe mínimo depende de la criptomoneda que seleccionaste: BTC - 0.00002, ETH - 0.0005, USDT - 1.
+
+## ¿Cuál es el importe máximo que puedo apostar?
+
+El importe máximo depende de varios factores como el tipo de deporte, liga, campeonato o mercado.
+
+## ¿Por qué ha sido rechazada mi apuesta?
+
+En general, hay tres razones principales por las cuales tu apuesta puede haber sido rechazada:
+
+-   El importe de tu apuesta es demasiado alto.
+-   Han cambiado las cuotas desde el momento en que has colocado tu apuesta y cuando la hemos confirmado.
+-   Ha surgido un problema con el servidor automatizado.
+
+## Me he equivocado al colocar mi apuesta. ¿Puedo cancelarla?
+
+Antes de confirmar tu apuesta, siempre verifica que el talón de apuesta sea correcto. Según nuestros Términos y Condiciones, está prohibido cambiar, modificar o cancelar ninguna apuesta confirmada por un cliente.
+
+## El partido ha terminado pero mi apuesta no se ha liquidado, ¿por qué?
+
+Los retrasos suelen ocurrir cuando nuestro sistema está esperando la verificación del resultado del partido. Los retrasos son más cortos para los eventos más populares y pueden ser un poco más largos para los eventos del nivel más bajo.
+
+## ¿Cómo se resuelve el mercado de tarjetas si a un jugador le han sacado una tarjeta roja?
+
+Una tarjeta amarilla cuenta como una tarjeta. Una tarjeta roja cuenta como dos tarjetas. Si un jugador recibe la segunda amarilla, que comportaría una expulsión, la segunda tarjeta amarilla no cuenta. El cómputo total de tarjetas en este caso sería 3 (1 - por la primera tarjeta amarilla recibida, 2 - por la tarjeta roja).
+
+## ¿Aceptan apuestas por el tiempo reglamentario o por el tiempo reglamentario incluyendo la prórroga?
+
+Aceptamos apuestas por el tiempo reglamentario y por el tiempo reglamentario incluyendo la prórroga. Si una selección cubre el partido entero, encontrarás una nota entre paréntesis "(prórroga incl.)".
+
+## No consigo encontrar el evento por el que quiero apostar. ¿Puedo dejar una sugerencia?
+Esta opción aún no está disponible.
+
+## ¿Cuáles son los ajustes del talón de apuestas?
+Para gestionar el cambio de cuotas, en los ajustes del talón de apuestas puedes seleccionar una de tres opciones disponibles:
+-   Aceptar solo cuotas mayores - aceptar solo las cuotas mayores por defecto y solicitar confirmación si las cuotas bajan,
+-   Aceptar cualquier cambio de cuotas - aceptar cualquier cambio de cuotas por defecto,
+-   Solicitar confirmación - solicitar confirmación si las cuotas suben y bajan.
+
+## ¿Qué son una apuesta simple y una apuesta múltiple/combinada?
+Una apuesta simple es cuando seleccionas el resultado de un evento deportivo. Si tu apuesta resulta ganadora, la cuota se multiplicará por el importe que has apostado. Una apuesta múltiple/combinada depende de los resultados de unos cuantos eventos. Para ganar esta apuesta, hay que predecir correctamente el resultado de cada partido. Si tu apuesta resulta ganadora, el importe que has apostado se multiplicará por el total de cuotas de los eventos seleccionados.
+
+## ¿Cuál es la cuota máxima para una apuesta combinada (parlay)?
+La cuota máxima está limitada por el importe de pago máximo.
+
+## ¿Cuántos eventos puedo agregar a una apuesta combinada (parlay)?
+Puedes agregar hasta 20 eventos.
+
+## Se ha interrumpido un evento por el que aposté. ¿Cómo se liquidará mi apuesta?
+Si un evento no ha terminado o ha sido abandonado después del inicio (debido a descalificación, interrupción, rechazo, cambios en el resultado, etc), todas las apuestas en mercados donde no se haya decidido el resultado serán nulas. Para obtener más información, por favor, lee nuestras Reglas Generales de Apuestas.
+
+## ¿Pueden aumentar mi límite del importe de apuesta?
+Esta opción aún no está disponible.
+
+## ¡Aconséjenme partido por el que apostar!
+No proporcionamos ningún tipo de consejos sobre apuestas deportivas. Debe ser tu propia decisión y a tu propio riesgo.
+
+## ¿Qué es un hándicap/total asiático de cuartos (Х.25/Х.75)?
+El hándicap/total asiático de cuartos ofrece las cuotas que terminan en .25 o .75 y por eso es un poco más complicado que otros hándicaps/totales. También lo suelen llamar el hándicap/total doble como si colocáramos dos apuestas. Por ejemplo, el hándicap/total de -0.25 se escribiría como (0, -0.5).
+
+## ¿Están disponibles las apuestas de sistema?
+Este tipo de apuestas aún no está disponible en nuestra web.
+
+## He realizado una apuesta pero no encuentro ningún tipo de información sobre ella en mi historial. ¿Qué debería hacer?
+Por favor, contacta con nuestro equipo de soporte.
+
+## Mi apuesta no se ha liquidado correctamente. ¿Qué debería hacer?
+En el caso poco probable de que tu apuesta no se haya liquidado correctamente, puedes contactar a nuestro equipo de soporte.
+
+## ¿Cómo se resuelve una apuesta por un partido de tenis que no ha terminado porque uno de los jugadores se niega a continuar o ha sido descalificado?
+Todas las apuestas en mercados donde no se haya decidido el resultado serán nulas.
+
+## ¿Cómo se resuelven las apuestas como Más de 1.5 o Menos de 1.5 en MMA?
+Estas selecciones indican el número total de asaltos completados.
+
+## ¿Qué son los partidos de SRL?
+SRL es la abreviación de la Liga de Realidad Simulada. Se trata de partidos virtuales simulados con la ayuda de una base de datos. Estos partidos no son reales y ningún equipo real participa en ellos.
+
+## No encuentro la página "En Vivo".
+Al elegir cualquier deporte serás redirigido a la página "En Vivo".
+
+## ¿Van a cubrir el partido entre X y X?
+Todos los partidos se ofrecen a nuestra propia discreción.
+
+## ¿Por qué se actualizan y cambian las cuotas?
+Todas las selecciones y cuotas se ofrecen a nuestra propia discreción y cambian en función del resultado del partido, tiempo u otros factores.
+
 ## ¿Dónde puedo encontrar las estadísticas de partidos?
 Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
+
+## ¿Puedo agregar algunos equipos a "Favoritos"?
+Esta opción aún no está disponible.
+
+## ¿Cómo funciona "Favoritos"?
+Para agregar un partido a "Favoritos", haz click en la estrella situada a la izquierda del nombre del equipo. Todos los equipos seleccionados se encuentran en "Favoritos".
 
 # Casino 
 
@@ -180,5 +275,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODI3NTIwNSwyMDg0MzY1NThdfQ==
+eyJoaXN0b3J5IjpbMjA3MTg0NDEyNSwyMDg0MzY1NThdfQ==
 -->
