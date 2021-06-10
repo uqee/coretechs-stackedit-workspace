@@ -9,23 +9,18 @@ La verificación sirve para confirmar la identidad del propietario de la cuenta 
 No hay plazos establecidos que tenemos que respetar cuando verificamos tu cuenta. Normalmente, el plazo depende de cada caso en particular.
 
 ## ¿Tengo derecho a registrarme en Odds96?
-
 Para verificar si tienes derecho a registrarte en Odds96, visita la página con nuestros Términos y Condiciones.
 
 ## ¿Cómo puedo registrarme? ¿Hay algunos requisitos especiales?
-
 Para registrarte en nuestra página web, solo tienes que verificar tu email.
 
-## ¿Puedo tener más de una cuenta en Odds96?
-
-No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
-
 ## ¿Puedo registrarme con mi licencia de conducir?
-
 Para registrarte, solo tienes que verificar tu email. Puedes presentar tu licencia de conducir para verificar la cuenta.
 
-## ¿Puedo reactivar mi cuenta?
+## ¿Puedo tener más de una cuenta en Odds96?
+No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
 
+## ¿Puedo reactivar mi cuenta?
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com) y explica porqué has decidido reactivar tu cuenta.
 
 ## ¿Puedo registrar una cuenta para alguien más?
@@ -141,12 +136,12 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI5a3FXMmJYQzlLd0VMY0xNIjp7In
-N0YXJ0IjoyMjQ4LCJlbmQiOjI0MjEsInRleHQiOiJQb3IgZmF2
+N0YXJ0IjoyMjQzLCJlbmQiOjI0MTYsInRleHQiOiJQb3IgZmF2
 b3IsIGNvbnTDoWN0YW5vcyBlbnZpYW5kbyB1biBlbWFpbCBhIF
 tzdXBwb3J0QG9kZHM5Ni5jb21dKG1haWx0bzpzdXBwb3J0QOKA
 piJ9fSwiY29tbWVudHMiOnsiOENlZ21QRzI4T1NEbnNFMyI6ey
 JkaXNjdXNzaW9uSWQiOiI5a3FXMmJYQzlLd0VMY0xNIiwic3Vi
 IjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC80LXQvdGP0Y
 LRjCIsImNyZWF0ZWQiOjE2MjMzMTUxNTc5MzF9fSwiaGlzdG9y
-eSI6Wy0xOTUwMDM4MDkzLDIwODQzNjU1OF19
+eSI6WzI1MDQ1MTY2MCwyMDg0MzY1NThdfQ==
 -->
