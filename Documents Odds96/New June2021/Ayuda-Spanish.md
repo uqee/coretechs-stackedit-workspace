@@ -1,11 +1,13 @@
-<Version>Última actualización: el X de junio de 2021</Version>
+<Version>Última actualización: el 10 de junio de 2021</Version>
 
 [Cuenta](#cuenta)
 [Contraseña](#contraseña)
 [Depósitos](#depósitos)
 [Retiradas](#retiradas)
 [Apuestas Deportivas](#apuestas-deportivas)
-[General Rules](#general-rules)
+[Casino](#casino)
+[Juego Responsable](#juego-responsable)
+[Otras Preguntas](#otras-preguntas)
 
 # Cuenta
 
@@ -274,5 +276,5 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNDcwNTksMjA4NDM2NTU4XX0=
+eyJoaXN0b3J5IjpbMTk5ODAzMDA5MSwyMDg0MzY1NThdfQ==
 -->
