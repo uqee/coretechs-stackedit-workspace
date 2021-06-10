@@ -226,88 +226,38 @@ Please contact our support team at: [support@odds96.com](mailto:support@odds96.c
 
 The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
 
-  
+ 
 
 ## Is there a transaction fee for withdrawals?
-
-  
-
 Transaction fees vary depending on the cryptocurrency you chose: BTC - 0, ETH - 0.003, USDT - 4.
 
-  
-
 ## I’ve already submitted my documents for the purposes of account verification but the withdrawal I requested has not yet been completed. What should I do?
-
-  
-
 Please wait until the verification process has finished.
 
   
-
-# # Betting
-
-  
-
+# Betting
 ## What is the minimum bet?
-
-  
-
 The minimum bet varies depending on the currency you choose: BTC - 0.00002, ETH - 0.0005, USDT - 1.
 
-  
-
 ## What is the maximum bet?
-
-  
-
 Maximum bet amounts can vary based on a lot of factors, such as the type of sport, league, tournament or even the market.
 
-  
-
 ## Why was my bet rejected?
-
-  
-
 Generally, there are three main reasons as to why your bet may have been rejected:
-
-  
-
 - The stake you have placed is too high.
-
 - The odds have changed in the period between placing the bet and confirmation.
-
 - There is an issue with the automated server.
 
-  
-
 ## I made a mistake while placing my bet. Can I cancel it?
-
-  
-
 Always check that your betting slip is correct before confirming. As stated in our Terms and Conditions, we can never change, modify or cancel any bet that has been confirmed by a client.
 
-  
-
 ## The match has ended but my bet has not yet been settled yet. Why?
-
-  
-
 A delay can occur when our system is waiting for the verification of the match result. The delays are shorter for popular events and might be a bit longer for low-profile events.
 
-  
-
 ## Do you accept bets on regular time or on regular time including overtime?
-
-  
-
 We accept bets on regular time as well as on regular time including overtime. If a bet covers the whole match, we add a note in parenthesis "(incl. overtime)".
 
-  
-
 ## I can’t find the event that I want to bet on. Can I somehow suggest that you add it?
-
-  
-
 Odds96 does not offer this option at the moment.
 
 ## What are the bet slip settings?
@@ -404,5 +354,5 @@ For the moment, we do not. But, we may consider this in the future.
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjE4NDU1MV19
+eyJoaXN0b3J5IjpbNDU5Njk5NDc4XX0=
 -->
