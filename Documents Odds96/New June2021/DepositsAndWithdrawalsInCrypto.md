@@ -1,4 +1,4 @@
-General Information
+# General Information
 
 1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your Account.
 
@@ -82,57 +82,30 @@ This information may be in the form of:
 
 13. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on www.odds96.com. However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
 
-  
-
 14. The Multi Currency Display feature allows you to choose the way your currency is displayed in your Account. Display options include but are not limited to USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be still settled in the currency you have chosen when registering your Account. Note that the history of your bets and transactions will be shown in the currency you have chosen in the Multi Currency Display feature according to the current exchange rates. The exchange rates between cryptocurrency and USD or other fiat currencies that we show on our Website are approximate.
-
-  
 
 15. Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [learncrypto.com]([https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base))
 
-  
-  
-  
-  
-  
-  
-
-FAQ
-
+# FAQ
 ## How do I change my currency preference?
-
 For the moment, you are not allowed to change your currency preference after registering your account. But you can contact us at: [[support@odds96.com](mailto:support@odds96.com)](mailto:support@odds96.com) and we will try to find a solution for you.
 
-  
-
 ## Is it possible to display BTC in US dollars?
-
 To change your currency display preference, follow these steps:
 
 - In the upper right-hand corner, click on your ‘Account Balance’.
-
 - In the window that appears below, you can choose the currency display option that you prefer.
 
 Important! The exchange rate is approximate. All your bets and transactions will be settled in the currency that you have initially chosen when registering.
 
-  
-
 ## How do I make a deposit?
-
 There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
-
 1.  Register with one of the most popular e-wallet services like Binance or Copay (on their websites or Android/iOS apps).
-    
 2.  Buy crypto via a bank card or any other payment methods.
-    
 3.  Go to [Odds96.com](http://odds96.com).
-    
 4.  In the top right-hand corner, click on the wallet-like icon.
-    
 5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
-    
 6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
- 
 7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
     
 ## Is there a transaction fee for deposits?
@@ -168,5 +141,5 @@ This information can be found in your account. Click on the wallet-like icon and
 ## I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0ODI2NjI3XX0=
+eyJoaXN0b3J5IjpbLTM2NDUxNDk5N119
 -->
