@@ -18,19 +18,15 @@ Desplázate hacia abajo de cualquier página de nuestra web y haz click en el me
 Por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com). Está permitido cambiar el tipo de criptomoneda solo si tu cuenta está verificada.
 
 ## ¿Es posible realizar apuestas o jugar a juegos de casino utilizando diferentes tipos de criptomoneda?
-
 Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de criptomoneda que hayas elegido en el momento de registrarte en nuestra página web.
 
 ## ¿Cómo puedo cerrar mi cuenta?
-
 Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
 
-## He olvidado mi contraseña y he perdido el acceso a mi correo electrónico. ¿Qué debería hacer?
 
-Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
+
 
 ## ¿Por qué se ha bloqueado mi cuenta?
-
 Por favor, comprueba si hay algún email de Odds96 en la bandeja de entrada de tu correo electrónico. Seguramente te hemos enviado un email que explica porqué tu cuenta está bloqueada y que pasos debes seguir para reactivarla. En caso contrario, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 ## He olvidado mi contraseña.
@@ -58,18 +54,12 @@ Para cambiar tu contraseña, sigue estos pasos:
 4.  En la ventanilla emergente introduce tu contraseña actual y una contraseña nueva, luego haz click en "Cambiar".
 
 ## ¿Cómo puedo cancelar la suscripción a vuestro newsletter?
-
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 ## ¿Cuál es el ID de mi cuenta?
-
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
 
-
-
-
 ## ¿Es posible cambiar la visualización de BTC en USD?
-
 Para cambiar tu visualización de moneda, sigue estos pasos:
 
 -   En la esquina superior derecha haz click en el "Saldo" de tu cuenta,
@@ -78,29 +68,27 @@ Para cambiar tu visualización de moneda, sigue estos pasos:
 ¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
 ## ¿Puedo cerrar sesión de forma remota?
-
 Esta opción no está disponible todavía.
 
 ## ¿Dónde puedo encontrar las estadísticas de partidos?
-
 Puedes encontrar las estadísticas de partidos en un apartado especial llamado "Match Tracker".
 
 ## ¿Es seguro agregar y enviar mis documentos de identificación?
-
 Tu privacidad es nuestra máxima prioridad. De acuerdo con las leyes de protección de datos, tratamos cualquier información que nos envíes como estrictamente confidencial. Recibimos tus documentos a través del sistema de comunicación de extremo a extremo y los procesamos sólo dentro de nuestra empresa.
 
 ## ¿Puedo usar la cuenta de mi amigo?
-
 No, está prohibido. Solo puedes usar tu propia cuenta que debes registrar en nuestra página web. Cada cliente puede tener solo una cuenta personal. Si se descubre que tienes otras cuentas, todas tus cuentas y el acceso a tus fondos serán bloqueados.
 
 ## Mi cuenta fue hackeada o robada. ¿Qué debo hacer?
-
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 # Contraseña
 
 ## He perdido el acceso al correo electrónico con el que me registré. ¿Puedo cambiar mi email en la cuenta?
 Si has perdido el acceso al correo electrónico con el que te registraste en nuestra web, te agradeceríamos que intentaras restablecerlo. Si no lo consigues, por favor, envía un correo a [support@odds96.com](mailto:support@odds96.com) desde tu nuevo email. Te proporcionaremos las instrucciones detalladas sobre cómo agregar tu nuevo email a tu cuenta.
+
+## He olvidado mi contraseña y he perdido el acceso a mi correo electrónico. ¿Qué debería hacer?
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
 # Depósitos
 
@@ -130,5 +118,13 @@ Por desgracia, no hemos desarrollado una app para iOS o Android todavía. Sin em
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTg5NjAwN119
+eyJkaXNjdXNzaW9ucyI6eyI5a3FXMmJYQzlLd0VMY0xNIjp7In
+N0YXJ0IjoxMDc3LCJlbmQiOjEyNTAsInRleHQiOiJQb3IgZmF2
+b3IsIGNvbnTDoWN0YW5vcyBlbnZpYW5kbyB1biBlbWFpbCBhIF
+tzdXBwb3J0QG9kZHM5Ni5jb21dKG1haWx0bzpzdXBwb3J0QOKA
+piJ9fSwiY29tbWVudHMiOnsiOENlZ21QRzI4T1NEbnNFMyI6ey
+JkaXNjdXNzaW9uSWQiOiI5a3FXMmJYQzlLd0VMY0xNIiwic3Vi
+IjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC80LXQvdGP0Y
+LRjCIsImNyZWF0ZWQiOjE2MjMzMTUxNTc5MzF9fSwiaGlzdG9y
+eSI6WzM0NDI2NTU4N119
 -->
