@@ -54,9 +54,6 @@ Puedes realizar apuestas o jugar a juegos de casino utilizando solo el tipo de m
 ## ¿Cuál es el ID de mi cuenta?
 El ID de tu cuenta es el email que usaste para registrarte en nuestra página web.
 
-## ¿Cómo puedo cerrar mi cuenta?
-Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
-
 ## ¿Puedo cerrar sesión de forma remota?
 Esta opción no está disponible todavía.
 
@@ -114,6 +111,9 @@ Si tu juego de casino se congela, comprueba si estás conectado a Internet y vue
 
 # Juego Responsable
 
+## ¿Cómo puedo cerrar mi cuenta?
+Para cerrar tu cuenta, envíanos un email a [support@odds96.com](mailto:support@odds96.com) desde el correo electrónico registrado. En este email explícanos porque has decidido cerrar tu cuenta.
+
 ## ¿Es posible quitar las limitaciones de ‘Auto-Exclusión’? ¿Cómo puedo reactivar mi cuenta?
 Puedes contactar a nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com)
 
@@ -135,5 +135,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcwMTc5MTIsMjA4NDM2NTU4XX0=
+eyJoaXN0b3J5IjpbLTE4NjEzNjc4OTIsMjA4NDM2NTU4XX0=
 -->
