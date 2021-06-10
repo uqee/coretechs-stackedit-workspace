@@ -246,9 +246,6 @@ At the moment, Odds96 is not offering this option. If you feel that you may have
 
 # Other Questions
 
-## Where can I find more information about the terms and conditions of your affiliate program?
-Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
-
 ## Do you have an iOS/Android app?
 Unfortunately, we do not have an iOS or Android app at the moment. However, you are welcome to use the mobile version of our website, which works perfectly well.
 
@@ -257,6 +254,10 @@ For the moment, we do not. But, we may consider this in the future.
 
 ## How do I unsubscribe from your newsletter?
 The button"Unsubscribe" is found in every commercial email that you receive from us. If you click on it, you’ll be redirected to a page where you’ll need to confirm your decision to unsubscribe from our mailing list.
+
+## Where can I find more information about the terms and conditions of your affiliate program?
+Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY0NDM2OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNDcxMzE2MTksLTEwOTY0NDM2OTVdfQ
+==
 -->
