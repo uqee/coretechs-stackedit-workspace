@@ -138,35 +138,27 @@ Por favor, espera hasta que finalice el proceso de verificación.
 # Apuestas Deportivas
 
 ## ¿Cuál es el importe mínimo que puedo apostar?
-
 El importe mínimo depende de la criptomoneda que seleccionaste: BTC - 0.00002, ETH - 0.0005, USDT - 1.
 
 ## ¿Cuál es el importe máximo que puedo apostar?
-
 El importe máximo depende de varios factores como el tipo de deporte, liga, campeonato o mercado.
 
 ## ¿Por qué ha sido rechazada mi apuesta?
-
 En general, hay tres razones principales por las cuales tu apuesta puede haber sido rechazada:
-
 -   El importe de tu apuesta es demasiado alto.
 -   Han cambiado las cuotas desde el momento en que has colocado tu apuesta y cuando la hemos confirmado.
 -   Ha surgido un problema con el servidor automatizado.
 
 ## Me he equivocado al colocar mi apuesta. ¿Puedo cancelarla?
-
 Antes de confirmar tu apuesta, siempre verifica que el talón de apuesta sea correcto. Según nuestros Términos y Condiciones, está prohibido cambiar, modificar o cancelar ninguna apuesta confirmada por un cliente.
 
 ## El partido ha terminado pero mi apuesta no se ha liquidado, ¿por qué?
-
 Los retrasos suelen ocurrir cuando nuestro sistema está esperando la verificación del resultado del partido. Los retrasos son más cortos para los eventos más populares y pueden ser un poco más largos para los eventos del nivel más bajo.
 
 ## ¿Cómo se resuelve el mercado de tarjetas si a un jugador le han sacado una tarjeta roja?
-
 Una tarjeta amarilla cuenta como una tarjeta. Una tarjeta roja cuenta como dos tarjetas. Si un jugador recibe la segunda amarilla, que comportaría una expulsión, la segunda tarjeta amarilla no cuenta. El cómputo total de tarjetas en este caso sería 3 (1 - por la primera tarjeta amarilla recibida, 2 - por la tarjeta roja).
 
 ## ¿Aceptan apuestas por el tiempo reglamentario o por el tiempo reglamentario incluyendo la prórroga?
-
 Aceptamos apuestas por el tiempo reglamentario y por el tiempo reglamentario incluyendo la prórroga. Si una selección cubre el partido entero, encontrarás una nota entre paréntesis "(prórroga incl.)".
 
 ## No consigo encontrar el evento por el que quiero apostar. ¿Puedo dejar una sugerencia?
@@ -275,5 +267,5 @@ Esta opción no está disponible todavía.
 En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar la suscripción". Si haces click en él, serás redirigido a una página web donde deberás confirmar tu decisión de darte de baja de nuestro newsletter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTg0NDEyNSwyMDg0MzY1NThdfQ==
+eyJoaXN0b3J5IjpbLTk2MDgzNjczNSwyMDg0MzY1NThdfQ==
 -->
