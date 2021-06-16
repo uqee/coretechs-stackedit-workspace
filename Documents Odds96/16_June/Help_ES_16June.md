@@ -4,9 +4,9 @@
 
 [Contraseña](#contrasena)
 
-[Depósitos](#depositos)
+[Depósitos](#depósitos)
 
-[Retiradas](#retiradas)
+[Retiros](#retiros)
 
 [Apuestas Deportivas](#apuestas-deportivas)
 
@@ -168,7 +168,7 @@ Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de
 
 Si al haber registrado tu cuenta en Odds96 has seleccionado Ethereum, solo podrás depositar Ethereum coin. Si envías otros tockens ERC-20 a la dirección de tu cuenta, tu depósito se perderá.
 
-### Retiradas
+### Retiros
 
 #### ¿Cómo puedo retirar fondos?
 
@@ -374,5 +374,5 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU4NDQ2NTldfQ==
+eyJoaXN0b3J5IjpbNDQxMDgxNzI0XX0=
 -->
