@@ -35,7 +35,13 @@ Antes de hacer un depósito, se te informará de la cantidad mínima exacta de d
 
 Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro en el sitio web.
 
-1.6. Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
+1.6. Las **comisiones de retiro** varían en función de la moneda que utilices. En el momento de la publicación, estas tarifas son de: 
+
+- BTC 0;
+- ETH 0.003;
+- USDT 10. 
+ 
+Nos reservamos el derecho a modificar el importe de la comisión de retir en cualquier momento y sin previo aviso. Antes de realizar un retiro, se te informará del importe exacto de la comisión de retiro en el sitio web.
 
 1.7. Be sure to deposit only the cryptocurrency you choose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
 
@@ -134,5 +140,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDg1OTg1MV19
+eyJoaXN0b3J5IjpbMTI1NzYwMjkxN119
 -->
