@@ -1,4 +1,4 @@
-<Version>Última actualización: el 10 de junio de 2021</Version>
+<Version>Última actualización: el 16 de junio de 2021</Version>
 
 [Cuenta](#cuenta)
 
@@ -21,6 +21,15 @@
 #### ¿Por qué tengo que verificar mi cuenta?
 
 La verificación sirve para confirmar la identidad del propietario de la cuenta de acuerdo con los procedimientos estándar de verificación de cuentas. La verificación también es necesaria si se detecta alguna actividad sospechosa. Te pediremos que proporciones unas fotos o capturas de pantalla de ciertos documentos cuando sea necesario. Además, puedes subir tus documentos en la página de Verificación.
+
+#### ¿Cómo verifico mi cuenta?
+
+Sigue estos pasos para verificar tu cuenta:
+1.  Ve a la página ‘Cuenta’;
+2.  Selecciona el país que emitió tu documento y elige el tipo de tu documento (el DNI, pasaporte, permiso de residencia o permiso de conducir) que deseas proporcionar como comprobante de identidad. Asegúrate de que no haya caducado o que no esté dañado;
+3.  Asegúrate de que tu archivo cumple nuestros requisitos (JPG, PNG, PDF o GIF con el tamaño máximo de 5 Mb);
+4.  Adjunta y carga tu archivo;
+5.  Sométete a una verificación de detección de vivacidad, que solo implica girar la cabeza delante de una cámara durante unos segundos.
 
 #### ¿Cuánto tiempo se demora en verificar mi cuenta?
 
@@ -365,5 +374,5 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDM3MTkxNl19
+eyJoaXN0b3J5IjpbLTE5NDU4NDQ2NTldfQ==
 -->
