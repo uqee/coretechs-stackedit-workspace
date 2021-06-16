@@ -71,18 +71,19 @@ Esta información puede ser en forma de:
 
 ### Ayuda
 
-#### How do I change my currency preference?
+#### ¿Cómo puedo cambiar mi preferencia de moneda?
 
-For the moment, you are not allowed to change your currency preference after registering your account. But you can contact us at: [[support@odds96.com](mailto:support@odds96.com)](mailto:support@odds96.com) and we will try to find a solution for you.
+Por el momento, no está permitido cambiar tu preferencia de moneda después de haber registrado tu cuenta. De todos modos, puedes contactarnos enviando un email a [support@odds96.com](mailto:support@odds96.com) e intentaremos encontrar una solución para ti.
 
-#### Is it possible to display BTC in US dollars?
 
-To change your currency display preference, follow these steps:
+#### ¿Es posible cambiar la visualización de BTC en USD?
 
-- In the upper right-hand corner, click on your ‘Account Balance’.
-- In the window that appears below, you can choose the currency display option that you prefer.
+Para cambiar tu visualización de moneda, sigue estos pasos:
 
-Important! The exchange rate is approximate. All your bets and transactions will be settled in the currency that you have initially chosen when registering.
+- En la esquina superior derecha haz click en el "Saldo" de tu cuenta,
+- En la ventanilla emergente selecciona la opción de visualización que te convenga.
+
+¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
 #### How do I make a deposit?
 
@@ -140,5 +141,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc0MDY1MTVdfQ==
+eyJoaXN0b3J5IjpbMTAxOTczMTE3M119
 -->
