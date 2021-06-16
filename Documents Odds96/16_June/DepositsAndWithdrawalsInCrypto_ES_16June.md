@@ -10,20 +10,16 @@
 
 1.2. Tú aceptas y reconoces que el valor de las criptomonedas puede cambiar dramáticamente dependiendo de las fluctuaciones del mercado. Tú asumes toda la responsabilidad financiera relacionada con los cambios en los tipos de cambio y la posterior conversión de los fondos.
 
-1.3. 
-Tú aceptas y reconoces que para retirar los fondos del saldo de tu cuenta, debes cumplir el requisito de apostar al menos 1 (una) vez la cantidad depositada. En caso de que no se cumpla este requisito, impondremos límites a la cantidad disponible para el retiro. Por ejemplo:
+1.3. Tú aceptas y reconoces que para retirar los fondos del saldo de tu cuenta, debes cumplir el requisito de apostar al menos 1 (una) vez la cantidad depositada. En caso de que no se cumpla este requisito, impondremos límites a la cantidad disponible para el retiro. Por ejemplo:
 
-1. Tu depositas 100 USD, el saldo de tu cuenta es de 100 USD;
-
-2. Tu apuestas 20 USD con cuotas de 3.0;
-
-3. Tu apuesta gana. El saldo de tu cuenta es ahora de 140 USD;
-
-4. La cantidad disponible para retirar es de 60 USD. La cantidad que todavía tienes que apostar es igual a 80 USD.
+1. Tú depositas 100 USDT, el saldo de tu cuenta es de 100 USDT;
+2. Tú apuestas 20 USDT con cuotas de 3.0;
+3. Tu apuesta gana. El saldo de tu cuenta es ahora de 140 USDT;
+4. La cantidad disponible para retirar es de 60 USDT. La cantidad que todavía tienes que apostar es igual a 80 USDT.
 
 Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los usuarios de nuestra plataforma.
 
-1.4. Please note that the minimum deposit is approximately $10 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a deposit, you will be informed of the exact amount of the minimum deposit in US dollars on the Website.
+1.4. El depósito mínimo varían en función de la moneda que utilices. En el momento de la publicación, estas tarifas son de
 
 1.5. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
 
@@ -126,5 +122,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI1NTU3MDNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTQzMTMxMDhdfQ==
 -->
