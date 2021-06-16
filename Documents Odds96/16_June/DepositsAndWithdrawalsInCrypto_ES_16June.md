@@ -19,7 +19,7 @@
 
 Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los usuarios de nuestra plataforma.
 
-1.4. El depósito mínimo varía en función de la moneda que utilices. En el momento de la publicación, el depósito mínimo es de:
+1.4. El **depósito mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el depósito mínimo es de:
 
 - BTC 0.0002;
 - ETH 0.01; 
@@ -27,13 +27,13 @@ Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los us
 
 Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web.
 
-1.5. El retiro mínimo varía en función de la moneda que utilices. En el momento de la publicación, el retiro mínimo es de:
+1.5. El **retiro mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el retiro mínimo es de:
 
 - BTC 0.00036;
 - ETH 0.01;
 - USDT 20.
 
-Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web.
+Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro en el sitio web.
 
 1.6. Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
 
@@ -134,5 +134,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQzMTEzNThdfQ==
+eyJoaXN0b3J5IjpbLTcxNDg1OTg1MV19
 -->
