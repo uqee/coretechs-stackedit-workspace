@@ -49,19 +49,20 @@ We reserve the right to change the amount of a withdrawal fee at any time withou
 
 1.9. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up more than 60 minutes. Withdrawals in any other cryptocurrency may take up more than 10 minutes to process.
 
-1.10. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
+1.10. In accordance with our Anti Money Laundering (AML) policy, we reserve the right to conduct further checks on any suspicious withdrawal requests. It may take us up to 24 hours to come to a decision regarding the approval of an applicant. In case a suspicious withdrawal request is detected, we will ask the client to provide documents to confirm their identity.
 
-1.11. We may ask a Client to provide source of funds documentation, which is important to make sure that a Client provides evidence that identifies the actual source(s) of funds that he uses to bet or play with.
+1.11. 
+We may ask you to provide documents proving the source of your funds, as it is important for us to understand where the funds that you choose to play with originated.
+
 This information may be in the form of:
+- proof of earnings (e.g. a payslip, a director remuneration, dividend or pension related income, etc.);
+- a bank statement or a savings account that clearly shows consistent income from an identifiable source;
+- the deed to a trust, clearly showing entitlement to funds;
+- a dated proof of an award or payment which was made to the player.
 
-- proof of earnings: Payslip/Director remuneration/Dividends/Pension;
-- a bank statement/savings account that clearly shows consistent incoming values from an identifiable source;
-- a Trust deed clearly showing a consistent entitlement to funds;
-- dated proof of an award/payment made to the player.
+1.12. To guarantee your financial suitability, we may use the services of third-party information providers.
 
-1.12. To guarantee your financial viability, we may use the services of third-party information providers if necessary.
-
-1.13. According to our Anti Money Laundering (AML) procedures, we follow a strict anti coin mixing policy.
+1.13. According to our Anti Money Laundering (AML) procedures, we follow a strict anti-coin mixing policy.
 
 1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on [Odds96.com](http://odds96.com). However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
 
@@ -140,5 +141,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM3OTM0NzEsMjI2NzU5Mjk2XX0=
+eyJoaXN0b3J5IjpbLTE0NzI2NjAwOTcsMjI2NzU5Mjk2XX0=
 -->
