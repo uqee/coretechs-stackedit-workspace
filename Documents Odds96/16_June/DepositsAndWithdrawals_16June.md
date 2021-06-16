@@ -68,13 +68,13 @@ This information may be in the form of:
 
 ### Refund Policy
 
-2.1. A refund request will only be considered if it is requested within the first twenty-four (24) hours of the alleged transaction, or within thirty (30) calendar days if a Client alleges that another individual has accessed his or her account. Each refund request should be a matter of the anti-fraud check and can be processed only in case of the positive conclusion of the anti-fraud department.
+2.1. A refund request will only be considered if it has been requested within the first twenty-four (24) hours of the alleged transaction, or within thirty (30) calendar days if a client alleges that another individual has accessed his or her account. Each refund request shall be subject to an anti-fraud check and can be processed only in case of a positive conclusion by the anti-fraud department.
 
-2.2. Before a refund is processed all bonuses and winnings in Client's balance will be deducted prior to calculating the amount to be refunded.
+2.2. Before a refund can be processed, all bonuses and winnings within the client's balance will be deducted prior to calculating the amount to be refunded.
 
-2.3. In case any сredit сard purchases are considered to carry an unacceptable risk for security or legal reasons, we will initiate refunds for all such transactions back to the сredit сard, and notify all the appropriate authorities and parties.
+2.3. In the case where any сredit сard purchases are considered to carry an unacceptable risk for security-related or legal reasons, we will initiate refunds for all such transactions back to the сredit сard, and notify all the appropriate authorities and parties.
 
-2.4. All costs that may occur upon the refund procedure are on the Client.
+2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI5MTgwNzRdfQ==
+eyJoaXN0b3J5IjpbLTkxOTQwMjgzOSwtMTM1MjkxODA3NF19
 -->
