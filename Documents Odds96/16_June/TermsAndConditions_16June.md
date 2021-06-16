@@ -29,7 +29,7 @@ By accepting these Terms and Conditions you thereby accept the following legal d
 
 1.2. These Terms and Conditions, any documents explicitly mentioned therein, as well as any guidelines or rules posted on the Website govern contractual relations between you and us. Please read these Terms and Conditions carefully and make sure you understand them. If you disagree with their content, please refrain from the further use of the Website and the Services.
 
-1.3. We reserve the right to amend these Terms and Conditions (including any of the Legal documents) at any time without prior notice, however, we will make all reasonable efforts to publish each amendment before such amendment becomes effective. We will ensure that the latest, fully amended version of these Terms and Conditions (or any of the Legal documents) is published on the Website. You are responsible for regularly reviewing the Website to obtain timely notice of such amendments. If any amendment is unacceptable for you, you may terminate the agreement between you and us regarding the use of the Website as set out in these Terms and Conditions. If you continue to use the Website after the effective date of each amendment, you will be conclusively deemed to have accepted such amended version of these Terms and Conditions (including any of the Legal documents).
+1.3. We reserve the right to amend these Terms and Conditions (including any of the Documents mentioned above) at any time without prior notice, however, we will make all reasonable efforts to publish each amendment before such amendment becomes effective. We will ensure that the latest, fully amended version of these Terms and Conditions (or any of the Legal documents) is published on the Website. You are responsible for regularly reviewing the Website to obtain timely notice of such amendments. If any amendment is unacceptable for you, you may terminate the agreement between you and us regarding the use of the Website as set out in these Terms and Conditions. If you continue to use the Website after the effective date of each amendment, you will be conclusively deemed to have accepted such amended version of these Terms and Conditions (including any of the Legal documents).
 
 1.4. These Terms and Conditions have full force and effect at all times when you access or use the Service or while you are a Client of our Website. These Terms and Conditions will not expire until the termination of an Account on our Website for any reason.
 
@@ -223,5 +223,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTQ1MTE1XX0=
+eyJoaXN0b3J5IjpbOTE4NjgyOTIwXX0=
 -->
