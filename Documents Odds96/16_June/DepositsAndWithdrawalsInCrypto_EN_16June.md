@@ -19,7 +19,11 @@
 
 We reserve the right to change the wagering requirements for all users of our platform.
 
-1.4. The minimum deposit varies depe
+1.4. The minimum deposit varies depending on the type of cryptocurrency:
+
+ - 0.0002 BTC;
+ - 0.01 ETH;
+ - 20 USDT.
 
 1.5. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
 
@@ -122,5 +126,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0Mjk3MDE0XX0=
+eyJoaXN0b3J5IjpbLTUzNjYyMjg5M119
 -->
