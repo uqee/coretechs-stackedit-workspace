@@ -170,23 +170,10 @@ The minimum set of identification data includes:
 - address of permanent residence;
 - an identification number.
 
-The required documents are:
-
-- actual passport of the client / ID card;
-- document confirming the address of the client's permanent residence at the given time (utility bill, statement of the status of the bank account, etc.).
-
-Additional documents are:
-
-- additional national identity card (driver's license, military ID, etc.);
-- bank statements;
-- photos of a player with an open passport against the background of his face (the document should be readable);
-- photo of the bank card on the front side (5 first and 4 last digits, owner's name and date of expiry shall be readable);
-- document confirming source of funds.
-
 The documents that a Client provided shall be not approved if:
 
 - address/name on documents don't match with account name/address;
-- illegible documents or copies;
+- the documents or their copies are not legible;
 - document Not Acceptable (for example a Client sends a copy of a document that is not on the accepted documents for ID verification or a copy of mail envelope instead of an actual utility bill);
 - any other reasons employees or contractors of the Company shall deem appropriate.
 
@@ -243,5 +230,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE3NjE2ODldfQ==
+eyJoaXN0b3J5IjpbMTE1NjU2Njg0Ml19
 -->
