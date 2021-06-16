@@ -50,15 +50,23 @@ Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los us
 
 1.8. Para retirar fondos, primero tendrás que verificar tu cuenta. Por favor, considera que si tu información personal ha cambiado desde la última vez que te verificaste, Odds96 puede pedirte una verificación adicional antes de que se pueda procesar una transacción.
 
-1.9. 
+1.9. De acuerdo con nuestra política de lucha contra el lavado de activos (AML), nos reservamos el derecho a realizar más inspecciones sobre cualquier solicitud de retiro sospechosa. Podemos tardar hasta 24 horas en tomar una decisión sobre la aprobación de un solicitante. En caso de detectar una solicitud de retirada de fondos sospechosa, pediremos al cliente que aporte documentos que confirmen su identidad.
 
-1.10. Following our Anti Money Laundering (AML) policy:
+Es posible que te pidamos que nos proporciones documentos que demuestren el origen de tus fondos, ya que es importante que sepamos de qué procedencia son los fondos con los que eliges jugar.
 
-- You are obliged to comply with the legal norms, including international ones, which are aimed at combating illicit trafficking, financial fraud, or money laundering.
-- You agree to use your best efforts to avoid direct or indirect complicity in illegal financial activities and any other illegal transactions using the company's website.
-- You guarantee the legal origin, legal ownership and legal right to use the funds transferred to the account.
+Esta información puede ser en forma de:
+- prueba de los ingresos (por ejemplo, una nómina, una remuneración de director, dividendos, pensiones, etc.);
+- un extracto bancario o una cuenta de ahorros que demuestre claramente la existencia de ingresos constantes procedentes de una fuente identificable;
+- la escritura de un fideicomiso, mostrando claramente un derecho a los fondos;
+- un comprobante con fecha de un premio o de un pago que se haya hecho al jugador.
 
-1.11. If you have any problems or questions when depositing or withdrawing, please contact our support team. We are available 24/7 via live chat or email.
+1.10. De acuerdo con nuestra política contra el lavado de activos (AML):
+
+- Tú estás obligado a cumplir con las normas legales, incluidas las internacionales, que tienen por objeto la lucha contra el tráfico ilícito, el fraude financiero y el lavado de activos.
+- Tú te comprometes a hacer todo lo posible para evitar la complicidad directa o indirecta en actividades financieras ilegales y cualquier otra transacción ilegal cuando utilices el sitio web de la empresa.
+- Tú garantizas el origen legal, la propiedad legal y el derecho legal a utilizar los fondos de tu cuenta.
+
+1.11. Si tienes algún problema al depositar o retirar fondos o tienes cualquier pregunta al respecto, por favor, ponte en contacto con nuestro equipo de soporte. Estamos disponibles las 24 horas del día, todos los días, a través de nuestro chat en vivo o correo electrónico.
 
 ### Refund Policy
 
@@ -70,5 +78,5 @@ Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los us
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI3NjE2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzk2NzY0MzZdfQ==
 -->
