@@ -2,7 +2,7 @@
 
 [Métodos de Pago](#métodos-de-pago)
 
-[General Information](#general-information)
+[Información General](#información-general)
 
 [Refund Policy](#refund-policy)
 
@@ -24,9 +24,9 @@
 - **MasterCard / Cabal**: min. $20, max. $1000, comisión 5%;
 - **Transferencia Bancaria**: min. $20, max. $1000, comisión 5%.
 
-### Informa
+### Información General
 
-1.1. There are several ways of depositing and withdrawing money to and from your account. These methods, minimum and maximum deposits/withdrawals and commission rates are shown in the list above ([Payment Methods](#payment-methods)). If the payment method you used to make a deposit doesn’t support withdrawals, please select a different payment method to make a withdrawal.
+1.1. Existen varias maneras de depositar y retirar dinero desde tu cuenta. Estos métodos además de los depósitos mínimos y máximos, los retiros mínimos y máximos y las tasas de comisión se muestran en la lista de arriba (llamada, [Métodos de Pago](#métodos-de-pago)). Si el método de pago que utilizaste para hacer un depósito no admite retiros, por favor selecciona otro.
 
 1.2. You may use both desktop and mobile versions of the website to deposit and withdraw money to and from your account.
 
@@ -78,5 +78,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjE1OTAwMV19
+eyJoaXN0b3J5IjpbLTQyMzg4ODAwOV19
 -->
