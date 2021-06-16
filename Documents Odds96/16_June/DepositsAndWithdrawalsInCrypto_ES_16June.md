@@ -2,22 +2,26 @@
 
 [Información General](#información-general)
 
-[Ayuda](#f)
+[Ayuda](#ayuda)
 
 ### Información General
 
-1.1. We accept and conduct payment transactions in the currency that you must specify upon registration: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Note that you will not be able to change currency after registering your account.
+1.1. Aceptamos y realizamos las transacciones en la moneda que tu especifiques al registrarte. Podrás elegir entre: Bitcoin (BTC), Ethereum (ETH) o Tether (USDT-ERC20). Ten en cuenta que no podrás cambiar de moneda después de registrarte.
 
-1.2. You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on the market fluctuations. You bear full financial responsibility related to changes in exchange rates and further conversion of funds.
+1.2. Tú aceptas y reconoces que el valor de las criptomonedas puede cambiar dramáticamente dependiendo de las fluctuaciones del mercado. Tú asumes toda la responsabilidad financiera relacionada con los cambios en los tipos de cambio y la posterior conversión de los fondos.
 
-1.3. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
+1.3. 
+Tú aceptas y reconoces que para retirar los fondos del saldo de tu cuenta, debes cumplir el requisito de apostar al menos 1 (una) vez la cantidad depositada. En caso de que no se cumpla este requisito, impondremos límites a la cantidad disponible para el retiro. Por ejemplo:
 
-1. You deposit 100 USDT. Your account balance is 100 USDT.
-2. You bet 20 USDT with the odds of 3.
-3. Your bet wins. Your account balance is 140 USDT.
-4. The amount available for withdrawal equals 60 USDT. The amount you still need to wager equals 80 USDT.
+1. Tu depositas 100 USD, el saldo de tu cuenta es de 100 USD;
 
-We reserve the right to change the wagering requirements for all Clients or personally for individual Clients.
+2. Tu apuestas 20 USD con cuotas de 3.0;
+
+3. Tu apuesta gana. El saldo de tu cuenta es ahora de 140 USD;
+
+4. La cantidad disponible para retirar es de 60 USD. La cantidad que todavía tienes que apostar es igual a 80 USD.
+
+Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los usuarios de nuestra plataforma.
 
 1.4. Please note that the minimum deposit is approximately $10 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a deposit, you will be informed of the exact amount of the minimum deposit in US dollars on the Website.
 
@@ -122,5 +126,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjcyMjAxMV19
+eyJoaXN0b3J5IjpbLTEzMDI1NTU3MDNdfQ==
 -->
