@@ -128,19 +128,19 @@ Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC 0, ETH 0
 
 #### ¿Hay algún límite establecido para los retiros?
 
-El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC 0.00036, ETH 0.00036, USDT 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
+El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC 0.00036, ETH 0.01, USDT 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
 
-#### How long do withdrawals take?
+#### ¿Cuánto tiempo se demora en retirar?
 
-Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
+La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
 
-#### Where can I find the information about my withdrawal and its status?
+#### ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
 
-This information can be found in your account. Click on the wallet-like icon and scroll down to "Transactions".
+Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
 
-#### I’ve tried to withdraw funds but the money was returned to my account balance. What should I do?
+#### He intentado retirar fondos pero el dinero fue devuelto a mi cuenta. ¿Qué debería hacer?
 
-Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
+Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDUwNTM5OF19
+eyJoaXN0b3J5IjpbLTEzNDUwOTY5MzBdfQ==
 -->
