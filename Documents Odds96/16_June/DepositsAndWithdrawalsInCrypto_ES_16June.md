@@ -41,15 +41,15 @@ Antes de realizar un retiro, se te informará de la cantidad mínima exacta de r
 - ETH 0.003;
 - USDT 10. 
  
-Nos reservamos el derecho a modificar el importe de la comisión de retir en cualquier momento y sin previo aviso. Antes de realizar un retiro, se te informará del importe exacto de la comisión de retiro en el sitio web.
+Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso. Antes de realizar un retiro, se te informará del importe exacto de la comisión de retiro en el sitio web.
 
-1.7. Be sure to deposit only the cryptocurrency you choose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
+1.7. Asegurate de depositar solo la criptomoneda que elegiste cuando registraste tu cuenta. Los intentos de depositar otras criptomonedas pueden resultar en la pérdida de sus fondos.
 
-1.8. You are fully responsible for checking deposit and withdrawal addresses when moving your cryptocurrency funds between wallets and accounts.
+1.8. Tú eres totalmente responsable de comprobar las direcciones de depósito y retiro cuando muevas fondos entre monederos y cuentas.
 
-1.9. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up to more than 60 minutes. Withdrawals in any other cryptocurrency may take up to more than 10 minutes.
+1.9. Ten en cuenta que el 80% de todos los retiros en BTC se procesan en aproximadamente 10 minutos, y el 20% restante de dichas transacciones puede tardar hasta más de 60 minutos. Los retiros en cualquier otra criptomoneda pueden tardar más de 10 minutos en procesarse.
 
-1.10. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
+1.10. De acuerdo con nuestra política de lucha contra el lavado de activos (AML), nos reservamos el derecho a realizar más inspecciones sobre cualquier solicitud de retiro sospechosa. Podemos tardar hasta 24 horas en tomar una decisión sobre la aprobación de un solicitante. En caso de detectar una solicitud de retirada de fondos sospechosa, pediremos al cliente que aporte documentos que confirmen su identidad.
 
 1.11. We may ask a Client to provide source of funds documentation, which is important to make sure that a Client provides evidence that identifies the actual source(s) of funds that he uses to bet or play with.
 This information may be in the form of:
@@ -140,5 +140,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzYwMjkxN119
+eyJoaXN0b3J5IjpbLTE5NzkyMDMwMzJdfQ==
 -->
