@@ -51,19 +51,19 @@ Nos reservamos el derecho a modificar el importe de la comisión de retiro en cu
 
 1.10. De acuerdo con nuestra política de lucha contra el lavado de activos (AML), nos reservamos el derecho a realizar más inspecciones sobre cualquier solicitud de retiro sospechosa. Podemos tardar hasta 24 horas en tomar una decisión sobre la aprobación de un solicitante. En caso de detectar una solicitud de retirada de fondos sospechosa, pediremos al cliente que aporte documentos que confirmen su identidad.
 
-1.11. We may ask a Client to provide source of funds documentation, which is important to make sure that a Client provides evidence that identifies the actual source(s) of funds that he uses to bet or play with.
-This information may be in the form of:
+1.11. Es posible que te pidamos que nos proporciones documentos que demuestren el origen de tus fondos, ya que es importante que sepamos de qué procedencia son los fondos con los que eliges jugar.
 
-- proof of earnings: Payslip/Director remuneration/Dividends/Pension;
-- a bank statement/savings account that clearly shows consistent incoming values from an identifiable source;
-- a Trust deed clearly showing a consistent entitlement to funds;
-- dated proof of an award/payment made to the player.
+Esta información puede ser en forma de:
+- prueba de los ingresos (por ejemplo, una nómina, una remuneración de director, dividendos, pensiones, etc.);
+- un extracto bancario o una cuenta de ahorros que demuestre claramente la existencia de ingresos constantes procedentes de una fuente identificable;
+- la escritura de un fideicomiso, mostrando claramente un derecho a los fondos;
+- un comprobante con fecha de un premio o de un pago que se haya hecho al jugador.
 
-1.12. To guarantee your financial viability, we may use the services of third-party information providers if necessary.
+1.12. Para garantizar tu capacidad financiera, podemos utilizar los servicios de terceros proveedores de información.
 
-1.13. According to our Anti Money Laundering (AML) procedures, we follow a strict anti coin mixing policy.
+1.13. De acuerdo con nuestros procedimientos contra el lavado de activos (AML), seguimos una estricta política contra la mezcla de criptomonedas.
 
-1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on [Odds96.com](http://odds96.com). However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
+1.14. Nosotros contratamos el servicio de pago de terceros para permitirte (i) comprar monedas virtuales (criptomonedas) y monedas fiduciarias sin salir del sitio web, (ii) transferir monedas virtuales (criptomonedas) o monedas fiduciarias (cuando esta opción esté disponible) en tu cuenta [Odds96.com](http://odds96.com). Cabe resaltar que no proporcionamos ningún servicio de pago interno y, por lo tanto, no podemos hacernos responsables de las pérdidas causadas como resultado de cualquier acción u omisión de los proveedores de servicios de pago. Si tienes alguna pregunta o reclamo relacionado con los servicios de pago que utilizamos, por favor contacta directamente con el proveedor de servicios de pago correspondiente.
 
 1.15. The Multi Currency Display feature allows you to choose the way your currency is displayed in your Account. Display options include but are not limited to USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be still settled in the currency you have chosen when registering your Account. Note that the history of your bets and transactions will be shown in the currency you have chosen in the Multi Currency Display feature according to the current exchange rates. The exchange rates between cryptocurrency and USD or other fiat currencies that we show on our Website are approximate.
 
@@ -140,5 +140,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkyMDMwMzJdfQ==
+eyJoaXN0b3J5IjpbNjQ0MjIzNDkwXX0=
 -->
