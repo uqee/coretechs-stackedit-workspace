@@ -11,20 +11,20 @@
 #### Depósitos:
 
 - **MasterCard / Cabal**: min. $5, max. $1000, comisión 0%;
-- **Bank Transfer**: min. $5, max. $1000, commission 0%;
-- **Loterica**: min. $5, max. $400, commission 0%;
-- **Boleto**: min. $5, max. $1000, commission 0%;
-- **Oxxo**: min. $5, max. $500, commission 0%;
-- **Pago Fácil**: min. $5, max. $500, commission 0%;
-- **Rapi Pago**: min. $5, max. $100, commission 0%;
-- **Carga Virtual**: min. $5, max. $50, commission 0%.
+- **Transferencia Bancaria**: min. $5, max. $1000, comisión 0%;
+- **Lotérica**: min. $5, max. $400, comisión 0%;
+- **Boleto**: min. $5, max. $1000, comisión 0%;
+- **Oxxo**: min. $5, max. $500, comisión 0%;
+- **Pago Fácil**: min. $5, max. $500, comisión 0%;
+- **Rapi Pago**: min. $5, max. $100, comisión 0%;
+- **Carga Virtual**: min. $5, max. $50, comisión 0%.
 
-#### Withdrawals:
+#### Retiros:
 
-- **MasterCard / Cabal**: min. $20, max. $1000, commission 5%;
-- **Bank Transfer**: min. $20, max. $1000, commission 5%.
+- **MasterCard / Cabal**: min. $20, max. $1000, comisión 5%;
+- **Transferencia Bancaria**: min. $20, max. $1000, comisión 5%.
 
-### General Information
+### Informa
 
 1.1. There are several ways of depositing and withdrawing money to and from your account. These methods, minimum and maximum deposits/withdrawals and commission rates are shown in the list above ([Payment Methods](#payment-methods)). If the payment method you used to make a deposit doesn’t support withdrawals, please select a different payment method to make a withdrawal.
 
@@ -78,5 +78,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc2ODEzNjVdfQ==
+eyJoaXN0b3J5IjpbMTIyNjE1OTAwMV19
 -->
