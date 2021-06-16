@@ -190,7 +190,7 @@ El importe mínimo para retirar varía dependiendo de la criptomoneda selecciona
 
 La mayoría de las retiradas se realizan inmediatamente. Sin embargo, procesamos algunas retiradas manualmente y esto puede causar retrasos. Por ejemplo, cuando un cliente retira una cantidad considerable. Una vez que hemos procesado tu retirada, la enviamos al proveedor de pagos. El tiempo que se tarda en liquidar cualquier transacción depende del proveedor.
 
-#### ¿Dónde puedo encontrar la información sobre mi retirada y su estado?
+#### ¿Dónde puedo encontrar la información sobre mi retiro y su estado?
 
 Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de billetera y busca el apartado "Transacciones".
 
@@ -198,7 +198,7 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 
-#### He enviado los documentos necesarios para verificar mi cuenta pero mi retirada no se ha efectuado todavía. ¿Qué debería hacer?
+#### He enviado los documentos necesarios para verificar mi cuenta pero mi retiro no se ha efectuado todavía. ¿Qué debería hacer?
 
 Por favor, espera hasta que finalice el proceso de verificación.
 
@@ -374,5 +374,5 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDQ1Mzc1Miw0NDEwODE3MjRdfQ==
+eyJoaXN0b3J5IjpbLTM4MDc1NTExMiw0NDEwODE3MjRdfQ==
 -->
