@@ -43,11 +43,11 @@ Before you make a withdrawal, you will be informed of the exact minimum withdraw
 
 We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the website.
 
-1.7. Be sure to deposit only the cryptocurrency you choose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
+1.7. Be sure to deposit only the cryptocurrency that you choose when you registered your account. Attempts to deposit other cryptocurrencies may result in a loss of funds.
 
-1.8. You are fully responsible for checking deposit and withdrawal addresses when moving your cryptocurrency funds between wallets and accounts.
+1.8. You are fully responsible for checking deposit and withdrawal addresses when moving funds between wallets and accounts.
 
-1.9. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up to more than 60 minutes. Withdrawals in any other cryptocurrency may take up to more than 10 minutes.
+1.9. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up more than 60 minutes. Withdrawals in any other cryptocurrency may take up more than 10 minutes to process.
 
 1.10. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
 
@@ -140,5 +140,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NzU5Mjk2XX0=
+eyJoaXN0b3J5IjpbLTE2NzM3OTM0NzEsMjI2NzU5Mjk2XX0=
 -->
