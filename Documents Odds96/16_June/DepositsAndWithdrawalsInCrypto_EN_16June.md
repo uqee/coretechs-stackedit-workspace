@@ -19,7 +19,7 @@
 
 We reserve the right to change the wagering requirements for all users of our platform.
 
-1.4. The minimum deposit varies depending on the cryptocurrency you use. At the time of publication, it rests at:
+1.4. The **minimum deposit** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
 
  - BTC 0.0002;
  - ETH 0.01;
@@ -27,7 +27,7 @@ We reserve the right to change the wagering requirements for all users of our pl
 
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website.
 
-1.5. The minimum withdrawal varies depending on the cryptocurrency you use. At the time of publication, it rests at:
+1.5. The **minimum withdrawal** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
 
  - BTC 0.00036;
  - ETH 0.01;
@@ -35,7 +35,7 @@ Before you make a deposit, you will be informed of the exact minimum deposit amo
 
 Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount on the website.
 
-1.6. Withdrawal fees vary depending on the currency you use. At the time of publication, these fees rest at: 
+1.6. **Withdrawal fees** vary depending on the currency you use. At the time of publication, these fees rest at: 
 
  - BTC 0;
  - ETH 0.003;
@@ -141,5 +141,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgxOTY5MjgsMjI2NzU5Mjk2XX0=
+eyJoaXN0b3J5IjpbLTU1OTQ2OTA1NiwyMjY3NTkyOTZdfQ==
 -->
