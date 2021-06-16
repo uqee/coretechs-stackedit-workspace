@@ -85,25 +85,26 @@ Para cambiar tu visualización de moneda, sigue estos pasos:
 
 ¡Importante! El tipo de cambio es aproximado. Todas tus apuestas y transacciones se liquidarán en la moneda que seleccionaste al haber registrado tu cuenta.
 
-#### How do I make a deposit?
 
-There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
+#### ¿Cómo hago un depósito?
 
-1.  Register with one of the most popular e-wallet services like Binance or Copay (on their websites or Android/iOS apps).
-2.  Buy crypto via a bank card or any other payment methods.
-3.  Go to [Odds96.com](http://odds96.com).
-4.  In the top right-hand corner, click on the wallet-like icon.
-5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
-6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
-7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
+Podrás elegir entre dos métodos: hacer un depósito mediante el código QR único o utilizando la dirección de tu billetera. Consideremos una transacción de Bitcoin para dar un ejemplo:
 
-#### Is there a transaction fee for deposits?
+1.  Regístrate en uno de los servicios de monederos electrónicos más populares como Binance o Copay (en sus páginas web o en aplicaciones para Android/iOS).
+2.  Compra criptomonedas con tu tarjeta bancaria o utilizando otros métodos de pago.
+3.  Abre nuestra página [Odds96.com](http://odds96.com).
+4.  En la esquina superior derecha, haz click en el icono de billetera.
+5.  En el apartado "Saldo" que aparecerá, encontrarás la dirección de tu cuenta. Cópiala y pégala en la libreta de direcciones de tu billetera electrónica para efectuar la transacción. Alternativamente, puedes escanear el código QR usando la aplicación móvil de tu billetera.
+6.  Una vez que haya como mínimo una confirmación en el blockchain, los Bitcoins se acreditarán en tu cuenta.
+7.  Ten en cuenta que pueden ocurrir algunos retrasos en los servicios de terceros (por ejemplo, eWallets o intercambios de criptomoneda) que pueden debitar tu cuenta privada pero no agregar la transacción al blockchain durante varias horas. Una vez efectuado el depósito, recibirás una notificación de confirmación.
 
-We do not charge any additional fees for making deposits, however, blockchain networks might do so.
+#### ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
 
-#### I made a deposit 30 minutes ago but it hasn’t yet been credited to my account. What happened?
+Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
-Your transaction is being processed. Odds96 requests a certain number of blockchain confirmations depending on the cryptocurrency you chose. For example, Bitcoin only requires one confirmation. To track the status of your deposit, you can click on the wallet-like icon and scroll down to "Transactions". Clicking on the Hash link will take you to the network page related to this transaction. Currently, we are using Blockcypher. You can check the number of blockchain confirmations in the bottom right-hand corner.
+#### Deposité hace 30 minutos pero el dinero todavía no se ha abonado. ¿Qué ha pasado?
+
+Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
 
 #### Can I deposit Bitcoin over BEP2 or Tron network?
 
@@ -141,5 +142,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTczMTE3M119
+eyJoaXN0b3J5IjpbOTMxNDg1MTddfQ==
 -->
