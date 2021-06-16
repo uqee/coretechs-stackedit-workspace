@@ -27,9 +27,15 @@ We reserve the right to change the wagering requirements for all users of our pl
 
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website.
 
-1.5. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
+1.5. The minimum withdrawal varies on the type of cryptocurrency:
 
-1.6. Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
+ -  BTC 0.00036;
+ - ETH 0.01;
+ - USDT 20.
+
+Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount on the website.
+
+1.6. Withdrawal fees vary depending on the currency you use. At the time of publication, these fees rest at: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the website.
 
 1.7. Be sure to deposit only the cryptocurrency you choose when registering your Account. Attempts to deposit other cryptocurrencies may result in a loss of your funds.
 
@@ -128,5 +134,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY2MDAwNjRdfQ==
+eyJoaXN0b3J5IjpbMTIxMTY4MTQ5XX0=
 -->
