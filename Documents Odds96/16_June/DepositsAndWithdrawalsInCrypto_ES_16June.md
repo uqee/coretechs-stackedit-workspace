@@ -65,11 +65,11 @@ Esta información puede ser en forma de:
 
 1.14. Nosotros contratamos el servicio de pago de terceros para permitirte (i) comprar monedas virtuales (criptomonedas) y monedas fiduciarias sin salir del sitio web, (ii) transferir monedas virtuales (criptomonedas) o monedas fiduciarias (cuando esta opción esté disponible) en tu cuenta [Odds96.com](http://odds96.com). Cabe resaltar que no proporcionamos ningún servicio de pago interno y, por lo tanto, no podemos hacernos responsables de las pérdidas causadas como resultado de cualquier acción u omisión de los proveedores de servicios de pago. Si tienes alguna pregunta o reclamo relacionado con los servicios de pago que utilizamos, por favor contacta directamente con el proveedor de servicios de pago correspondiente.
 
-1.15. The Multi Currency Display feature allows you to choose the way your currency is displayed in your Account. Display options include but are not limited to USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be still settled in the currency you have chosen when registering your Account. Note that the history of your bets and transactions will be shown in the currency you have chosen in the Multi Currency Display feature according to the current exchange rates. The exchange rates between cryptocurrency and USD or other fiat currencies that we show on our Website are approximate.
+1.15. La función ‘Visualización de la Moneda’ te permite elegir la forma en que se muestran las divisas en tu cuenta. Las opciones de visualización incluyen, pero no se limitan a, USD, EUR, ARS, y nos reservamos el derecho de cambiar estas opciones a nuestra propia discreción. Cabe destacar que todas tus apuestas y transacciones se seguirán liquidando en la moneda que elegiste al registrarte. Recuerda que el historial de tus apuestas y transacciones se mostrará en la divisa que hayas escogido utilizando la función ‘Visualización de la Moneda’, de acuerdo con los tipos de cambio actuales. Los tipos de cambio entre criptomonedas y USD u otras monedas fiduciarias que mostramos en nuestra web son aproximados.
 
-1.16. Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [learncrypto.com](<[https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base)>)
+1.16. ¿Quieres saber más sobre las criptomonedas, la blockchain y las billeteras? Visita [learncrypto.com](https://learncrypto.com/knowledge-base).
 
-### FAQ
+### Ayuda
 
 #### How do I change my currency preference?
 
@@ -140,5 +140,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MjIzNDkwXX0=
+eyJoaXN0b3J5IjpbLTE1Nzc0MDY1MTVdfQ==
 -->
