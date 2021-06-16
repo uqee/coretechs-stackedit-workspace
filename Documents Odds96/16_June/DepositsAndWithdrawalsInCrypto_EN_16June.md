@@ -2,13 +2,13 @@
 
 [General Information](#general-information)
 
-[FAQ](#faq)
+[Help](#help)
 
 ### General Information
 
 1.1. We accept and conduct transactions in the currency that you specify upon registration. You’ll be able to choose between: Bitcoin (BTC), Ethereum (ETH) or Tether (USDT-ERC20). Note that you will not be able to change currency after registration.
 
-1.2. You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on the market fluctuations. You bear full financial responsibility related to changes in exchange rates and further conversion of funds.
+1.2. You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on market fluctuations. You bear full financial responsibility related to changes in exchange rates and the further conversion of funds.
 
 1.3. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
 
@@ -51,7 +51,7 @@ This information may be in the form of:
 
 1.16. Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [learncrypto.com](<[https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base)>)
 
-### FAQ
+### Help
 
 #### How do I change my currency preference?
 
@@ -122,5 +122,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNTA1MzBdfQ==
+eyJoaXN0b3J5IjpbODE3MjIwNjgzXX0=
 -->
