@@ -68,7 +68,7 @@ This information may be in the form of:
 
 1.15. The ‘Multi Currency Display’ feature allows you to choose the way your currency is displayed in your account. Display options include, but are not limited to, USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be settled in the currency that you chose when you registered. Remember that a history of your bets and transactions will be shown in the currency you chose using the ‘Multi Currency Display’ feature, according to the current exchange rates. The exchange rates between cryptocurrencies and USD or other fiat currencies that we show on our website are approximate.
 
-1.16. Want to learn more about cryptocurrency, the blockchain and wallets? Visit [learncrypto.com](<[https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base))
+1.16. Want to learn more about cryptocurrency, the blockchain and wallets? Visit [learncrypto.com](https://learncrypto.com/knowledge-base).
 
 ### Help
 
@@ -141,5 +141,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTYzMTUzMSwyMjY3NTkyOTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NzgxOTY5MjgsMjI2NzU5Mjk2XX0=
 -->
