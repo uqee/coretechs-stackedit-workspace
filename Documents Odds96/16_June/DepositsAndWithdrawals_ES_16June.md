@@ -4,7 +4,7 @@
 
 [Información General](#información-general)
 
-[Refund Policy](#refund-policy)
+[Refund Pol](#refund-policy)
 
 ### Métodos de Pago
 
@@ -68,15 +68,15 @@ Esta información puede ser en forma de:
 
 1.11. Si tienes algún problema al depositar o retirar fondos o tienes cualquier pregunta al respecto, por favor, ponte en contacto con nuestro equipo de soporte. Estamos disponibles las 24 horas del día, todos los días, a través de nuestro chat en vivo o correo electrónico.
 
-### Refund Policy
+### Política de Reembolsos
 
-2.1. A refund request will only be considered if it is requested within the first twenty-four (24) hours of the alleged transaction, or within thirty (30) calendar days if a Client alleges that another individual has accessed his or her account. Each refund request should be a matter of the anti-fraud check and can be processed only in case of the positive conclusion of the anti-fraud department.
+2.1. Una solicitud de reembolso sólo se considerará si se ha solicitado dentro de las primeras veinticuatro (24) horas de la supuesta transacción, o dentro de los treinta (30) días calendario si un cliente alega que otra persona ha accedido a su cuenta. Cada solicitud de reembolso se someterá a una comprobación antifraude y sólo podrá tramitarse en caso de que el departamento antifraude llegue a una conclusión positiva.
 
-2.2. Before a refund is processed all bonuses and winnings in Client's balance will be deducted prior to calculating the amount to be refunded.
+2.2. Antes de poder procesar un reembolso, se deducirán todas las bonificaciones y ganancias del saldo antes de calcular el importe a reembolsar.
 
-2.3. In case any сredit сard purchases are considered to carry an unacceptable risk for security or legal reasons, we will initiate refunds for all such transactions back to the сredit сard, and notify all the appropriate authorities and parties.
+2.3. En el caso de que se considere que cualquier compra con tarjeta de crédito implica un riesgo inaceptable por razones legales o de seguridad, iniciaremos el reembolso de todas esas transacciones a la tarjeta de crédito y lo notificaremos a todas las autoridades y entidades pertinentes.
 
-2.4. All costs that may occur upon the refund procedure are on the Client.
+2.4. Todos los gastos que se produzcan por el procedimiento de reembolso recaen sobre el cliente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk2NzY0MzZdfQ==
+eyJoaXN0b3J5IjpbMTM1OTczNzg2Nl19
 -->
