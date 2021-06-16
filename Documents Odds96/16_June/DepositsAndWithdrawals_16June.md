@@ -1,4 +1,4 @@
-<Version>Last updated: June 10, 2021</Version>
+<Version>Last updated: June 16, 2021</Version>
 
 [Payment Methods](#payment-methods)
 
@@ -26,7 +26,7 @@
 
 ### General Information
 
-1.1. There are several ways of depositing and withdrawing money to and from your account. These methods, minimum and maximum deposits/withdrawals and commission rates are shown in the list above ([Payment Methods](#payment-methods)). If the payment method you used to make a deposit doesn’t support withdrawals, please select a different payment method to make a withdrawal.
+1.1. There are several ways in which you may deposit and withdraw money to and from your account. These methods, in addition to the minimum and maximum deposits and withdrawals, and commission rates are shown in the list above (namedly, [Payment Methods](#payment-methods)). If the payment method you used to make a deposit doesn’t support withdrawals, please select a different one.
 
 1.2. You may use both desktop and mobile versions of the website to deposit and withdraw money to and from your account.
 
@@ -78,5 +78,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU5MzUyNTddfQ==
+eyJoaXN0b3J5IjpbMjMyNDk5Nzc1XX0=
 -->
