@@ -170,13 +170,6 @@ The minimum set of identification data includes:
 - address of permanent residence;
 - an identification number.
 
-The documents that a Client provided shall be not approved if:
-
-- address/name on documents don't match with account name/address;
-- the documents or their copies are not legible;
-- document Not Acceptable (for example a Client sends a copy of a document that is not on the accepted documents for ID verification or a copy of mail envelope instead of an actual utility bill);
-- any other reasons employees or contractors of the Company shall deem appropriate.
-
 7.3. We reserve the right to suspend betting or place limits upon any Account until the necessary information has been received. This procedure is carried out in accordance with the current rules and legal requirements.
 
 7.4. You must provide complete and accurate information about yourself, including a valid first name, last name, postal address and email address, and you must update the information provided to ensure its completeness and accuracy in the future by contacting the support team at [support@odds96.com](mailto:support@odds96.com).
@@ -230,5 +223,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjU2Njg0Ml19
+eyJoaXN0b3J5IjpbNjExNTExNjM3XX0=
 -->
