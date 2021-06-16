@@ -41,13 +41,13 @@
 
 We reserve the right to change the wagering requirements for all users of our platform.
 
-1.5. Odds96 is not liable for any commissions, transaction fees or lost deposits and withdrawals as a result of you entering incorrect payment details. Odds96 reserves the right to recover any money incorrectly credited to your account and to adjust your balance to rectify errors (for example, as a result of a transaction being processed in error).
+1.5. Odds96 is not liable for any commissions, transaction fees or lost deposits and withdrawals that may occur as a result of you entering the incorrect payment details. Odds96 reserves the right to recover any money incorrectly credited to your account and to adjust your balance to rectify any errors (for example, as the result of an accidental transaction or one that was processed in error).
 
-1.6. In some cases, the processing of deposits and withdrawals may be delayed and exceed the established timing. Generally, it happens due to technical issues on the side of the payment system provider.
+1.6. In some cases, the processing time of deposits and withdrawals may be delayed and will therefore exceed expectations. Generally, this happens due to technical issues on the side of the payment system provider.
 
-1.7. Please make sure to retain a confirmation of your transaction (for example, an email or a receipt) in case there are any queries about your transactions.
+1.7. Please make sure to retain a confirmation of your transaction (for example, a confirmation email or a receipt) in case any transaction-related queries arise.
 
-1.8. To withdraw funds, you need to verify your account. Please note that if your personal information has changed since you were last verified, Odds96 may ask for further verification before processing any transaction.
+1.8. To withdraw funds, you’ll first need to verify your account. Please note that if your personal information has changed since you were last verified, Odds96 may ask for further verification before a transaction can be processed.
 
 1.9. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
 
@@ -78,5 +78,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgzNDkzNjFdfQ==
+eyJoaXN0b3J5IjpbMTY5NjUzOTIwNF19
 -->
