@@ -49,22 +49,20 @@ We reserve the right to change the wagering requirements for all users of our pl
 
 1.8. To withdraw funds, you’ll first need to verify your account. Please note that if your personal information has changed since you were last verified, Odds96 may ask for further verification before a transaction can be processed.
 
-1.9. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
+1.9. In accordance with our Anti Money Laundering (AML) policy, we reserve the right to conduct further checks on any suspicious withdrawal requests. It may take us up to 24 hours to come to a decision regarding the approval of an applicant. In case a suspicious withdrawal request is detected, we will ask the client to provide documents to confirm their identity.
 
-We may ask you to provide the source of funds documentation, which is important to make sure that you provide evidence that identifies the actual source(s) of funds that you use to bet or play with.
+We may ask you to provide documents proving the source of your funds, as it is important for us to understand where the funds that you choose to play with originated.
 
 This information may be in the form of:
+- proof of earnings (e.g. a payslip, a director remuneration, dividend or pension related income, etc.);
+- a bank statement or a savings account that clearly shows consistent income from an identifiable source;
+- the deed to a trust, clearly showing entitlement to funds;
+- a dated proof of an award or payment which was made to the player.
 
-- proof of earnings: Payslip/Director remuneration/Dividends/Pension;
-- a bank statement/savings account that clearly shows consistent incoming values from an identifiable source;
-- a Trust deed clearly showing a consistent entitlement to funds;
-- dated proof of an award/payment made to the player.
-
-1.10. Following our Anti Money Laundering (AML) policy:
-
-- You are obliged to comply with the legal norms, including international ones, which are aimed at combating illicit trafficking, financial fraud, or money laundering.
-- You agree to use your best efforts to avoid direct or indirect complicity in illegal financial activities and any other illegal transactions using the company's website.
-- You guarantee the legal origin, legal ownership and legal right to use the funds transferred to the account.
+1.10. In accordance with our Anti Money Laundering (AML) policy:
+- You are obliged to comply with legal norms, including international ones, which are aimed at combating illicit trafficking, financial fraud and money laundering.
+- You agree to use your best efforts to avoid direct or indirect complicity in illegal financial activities and any other illegal transactions when using the company's website.
+- You guarantee the legal origin, legal ownership and legal right to use the funds within your account.
 
 1.11. If you have any problems or questions when depositing or withdrawing, please contact our support team. We are available 24/7 via live chat or email.
 
@@ -78,5 +76,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjUzOTIwNF19
+eyJoaXN0b3J5IjpbLTEzNTI5MTgwNzRdfQ==
 -->
