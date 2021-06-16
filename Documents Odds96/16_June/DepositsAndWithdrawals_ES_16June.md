@@ -42,24 +42,15 @@ En caso de que no se cumpla este requisito, impondremos límites a la cantidad d
 
 Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los usuarios de nuestra plataforma.
 
-1.5. Odds96 is not liable for any commissions, transaction fees or lost deposits and withdrawals as a result of you entering incorrect payment details. Odds96 reserves the right to recover any money incorrectly credited to your account and to adjust your balance to rectify errors (for example, as a result of a transaction being processed in error).
+1.5. Odds96 no se responsabiliza de las comisiones, tasas de transacción o pérdidas de depósitos y retiros que puedan producirse como resultado de la introducción de datos de pago incorrectos. Odds96 se reserva el derecho de recuperar cualquier dinero acreditado incorrectamente en tu cuenta y de ajustar tu saldo para rectificar cualquier error (por ejemplo, como resultado de una transacción accidental o procesados por error).
 
-1.6. In some cases, the processing of deposits and withdrawals may be delayed and exceed the established timing. Generally, it happens due to technical issues on the side of the payment system provider.
+1.6. En algunos casos, el procesamiento de depósitos y retiradas se puede retrasar y exceder el tiempo establecido. Generalmente, se debe a fallas técnicas por parte del proveedor de sistemas de pago.
 
-1.7. Please make sure to retain a confirmation of your transaction (for example, an email or a receipt) in case there are any queries about your transactions.
+1.7. Por favor, asegúrate de guardar una confirmación de la transacción que realizaste (por ejemplo, un correo electrónico, un recibo o cualquier otro impreso) para cualquier consulta sobre tus transacciones.
 
-1.8. To withdraw funds, you need to verify your account. Please note that if your personal information has changed since you were last verified, Odds96 may ask for further verification before processing any transaction.
+1.8. Para retirar fondos, primero tendrás que verificar tu cuenta. Por favor, considera que si tu información personal ha cambiado desde la última vez que te verificaste, Odds96 puede pedirte una verificación adicional antes de que se pueda procesar una transacción.
 
-1.9. Following our Anti Money Laundering (AML) policy, we reserve the right to additionally check any suspicious withdrawal requests, which may take us up to 24 hours before approving or declining such a transaction. In case a suspicious withdrawal request by a Client is detected, we will ask him or her to provide identification documents.
-
-We may ask you to provide the source of funds documentation, which is important to make sure that you provide evidence that identifies the actual source(s) of funds that you use to bet or play with.
-
-This information may be in the form of:
-
-- proof of earnings: Payslip/Director remuneration/Dividends/Pension;
-- a bank statement/savings account that clearly shows consistent incoming values from an identifiable source;
-- a Trust deed clearly showing a consistent entitlement to funds;
-- dated proof of an award/payment made to the player.
+1.9. 
 
 1.10. Following our Anti Money Laundering (AML) policy:
 
@@ -79,5 +70,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDc5NTkzOV19
+eyJoaXN0b3J5IjpbLTE4NDI3NjE2NDNdfQ==
 -->
