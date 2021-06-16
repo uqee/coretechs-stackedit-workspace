@@ -28,18 +28,19 @@
 
 1.1. Existen varias maneras de depositar y retirar dinero desde tu cuenta. Estos métodos además de los depósitos mínimos y máximos, los retiros mínimos y máximos y las tasas de comisión se muestran en la lista de arriba (llamada, [Métodos de Pago](#métodos-de-pago)). Si el método de pago que utilizaste para hacer un depósito no admite retiros, por favor selecciona otro.
 
-1.2. You may use both desktop and mobile versions of the website to deposit and withdraw money to and from your account.
+1.2. Ponemos a tu disposición las versiones escritorio y móvil del sitio web para depositar y retirar desde tu cuenta.
 
-1.3. You may withdraw any amount from your account. However, it cannot exceed your current account balance and the limits established by the payment system provider.
+1.3. Puedes retirar cualquier suma de tu cuenta. Sin embargo, el importe del retiro no puede superar el saldo actual de tu cuenta y los límites establecidos por el proveedor del sistema de pago.
 
-1.4. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
+1.4. Tú aceptas y reconoces que para retirar los fondos del saldo de tu cuenta, debes cumplir el requisito de apostar al menos 1 (una) vez la cantidad depositada. 
+En caso de que no se cumpla este requisito, impondremos límites a la cantidad disponible para el retiro. Por ejemplo:
 
-1. You deposit 100 USD. Your account balance is 100 USD.
-2. You bet 20 USD with the odds of 3.0.
-3. Your bet wins. Your account balance is 140 USD.
-4. The amount available for withdrawal equals 60 USD. The amount you still need to wager equals 80 USD.
+1. Tú depositas 100 USD, el saldo de tu cuenta es de 100 USD;
+2. Tu apuestas 20 USD con cuotas de 3.0;
+3. Tu apuesta gana. El saldo de tu cuenta es ahora de 140 USD;
+4. La cantidad disponible para retirar es de 60 USD. La cantidad que todavía tienes que apostar es igual a 80 USD.
 
-We reserve the right to change the wagering requirements for all Clients or for individual Clients.
+Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los usuarios de nuestra plataforma.
 
 1.5. Odds96 is not liable for any commissions, transaction fees or lost deposits and withdrawals as a result of you entering incorrect payment details. Odds96 reserves the right to recover any money incorrectly credited to your account and to adjust your balance to rectify errors (for example, as a result of a transaction being processed in error).
 
@@ -78,5 +79,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzg4ODAwOV19
+eyJoaXN0b3J5IjpbMTQyNDc5NTkzOV19
 -->
