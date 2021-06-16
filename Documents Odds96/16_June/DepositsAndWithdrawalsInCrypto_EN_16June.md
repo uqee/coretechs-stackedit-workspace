@@ -64,11 +64,11 @@ This information may be in the form of:
 
 1.13. According to our Anti Money Laundering (AML) procedures, we follow a strict anti-coin mixing policy.
 
-1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) for fiat currencies without leaving the Website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on [Odds96.com](http://odds96.com). However we do not provide any of such payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services please contact the relevant payment service provider directly.
+1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) and fiat currencies without leaving the website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on [Odds96.com](http://odds96.com). Note that we do not provide any in-house payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services we use, please contact the relevant payment service provider directly.
 
-1.15. The Multi Currency Display feature allows you to choose the way your currency is displayed in your Account. Display options include but are not limited to USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be still settled in the currency you have chosen when registering your Account. Note that the history of your bets and transactions will be shown in the currency you have chosen in the Multi Currency Display feature according to the current exchange rates. The exchange rates between cryptocurrency and USD or other fiat currencies that we show on our Website are approximate.
+1.15. The ‘Multi Currency Display’ feature allows you to choose the way your currency is displayed in your account. Display options include, but are not limited to, USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be settled in the currency that you chose when you registered. Remember that a history of your bets and transactions will be shown in the currency you chose using the ‘Multi Currency Display’ feature, according to the current exchange rates. The exchange rates between cryptocurrencies and USD or other fiat currencies that we show on our website are approximate.
 
-1.16. Do you want to learn more about cryptocurrency, blockchain and wallets? Visit [learncrypto.com](<[https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base)>)
+1.16. Want to learn more about cryptocurrency, the blockchain and wallets? Visit [learncrypto.com](<[https://learncrypto.com/knowledge-base](https://learncrypto.com/knowledge-base))
 
 ### Help
 
@@ -141,5 +141,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI2NjAwOTcsMjI2NzU5Mjk2XX0=
+eyJoaXN0b3J5IjpbMTgwNTYzMTUzMSwyMjY3NTkyOTZdfQ==
 -->
