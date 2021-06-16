@@ -4,7 +4,7 @@
 
 [Información General](#información-general)
 
-[Refund Pol](#refund-policy)
+[Política de Reembolsos](#política-de-reembolsos)
 
 ### Métodos de Pago
 
@@ -78,5 +78,5 @@ Esta información puede ser en forma de:
 
 2.4. Todos los gastos que se produzcan por el procedimiento de reembolso recaen sobre el cliente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTczNzg2Nl19
+eyJoaXN0b3J5IjpbLTExNjkxOTc5MDhdfQ==
 -->
