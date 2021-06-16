@@ -74,7 +74,7 @@ This information may be in the form of:
 
 #### How do I change my currency preference?
 
-For the moment, you are not allowed to change your currency preference after registering your account. But you can contact us at: [[support@odds96.com](mailto:support@odds96.com)](mailto:support@odds96.com) and we will try to find a solution for you.
+For the moment, you are not allowed to change your currency preference after registering your account. But you can contact us at: [support@odds96.com](mailto:support@odds96.com) and we will try to find a solution for you.
 
 #### Is it possible to display BTC in US dollars?
 
@@ -141,6 +141,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjk2Njg0MywtNTU5NDY5MDU2LDIyNj
-c1OTI5Nl19
+eyJoaXN0b3J5IjpbLTEwOTk1Njc2MSwtODE2OTY2ODQzLC01NT
+k0NjkwNTYsMjI2NzU5Mjk2XX0=
 -->
