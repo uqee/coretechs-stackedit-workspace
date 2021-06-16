@@ -96,9 +96,9 @@ The disclaimers contained in this paragraph are a material part of the agreement
 
 4.11. We shall not be responsible or liable for any loss or corruption of data or content that you may experience while using the Services or otherwise. This includes, without limitation, the loss or corruption of data or content resulting from:
 
-- Network, system, or server "crashes" or outages, or other power outages.
-- Damage caused by viruses, worms, or security breaches, file corruption.
-- Any other cause.
+- network, system, or server "crashes" or outages, or other power outages;
+- damage caused by viruses, worms, or security breaches, file corruption;
+- any other cause.
 
 We assume no responsibility, and shall not be liable for, any damages to, or viruses that may infect your computer equipment or other property on account of your access to, or use of, the services.
 
@@ -223,5 +223,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NjgyOTIwXX0=
+eyJoaXN0b3J5IjpbLTEyOTk2MTY5ODRdfQ==
 -->
