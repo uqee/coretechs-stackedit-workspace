@@ -22,12 +22,18 @@ Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los us
 1.4. El depósito mínimo varía en función de la moneda que utilices. En el momento de la publicación, el depósito mínimo es de:
 
 - BTC 0.0002;
- - ETH 0.01;
- - USDT 20.
+- ETH 0.01; 
+- USDT 20.
 
-Antes de realizar un depósito, se te informará del importe exacto en el sitio web.
+Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web.
 
-1.5. Please note that the minimum withdrawal is approximately $20 in cryptocurrency equivalent, depending on the current exchange rates on [kraken.com](https://www.kraken.com/). Before you make a withdrawal, you will be informed of the exact amount of the minimum withdrawal in US dollars on the Website.
+1.5. El retiro mínimo varía en función de la moneda que utilices. En el momento de la publicación, el retiro mínimo es de:
+
+- BTC 0.00036;
+- ETH 0.01;
+- USDT 20.
+
+Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web.
 
 1.6. Withdrawal fees vary depending on the currency you use and at the time of publication of these Terms and Conditions are: 0 BTC, 0.0065 ETH, 10.00 USDT. We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the Website.
 
@@ -128,5 +134,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODM5OTc2Ml19
+eyJoaXN0b3J5IjpbLTE5NjQzMTEzNThdfQ==
 -->
