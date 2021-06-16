@@ -28,18 +28,18 @@
 
 1.1. There are several ways in which you may deposit and withdraw money to and from your account. These methods, in addition to the minimum and maximum deposits and withdrawals, and commission rates are shown in the list above (namedly, [Payment Methods](#payment-methods)). If the payment method you used to make a deposit doesn’t support withdrawals, please select a different one.
 
-1.2. You may use both desktop and mobile versions of the website to deposit and withdraw money to and from your account.
+1.2. You may use both the desktop and mobile versions of our website to deposit and withdraw money to and from your account.
 
-1.3. You may withdraw any amount from your account. However, it cannot exceed your current account balance and the limits established by the payment system provider.
+1.3. You may withdraw any amount from your account. However, the withdrawal amount cannot exceed your current account balance and the limits established by the payment system provider.
 
-1.4. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
+1.4. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) times the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
 
-1. You deposit 100 USD. Your account balance is 100 USD.
-2. You bet 20 USD with the odds of 3.0.
-3. Your bet wins. Your account balance is 140 USD.
-4. The amount available for withdrawal equals 60 USD. The amount you still need to wager equals 80 USD.
+1. Upon depositing 100 USD, your account balance is 100 USD;
+2. You bet 20 USD with odds of 3.0;
+3. Your bet wins. Your account balance is now 140 USD;
+4. The amount available for withdrawal now equals 60 USD. The amount you still need to wager equals 80 USD.
 
-We reserve the right to change the wagering requirements for all Clients or for individual Clients.
+We reserve the right to change the wagering requirements for all users of our platform.
 
 1.5. Odds96 is not liable for any commissions, transaction fees or lost deposits and withdrawals as a result of you entering incorrect payment details. Odds96 reserves the right to recover any money incorrectly credited to your account and to adjust your balance to rectify errors (for example, as a result of a transaction being processed in error).
 
@@ -78,5 +78,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur upon the refund procedure are on the Client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNDk5Nzc1XX0=
+eyJoaXN0b3J5IjpbLTE3NTgzNDkzNjFdfQ==
 -->
