@@ -106,25 +106,25 @@ Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin e
 
 Estamos procesando tu transacción. Odds96 solicita un número determinado de confirmaciones del blockchain dependiendo de la criptomoneda que hayas elegido. Por ejemplo, Bitcoin requiere una confirmación. Para seguir el estado de tu depósito, haz click en el icono de cartera y busca el apartado "Transacciones". Al hacer click en un enlace de Hash, entrarás en la página de la red relacionada con esta transacción. Actualmente, estamos utilizando Blockcypher. Puedes comprobar el número de confirmaciones del blockchain en la esquina inferior derecha.
 
-#### Can I deposit Bitcoin over BEP2 or Tron network?
+#### ¿Puedo depositar Bitcoin usando la red de protocolo BEP2 o Tron?
 
-If you are going to deposit Bitcoin, please note that you can send them only via the Bitcoin protocol network. You cannot send Bitcoin via other protocol networks such as BEP2, BEP20, TRC-20 or ERC-20.
+Si deseas depositar Bitcoin, ten en cuenta que puedes enviarlo solo a través de la red de protocolo Bitcoin. No puedes enviar Bitcoin usando otras redes de protocolo como BEP2, BEP20, TRC-20, ERC-20.
 
-#### Can I send ERC-20 tokens to my Ethereum deposit address on Odds96?
+#### ¿Puedo enviar tockens ERC-20 a la dirección de mi cuenta registrada con la moneda Ethereum?
 
-The Ethereum deposit address on your account has been created for receiving Ethereum coins only. Sending any other ERC-20 currency tokens to this address will result in the loss of your deposit.
+Si al haber registrado tu cuenta en Odds96 has seleccionado Ethereum, solo podrás depositar Ethereum coin. Si envías otros tockens ERC-20 a la dirección de tu cuenta, tu depósito se perderá.
 
-#### How can I make a withdrawal?
+#### ¿Cómo puedo retirar fondos?
 
-To withdraw your funds, please follow these steps:
+Para retirar fondos, sigue estos pasos:
 
-1. In the top right-hand corner, click on the wallet-like icon.
-2. In the section named "Balance", you’ll find the button "Withdraw". Click on it to proceed.
-3. Enter the sum you would like to withdraw in addition to your e-wallet address, then click on "Withdraw" again.
+1.  En la esquina superior derecha, haz click en el icono de billetera.
+2.  En el apartado "Saldo" que aparecerá, encontrarás un botón "Retirar". Haz click para iniciar.
+3.  Introduce el importe que deseas retirar junto con la dirección de tu billetera, luego haz click en "Retirar".
 
-#### Is there a transaction fee for withdrawals?
+#### ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
 
-Transaction fees vary depending on the cryptocurrency you chose: BTC - 0, ETH - 0.003, USDT - 4.
+Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC 0, ETH 0.003, USDT 10.
 
 #### What are the withdrawal limits?
 
@@ -142,5 +142,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNDg1MTddfQ==
+eyJoaXN0b3J5IjpbLTExNTgwNzExOTVdfQ==
 -->
