@@ -126,9 +126,9 @@ Para retirar fondos, sigue estos pasos:
 
 Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC 0, ETH 0.003, USDT 10.
 
-#### What are the withdrawal limits?
+#### ¿Hay algún límite establecido para los retiros?
 
-The minimum withdrawals vary depending on the cryptocurrency you choose: BTC - 0.00036, ETH - 0.0096, USDT - 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
+El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC 0.00036, ETH 0.00036, USDT 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
 
 #### How long do withdrawals take?
 
@@ -142,5 +142,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgwNzExOTVdfQ==
+eyJoaXN0b3J5IjpbMTk3MDUwNTM5OF19
 -->
