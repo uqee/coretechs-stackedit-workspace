@@ -1,4 +1,4 @@
-<Version>Última actualización: el 16 de junio de 2021</Version>
+<Version>Última actualización: el 21 de junio de 2021</Version>
 
 [Cuenta](#cuenta)
 
@@ -180,7 +180,7 @@ Para retirar fondos, sigue estos pasos:
 
 #### ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
 
-Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC 0, ETH 0.003, USDT 10.
+Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC 0, ETH 0.003, USDT 4.
 
 #### ¿Hay algún límite establecido para los retiros?
 
@@ -374,5 +374,6 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDc1NTExMiw0NDEwODE3MjRdfQ==
+eyJoaXN0b3J5IjpbLTg4MzkzNjA0OSwtMzgwNzU1MTEyLDQ0MT
+A4MTcyNF19
 -->
