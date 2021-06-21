@@ -1,6 +1,6 @@
-<Version>Última actualización: el 16 de junio de 2021</Version>
+<Version>Última actualización: el 21 de junio de 2021</Version>
 
-[Información General](#información-general)
+[Información General](#informacion-general)
 
 [Ayuda](#ayuda)
 
@@ -142,5 +142,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUwOTY5MzBdfQ==
+eyJoaXN0b3J5IjpbMTk5Mzc1Mjg0XX0=
 -->
