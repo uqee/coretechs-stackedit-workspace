@@ -39,7 +39,7 @@ Before you make a withdrawal, you will be informed of the exact minimum withdraw
 
  - BTC 0;
  - ETH 0.003;
- - USDT 10. 
+ - USDT 4. 
 
 We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the website.
 
@@ -141,5 +141,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjYyNTAxMl19
+eyJoaXN0b3J5IjpbLTg5ODY4Mzc3XX0=
 -->
