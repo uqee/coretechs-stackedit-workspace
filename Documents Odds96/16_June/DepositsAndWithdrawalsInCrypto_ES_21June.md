@@ -39,7 +39,7 @@ Antes de realizar un retiro, se te informará de la cantidad mínima exacta de r
 
 - BTC 0;
 - ETH 0.003;
-- USDT 10. 
+- USDT 4. 
  
 Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso. Antes de realizar un retiro, se te informará del importe exacto de la comisión de retiro en el sitio web.
 
@@ -142,5 +142,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyODkyNzQ5XX0=
+eyJoaXN0b3J5IjpbLTIwMzA0OTE2NzhdfQ==
 -->
