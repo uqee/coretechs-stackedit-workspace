@@ -1,4 +1,4 @@
-<Version>Last updated: June 16, 2021</Version>
+<Version>Last updated: June 21, 2021</Version>
 
 [General Information](#general-information)
 
@@ -123,7 +123,7 @@ To withdraw your funds, please follow these steps:
 
 #### Is there a transaction fee for withdrawals?
 
-Transaction fees vary depending on the cryptocurrency you chose: BTC 0, ETH 0.003, USDT 10.
+Transaction fees vary depending on the cryptocurrency you chose: BTC 0, ETH 0.003, USDT 4.
 
 #### What are the withdrawal limits?
 
@@ -141,6 +141,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk1Njc2MSwtODE2OTY2ODQzLC01NT
+eyJoaXN0b3J5IjpbMTUzNjYyNTAxMiwtODE2OTY2ODQzLC01NT
 k0NjkwNTYsMjI2NzU5Mjk2XX0=
 -->
