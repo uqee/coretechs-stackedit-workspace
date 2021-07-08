@@ -25,6 +25,7 @@ El **depósito mínimo** varía en función de la moneda que utilices. En el mom
 Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web. Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
 #### Retiros y Comisiones
+El **retiro mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el retiro mínimo es de:
 
  - **Bitcoin (BTC)**: 0.00036 BTC, comisión 0 BTC;
  - **Ethereum (ETH)**: 0.01 ETH, comisión 0.003 ETH;
@@ -32,7 +33,7 @@ Antes de hacer un depósito, se te informará de la cantidad mínima exacta de d
  - **Ripple (XRP)**: TBD, comisión TBD;
  - **Litecoin (LTC)**: TBD, comisión TBD;
  - **Dogecoin (DOGE)**: TBD, comisión TBD;
- - **USDT Tron (USDTT)**: TBD, withdrawal fee TBD.
+ - **USDT Tron (USDTT)**: TBD, comisión TBD.
 
 Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro y del importe exacto de la comisión de retiro en el sitio web. Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso.
 
@@ -176,5 +177,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjA3NjkwM119
+eyJoaXN0b3J5IjpbLTEwMzUxNjk0NzVdfQ==
 -->
