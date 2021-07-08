@@ -43,7 +43,7 @@ Recommended exchanges and wallets to buy, send and store cryptocurrencies:
 - **[blockchain.com](http://blockchain.com)** [(Guide)](https://www.blockchain.com/learning-portal/wallet-faq/)
 - **[binance.com](http://binance.com)** [(Guide)](https://academy.binance.com/en)
 - **[coinbase.com](http://coinbase.com)** [(Guide-1)](https://www.coinbase.com/learn/tips-and-tutorials/how-to-set-up-a-crypto-wallet) [(Guide-2)](https://www.coinbase.com/learn/tips-and-tutorials/how-to-send-crypto)
-- **[moonpay.com](http://moonpay.com)** [(Guide-1)](https://support.moonpay.com/hc/en-gb) [Guide-2](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
+- **[moonpay.com](http://moonpay.com)** [(Guide-1)](https://support.moonpay.com/hc/en-gb) [(Guide-2)](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
 - **[localbitcoins.com](http://localbitcoins.com)** [(Guide)](https://localbitcoins.com/guides/)
 
 ### General Information
@@ -158,5 +158,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ3MzcxNjVdfQ==
+eyJoaXN0b3J5IjpbLTE5ODg1NzU3NzQsLTE0ODQ3MzcxNjVdfQ
+==
 -->
