@@ -1,8 +1,10 @@
 <Version>Last updated: July 8, 2021</Version>
 
 [Deposits](#deposits)
-[Withdrawals](#withdrawals)
-[Exchanges and wallets]
+
+[Withdrawals and Fees](#withdrawals-and-fees)
+
+[Exchanges and Wallets](#exchanges-and-wallets)
 
 [General Information](#general-information)
 
@@ -22,7 +24,7 @@ The **minimum deposit** varies depending on the cryptocurrency you use. At the t
 
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website. We do not charge any additional fees for making deposits. However, blockchain networks might do so.
 
-#### Withdrawals
+#### Withdrawals and Fees
 The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptocurrency you use. At the time of publication, they rest at:
 
  - **Bitcoin (BTC)**: min. 0.00036 BTC, commission 0 BTC;
@@ -35,7 +37,7 @@ The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptoc
 
 Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount and of the withdrawal fee on the website. We reserve the right to change the amount of a withdrawal fee at any time without prior notice.
 
-#### Exchanges and wallets
+#### Exchanges and Wallets
 Recommended exchanges and wallets to buy, send and store cryptocurrencies:
 
 - **[blockchain.com](http://blockchain.com)** [(Guide)](https://www.blockchain.com/learning-portal/wallet-faq/)
@@ -156,5 +158,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTc5Nzc4NSwxMzU4ODE3MjY0XX0=
+eyJoaXN0b3J5IjpbMTc5MjQ5ODYzOCwxMzU4ODE3MjY0XX0=
 -->
