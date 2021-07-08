@@ -1,6 +1,8 @@
 <Version>Last updated: July 8, 2021</Version>
 
-[Cryptocurrencies](#cryptocurrencies)
+[Deposits](#deposits)
+[Withdrawals](#withdrawals)
+[Exchanges and wallets]
 
 [General Information](#general-information)
 
@@ -154,5 +156,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODgxNzI2NF19
+eyJoaXN0b3J5IjpbLTY2NTc5Nzc4NSwxMzU4ODE3MjY0XX0=
 -->
