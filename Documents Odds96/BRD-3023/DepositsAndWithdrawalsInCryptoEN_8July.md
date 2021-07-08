@@ -106,13 +106,13 @@ Important! The exchange rate is approximate. All your bets and transactions will
 
 There are two methods that you can use in making a deposit: via a unique QR code or an e-wallet address. Let's consider a Bitcoin transaction as an example:
 
-1.  Register with one of the most popular e-wallet services like Binance or Copay (on their websites or Android/iOS apps).
+1.  Register with one of the most popular e-wallet services like Binance or Blockchain (on their websites or Android/iOS apps).
 2.  Buy crypto via a bank card or any other payment methods.
 3.  Go to [Odds96.com](http://odds96.com).
 4.  In the top right-hand corner, click on the wallet-like icon.
 5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
 6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
-7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
+7.  Note that there may be some delay caused by the 3rd party services (like e-wallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
 
 #### Is there a transaction fee for deposits?
 
@@ -158,6 +158,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg1NzU3NzQsLTE0ODQ3MzcxNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE3MjA4NTY2NzMsLTE5ODg1NzU3NzQsLT
+E0ODQ3MzcxNjVdfQ==
 -->
