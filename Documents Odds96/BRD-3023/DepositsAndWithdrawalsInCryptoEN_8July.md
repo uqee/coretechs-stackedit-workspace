@@ -133,8 +133,17 @@ To buy cryptocurrency at [blockchain.com](https://www.blockchain.com/) follow th
  4. Select “Add Payment Method” and then select “Credit or Debit card.” If you have already placed a previous order with a card, it will appear here as a payment method.
  5. If you’re adding a new card, you will be asked to enter in your card details at this stage, including the cardholder name, card number, expiration date, CVV code, and billing address.
  6. You will be asked to complete 3D Secure verification for your card. This will take you to a website hosted by your bank from within the wallet.
+ 7. Review the details of your order on the checkout screen. Please note that the exchange rate is only an approximation, and your order will be placed using the current exchange rate after you press “Buy Now”.
 
-Step 7: Review the details of your order on the checkout screen. Please note that the exchange rate is only an approximation, and your order will be placed using the current exchange rate after you press “Buy Now”.
+#### ## How to send cryptocurrency?
+
+To send cryptocurrency from your wallet at [blockchain.com](https://www.blockchain.com/) follow these steps:
+
+ 1. When you access your and get to the Dashboard, you will see the option “Send”.
+ 2. When you select the Send option, it will bring up a pop-up menu where you will need to enter the correct information.
+ 3. At the top of the menu, you can choose which currency to send and which wallet to use (Private Key Wallet or Trading Account).
+
+Step 4: Below, you will need to enter the Address which you want to send funds to as well as the desired amount. You will be informed about network fees and estimated confirmation time.
 
 #### Is there a transaction fee for deposits?
 
@@ -180,6 +189,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1MDQ1MDQsLTE5ODg1NzU3NzQsLTE0OD
-Q3MzcxNjVdfQ==
+eyJoaXN0b3J5IjpbMzIyOTIzMjg0LC0xOTg4NTc1Nzc0LC0xND
+g0NzM3MTY1XX0=
 -->
