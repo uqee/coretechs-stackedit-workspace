@@ -139,13 +139,12 @@ Para comprar criptomonedas en [blockchain.com](https://www.blockchain.com/) sigu
 
 #### ¿Cómo enviar criptomonedas?
 
-Paso 1: Al acceder a tu billetera en blockchain.com y abrir el panel de control, verás la opción “Enviar”.
+Para enviar criptomonedas desde tu billetera en [blockchain.com](https://www.blockchain.com/) sigue estos pasos:
 
-Paso 2: Si seleccionas la opción de enviar, aparecerá un menú emergente en el que deberás introducir la información pertinente.
-
-Paso 3: En la parte superior del menú, puedes seleccionar la divisa que quieres enviar al igual que la billetera (Private Key Wallet o Trading Account).
-
-Paso 4: Debajo, tendrás que introducir la dirección a la que quieres enviar los fondos y la cantidad deseada. Se te informará de las tarifas de la red y del tiempo estimado de confirmación.
+ 1. Al acceder a tu billetera y abrir el panel de control, verás la opción “Enviar”.
+ 2. Si seleccionas la opción de enviar, aparecerá un menú emergente en el que deberás introducir la información pertinente.
+ 3. En la parte superior del menú, puedes seleccionar la divisa que quieres enviar al igual que la billetera (Private Key Wallet o Trading Account).
+ 4. Debajo, tendrás que introducir la dirección a la que quieres enviar los fondos y la cantidad deseada. Se te informará de las tarifas de la red y del tiempo estimado de confirmación.
 
 #### ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
 
@@ -192,9 +191,9 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJUNHVtaHN3c0QzaXdGOGVhIjp7In
-N0YXJ0IjoxNDA2OSwiZW5kIjoxNDA5NCwidGV4dCI6IkJUQyAw
+N0YXJ0IjoxNDE0NiwiZW5kIjoxNDE3MSwidGV4dCI6IkJUQyAw
 LCBFVEggMC4wMDMsIFVTRFQgNC4ifSwiWW9BRjNiQ1VLeFRWN0
-pwWiI6eyJzdGFydCI6MTQyMzIsImVuZCI6MTQyNjIsInRleHQi
+pwWiI6eyJzdGFydCI6MTQzMDksImVuZCI6MTQzMzksInRleHQi
 OiJCVEMgMC4wMDAzNiwgRVRIIDAuMDEsIFVTRFQgMjAifX0sIm
 NvbW1lbnRzIjp7ImJTd3JzV1lCWWhZd05wZHYiOnsiZGlzY3Vz
 c2lvbklkIjoiVDR1bWhzd3NEM2l3RjhlYSIsInN1YiI6ImdoOj
@@ -203,5 +202,5 @@ ZCI6MTYyNTc0Mjc3MDYzMH0sImdiekk2aUJtQ2kyVEloeHMiOn
 siZGlzY3Vzc2lvbklkIjoiWW9BRjNiQ1VLeFRWN0pwWiIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ImZpbmlzaCBoZXJlIi
 wiY3JlYXRlZCI6MTYyNTc0Mjc4Mjk1Nn19LCJoaXN0b3J5Ijpb
-MTQ5MTU1MjIyOV19
+LTE0NDQxODk1NzJdfQ==
 -->
