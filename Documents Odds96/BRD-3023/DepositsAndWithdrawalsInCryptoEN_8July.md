@@ -123,6 +123,19 @@ In order to take part in cryptocurrency transactions, you need to create a walle
  3. Once you create your wallet you will be given a Wallet ID. You will need to keep this ID stored since it is the only way for you to access your wallet.
  4. Don’t forget to verify your email address. Once your email is verified, your wallet is ready to use. Every time you log-in at [blockchain.com](https://www.blockchain.com/) will send a login request that you need to authorize by clicking on the button “Authorize Log In”.
 
+#### ## How to buy cryptocurrency?
+
+To buy cryptocurrency at [blockchain.com](https://www.blockchain.com/) follow these steps:
+
+ 1. Sign in into your account and verify your identity in the profile section of your wallet.
+ 2. Click on the “Buy/Sell Crypto” option and choose which cryptocurrency you’d like to buy.
+ 3. State the amount you want to purchase. You can enter a custom amount or choose one of the suggested default amounts.
+ 4. Select “Add Payment Method” and then select “Credit or Debit card.” If you have already placed a previous order with a card, it will appear here as a payment method.
+ 5. If you’re adding a new card, you will be asked to enter in your card details at this stage, including the cardholder name, card number, expiration date, CVV code, and billing address.
+ 6. You will be asked to complete 3D Secure verification for your card. This will take you to a website hosted by your bank from within the wallet.
+
+Step 7: Review the details of your order on the checkout screen. Please note that the exchange rate is only an approximation, and your order will be placed using the current exchange rate after you press “Buy Now”.
+
 #### Is there a transaction fee for deposits?
 
 We do not charge any additional fees for making deposits, however, blockchain networks might do so.
@@ -167,6 +180,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NDg3MjIwLC0xOTg4NTc1Nzc0LC0xND
-g0NzM3MTY1XX0=
+eyJoaXN0b3J5IjpbNTE1MDQ1MDQsLTE5ODg1NzU3NzQsLTE0OD
+Q3MzcxNjVdfQ==
 -->
