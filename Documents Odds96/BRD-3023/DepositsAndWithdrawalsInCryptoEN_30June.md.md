@@ -21,6 +21,17 @@ The **minimum deposit** varies depending on the cryptocurrency you use. At the t
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website. We do not charge any additional fees for making deposits. However, blockchain networks might do so.
 
 #### Withdrawals
+The **minimum withdrawal** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
+
+ - **Bitcoin (BTC)**: min. 0.00036 BTC, commission 0 BTC;
+ - **Ethereum (ETH)**: min. 0.01 ETH, commission 0.003 ETH;
+ - **Tether (USDT)**: min. 20 USDT, commission 4 USDT;
+ - **Ripple (XRP)**: min., commission TBD;
+ - **Litecoin (LTC)**: min., commission TBD;
+ - **Dogecoin (DOGE)**: min., commission TBD;
+ - **USDT Tron (USDTT)**: min., commission TBD.
+
+Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount and of the withdrawal fee on the website. We reserve the right to change the amount of a withdrawal fee at any time without prior notice.
 
 ### General Information
 
@@ -151,5 +162,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDY1NDUyMl19
+eyJoaXN0b3J5IjpbMTk2Mjc1NjQ2OV19
 -->
