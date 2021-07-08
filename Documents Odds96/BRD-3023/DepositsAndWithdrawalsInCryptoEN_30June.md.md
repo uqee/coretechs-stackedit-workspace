@@ -33,6 +33,8 @@ The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptoc
 
 Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount and of the withdrawal fee on the website. We reserve the right to change the amount of a withdrawal fee at any time without prior notice.
 
+#### Exchanges and wallets
+
 ### General Information
 
 1.1. We accept and conduct transactions in the currency that you specify upon registration. You’ll be able to choose between: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20), Ripple (XRP), Litecoin (LTC), Dogecoin (DOGE), USDT Tron (USDTT). Note that you will not be able to change currency after registration.
@@ -64,15 +66,15 @@ This information may be in the form of:
 - the deed to a trust, clearly showing entitlement to funds;
 - a dated proof of an award or payment which was made to the player.
 
-1.12. To guarantee your financial suitability, we may use the services of third-party information providers.
+1.9. To guarantee your financial suitability, we may use the services of third-party information providers.
 
-1.13. According to our Anti Money Laundering (AML) procedures, we follow a strict anti-coin mixing policy.
+1.10. According to our Anti Money Laundering (AML) procedures, we follow a strict anti-coin mixing policy.
 
-1.14. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) and fiat currencies without leaving the website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on [Odds96.com](http://odds96.com). Note that we do not provide any in-house payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services we use, please contact the relevant payment service provider directly.
+1.11. We engage third party payment service providers to allow you (i) to buy virtual currencies (cryptocurrencies) and fiat currencies without leaving the website, (ii) to transfer virtual currencies (cryptocurrencies) or fiat currencies (when this option becomes available) to your account on [Odds96.com](http://odds96.com). Note that we do not provide any in-house payment services and therefore we cannot be held liable for any losses caused as a result of any actions or omissions of the payment service providers. If you have any questions or claims related to the payment services we use, please contact the relevant payment service provider directly.
 
-1.15. The ‘Multi Currency Display’ feature allows you to choose the way your currency is displayed in your account. Display options include, but are not limited to, USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be settled in the currency that you chose when you registered. Remember that a history of your bets and transactions will be shown in the currency you chose using the ‘Multi Currency Display’ feature, according to the current exchange rates. The exchange rates between cryptocurrencies and USD or other fiat currencies that we show on our website are approximate.
+1.12. The ‘Multi Currency Display’ feature allows you to choose the way your currency is displayed in your account. Display options include, but are not limited to, USD, EUR, ARS, and we reserve the right to change these options at our own discretion. Note that all your bets and transactions will be settled in the currency that you chose when you registered. Remember that a history of your bets and transactions will be shown in the currency you chose using the ‘Multi Currency Display’ feature, according to the current exchange rates. The exchange rates between cryptocurrencies and USD or other fiat currencies that we show on our website are approximate.
 
-1.16. Want to learn more about cryptocurrency, the blockchain and wallets? Visit [learncrypto.com](https://learncrypto.com/knowledge-base).
+1.13. Want to learn more about cryptocurrency, the blockchain and wallets? Visit [learncrypto.com](https://learncrypto.com/knowledge-base).
 
 ### Help
 
@@ -145,5 +147,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTc1MzY5Nl19
+eyJoaXN0b3J5IjpbLTMyNDY0MTddfQ==
 -->
