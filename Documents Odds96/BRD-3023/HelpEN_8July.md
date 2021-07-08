@@ -1,4 +1,4 @@
-<Version>Last updated: June 21, 2021</Version>
+<Version>Last updated: July 8, 2021</Version>
 
 [Account](#account)
 
@@ -152,6 +152,36 @@ There are two methods that you can use in making a deposit: via a unique QR code
 5.  In the section named "Balance", you will find your account’s address. Copy and paste it into the address book in your e-wallet to initiate the transaction. Alternatively, you can scan the QR code using your e-wallet’s mobile app.
 6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
 7.  Note that there may be some delay caused by the 3rd party services (like eWallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
+
+#### How to create a wallet?
+
+In order to take part in cryptocurrency transactions, you need to create a wallet on one of the trusted platforms. Let’s consider [blockchain.com](https://www.blockchain.com/) as an example. To sign up, you just need to follow these simple steps:
+
+ 1. Go to [blockchain.com](https://www.blockchain.com/) and click on the “Get Started” button.
+ 2. Enter a valid email address and your password. Please be sure to use an email that only you have access to and use a strong password. Click on the “Create Wallet” button.
+ 3. Once you create your wallet you will be given a Wallet ID. You will need to keep this ID stored since it is the only way for you to access your wallet.
+ 4. Don’t forget to verify your email address. Once your email is verified, your wallet is ready to use. Every time you log-in at [blockchain.com](https://www.blockchain.com/) will send a login request that you need to authorize by clicking on the button “Authorize Log In”.
+
+#### ## How to buy cryptocurrency?
+
+To buy cryptocurrency at [blockchain.com](https://www.blockchain.com/) follow these steps:
+
+ 1. Sign in into your account and verify your identity in the profile section of your wallet.
+ 2. Click on the “Buy/Sell Crypto” option and choose which cryptocurrency you’d like to buy.
+ 3. State the amount you want to purchase. You can enter a custom amount or choose one of the suggested default amounts.
+ 4. Select “Add Payment Method” and then select “Credit or Debit card.” If you have already placed a previous order with a card, it will appear here as a payment method.
+ 5. If you’re adding a new card, you will be asked to enter in your card details at this stage, including the cardholder name, card number, expiration date, CVV code, and billing address.
+ 6. You will be asked to complete 3D Secure verification for your card. This will take you to a website hosted by your bank from within the wallet.
+ 7. Review the details of your order on the checkout screen. Please note that the exchange rate is only an approximation, and your order will be placed using the current exchange rate after you press “Buy Now”.
+
+#### How to send cryptocurrency?
+
+To send cryptocurrency from your wallet at [blockchain.com](https://www.blockchain.com/) follow these steps:
+
+ 1. When you access your and get to the Dashboard, you will see the option “Send”.
+ 2. When you select the Send option, it will bring up a pop-up menu where you will need to enter the correct information.
+ 3. At the top of the menu, you can choose which currency to send and which wallet to use (Private Key Wallet or Trading Account).
+ 4. Below, you will need to enter the Address which you want to send funds to as well as the desired amount. You will be informed about network fees and estimated confirmation time.
 
 #### Is there a transaction fee for deposits?
 
@@ -359,5 +389,5 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTI2NDUzXX0=
+eyJoaXN0b3J5IjpbMjA5MDIzMzQ5MV19
 -->
