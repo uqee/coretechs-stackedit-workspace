@@ -12,6 +12,17 @@
 
 ### Criptomonedas
 #### Depósitos
+El **depósito mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el depósito mínimo es de:
+
+ - **Bitcoin (BTC)**: 0.0002 BTC;
+ - **Ethereum (ETH)**: 0.01 ETH;
+ - **Tether (USDT)**: 0.01 USDT;
+ - **Ripple (XRP)**: TBD;
+ - **Litecoin (LTC)**: TBD;
+ - **Dogecoin (DOGE)**: TBD;
+ - **USDT Tron (USDTT)**: TBD.
+
+Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web. Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
 #### Retiros y Comisiones
 
@@ -155,5 +166,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM5MjU2MjFdfQ==
+eyJoaXN0b3J5IjpbMjAyODY1MDI2XX0=
 -->
