@@ -1,4 +1,4 @@
-<Version>Última actualización: el 21 de junio de 2021</Version>
+<Version>Última actualización: el 8 de julio de 2021</Version>
 
 [Cuenta](#cuenta)
 
@@ -151,6 +151,36 @@ Podrás elegir entre dos métodos: hacer un depósito mediante el código QR ún
 5.  En el apartado "Saldo" que aparecerá, encontrarás la dirección de tu cuenta. Cópiala y pégala en la libreta de direcciones de tu billetera electrónica para efectuar la transacción. Alternativamente, puedes escanear el código QR usando la aplicación móvil de tu billetera.
 6.  Una vez que haya como mínimo una confirmación en el blockchain, los Bitcoins se acreditarán en tu cuenta.
 7.  Ten en cuenta que pueden ocurrir algunos retrasos en los servicios de terceros (por ejemplo, eWallets o intercambios de criptomoneda) que pueden debitar tu cuenta privada pero no agregar la transacción al blockchain durante varias horas. Una vez efectuado el depósito, recibirás una notificación de confirmación.
+
+#### ¿Cómo crear una billetera?
+
+Para poder realizar transacciones con criptodivisas, se necesita crear una billetera en una de las plataformas de confianza. Consideremos [blockchain.com](https://www.blockchain.com/) como ejemplo. Para registrarte, tienes que seguir estos sencillos pasos:
+
+ 1. Ve a [blockchain.com](https://www.blockchain.com/) y haz click en el botón "Empezar".
+ 2. Introduce una dirección de correo electrónico válida y una contraseña. Usa una dirección de correo electrónico a la que solo tú tengas acceso y una contraseña segura. Haz click en el botón “Crear Billetera”.
+ 3. Cuando crees tu billetera, se te facilitará un identificador de billetera. Deberás guardar este identificador, ya que es la única forma de acceder a la billetera.
+ 4. Verifica tu dirección de correo electrónico. Una vez que se verifique, tu billetera estará lista para usarse. Cada vez que inicies una sesión en [blockchain.com](https://www.blockchain.com/) se te enviará una solicitud de inicio de sesión que deberás autorizar haciendo click en el botón "Autorizar inicio de sesión".
+
+#### ¿Cómo comprar criptomonedas?
+
+Para comprar criptomonedas en [blockchain.com](https://www.blockchain.com/) sigue estos pasos:
+
+ 1. Inicia sesión con tu cuenta y verifica tu identidad en el perfil de tu billetera.
+ 2. Haz click en la opción “Comprar/Vender Cripto” y selecciona la criptomoneda que quieres comprar.
+ 3. Indica la cantidad que desea comprar. Puedes introducir un importe personalizado o seleccionar uno de los importes propuestos por defecto.
+ 4. Selecciona "Añadir método de pago" y luego selecciona "Tarjeta de crédito o débito". Si ya has realizado un pedido con una tarjeta bancaria, ésta aparecerá aquí como tu método de pago.
+ 5. Si añades una nueva tarjeta, se te pedirá que introduzcas los datos de tu tarjeta en esta fase, incluyendo el nombre del titular, el número de tarjeta, la fecha de caducidad, el código CVV y la dirección de facturación.
+ 6. Se te pedirá que completes la verificación 3D Secure para tu tarjeta. Esto te redirigirá a un sitio web alojado por tu banco.
+ 7. Revisa los detalles de tu pedido en la pantalla de pago. Ten en cuenta que el tipo de cambio es sólo una aproximación, y tu pedido se realizará utilizando el tipo de cambio actual después de pulsar "Comprar Ahora".
+
+#### ¿Cómo enviar criptomonedas?
+
+Para enviar criptomonedas desde tu billetera en [blockchain.com](https://www.blockchain.com/) sigue estos pasos:
+
+ 1. Al acceder a tu billetera y abrir el panel de control, verás la opción “Enviar”.
+ 2. Si seleccionas la opción de enviar, aparecerá un menú emergente en el que deberás introducir la información pertinente.
+ 3. En la parte superior del menú, puedes seleccionar la divisa que quieres enviar al igual que la billetera (Private Key Wallet o Trading Account).
+ 4. Debajo, tendrás que introducir la dirección a la que quieres enviar los fondos y la cantidad deseada. Se te informará de las tarifas de la red y del tiempo estimado de confirmación.
 
 #### ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
 
@@ -374,5 +404,5 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NDczMDM1XX0=
+eyJoaXN0b3J5IjpbOTY4NjM2NDgsNTE4NDczMDM1XX0=
 -->
