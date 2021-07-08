@@ -25,7 +25,7 @@ El **depósito mínimo** varía en función de la moneda que utilices. En el mom
 Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web. Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
 #### Retiros y Comisiones
-El **retiro mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el retiro mínimo es de:
+El **retiro mínimo** y las **comisiones de retiro** varían en función de la moneda que utilices. En el momento de la publicación, son de:
 
  - **Bitcoin (BTC)**: 0.00036 BTC, comisión 0 BTC;
  - **Ethereum (ETH)**: 0.01 ETH, comisión 0.003 ETH;
@@ -177,5 +177,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUxNjk0NzVdfQ==
+eyJoaXN0b3J5IjpbMTI0OTA1Nzk0Nl19
 -->
