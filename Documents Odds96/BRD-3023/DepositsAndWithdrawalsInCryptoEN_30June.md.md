@@ -8,13 +8,13 @@
 
 ### Cryptocurrencies
 #### Deposits
- - Bitcoin (BTC): min. 0.0002 BTC;
- - Ethereum (ETH): min. 0.01 ETH;
- - Tether (USDT): min. 0.01 USDT;
- - Ripple (XRP): min. TBD;
- - Litecoin (LTC): min. TBD;
- - Dogecoin (DOGE): min. TBD;
- - USDT Tron (USDTT): min. TBD;
+ - **Bitcoin (BTC)**: min. 0.0002 BTC;
+ - **Ethereum (ETH)**: min. 0.01 ETH;
+ - **Tether (USDT)**: min. 0.01 USDT;
+ - **Ripple (XRP)**: min. TBD;
+ - **Litecoin (LTC)**: min. TBD;
+ - **Dogecoin (DOGE)**: min. TBD;
+ - **USDT Tron (USDTT)**: min. TBD;
 
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website. We do not charge any additional fees for making deposits. However, blockchain networks might do so.
 
@@ -22,7 +22,7 @@ Before you make a deposit, you will be informed of the exact minimum deposit amo
 
 ### General Information
 
-1.1. We accept and conduct transactions in the currency that you specify upon registration. You’ll be able to choose between: Bitcoin (BTC), Ethereum (ETH) or Tether (USDT-ERC20). Note that you will not be able to change currency after registration.
+1.1. We accept and conduct transactions in the currency that you specify upon registration. You’ll be able to choose between: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20), Ripple (XRP), Lit. Note that you will not be able to change currency after registration.
 
 1.2. You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on market fluctuations. You bear full financial responsibility related to changes in exchange rates and the further conversion of funds.
 
@@ -157,5 +157,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY3ODgyMF19
+eyJoaXN0b3J5IjpbLTEyNTkwOTAwMjldfQ==
 -->
