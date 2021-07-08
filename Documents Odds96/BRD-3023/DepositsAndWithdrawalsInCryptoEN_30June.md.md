@@ -8,6 +8,7 @@
 
 ### Cryptocurrencies
 #### Deposits
+The **minimum deposit** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
  - **Bitcoin (BTC)**: min. 0.0002 BTC;
  - **Ethereum (ETH)**: min. 0.01 ETH;
  - **Tether (USDT)**: min. 0.01 USDT;
@@ -22,7 +23,7 @@ Before you make a deposit, you will be informed of the exact minimum deposit amo
 
 ### General Information
 
-1.1. We accept and conduct transactions in the currency that you specify upon registration. You’ll be able to choose between: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20), Ripple (XRP), Lit. Note that you will not be able to change currency after registration.
+1.1. We accept and conduct transactions in the currency that you specify upon registration. You’ll be able to choose between: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20), Ripple (XRP), Litecoin (LTC), Dogecoin (DOGE), USDT Tron (USDTT). Note that you will not be able to change currency after registration.
 
 1.2. You accept and acknowledge that the value of cryptocurrencies can change dramatically depending on market fluctuations. You bear full financial responsibility related to changes in exchange rates and the further conversion of funds.
 
@@ -157,5 +158,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkwOTAwMjldfQ==
+eyJoaXN0b3J5IjpbLTE3MTI1NTc4OTFdfQ==
 -->
