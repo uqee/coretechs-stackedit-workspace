@@ -125,6 +125,24 @@ Para poder realizar transacciones con criptodivisas, se necesita crear una bille
  3. Cuando crees tu billetera, se te facilitará un identificador de billetera. Deberás guardar este identificador, ya que es la única forma de acceder a la billetera.
  4. Verifica tu dirección de correo electrónico. Una vez que se verifique, tu billetera estará lista para usarse. Cada vez que inicies una sesión en [blockchain.com](https://www.blockchain.com/) se te enviará una solicitud de inicio de sesión que deberás autorizar haciendo click en el botón "Autorizar inicio de sesión".
 
+#### ¿Cómo comprar criptomonedas?
+
+Para comprar criptomonedas en [blockchain.com](https://www.blockchain.com/) sigue estos pasos:
+
+Paso 1: Inicia sesión con tu cuenta y verifica tu identidad en el perfil de tu billetera.
+
+Paso 2: Haz click en la opción “Comprar/Vender Cripto” y selecciona la criptomoneda que quieres comprar.
+
+Paso 3: Indica la cantidad que desea comprar. Puedes introducir un importe personalizado o seleccionar uno de los importes propuestos por defecto.
+
+Paso 4: Selecciona "Añadir método de pago" y luego selecciona "Tarjeta de crédito o débito". Si ya has realizado un pedido con una tarjeta bancaria, ésta aparecerá aquí como tu método de pago.
+
+Paso 5: Si añades una nueva tarjeta, se te pedirá que introduzcas los datos de tu tarjeta en esta fase, incluyendo el nombre del titular, el número de tarjeta, la fecha de caducidad, el código CVV y la dirección de facturación.
+
+Paso 6: Se te pedirá que completes la verificación 3D Secure para tu tarjeta. Esto te redirigirá a un sitio web alojado por tu banco.
+
+Paso 7: Revisa los detalles de tu pedido en la pantalla de pago. Ten en cuenta que el tipo de cambio es sólo una aproximación, y tu pedido se realizará utilizando el tipo de cambio actual después de pulsar "Comprar Ahora".
+
 #### ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
 
 Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
@@ -170,9 +188,9 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJUNHVtaHN3c0QzaXdGOGVhIjp7In
-N0YXJ0IjoxMjIyOSwiZW5kIjoxMjI1NCwidGV4dCI6IkJUQyAw
+N0YXJ0IjoxMzQ4NywiZW5kIjoxMzUxMiwidGV4dCI6IkJUQyAw
 LCBFVEggMC4wMDMsIFVTRFQgNC4ifSwiWW9BRjNiQ1VLeFRWN0
-pwWiI6eyJzdGFydCI6MTIzOTIsImVuZCI6MTI0MjIsInRleHQi
+pwWiI6eyJzdGFydCI6MTM2NTAsImVuZCI6MTM2ODAsInRleHQi
 OiJCVEMgMC4wMDAzNiwgRVRIIDAuMDEsIFVTRFQgMjAifX0sIm
 NvbW1lbnRzIjp7ImJTd3JzV1lCWWhZd05wZHYiOnsiZGlzY3Vz
 c2lvbklkIjoiVDR1bWhzd3NEM2l3RjhlYSIsInN1YiI6ImdoOj
@@ -181,5 +199,5 @@ ZCI6MTYyNTc0Mjc3MDYzMH0sImdiekk2aUJtQ2kyVEloeHMiOn
 siZGlzY3Vzc2lvbklkIjoiWW9BRjNiQ1VLeFRWN0pwWiIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ImZpbmlzaCBoZXJlIi
 wiY3JlYXRlZCI6MTYyNTc0Mjc4Mjk1Nn19LCJoaXN0b3J5Ijpb
-Nzg5NDI4MTkxXX0=
+OTE0NjM2MDUwXX0=
 -->
