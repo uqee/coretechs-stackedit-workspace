@@ -120,13 +120,10 @@ Podrás elegir entre dos métodos: hacer un depósito mediante el código QR ún
 
 Para poder realizar transacciones con criptodivisas, se necesita crear una billetera en una de las plataformas de confianza. Consideremos [blockchain.com](https://www.blockchain.com/) como ejemplo. Para registrarte, tienes que seguir estos sencillos pasos:
 
-Paso 1: Ve a [blockchain.com](https://www.blockchain.com/) y haz click en el botón "Empezar".
-
-Paso 2: Introduce una dirección de correo electrónico válida y una contraseña. Usa una dirección de correo electrónico a la que solo tú tengas acceso y una contraseña segura. Haz click en el botón “Crear Billetera”.
-
-Paso 3: Cuando crees tu billetera, se te facilitará un identificador de billetera. Deberás guardar este identificador, ya que es la única forma de acceder a la billetera.
-
-Paso 4: Verifica tu dirección de correo electrónico. Una vez que se verifique, tu billetera estará lista para usarse. Cada vez que inicies una sesión en blockchain.com se te enviará una solicitud de inicio de sesión que deberás autorizar haciendo click en el botón "Autorizar inicio de sesión".
+ 1. Ve a [blockchain.com](https://www.blockchain.com/) y haz click en el botón "Empezar".
+ 2. Introduce una dirección de correo electrónico válida y una contraseña. Usa una dirección de correo electrónico a la que solo tú tengas acceso y una contraseña segura. Haz click en el botón “Crear Billetera”.
+ 3. Cuando crees tu billetera, se te facilitará un identificador de billetera. Deberás guardar este identificador, ya que es la única forma de acceder a la billetera.
+ 4. Verifica tu dirección de correo electrónico. Una vez que se verifique, tu billetera estará lista para usarse. Cada vez que inicies una sesión en [blockchain.com](https://www.blockchain.com/) se te enviará una solicitud de inicio de sesión que deberás autorizar haciendo click en el botón "Autorizar inicio de sesión".
 
 #### ¿Qué tipo de comisiones cobra Odds96 si hago un depósito?
 
@@ -173,9 +170,9 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJUNHVtaHN3c0QzaXdGOGVhIjp7In
-N0YXJ0IjoxMjIxNywiZW5kIjoxMjI0MiwidGV4dCI6IkJUQyAw
+N0YXJ0IjoxMjIyOSwiZW5kIjoxMjI1NCwidGV4dCI6IkJUQyAw
 LCBFVEggMC4wMDMsIFVTRFQgNC4ifSwiWW9BRjNiQ1VLeFRWN0
-pwWiI6eyJzdGFydCI6MTIzODAsImVuZCI6MTI0MTAsInRleHQi
+pwWiI6eyJzdGFydCI6MTIzOTIsImVuZCI6MTI0MjIsInRleHQi
 OiJCVEMgMC4wMDAzNiwgRVRIIDAuMDEsIFVTRFQgMjAifX0sIm
 NvbW1lbnRzIjp7ImJTd3JzV1lCWWhZd05wZHYiOnsiZGlzY3Vz
 c2lvbklkIjoiVDR1bWhzd3NEM2l3RjhlYSIsInN1YiI6ImdoOj
@@ -184,5 +181,5 @@ ZCI6MTYyNTc0Mjc3MDYzMH0sImdiekk2aUJtQ2kyVEloeHMiOn
 siZGlzY3Vzc2lvbklkIjoiWW9BRjNiQ1VLeFRWN0pwWiIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ImZpbmlzaCBoZXJlIi
 wiY3JlYXRlZCI6MTYyNTc0Mjc4Mjk1Nn19LCJoaXN0b3J5Ijpb
-MzY2NTYxMzM4XX0=
+Nzg5NDI4MTkxXX0=
 -->
