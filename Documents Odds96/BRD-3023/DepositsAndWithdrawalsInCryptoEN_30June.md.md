@@ -33,7 +33,7 @@ The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptoc
  - **Ripple (XRP)**: TBD, withdrawal fee TBD;
  - **Litecoin (LTC)**: TBD, withdrawal fee TBD;
  - **Dogecoin (DOGE)**: TBD, withdrawal fee TBD;
- - **USDT Tron (USDTT)**: min., withdrawal fee TBD.
+ - **USDT Tron (USDTT)**: TBD, withdrawal fee TBD.
 
 Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount and of the withdrawal fee on the website. We reserve the right to change the amount of a withdrawal fee at any time without prior notice.
 
@@ -158,5 +158,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzAxMDQwLDEzNTg4MTcyNjRdfQ==
+eyJoaXN0b3J5IjpbMTk0MDY4NjMzNiwxMzU4ODE3MjY0XX0=
 -->
