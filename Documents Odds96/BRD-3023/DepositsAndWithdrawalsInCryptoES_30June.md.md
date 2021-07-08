@@ -38,10 +38,17 @@ El **retiro mínimo** y las **comisiones de retiro** varían en función de la m
 Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro y del importe exacto de la comisión de retiro en el sitio web. Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso.
 
 #### Bolsas y Billeteras
+Bolsas y billeteras recomendadas para comprar, enviar y guardar criptodivisas:
+
+- **[blockchain.com](http://blockchain.com)** [(Guía)](https://www.blockchain.com/learning-portal/wallet-faq/)
+- **[binance.com](http://binance.com)** [(Guía)](https://academy.binance.com/en)
+- **[coinbase.com](http://coinbase.com)** [(Guía-1)](https://www.coinbase.com/learn/tips-and-tutorials/how-to-set-up-a-crypto-wallet) [(Guía-2)](https://www.coinbase.com/learn/tips-and-tutorials/how-to-send-crypto)
+- **[moonpay.com](http://moonpay.com)** [(Guía-1)](https://support.moonpay.com/hc/en-gb) [Guía-2](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
+- **[localbitcoins.com](http://localbitcoins.com)** [(Guía)](https://localbitcoins.com/guides/)
 
 ### Información General
 
-1.1. Aceptamos y realizamos las transacciones en la moneda que tu especifiques al registrarte. Podrás elegir entre: Bitcoin (BTC), Ethereum (ETH) o Tether (USDT-ERC20). Ten en cuenta que no podrás cambiar de moneda después de registrarte.
+1.1. Aceptamos y realizamos las transacciones en la moneda que tu especifiques al registrarte. Podrás elegir entre: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Ten en cuenta que no podrás cambiar de moneda después de registrarte.
 
 1.2. Tú aceptas y reconoces que el valor de las criptomonedas puede cambiar dramáticamente dependiendo de las fluctuaciones del mercado. Tú asumes toda la responsabilidad financiera relacionada con los cambios en los tipos de cambio y la posterior conversión de los fondos.
 
@@ -177,5 +184,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTA1Nzk0Nl19
+eyJoaXN0b3J5IjpbODAwMTM5MDM3XX0=
 -->
