@@ -114,6 +114,18 @@ There are two methods that you can use in making a deposit: via a unique QR code
 6.  Once there is at least one confirmation on the blockchain, the Bitcoin will be credited to your account.
 7.  Note that there may be some delay caused by the 3rd party services (like e-wallets or exchanges) that may debit your private account but not add the transaction to the blockchain for several hours. Once your account has been topped-up, you will receive a confirmation notification.
 
+#### How to create a wallet?
+
+In order to take part in cryptocurrency transactions, you need to create a wallet on one of the trusted platforms. Let’s consider [blockchain.com](https://www.blockchain.com/) as an example. To sign up, you just need to follow these simple steps:
+
+Step 1: Go to [blockchain.com](https://www.blockchain.com/) and click on the “Get Started” button.
+
+Step 2: Enter a valid email address and your password. Please be sure to use an email that only you have access to and use a strong password. Click on the “Create Wallet” button.
+
+Step 3: Once you create your wallet you will be given a Wallet ID. You will need to keep this ID stored since it is the only way for you to access your wallet.
+
+Step 4: Don’t forget to verify your email address. Once your email is verified, your wallet is ready to use. Every time you log-in at blockchain.com will send a login request that you need to authorize by clicking on the button “Authorize Log In”.
+
 #### Is there a transaction fee for deposits?
 
 We do not charge any additional fees for making deposits, however, blockchain networks might do so.
@@ -158,6 +170,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA4NTY2NzMsLTE5ODg1NzU3NzQsLT
+eyJoaXN0b3J5IjpbLTE1MTk5MDk4MjUsLTE5ODg1NzU3NzQsLT
 E0ODQ3MzcxNjVdfQ==
 -->
