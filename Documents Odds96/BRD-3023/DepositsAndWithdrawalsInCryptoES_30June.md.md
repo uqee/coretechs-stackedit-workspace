@@ -26,6 +26,16 @@ Antes de hacer un depósito, se te informará de la cantidad mínima exacta de d
 
 #### Retiros y Comisiones
 
+ - **Bitcoin (BTC)**: 0.00036 BTC, comisión 0 BTC;
+ - **Ethereum (ETH)**: 0.01 ETH, comisión 0.003 ETH;
+ - **Tether (USDT)**: 20 USDT, comisión 4 USDT;
+ - **Ripple (XRP)**: TBD, comisión TBD;
+ - **Litecoin (LTC)**: TBD, comisión TBD;
+ - **Dogecoin (DOGE)**: TBD, comisión TBD;
+ - **USDT Tron (USDTT)**: TBD, withdrawal fee TBD.
+
+Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro y del importe exacto de la comisión de retiro en el sitio web. Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso.
+
 #### Bolsas y Billeteras
 
 ### Información General
@@ -166,5 +176,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODY1MDI2XX0=
+eyJoaXN0b3J5IjpbLTkyNjA3NjkwM119
 -->
