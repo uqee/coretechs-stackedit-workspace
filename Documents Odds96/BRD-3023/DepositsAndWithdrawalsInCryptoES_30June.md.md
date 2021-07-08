@@ -43,7 +43,7 @@ Bolsas y billeteras recomendadas para comprar, enviar y guardar criptodivisas:
 - **[blockchain.com](http://blockchain.com)** [(Guía)](https://www.blockchain.com/learning-portal/wallet-faq/)
 - **[binance.com](http://binance.com)** [(Guía)](https://academy.binance.com/en)
 - **[coinbase.com](http://coinbase.com)** [(Guía-1)](https://www.coinbase.com/learn/tips-and-tutorials/how-to-set-up-a-crypto-wallet) [(Guía-2)](https://www.coinbase.com/learn/tips-and-tutorials/how-to-send-crypto)
-- **[moonpay.com](http://moonpay.com)** [(Guía-1)](https://support.moonpay.com/hc/en-gb) [Guía-2](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
+- **[moonpay.com](http://moonpay.com)** [(Guía-1)](https://support.moonpay.com/hc/en-gb) [(Guía-2)](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
 - **[localbitcoins.com](http://localbitcoins.com)** [(Guía)](https://localbitcoins.com/guides/)
 
 ### Información General
@@ -160,5 +160,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNzUyNzg2XX0=
+eyJoaXN0b3J5IjpbLTE4MzUwNzQ1MjNdfQ==
 -->
