@@ -48,7 +48,7 @@ Bolsas y billeteras recomendadas para comprar, enviar y guardar criptodivisas:
 
 ### Información General
 
-1.1. Aceptamos y realizamos las transacciones en la moneda que tu especifiques al registrarte. Podrás elegir entre: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20). Ten en cuenta que no podrás cambiar de moneda después de registrarte.
+1.1. Aceptamos y realizamos las transacciones en la moneda que tu especifiques al registrarte. Podrás elegir entre: Bitcoin (BTC), Ethereum (ETH), Tether (USDT-ERC20), Ripple (XRP), Litecoin (LTC), Dogecoin (DOGE), USDT Tron (USDTT). Ten en cuenta que no podrás cambiar de moneda después de registrarte.
 
 1.2. Tú aceptas y reconoces que el valor de las criptomonedas puede cambiar dramáticamente dependiendo de las fluctuaciones del mercado. Tú asumes toda la responsabilidad financiera relacionada con los cambios en los tipos de cambio y la posterior conversión de los fondos.
 
@@ -61,39 +61,15 @@ Bolsas y billeteras recomendadas para comprar, enviar y guardar criptodivisas:
 
 Nos reservamos el derecho de cambiar los requisitos de apuesta para todos los usuarios de nuestra plataforma.
 
-1.4. El **depósito mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el depósito mínimo es de:
+1.4. Asegurate de depositar solo la criptomoneda que elegiste cuando registraste tu cuenta. Los intentos de depositar otras criptomonedas pueden resultar en la pérdida de sus fondos.
 
-- BTC 0.0002;
-- ETH 0.01; 
-- USDT 0.01.
+1.5. Tú eres totalmente responsable de comprobar las direcciones de depósito y retiro cuando muevas fondos entre monederos y cuentas.
 
-Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web.
+1.6. Ten en cuenta que el 80% de todos los retiros en BTC se procesan en aproximadamente 10 minutos, y el 20% restante de dichas transacciones puede tardar hasta más de 60 minutos. Los retiros en cualquier otra criptomoneda pueden tardar más de 10 minutos en procesarse.
 
-1.5. El **retiro mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el retiro mínimo es de:
+1.7. De acuerdo con nuestra política de lucha contra el lavado de activos (AML), nos reservamos el derecho a realizar más inspecciones sobre cualquier solicitud de retiro sospechosa. Podemos tardar hasta 24 horas en tomar una decisión sobre la aprobación de un solicitante. En caso de detectar una solicitud de retirada de fondos sospechosa, pediremos al cliente que aporte documentos que confirmen su identidad.
 
-- BTC 0.00036;
-- ETH 0.01;
-- USDT 20.
-
-Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro en el sitio web.
-
-1.6. Las **comisiones de retiro** varían en función de la moneda que utilices. En el momento de la publicación, estas tarifas son de: 
-
-- BTC 0;
-- ETH 0.003;
-- USDT 4. 
- 
-Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso. Antes de realizar un retiro, se te informará del importe exacto de la comisión de retiro en el sitio web.
-
-1.7. Asegurate de depositar solo la criptomoneda que elegiste cuando registraste tu cuenta. Los intentos de depositar otras criptomonedas pueden resultar en la pérdida de sus fondos.
-
-1.8. Tú eres totalmente responsable de comprobar las direcciones de depósito y retiro cuando muevas fondos entre monederos y cuentas.
-
-1.9. Ten en cuenta que el 80% de todos los retiros en BTC se procesan en aproximadamente 10 minutos, y el 20% restante de dichas transacciones puede tardar hasta más de 60 minutos. Los retiros en cualquier otra criptomoneda pueden tardar más de 10 minutos en procesarse.
-
-1.10. De acuerdo con nuestra política de lucha contra el lavado de activos (AML), nos reservamos el derecho a realizar más inspecciones sobre cualquier solicitud de retiro sospechosa. Podemos tardar hasta 24 horas en tomar una decisión sobre la aprobación de un solicitante. En caso de detectar una solicitud de retirada de fondos sospechosa, pediremos al cliente que aporte documentos que confirmen su identidad.
-
-1.11. Es posible que te pidamos que nos proporciones documentos que demuestren el origen de tus fondos, ya que es importante que sepamos de qué procedencia son los fondos con los que eliges jugar.
+1.8. Es posible que te pidamos que nos proporciones documentos que demuestren el origen de tus fondos, ya que es importante que sepamos de qué procedencia son los fondos con los que eliges jugar.
 
 Esta información puede ser en forma de:
 - prueba de los ingresos (por ejemplo, una nómina, una remuneración de director, dividendos, pensiones, etc.);
@@ -101,15 +77,15 @@ Esta información puede ser en forma de:
 - la escritura de un fideicomiso, mostrando claramente un derecho a los fondos;
 - un comprobante con fecha de un premio o de un pago que se haya hecho al jugador.
 
-1.12. Para garantizar tu capacidad financiera, podemos utilizar los servicios de terceros proveedores de información.
+1.9. Para garantizar tu capacidad financiera, podemos utilizar los servicios de terceros proveedores de información.
 
-1.13. De acuerdo con nuestros procedimientos contra el lavado de activos (AML), seguimos una estricta política contra la mezcla de criptomonedas.
+1.10. De acuerdo con nuestros procedimientos contra el lavado de activos (AML), seguimos una estricta política contra la mezcla de criptomonedas.
 
-1.14. Nosotros contratamos el servicio de pago de terceros para permitirte (i) comprar monedas virtuales (criptomonedas) y monedas fiduciarias sin salir del sitio web, (ii) transferir monedas virtuales (criptomonedas) o monedas fiduciarias (cuando esta opción esté disponible) en tu cuenta [Odds96.com](http://odds96.com). Cabe resaltar que no proporcionamos ningún servicio de pago interno y, por lo tanto, no podemos hacernos responsables de las pérdidas causadas como resultado de cualquier acción u omisión de los proveedores de servicios de pago. Si tienes alguna pregunta o reclamo relacionado con los servicios de pago que utilizamos, por favor contacta directamente con el proveedor de servicios de pago correspondiente.
+1.11. Nosotros contratamos el servicio de pago de terceros para permitirte (i) comprar monedas virtuales (criptomonedas) y monedas fiduciarias sin salir del sitio web, (ii) transferir monedas virtuales (criptomonedas) o monedas fiduciarias (cuando esta opción esté disponible) en tu cuenta [Odds96.com](http://odds96.com). Cabe resaltar que no proporcionamos ningún servicio de pago interno y, por lo tanto, no podemos hacernos responsables de las pérdidas causadas como resultado de cualquier acción u omisión de los proveedores de servicios de pago. Si tienes alguna pregunta o reclamo relacionado con los servicios de pago que utilizamos, por favor contacta directamente con el proveedor de servicios de pago correspondiente.
 
-1.15. La función ‘Visualización de la Moneda’ te permite elegir la forma en que se muestran las divisas en tu cuenta. Las opciones de visualización incluyen, pero no se limitan a, USD, EUR, ARS, y nos reservamos el derecho de cambiar estas opciones a nuestra propia discreción. Cabe destacar que todas tus apuestas y transacciones se seguirán liquidando en la moneda que elegiste al registrarte. Recuerda que el historial de tus apuestas y transacciones se mostrará en la divisa que hayas escogido utilizando la función ‘Visualización de la Moneda’, de acuerdo con los tipos de cambio actuales. Los tipos de cambio entre criptomonedas y USD u otras monedas fiduciarias que mostramos en nuestra web son aproximados.
+1.12. La función ‘Visualización de la Moneda’ te permite elegir la forma en que se muestran las divisas en tu cuenta. Las opciones de visualización incluyen, pero no se limitan a, USD, EUR, ARS, y nos reservamos el derecho de cambiar estas opciones a nuestra propia discreción. Cabe destacar que todas tus apuestas y transacciones se seguirán liquidando en la moneda que elegiste al registrarte. Recuerda que el historial de tus apuestas y transacciones se mostrará en la divisa que hayas escogido utilizando la función ‘Visualización de la Moneda’, de acuerdo con los tipos de cambio actuales. Los tipos de cambio entre criptomonedas y USD u otras monedas fiduciarias que mostramos en nuestra web son aproximados.
 
-1.16. ¿Quieres saber más sobre las criptomonedas, la blockchain y las billeteras? Visita [learncrypto.com](https://learncrypto.com/knowledge-base).
+1.13. ¿Quieres saber más sobre las criptomonedas, la blockchain y las billeteras? Visita [learncrypto.com](https://learncrypto.com/knowledge-base).
 
 ### Ayuda
 
@@ -184,5 +160,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMTM5MDM3XX0=
+eyJoaXN0b3J5IjpbMzcxNzUyNzg2XX0=
 -->
