@@ -121,7 +121,7 @@ In order to take part in cryptocurrency transactions, you need to create a walle
  1. Go to [blockchain.com](https://www.blockchain.com/) and click on the “Get Started” button.
  2. Enter a valid email address and your password. Please be sure to use an email that only you have access to and use a strong password. Click on the “Create Wallet” button.
  3. Once you create your wallet you will be given a Wallet ID. You will need to keep this ID stored since it is the only way for you to access your wallet.
- 4. Don’t forget to verify your email address. Once your email is verified, your wallet is ready to use. Every time you log-in at blockchain.com will send a login request that you need to authorize by clicking on the button “Authorize Log In”.
+ 4. Don’t forget to verify your email address. Once your email is verified, your wallet is ready to use. Every time you log-in at [blockchain.com](https://www.blockchain.com/) will send a login request that you need to authorize by clicking on the button “Authorize Log In”.
 
 #### Is there a transaction fee for deposits?
 
@@ -167,6 +167,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjY3MTgyNSwtMTk4ODU3NTc3NCwtMT
-Q4NDczNzE2NV19
+eyJoaXN0b3J5IjpbMzE0NDg3MjIwLC0xOTg4NTc1Nzc0LC0xND
+g0NzM3MTY1XX0=
 -->
