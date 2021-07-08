@@ -34,6 +34,13 @@ The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptoc
 Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount and of the withdrawal fee on the website. We reserve the right to change the amount of a withdrawal fee at any time without prior notice.
 
 #### Exchanges and wallets
+Recommended exchanges and wallets to buy, send and store cryptocurrencies:
+
+-   **[blockchain.com](http://blockchain.com)** [(Guide)](https://www.blockchain.com/learning-portal/wallet-faq/)
+-   **[binance.com](http://binance.com)** [(Guide)](https://academy.binance.com/en)
+-   **[coinbase.com](http://coinbase.com)** [(Guide)](https://www.coinbase.com/learn/tips-and-tutorials/how-to-set-up-a-crypto-wallet) [https://www.coinbase.com/learn/tips-and-tutorials/how-to-send-crypto](https://www.coinbase.com/learn/tips-and-tutorials/how-to-send-crypto)
+-   **[moonpay.com](http://moonpay.com)** [https://support.moonpay.com/hc/en-gb](https://support.moonpay.com/hc/en-gb) [https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
+-   **[localbitcoins.com](http://localbitcoins.com)** [https://localbitcoins.com/guides/](https://localbitcoins.com/guides/)
 
 ### General Information
 
@@ -147,5 +154,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDY0MTddfQ==
+eyJoaXN0b3J5IjpbMjYxNDg2NDA2XX0=
 -->
