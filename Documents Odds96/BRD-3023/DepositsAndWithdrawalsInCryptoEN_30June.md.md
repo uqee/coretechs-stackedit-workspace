@@ -37,14 +37,6 @@ Before you make a deposit, you will be informed of the exact minimum deposit amo
 
 We reserve the right to change the wagering requirements for all users of our platform.
 
-1.4. The **minimum deposit** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
-
- - BTC 0.0002;
- - ETH 0.01;
- - USDT 0.01.
-
-Before you make a deposit, you will be informed of the exact minimum deposit amount on the website.
-
 1.5. The **minimum withdrawal** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
 
  - BTC 0.00036;
@@ -159,5 +151,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDg5MDIyNV19
+eyJoaXN0b3J5IjpbMTg2NDY1NDUyMl19
 -->
