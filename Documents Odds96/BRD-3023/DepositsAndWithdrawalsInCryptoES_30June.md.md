@@ -160,5 +160,12 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUwNzQ1MjNdfQ==
+eyJkaXNjdXNzaW9ucyI6eyJUNHVtaHN3c0QzaXdGOGVhIjp7In
+N0YXJ0IjoxMTE0MCwiZW5kIjoxMTE2NSwidGV4dCI6IkJUQyAw
+LCBFVEggMC4wMDMsIFVTRFQgNC4ifX0sImNvbW1lbnRzIjp7Im
+JTd3JzV1lCWWhZd05wZHYiOnsiZGlzY3Vzc2lvbklkIjoiVDR1
+bWhzd3NEM2l3RjhlYSIsInN1YiI6ImdoOjcxMDcxNDQ1IiwidG
+V4dCI6ImZpbmlzaCBoZXJlIiwiY3JlYXRlZCI6MTYyNTc0Mjc3
+MDYzMH19LCJoaXN0b3J5IjpbLTIwNDQ5MTYyOTQsLTE4MzUwNz
+Q1MjNdfQ==
 -->
