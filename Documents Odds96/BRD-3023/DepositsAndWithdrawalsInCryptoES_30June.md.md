@@ -4,7 +4,7 @@
 
 [Retiros y Comisiones](#retiros-y-comisiones)
 
-[Bolsas y Billeteras](#bolsas-y-billeteras
+[Bolsas y Billeteras](#bolsas-y-billeteras)
 
 [Información General](#informacion-general)
 
@@ -155,5 +155,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQwNDgxOF19
+eyJoaXN0b3J5IjpbLTE1OTM5MjU2MjFdfQ==
 -->
