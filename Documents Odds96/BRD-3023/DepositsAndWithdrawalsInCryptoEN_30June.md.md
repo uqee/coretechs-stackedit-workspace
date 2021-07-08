@@ -21,7 +21,7 @@ The **minimum deposit** varies depending on the cryptocurrency you use. At the t
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website. We do not charge any additional fees for making deposits. However, blockchain networks might do so.
 
 #### Withdrawals
-The **minimum withdrawal** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
+The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptocurrency you use. At the time of publication, they rest at:
 
  - **Bitcoin (BTC)**: min. 0.00036 BTC, commission 0 BTC;
  - **Ethereum (ETH)**: min. 0.01 ETH, commission 0.003 ETH;
@@ -48,32 +48,15 @@ Before you make a withdrawal, you will be informed of the exact minimum withdraw
 
 We reserve the right to change the wagering requirements for all users of our platform.
 
-1.5. The **minimum withdrawal** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
+1.4. Be sure to deposit only the cryptocurrency that you choose when you registered your account. Attempts to deposit other cryptocurrencies may result in a loss of funds.
 
- - BTC 0.00036;
- - ETH 0.01;
- - USDT 20.
+1.5. You are fully responsible for checking deposit and withdrawal addresses when moving funds between wallets and accounts.
 
-Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount on the website.
+1.6. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up more than 60 minutes. Withdrawals in any other cryptocurrency may take up more than 10 minutes to process.
 
-1.6. **Withdrawal fees** vary depending on the currency you use. At the time of publication, these fees rest at: 
+1.7. In accordance with our Anti Money Laundering (AML) policy, we reserve the right to conduct further checks on any suspicious withdrawal requests. It may take us up to 24 hours to come to a decision regarding the approval of an applicant. In case a suspicious withdrawal request is detected, we will ask the client to provide documents to confirm their identity.
 
- - BTC 0;
- - ETH 0.003;
- - USDT 4. 
-
-We reserve the right to change the amount of a withdrawal fee at any time without prior notice. Before you make a withdrawal, you will be informed of the exact amount of the withdrawal fee on the website.
-
-1.7. Be sure to deposit only the cryptocurrency that you choose when you registered your account. Attempts to deposit other cryptocurrencies may result in a loss of funds.
-
-1.8. You are fully responsible for checking deposit and withdrawal addresses when moving funds between wallets and accounts.
-
-1.9. Please note that 80% of all withdrawals in BTC are processed in approximately 10 minutes, and the remaining 20% of such transactions may take up more than 60 minutes. Withdrawals in any other cryptocurrency may take up more than 10 minutes to process.
-
-1.10. In accordance with our Anti Money Laundering (AML) policy, we reserve the right to conduct further checks on any suspicious withdrawal requests. It may take us up to 24 hours to come to a decision regarding the approval of an applicant. In case a suspicious withdrawal request is detected, we will ask the client to provide documents to confirm their identity.
-
-1.11. 
-We may ask you to provide documents proving the source of your funds, as it is important for us to understand where the funds that you choose to play with originated.
+1.8. We may ask you to provide documents proving the source of your funds, as it is important for us to understand where the funds that you choose to play with originated.
 
 This information may be in the form of:
 - proof of earnings (e.g. a payslip, a director remuneration, dividend or pension related income, etc.);
@@ -162,5 +145,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mjc1NjQ2OV19
+eyJoaXN0b3J5IjpbLTcyMTc1MzY5Nl19
 -->
