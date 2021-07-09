@@ -14,26 +14,26 @@
 #### Deposits
 The **minimum deposit** varies depending on the cryptocurrency you use. At the time of publication, it rests at:
 
- - **Bitcoin (BTC)**: 0.0002 BTC;
- - **Ethereum (ETH)**: 0.01 ETH;
- - **Tether (USDT)**: 0.01 USDT;
- - **Ripple (XRP)**: 0.001 XRP;
- - **Litecoin (LTC)**: 0.01 LTC;
- - **Dogecoin (DOGE)**: 1 DOGE;
- - **USDT Tron (USDTT)**: 1 USDTT.
+ - **Bitcoin (BTC)**: 0.0002;
+ - **Ethereum (ETH)**: 0.01;
+ - **Tether (USDT)**: 0.01;
+ - **Ripple (XRP)**: 0.001;
+ - **Litecoin (LTC)**: 0.01;
+ - **Dogecoin (DOGE)**: 1;
+ - **USDT Tron (USDTT)**: 1.
 
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website. We do not charge any additional fees for making deposits. However, blockchain networks might do so.
 
 #### Withdrawals and Fees
 The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptocurrency you use. At the time of publication, they rest at:
 
- - **Bitcoin (BTC)**: 0.00036 BTC, withdrawal fee 0 BTC;
- - **Ethereum (ETH)**: 0.01 ETH, withdrawal fee 0.003 ETH;
- - **Tether (USDT)**: 20 USDT, withdrawal fee 4 USDT;
- - **Ripple (XRP)**: 30 XRP, withdrawal fee 0 XRP;
- - **Litecoin (LTC)**: 0.15 LTC, withdrawal fee 0 LTC;
- - **Dogecoin (DOGE)**: 50 DOGE, withdrawal fee 0 DOGE;
- - **USDT Tron (USDTT)**: 20 USDTT, withdrawal fee 0 USDTT.
+ - **Bitcoin (BTC)**: 0.00036, withdrawal fee 0;
+ - **Ethereum (ETH)**: 0.01, withdrawal fee 0.003;
+ - **Tether (USDT)**: 20, withdrawal fee 4;
+ - **Ripple (XRP)**: 30, withdrawal fee 0;
+ - **Litecoin (LTC)**: 0.15, withdrawal fee 0;
+ - **Dogecoin (DOGE)**: 50, withdrawal fee 0;
+ - **USDT Tron (USDTT)**: 20, withdrawal fee 0.
 
 Before you make a withdrawal, you will be informed of the exact minimum withdrawal amount and of the withdrawal fee on the website. We reserve the right to change the amount of a withdrawal fee at any time without prior notice.
 
@@ -202,6 +202,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MTY3MTEzLC0xOTg4NTc1Nzc0LC0xND
-g0NzM3MTY1XX0=
+eyJoaXN0b3J5IjpbLTEwODY1NjE2OTMsLTE5ODg1NzU3NzQsLT
+E0ODQ3MzcxNjVdfQ==
 -->
