@@ -224,14 +224,11 @@ The minimum withdrawals vary depending on the cryptocurrency you choose:
 - BTC 0.00036,
 - ETH 0.01,
 - USDT 20,
-
 - XRP 30,
-
 - LTC 0.15,
-
 - DOGE 50,
-
 - USDTT 20. 
+
 There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
 
 #### How long do withdrawals take?
@@ -254,7 +251,12 @@ Please wait until the verification process has finished.
 
 #### What is the minimum bet?
 
-The minimum bet varies depending on the currency you choose: BTC - 0.00002, ETH - 0.0005, USDT - 1.
+The minimum bet varies depending on the currency you choose: 
+
+ - BTC 0.00002, 
+ - ETH 0.0003, 
+ - USDT 1,
+ - 
 
 #### What is the maximum bet?
 
@@ -406,5 +408,5 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NTA3NTEwXX0=
+eyJoaXN0b3J5IjpbLTQzODc1NTk5XX0=
 -->
