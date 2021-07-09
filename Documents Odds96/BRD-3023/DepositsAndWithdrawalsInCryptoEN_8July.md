@@ -172,10 +172,13 @@ To withdraw your funds, please follow these steps:
 
 Transaction fees vary depending on the cryptocurrency you chose: 
 
- - BTC 0, 
- - ETH 0.003, 
- - USDT 4,
- - 
+ - Free of charge: BTC, XR
+ - 0.003 ETH, 
+ - 4 USDT,
+ - 0 XRP,
+ - 0 LTC,
+ - 0 DOGE,
+ - 0 USDT.
 
 #### What are the withdrawal limits?
 
@@ -193,6 +196,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjI0MDkxNiwtMTk4ODU3NTc3NCwtMT
+eyJoaXN0b3J5IjpbLTY1MjU4MTk1NCwtMTk4ODU3NTc3NCwtMT
 Q4NDczNzE2NV19
 -->
