@@ -183,8 +183,10 @@ The minimum withdrawals vary depending on the cryptocurrency you choose:
  - BTC 0.00036, 
  - ETH 0.01, 
  - USDT 20,
- - XRP
- - LT 
+ - XRP 30,
+ - LTC 0.15,
+ - DOGE 50,
+ - USDTT 20.
  
 There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
 
@@ -200,6 +202,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI1NjU5NzksLTE5ODg1NzU3NzQsLT
-E0ODQ3MzcxNjVdfQ==
+eyJoaXN0b3J5IjpbMjM1MTY3MTEzLC0xOTg4NTc1Nzc0LC0xND
+g0NzM3MTY1XX0=
 -->
