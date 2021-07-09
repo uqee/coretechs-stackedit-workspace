@@ -14,10 +14,10 @@
 #### Depósitos
 El **depósito mínimo** varía en función de la moneda que utilices. En el momento de la publicación, el depósito mínimo es de:
 
- - **Bitcoin (BTC)**: 0.0002 BTC;
- - **Ethereum (ETH)**: 0.01 ETH;
- - **Tether (USDT)**: 0.01 USDT;
- - **Ripple (XRP)**: 0.001 XRP;
+ - **Bitcoin (BTC)**: 0.0002;
+ - **Ethereum (ETH)**: 0.01;
+ - **Tether (USDT)**: 0.01;
+ - **Ripple (XRP)**: 0.001;
  - **Litecoin (LTC)**: 0.01 LTC;
  - **Dogecoin (DOGE)**: 1 DOGE;
  - **USDT Tron (USDTT)**: 1 USDTT.
@@ -204,5 +204,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0OTc4ODAwLC02Mjk2NDMyMjddfQ==
+eyJoaXN0b3J5IjpbMTI4NDMzMjQwMCwtNjI5NjQzMjI3XX0=
 -->
