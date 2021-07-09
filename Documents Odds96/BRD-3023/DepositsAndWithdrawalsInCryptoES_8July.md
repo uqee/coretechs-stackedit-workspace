@@ -176,7 +176,11 @@ Las comisiones varían dependiendo de la criptomoneda seleccionada: BTC 0, ETH 0
 
 #### ¿Hay algún límite establecido para los retiros?
 
-El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC 0.00036, ETH 0.01, USDT 20. No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
+El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: 
+
+ - BTC 0.00036, 
+ - ETH 0.01, USDT 20. 
+No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
 
 #### ¿Cuánto tiempo se demora en retirar?
 
@@ -190,17 +194,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJUNHVtaHN3c0QzaXdGOGVhIjp7In
-N0YXJ0IjoxNDE5MiwiZW5kIjoxNDIxNywidGV4dCI6IkJUQyAw
-LCBFVEggMC4wMDMsIFVTRFQgNC4ifSwiWW9BRjNiQ1VLeFRWN0
-pwWiI6eyJzdGFydCI6MTQzNTUsImVuZCI6MTQzODUsInRleHQi
-OiJCVEMgMC4wMDAzNiwgRVRIIDAuMDEsIFVTRFQgMjAifX0sIm
-NvbW1lbnRzIjp7ImJTd3JzV1lCWWhZd05wZHYiOnsiZGlzY3Vz
-c2lvbklkIjoiVDR1bWhzd3NEM2l3RjhlYSIsInN1YiI6ImdoOj
-cxMDcxNDQ1IiwidGV4dCI6ImZpbmlzaCBoZXJlIiwiY3JlYXRl
-ZCI6MTYyNTc0Mjc3MDYzMH0sImdiekk2aUJtQ2kyVEloeHMiOn
-siZGlzY3Vzc2lvbklkIjoiWW9BRjNiQ1VLeFRWN0pwWiIsInN1
-YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ImZpbmlzaCBoZXJlIi
-wiY3JlYXRlZCI6MTYyNTc0Mjc4Mjk1Nn19LCJoaXN0b3J5Ijpb
-LTEyNTA3OTgyNTAsLTYyOTY0MzIyN119
+eyJoaXN0b3J5IjpbMTQ4Njc4MTIzNCwtNjI5NjQzMjI3XX0=
 -->
