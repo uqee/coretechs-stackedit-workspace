@@ -30,8 +30,8 @@ The **minimum withdrawal** and **withdrawal fees** vary depending on the cryptoc
  - **Bitcoin (BTC)**: 0.00036 BTC, withdrawal fee 0 BTC;
  - **Ethereum (ETH)**: 0.01 ETH, withdrawal fee 0.003 ETH;
  - **Tether (USDT)**: 20 USDT, withdrawal fee 4 USDT;
- - **Ripple (XRP)**: TBD, withdrawal fee TBD;
- - **Litecoin (LTC)**: TBD, withdrawal fee TBD;
+ - **Ripple (XRP)**: 30 XRP, withdrawal fee 0 XRP;
+ - **Litecoin (LTC)**: 0.15 LTC, withdrawal fee 0 LTC;
  - **Dogecoin (DOGE)**: TBD, withdrawal fee TBD;
  - **USDT Tron (USDTT)**: TBD, withdrawal fee TBD.
 
@@ -188,6 +188,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYyNTA5MTAsLTE5ODg1NzU3NzQsLT
+eyJoaXN0b3J5IjpbLTE5MTc5MzAzOTksLTE5ODg1NzU3NzQsLT
 E0ODQ3MzcxNjVdfQ==
 -->
