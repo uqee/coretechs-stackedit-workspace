@@ -17,10 +17,10 @@ El **depósito mínimo** varía en función de la moneda que utilices. En el mom
  - **Bitcoin (BTC)**: 0.0002 BTC;
  - **Ethereum (ETH)**: 0.01 ETH;
  - **Tether (USDT)**: 0.01 USDT;
- - **Ripple (XRP)**: TBD;
- - **Litecoin (LTC)**: TBD;
- - **Dogecoin (DOGE)**: TBD;
- - **USDT Tron (USDTT)**: TBD.
+ - **Ripple (XRP)**: 0.001 XRP;
+ - **Litecoin (LTC)**: 0.01 LTC;
+ - **Dogecoin (DOGE)**: 1 DOGE;
+ - **USDT Tron (USDTT)**: 1 USDTT.
 
 Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web. Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
@@ -191,9 +191,9 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJUNHVtaHN3c0QzaXdGOGVhIjp7In
-N0YXJ0IjoxNDE0NiwiZW5kIjoxNDE3MSwidGV4dCI6IkJUQyAw
+N0YXJ0IjoxNDE2NCwiZW5kIjoxNDE4OSwidGV4dCI6IkJUQyAw
 LCBFVEggMC4wMDMsIFVTRFQgNC4ifSwiWW9BRjNiQ1VLeFRWN0
-pwWiI6eyJzdGFydCI6MTQzMDksImVuZCI6MTQzMzksInRleHQi
+pwWiI6eyJzdGFydCI6MTQzMjcsImVuZCI6MTQzNTcsInRleHQi
 OiJCVEMgMC4wMDAzNiwgRVRIIDAuMDEsIFVTRFQgMjAifX0sIm
 NvbW1lbnRzIjp7ImJTd3JzV1lCWWhZd05wZHYiOnsiZGlzY3Vz
 c2lvbklkIjoiVDR1bWhzd3NEM2l3RjhlYSIsInN1YiI6ImdoOj
@@ -202,5 +202,5 @@ ZCI6MTYyNTc0Mjc3MDYzMH0sImdiekk2aUJtQ2kyVEloeHMiOn
 siZGlzY3Vzc2lvbklkIjoiWW9BRjNiQ1VLeFRWN0pwWiIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ImZpbmlzaCBoZXJlIi
 wiY3JlYXRlZCI6MTYyNTc0Mjc4Mjk1Nn19LCJoaXN0b3J5Ijpb
-LTE0NDQxODk1NzJdfQ==
+LTYyOTY0MzIyN119
 -->
