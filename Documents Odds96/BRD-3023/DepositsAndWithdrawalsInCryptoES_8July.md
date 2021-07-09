@@ -18,22 +18,22 @@ El **depósito mínimo** varía en función de la moneda que utilices. En el mom
  - **Ethereum (ETH)**: 0.01;
  - **Tether (USDT)**: 0.01;
  - **Ripple (XRP)**: 0.001;
- - **Litecoin (LTC)**: 0.01 LTC;
- - **Dogecoin (DOGE)**: 1 DOGE;
- - **USDT Tron (USDTT)**: 1 USDTT.
+ - **Litecoin (LTC)**: 0.01;
+ - **Dogecoin (DOGE)**: 1;
+ - **USDT Tron (USDTT)**: 1.
 
 Antes de hacer un depósito, se te informará de la cantidad mínima exacta de depósito en el sitio web. Nosotros no cobramos ningún tipo de comisiones cuando haces un depósito. Sin embargo, las redes de blockchain pueden cobrarte.
 
 #### Retiros y Comisiones
 El **retiro mínimo** y las **comisiones de retiro** varían en función de la moneda que utilices. En el momento de la publicación, son de:
 
- - **Bitcoin (BTC)**: 0.00036 BTC, comisión 0 BTC;
- - **Ethereum (ETH)**: 0.01 ETH, comisión 0.003 ETH;
- - **Tether (USDT)**: 20 USDT, comisión 4 USDT;
- - **Ripple (XRP)**: 30 XRP, comisión 0 XRP;
- - **Litecoin (LTC)**: 0.15 LTC, comisión 0 LTC;
- - **Dogecoin (DOGE)**: 50 DOGE, comisión 0 DOGE;
- - **USDT Tron (USDTT)**: 20 USDTT, comisión 0 USDTT.
+ - **Bitcoin (BTC)**: 0.00036, comisión 0;
+ - **Ethereum (ETH)**: 0.01, comisión 0.003;
+ - **Tether (USDT)**: 20, comisión 4;
+ - **Ripple (XRP)**: 30, comisión 0;
+ - **Litecoin (LTC)**: 0.15, comisión 0;
+ - **Dogecoin (DOGE)**: 50, comisión 0;
+ - **USDT Tron (USDTT)**: 20, comisión 0.
 
 Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro y del importe exacto de la comisión de retiro en el sitio web. Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso.
 
@@ -204,5 +204,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDMzMjQwMCwtNjI5NjQzMjI3XX0=
+eyJoaXN0b3J5IjpbLTE3MDczMDA1MzQsLTYyOTY0MzIyN119
 -->
