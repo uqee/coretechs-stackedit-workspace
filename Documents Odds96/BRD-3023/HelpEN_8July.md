@@ -256,7 +256,10 @@ The minimum bet varies depending on the currency you choose:
  - BTC 0.00002, 
  - ETH 0.0003, 
  - USDT 1,
- - 
+ - XRP 2,
+ - LTC 0.01,
+ - DOGE 5,
+ - USDTT 1.
 
 #### What is the maximum bet?
 
@@ -408,5 +411,5 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODc1NTk5XX0=
+eyJoaXN0b3J5IjpbLTIwMjUxMTMzXX0=
 -->
