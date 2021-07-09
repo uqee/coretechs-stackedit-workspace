@@ -123,7 +123,7 @@ In order to take part in cryptocurrency transactions, you need to create a walle
  3. Once you create your wallet you will be given a Wallet ID. You will need to keep this ID stored since it is the only way for you to access your wallet.
  4. Don’t forget to verify your email address. Once your email is verified, your wallet is ready to use. Every time you log-in at [blockchain.com](https://www.blockchain.com/) will send a login request that you need to authorize by clicking on the button “Authorize Log In”.
 
-#### ## How to buy cryptocurrency?
+#### How to buy cryptocurrency?
 
 To buy cryptocurrency at [blockchain.com](https://www.blockchain.com/) follow these steps:
 
@@ -170,7 +170,12 @@ To withdraw your funds, please follow these steps:
 
 #### Is there a transaction fee for withdrawals?
 
-Transaction fees vary depending on the cryptocurrency you chose: BTC 0, ETH 0.003, USDT 4.
+Transaction fees vary depending on the cryptocurrency you chose: 
+
+ - BTC 0, 
+ - ETH 0.003, 
+ - USDT 4,
+ - 
 
 #### What are the withdrawal limits?
 
@@ -188,6 +193,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1OTkyNTQsLTE5ODg1NzU3NzQsLTE0OD
-Q3MzcxNjVdfQ==
+eyJoaXN0b3J5IjpbLTc5MjI0MDkxNiwtMTk4ODU3NTc3NCwtMT
+Q4NDczNzE2NV19
 -->
