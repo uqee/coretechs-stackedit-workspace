@@ -218,7 +218,15 @@ Las comisiones varían dependiendo de la criptomoneda seleccionada:
 
 #### ¿Hay algún límite establecido para los retiros?
 
-El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: BTC 0.00036, ETH 0.01, USDT 20. 
+El importe mínimo para retirar varía dependiendo de la criptomoneda seleccionada: 
+
+- BTC 0.00036,
+- ETH 0.01,
+- USDT 20,
+- XRP 30,
+- LTC 0.15,
+- DOGE 50,
+- USDTT 20. 
 
 No hemos establecido el importe máximo por eso puedes retirar cuanto quieras.
 
@@ -418,6 +426,6 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcyNzIxNiw5Njg2MzY0OCw1MTg0Nz
+eyJoaXN0b3J5IjpbMTczNjEzMTkwNyw5Njg2MzY0OCw1MTg0Nz
 MwMzVdfQ==
 -->
