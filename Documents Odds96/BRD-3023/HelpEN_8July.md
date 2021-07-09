@@ -211,11 +211,28 @@ To withdraw your funds, please follow these steps:
 
 #### Is there a transaction fee for withdrawals?
 
-Transaction fees vary depending on the cryptocurrency you chose: BTC 0, ETH 0.003, USDT 4.
+Transaction fees vary depending on the cryptocurrency you chose:
+
+- Free of charge: BTC, XRP, LTC, DOGE, USDTT,
+- ETH 0.003,
+- USDT 4.
 
 #### What are the withdrawal limits?
 
-The minimum withdrawals vary depending on the cryptocurrency you choose: BTC 0.00036, ETH 0.01, USDT 20. There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
+The minimum withdrawals vary depending on the cryptocurrency you choose:
+
+- BTC 0.00036,
+- ETH 0.01,
+- USDT 20,
+
+- XRP 30,
+
+- LTC 0.15,
+
+- DOGE 50,
+
+- USDTT 20. 
+There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
 
 #### How long do withdrawals take?
 
@@ -389,5 +406,5 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDIzMzQ5MV19
+eyJoaXN0b3J5IjpbNzI0NTA3NTEwXX0=
 -->
