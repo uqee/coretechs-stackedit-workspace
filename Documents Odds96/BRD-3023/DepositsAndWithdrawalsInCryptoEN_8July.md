@@ -17,10 +17,10 @@ The **minimum deposit** varies depending on the cryptocurrency you use. At the t
  - **Bitcoin (BTC)**: 0.0002 BTC;
  - **Ethereum (ETH)**: 0.01 ETH;
  - **Tether (USDT)**: 0.01 USDT;
- - **Ripple (XRP)**: TBD;
- - **Litecoin (LTC)**: TBD;
- - **Dogecoin (DOGE)**: TBD;
- - **USDT Tron (USDTT)**: TBD.
+ - **Ripple (XRP)**: 0.001 XRP;
+ - **Litecoin (LTC)**: 0.01 LTC;
+ - **Dogecoin (DOGE)**: 1 DOGE;
+ - **USDT Tron (USDTT)**: 1 USDTT.
 
 Before you make a deposit, you will be informed of the exact minimum deposit amount on the website. We do not charge any additional fees for making deposits. However, blockchain networks might do so.
 
@@ -188,6 +188,6 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NTY3MjM4LC0xOTg4NTc1Nzc0LC0xND
-g0NzM3MTY1XX0=
+eyJoaXN0b3J5IjpbLTIxNDYyNTA5MTAsLTE5ODg1NzU3NzQsLT
+E0ODQ3MzcxNjVdfQ==
 -->
