@@ -30,10 +30,10 @@ El **retiro mínimo** y las **comisiones de retiro** varían en función de la m
  - **Bitcoin (BTC)**: 0.00036 BTC, comisión 0 BTC;
  - **Ethereum (ETH)**: 0.01 ETH, comisión 0.003 ETH;
  - **Tether (USDT)**: 20 USDT, comisión 4 USDT;
- - **Ripple (XRP)**: TBD, comisión TBD;
- - **Litecoin (LTC)**: TBD, comisión TBD;
- - **Dogecoin (DOGE)**: TBD, comisión TBD;
- - **USDT Tron (USDTT)**: TBD, comisión TBD.
+ - **Ripple (XRP)**: 30 XRP, comisión 0 XRP;
+ - **Litecoin (LTC)**: 0.15 LTC, comisión 0 LTC;
+ - **Dogecoin (DOGE)**: 50 DOGE, comisión 0 DOGE;
+ - **USDT Tron (USDTT)**: 20 USDTT, comisión 0 USDTT.
 
 Antes de realizar un retiro, se te informará de la cantidad mínima exacta de retiro y del importe exacto de la comisión de retiro en el sitio web. Nos reservamos el derecho a modificar el importe de la comisión de retiro en cualquier momento y sin previo aviso.
 
@@ -191,9 +191,9 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJUNHVtaHN3c0QzaXdGOGVhIjp7In
-N0YXJ0IjoxNDE2NCwiZW5kIjoxNDE4OSwidGV4dCI6IkJUQyAw
+N0YXJ0IjoxNDE5MiwiZW5kIjoxNDIxNywidGV4dCI6IkJUQyAw
 LCBFVEggMC4wMDMsIFVTRFQgNC4ifSwiWW9BRjNiQ1VLeFRWN0
-pwWiI6eyJzdGFydCI6MTQzMjcsImVuZCI6MTQzNTcsInRleHQi
+pwWiI6eyJzdGFydCI6MTQzNTUsImVuZCI6MTQzODUsInRleHQi
 OiJCVEMgMC4wMDAzNiwgRVRIIDAuMDEsIFVTRFQgMjAifX0sIm
 NvbW1lbnRzIjp7ImJTd3JzV1lCWWhZd05wZHYiOnsiZGlzY3Vz
 c2lvbklkIjoiVDR1bWhzd3NEM2l3RjhlYSIsInN1YiI6ImdoOj
@@ -202,5 +202,5 @@ ZCI6MTYyNTc0Mjc3MDYzMH0sImdiekk2aUJtQ2kyVEloeHMiOn
 siZGlzY3Vzc2lvbklkIjoiWW9BRjNiQ1VLeFRWN0pwWiIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ImZpbmlzaCBoZXJlIi
 wiY3JlYXRlZCI6MTYyNTc0Mjc4Mjk1Nn19LCJoaXN0b3J5Ijpb
-LTYyOTY0MzIyN119
+LTEyNTA3OTgyNTAsLTYyOTY0MzIyN119
 -->
