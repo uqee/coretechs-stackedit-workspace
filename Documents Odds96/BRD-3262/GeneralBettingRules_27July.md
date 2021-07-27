@@ -6,7 +6,7 @@
 
 [Markets](#markets)
 
-[Soccer](#soccer)
+[Football](#football)
 
 [Tennis](#tennis)
 
@@ -194,7 +194,7 @@ If a bet is placed on over 2.75, half of the stake is placed on over 2.5 and hal
 
 If the wagering offer on an event includes a draw as a third option and the event ends in a draw, wagers on the draw will be paid, while wagers on either side will be lost.
 
-### Soccer
+### Football
 
 #### Settlement and Cancellation Rules
 
@@ -742,5 +742,5 @@ The examples of fast markets intervals:
 
 - If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NzM5Mjc0XX0=
+eyJoaXN0b3J5IjpbMTYwNzY4MzQwNl19
 -->
