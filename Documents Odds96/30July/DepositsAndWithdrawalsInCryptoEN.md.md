@@ -170,7 +170,7 @@ To withdraw your funds, please follow these steps:
 
 #### Is there a transaction fee for withdrawals?
 
-We do not charge any withdrawal fee. You can withdraw BTC, ETH, USDT, XRP, LTC
+We do not charge any withdrawal fee. You can withdraw BTC, ETH, USDT, XRP, LTC, DOGE, USDTT free of charge.
 
 #### What are the withdrawal limits?
 
@@ -198,5 +198,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MjExNDIxXX0=
+eyJoaXN0b3J5IjpbODAwMDA4ODY1XX0=
 -->
