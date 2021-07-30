@@ -1,4 +1,4 @@
-<Version>Last updated: July 22, 2021</Version>
+<Version>Last updated: July 30, 2021</Version>
 
 [Deposits](#deposits)
 
@@ -200,5 +200,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMTg2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjQwNzQ3OThdfQ==
 -->
