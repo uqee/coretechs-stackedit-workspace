@@ -1,4 +1,4 @@
-<Version>Última actualización: el 22 de julio de 2021</Version>
+<Version>Última actualización: el 30 de julio de 2021</Version>
 
 [Depósitos](#depositos)
 
@@ -200,5 +200,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg4MTMzOTBdfQ==
+eyJoaXN0b3J5IjpbMTE4NjYzMjk0OV19
 -->
