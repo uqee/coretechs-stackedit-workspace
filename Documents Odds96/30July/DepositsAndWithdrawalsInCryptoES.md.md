@@ -172,7 +172,7 @@ Para retirar fondos, sigue estos pasos:
 
 #### ¿Qué tipo de comisiones cobra Odds96 si decido retirar fondos?
 
-Nosotros no cobramos ningún tipo de comisiones de retiro.
+Nosotros no cobramos ningún tipo de comisiones de retiro. Podrás retirar BTC, ETH, USDT, XRP, LTC, DOGE, USDTT gratis.
 
 #### ¿Hay algún límite establecido para los retiros?
 
@@ -200,5 +200,5 @@ Puedes encontrar esta información dentro de tu cuenta. Haz click en el icono de
 
 Por favor, contacta con nuestro equipo de soporte enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDUxMTAyNF19
+eyJoaXN0b3J5IjpbLTIwODg4MTMzOTBdfQ==
 -->
