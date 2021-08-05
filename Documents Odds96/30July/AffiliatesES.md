@@ -4,12 +4,12 @@ El programa de Afiliados de Odds96 es una oportunidad para monetizar tu sitio we
 
 - Comisiones justas,
 - Pagos rápidos,
-- Contenido pro,
-- Personal support.
+- Contenido promocional único,
+- Soporte personalizado.
 
-Join us and start earning money today!
+¡Únete a nosotros y empieza a ganar dinero hoy!
 
-Contact: [support@odds96.com](mailto:support@odds96.com)
+Contacto: [support@odds96.com](mailto:support@odds96.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTQxNTg3M119
+eyJoaXN0b3J5IjpbMTQ4MDU1NzI3MV19
 -->
