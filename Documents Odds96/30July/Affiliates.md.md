@@ -4,13 +4,13 @@ Odds96 Affiliate program is an opportunity to monetize your website, personal bl
 
 - Fair commissions,
 - Fast payments,
-- Unique promo content
-- Personal support
+- Unique promo content,
+- Personal support.
 
 Join us and start earning money today!
 
 Contact: [support@odds96.com](mailto:support@odds96.com)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzMxNjEwMV19
+eyJoaXN0b3J5IjpbMjA5ODE0NzE2OSwtNDkzMzE2MTAxXX0=
 -->
