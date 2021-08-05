@@ -1,6 +1,6 @@
-Odds96 Affiliate program is an opportunity to monetize your website, personal blog or social network page. You will receive an affiliate commission for every user that plays on Odds96.
+El programa de Afiliados de Odds96 es una oportunidad para monetizar su sitio web, blog personal o página de red social. Recibirás una comisión de afiliado por cada usuario que juegue en Odds96.
 
-### Advantages:
+### Ventajas
 
 - Fair commissions,
 - Fast payments,
@@ -11,5 +11,5 @@ Join us and start earning money today!
 
 Contact: [support@odds96.com](mailto:support@odds96.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTg3NTE4N119
+eyJoaXN0b3J5IjpbLTEyNjI1NjcxOTBdfQ==
 -->
