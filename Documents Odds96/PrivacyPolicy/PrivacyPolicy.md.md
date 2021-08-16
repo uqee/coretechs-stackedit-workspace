@@ -58,10 +58,10 @@ Remember to log out of your account when you have completed your time on Odds96.
 
 Odds96’s processing of your personal information is supported by the following lawful bases:
 
-1.  Performance of a Contract: we need to process your personal information to perform our contract with you or our Client,
-2.  Legitimate Interest: we process your personal information to further our legitimate interests but only where our interests are not overridden by your interests or fundamental rights and freedoms,
-3.  Consent: in some cases, we rely on your consent to process your personal information,
-4.  Compliance with Legal Obligations: we may process your personal information to comply with our legal obligations.
+1.  **Performance of a Contract**: we need to process your personal information to perform our contract with you or our Client;
+2.  **Legitimate Interest**: we process your personal information to further our legitimate interests but only where our interests are not overridden by your interests or fundamental rights and freedoms;
+3.  **Consent**: in some cases, we rely on your consent to process your personal information;
+4.  **Compliance with Legal Obligations**: we may process your personal information to comply with our legal obligations.
 
 ### 8. International Data Transfers
 
@@ -75,6 +75,6 @@ You may access the Personal Information collected by Odds96 by contacting us at 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjU4Mzc2OSwtMTgyNDY1Njc5Miw3Mj
-IwOTcyMCw3ODAwNDIzMF19
+eyJoaXN0b3J5IjpbNTE1NTY5MDQ2LC0xODI0NjU2NzkyLDcyMj
+A5NzIwLDc4MDA0MjMwXX0=
 -->
