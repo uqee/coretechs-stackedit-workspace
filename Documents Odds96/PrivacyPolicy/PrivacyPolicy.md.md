@@ -24,7 +24,7 @@ Odds96 will collect your Personal Information only by lawful and fair means and 
  - to maintain your Account;
  - to respond to your questions, comments, or requests;
  - to carry out know-your-customer (KYC) identity verification;
- - to send you marketing communications which may be of interest to you;
+ - to send you marketing communications, which may be of interest to you;
  - to provide and improve services we are offering;
  - to develop services or products to suit your needs which may include market research and promotions;
  - to establish, exercise or defend any legal claims;
@@ -83,5 +83,5 @@ gKYifX0sImNvbW1lbnRzIjp7Inp4bEwyQXNQU1Q4WmFRNlIiOn
 siZGlzY3Vzc2lvbklkIjoiSGN4dnlJZ0ZWVjg3dklqSSIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ItGD0YLQvtGH0L3QuN
 GC0YwiLCJjcmVhdGVkIjoxNjI5MTIxODYwODkxfX0sImhpc3Rv
-cnkiOlstMTgxNjY3OTA2Miw3ODAwNDIzMF19
+cnkiOls3MjIwOTcyMCw3ODAwNDIzMF19
 -->
