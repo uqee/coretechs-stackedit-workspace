@@ -20,14 +20,12 @@ The kinds of Personal Information we may collect from you are:
 
 Odds96 will collect your Personal Information only by lawful and fair means and not in an intrusive way to operate our business as a licensed online wagering bookmaker for the following purposes:
 
- - List item
-
-to identify you as our Client and confirm your identity for security purposes and to comply with our legal obligations,
-2.  to maintain your Account,
-3.  to respond to your questions, comments, or requests,
-4.  to carry out know-your-customer (KYC) identity verification,
-5.  to send you marketing communications which may be of interest to you,
-6.  to provide and improve services we are offering,
+ - to identify you as our Client and confirm your identity for security purposes and to comply with our legal obligations;
+ - to maintain your Account;
+ - to respond to your questions, comments, or requests;
+ - to carry out know-your-customer (KYC) identity verification;
+ - to send you marketing communications which may be of interest to you;
+ - to provide and improve services we are offering,
 7.  to develop services or products to suit your needs which may include market research and promotions,
 8.  to establish, exercise or defend any legal claims,
 9.  to respond to requests from legal or regulatory bodies during an investigation.
@@ -85,5 +83,5 @@ gKYifX0sImNvbW1lbnRzIjp7Inp4bEwyQXNQU1Q4WmFRNlIiOn
 siZGlzY3Vzc2lvbklkIjoiSGN4dnlJZ0ZWVjg3dklqSSIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ItGD0YLQvtGH0L3QuN
 GC0YwiLCJjcmVhdGVkIjoxNjI5MTIxODYwODkxfX0sImhpc3Rv
-cnkiOlstMTgxNTM1NTUwOSw3ODAwNDIzMF19
+cnkiOls2NDg3MjYxODIsNzgwMDQyMzBdfQ==
 -->
