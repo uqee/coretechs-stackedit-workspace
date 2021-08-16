@@ -40,9 +40,9 @@ From time to time we may contact you in relation to the management and administr
 
 ### 5. Management of Personal Information
 
-We will take all reasonable steps to ensure that the Personal Information we collect, use or disclose is correct and is stored in a secure environment which is accessed only by authorized persons. We store the personal information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+We will take all reasonable steps to ensure that the Personal Information we collect, use or disclose is correct and is stored in a secure environment which is accessed only by authorized persons. We store the Personal Information we receive as described in this Privacy Policy for as long as you use our Website or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
 
-We will destroy or permanently anonymize the Personal Information we hold when it is no longer required for any purpose including our legal or operational obligations.
+Odds96 will destroy or permanently anonymize the Personal Information we hold when it is no longer required for any purpose including our legal or operational obligations.
 
 ### 6. Security of Personal Information
 
@@ -75,6 +75,6 @@ You may access the Personal Information collected by Odds96 by contacting us at 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3OTg5MDY0LC0xODI0NjU2NzkyLDcyMj
-A5NzIwLDc4MDA0MjMwXX0=
+eyJoaXN0b3J5IjpbLTgwMDc2ODQ4MCwtMTgyNDY1Njc5Miw3Mj
+IwOTcyMCw3ODAwNDIzMF19
 -->
