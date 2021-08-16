@@ -67,14 +67,17 @@ Odds96’s processing of your personal information is supported by the following
 
 All information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to other countries, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard your information consistent with the requirements of applicable laws.
 
-### 9. Access to Personal Information
+### 9. Supervisor Authority
 
-You may access the Personal Information collected by Odds96 by contacting us at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a>. We will give you access to your Personal Information in the manner requested if that is possible and within a reasonable period.
+If you are located in the European Economic Area, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
 
-### 10. Queries, Requests and Complaints
+
+
+
+### 11. Queries, Requests and Complaints
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NTY5MDQ2LC0xODI0NjU2NzkyLDcyMj
-A5NzIwLDc4MDA0MjMwXX0=
+eyJoaXN0b3J5IjpbMTI1ODUxMjk5OCw1MTU1NjkwNDYsLTE4Mj
+Q2NTY3OTIsNzIyMDk3MjAsNzgwMDQyMzBdfQ==
 -->
