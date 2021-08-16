@@ -38,13 +38,17 @@ From time to time we may use your Personal Information to inform you about our p
 
 From time to time we may contact you in relation to the management and administration of your Account. These communications can be via any of the modes of contact recorded when registering. Such communication does not affect your opt-in or opt-out status for direct marketing communications.
 
-### 5. Management of Personal Information
+### 5. Access to Personal Information
+
+You may access the Personal Information collected by Odds96 by contacting us at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a>. We will give you access to your Personal Information in the manner requested if that is possible and within a reasonable period.
+
+### 6. Management of Personal Information
 
 We will take all reasonable steps to ensure that the Personal Information we collect, use or disclose is correct and is stored in a secure environment which is accessed only by authorized persons. We store the Personal Information we receive as described in this Privacy Policy for as long as you use our Website or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
 
 Odds96 will destroy or permanently anonymize the Personal Information we hold when it is no longer required for any purpose including our legal or operational obligations.
 
-### 6. Security of Personal Information
+### 7. Security of Personal Information
 
 You acknowledge that no data transmission over the Internet is totally secure. Any information which you transmit to Odds96 is transmitted at your own risk. However, once we receive your transmission, we will take reasonable steps to protect your Personal Information from misuse, loss and unauthorized access, modification and disclosure including by using password protected systems and databases. By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services.
 
@@ -54,7 +58,7 @@ We take seriously the responsibility to exclude children from accessing our serv
 
 Remember to log out of your account when you have completed your time on Odds96. You are responsible for the security of and access to your own computer, mobile device or any other handset used to access the Website. It is your responsibility to maintain the secrecy of your username, password and any account information.
 
-### 7. Legal Bases for Processing
+### 8. Legal Bases for Processing
 
 Odds96’s processing of your personal information is supported by the following lawful bases:
 
@@ -63,21 +67,18 @@ Odds96’s processing of your personal information is supported by the following
 3.  **Consent**: in some cases, we rely on your consent to process your personal information;
 4.  **Compliance with Legal Obligations**: we may process your personal information to comply with our legal obligations.
 
-### 8. International Data Transfers
+### 9. International Data Transfers
 
 All information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to other countries, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard your information consistent with the requirements of applicable laws.
 
-### 9. Supervisor Authority
+### 10. Supervisor Authority
 
 If you are located in the European Economic Area, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
-
-
-
 
 ### 11. Queries, Requests and Complaints
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODUxMjk5OCw1MTU1NjkwNDYsLTE4Mj
-Q2NTY3OTIsNzIyMDk3MjAsNzgwMDQyMzBdfQ==
+eyJoaXN0b3J5IjpbLTE4NzU5MTc3MDUsNTE1NTY5MDQ2LC0xOD
+I0NjU2NzkyLDcyMjA5NzIwLDc4MDA0MjMwXX0=
 -->
