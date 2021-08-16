@@ -13,7 +13,7 @@ The kinds of Personal Information we may collect from you are:
 1.  Information that you provide by completing forms during registration like **name, email address, date of birth, country of citizenship, physical address, identification number, government issued identification**.
 2.  Information that you provide by your further use of our Website, or any other information that you send to us via our Website or by email.
 3.  Data about your location and other transmitted data (including but not limited to your IP address, device information and type of browser) collected when you use our Website.
-4.  pages you have visited and the content you have viewed, data about the links and buttons you’ve clicked on, and the URL addresses you visited before using our Website;
+4.  The pages you have visited and the content you have viewed, data about the links and buttons you’ve clicked on, and the URL addresses you visited before using our Website;
 5.  your bets, deposits, withdrawals, payment methods and other activity on your account.
 
 ### 3. Collection Purposes
@@ -75,5 +75,5 @@ You may access the Personal Information collected by Odds96 by contacting us at 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjM2NTQ3NF19
+eyJoaXN0b3J5IjpbLTEwMjYzODE0OTFdfQ==
 -->
