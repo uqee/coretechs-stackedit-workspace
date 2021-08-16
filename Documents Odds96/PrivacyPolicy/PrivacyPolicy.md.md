@@ -30,7 +30,7 @@ Odds96 will collect your Personal Information only by lawful and fair means and 
  - to establish, exercise or defend any legal claims;
  - to respond to requests from legal or regulatory bodies during an investigation.
 
-By using Odds96, registering an Account or otherwise choosing to provide us with your Personal Information you consent to Odds96 collecting, using, processing and potentially disclosing your Personal Information for the above purposes and on the bases described in this Privacy Policy.
+By using Odds96, registering an Account or otherwise choosing to provide Odds96 with Personal Information you consent to Odds96 collecting, using, processing and potentially disclosing your Personal Information for the above purposes and on the bases described in this Privacy Policy.
 
 ### 4. Direct Marketing and Opting Out
 
@@ -83,5 +83,5 @@ gKYifX0sImNvbW1lbnRzIjp7Inp4bEwyQXNQU1Q4WmFRNlIiOn
 siZGlzY3Vzc2lvbklkIjoiSGN4dnlJZ0ZWVjg3dklqSSIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ItGD0YLQvtGH0L3QuN
 GC0YwiLCJjcmVhdGVkIjoxNjI5MTIxODYwODkxfX0sImhpc3Rv
-cnkiOls3MjIwOTcyMCw3ODAwNDIzMF19
+cnkiOlsxMjQ2MTEwNjg0LDcyMjA5NzIwLDc4MDA0MjMwXX0=
 -->
