@@ -34,7 +34,7 @@ By using Odds96, registering an Account or otherwise choosing to provide Odds96 
 
 ### 4. Direct Marketing and Opting Out
 
-From time to time we may use your Personal Information to inform you about our products or services or about promotional activities which Odds96 believes may be of interest or of benefit to you. If you no longer wish to receive marketing or promotional material from us at all or in any particular form, you may contact us by email to <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a>with your request with which we will comply as soon as is practical.
+From time to time we may use your Personal Information to inform you about our products or services or about promotional activities which Odds96 believes may be of interest or of benefit to you. If you no longer wish to receive marketing or promotional material from us at all or in any particular form, you may contact us by email to <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> with your request with which we will comply as soon as is practical.
 
 From time to time we may contact you in relation to the management and administration of your Account. These communications can be via any of the modes of contact recorded when registering. Such communication does not affect your opt-in or opt-out status for direct marketing communications.
 
@@ -83,5 +83,5 @@ gKYifX0sImNvbW1lbnRzIjp7Inp4bEwyQXNQU1Q4WmFRNlIiOn
 siZGlzY3Vzc2lvbklkIjoiSGN4dnlJZ0ZWVjg3dklqSSIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ItGD0YLQvtGH0L3QuN
 GC0YwiLCJjcmVhdGVkIjoxNjI5MTIxODYwODkxfX0sImhpc3Rv
-cnkiOlsxMjQ2MTEwNjg0LDcyMjA5NzIwLDc4MDA0MjMwXX0=
+cnkiOlstMTgyNDY1Njc5Miw3MjIwOTcyMCw3ODAwNDIzMF19
 -->
