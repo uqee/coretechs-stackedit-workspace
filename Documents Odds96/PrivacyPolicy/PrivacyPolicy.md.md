@@ -18,9 +18,11 @@ The kinds of Personal Information we may collect from you are:
 
 ### 3. Collection Purposes
 
-We will collect your Personal Information only by lawful and fair means and not in an intrusive way for the following purposes:
+Odds96 will collect your Personal Information only by lawful and fair means and not in an intrusive way to operate our business as a licensed online wagering bookmaker for the following purposes:
 
-1.  to identify you as our Client and confirm your identity for security purposes and to comply with our legal obligations,
+ - List item
+
+to identify you as our Client and confirm your identity for security purposes and to comply with our legal obligations,
 2.  to maintain your Account,
 3.  to respond to your questions, comments, or requests,
 4.  to carry out know-your-customer (KYC) identity verification,
@@ -83,5 +85,5 @@ gKYifX0sImNvbW1lbnRzIjp7Inp4bEwyQXNQU1Q4WmFRNlIiOn
 siZGlzY3Vzc2lvbklkIjoiSGN4dnlJZ0ZWVjg3dklqSSIsInN1
 YiI6ImdoOjcxMDcxNDQ1IiwidGV4dCI6ItGD0YLQvtGH0L3QuN
 GC0YwiLCJjcmVhdGVkIjoxNjI5MTIxODYwODkxfX0sImhpc3Rv
-cnkiOls3ODAwNDIzMF19
+cnkiOlstMTgxNTM1NTUwOSw3ODAwNDIzMF19
 -->
