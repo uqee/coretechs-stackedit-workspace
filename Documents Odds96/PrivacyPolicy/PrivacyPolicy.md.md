@@ -4,7 +4,7 @@ This Privacy Policy sets out how Odds96 will manage your personal information wh
 
 ### 1. Changes and Updates to Privacy Policy
 
-By using Odds96, you agree to be bound by the terms of this Privacy Policy. Odds96 may review the Privacy Policy periodically and reserves the right to change the Privacy Policy at any time at its discretion by posting such changes on the Website. The changes will be effective immediately when posted on the Website. Your continued use of Odds96 following posting will constitute your acceptance of those changes. You should review this Privacy Policy regularly and remain familiar with its terms.
+By using Odds96, you agree to be bound by the terms of this Privacy Policy. Odds96 may review the Privacy Policy periodically and reserves the right to change the Privacy Policy at any time at its discretion. The changes will be effective immediately when posted on the Website. Your continued use of Odds96, after the changes have been published, will constitute your acceptance of those changes. You should review this Privacy Policy regularly and remain familiar with its terms.
 
 ### 2. Personal Information
 
@@ -75,5 +75,5 @@ You may access the Personal Information collected by Odds96 by contacting us at 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzcyODI5NDFdfQ==
+eyJoaXN0b3J5IjpbNjkwMjgxNjU0XX0=
 -->
