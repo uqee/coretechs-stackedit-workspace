@@ -46,7 +46,7 @@ Odds96 will destroy or permanently anonymize the Personal Information we hold wh
 
 ### 6. Security of Personal Information
 
-You acknowledge that no data transmission over the Internet is totally secure. Any information which you transmit to Odds96 is transmitted at your own risk. However, once we receive your transmission, we will take reasonable steps to protect your Personal Information from misuse, loss and unauthorised access, modification and disclosure including by using password protected systems and databases. By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services.
+You acknowledge that no data transmission over the Internet is totally secure. Any information which you transmit to Odds96 is transmitted at your own risk. However, once we receive your transmission, we will take reasonable steps to protect your Personal Information from misuse, loss and unauthorized access, modification and disclosure including by using password protected systems and databases. By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services.
 
 Odds96’s employees, agents and contractors are required to maintain the confidentiality of your Personal Information.
 
@@ -75,6 +75,6 @@ You may access the Personal Information collected by Odds96 by contacting us at 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDc2ODQ4MCwtMTgyNDY1Njc5Miw3Mj
+eyJoaXN0b3J5IjpbLTk5MjU4Mzc2OSwtMTgyNDY1Njc5Miw3Mj
 IwOTcyMCw3ODAwNDIzMF19
 -->
