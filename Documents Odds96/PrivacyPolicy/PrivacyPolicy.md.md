@@ -48,6 +48,8 @@ We will take all reasonable steps to ensure that the Personal Information we col
 
 Odds96 will destroy or permanently anonymize the Personal Information we hold when it is no longer required for any purpose including our legal or operational obligations.
 
+If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, you can exercise your right to request access to, update, remove, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
+
 ### 7. Security of Personal Information
 
 You acknowledge that no data transmission over the Internet is totally secure. Any information which you transmit to Odds96 is transmitted at your own risk. However, once we receive your transmission, we will take reasonable steps to protect your Personal Information from misuse, loss and unauthorized access, modification and disclosure including by using password protected systems and databases. By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services.
@@ -62,9 +64,9 @@ Remember to log out of your account when you have completed your time on Odds96.
 
 Odds96’s processing of your personal information is supported by the following lawful bases:
 
-1.  **Performance of a Contract**: we need to process your personal information to perform our contract with you or our Client;
-2.  **Legitimate Interest**: we process your personal information to further our legitimate interests but only where our interests are not overridden by your interests or fundamental rights and freedoms;
-3.  **Consent**: in some cases, we rely on your consent to process your personal information;
+ - **Performance of a Contract**: we need to process your personal information to perform our contract with you or our Client;
+ - **Legitimate Interest**: we process your personal information to further our legitimate interests but only where our interests are not overridden by your interests or fundamental rights and freedoms;
+3**Consent**: in some cases, we rely on your consent to process your personal information;
 4.  **Compliance with Legal Obligations**: we may process your personal information to comply with our legal obligations.
 
 ### 9. International Data Transfers
@@ -79,15 +81,7 @@ If you are located in the European Economic Area, you have the right to lodge a 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJJQVdhNlNUQVJGOUhkYjkyIjp7In
-N0YXJ0Ijo1MTE1LCJlbmQiOjUxMTUsInRleHQiOiJJZiB5b3Ug
-YXJlIGxvb2tpbmcgdG8gc3VzcGVuZCB5b3VyIEFjY291bnQgYW
-5kIGRlbGV0ZSBhbnkgcmVsYXRlZCBpbmZvcm1hdGlvbizigKYi
-fX0sImNvbW1lbnRzIjp7IjFqNmVqaEZmQTdmZzdySlgiOnsiZG
-lzY3Vzc2lvbklkIjoiSUFXYTZTVEFSRjlIZGI5MiIsInN1YiI6
-ImdoOjcxMDcxNDQ1IiwidGV4dCI6ItGD0YLQstC10YDQtNC40Y
-LRjCDRjdGC0L7RgiDQvNC+0LzQtdC90YIiLCJjcmVhdGVkIjox
-NjI5MTI4NDMxMzYzfX0sImhpc3RvcnkiOlstMTU1MjczMDgyLD
-MyMjA2OTE1NCwtMTg3NTkxNzcwNSw1MTU1NjkwNDYsLTE4MjQ2
-NTY3OTIsNzIyMDk3MjAsNzgwMDQyMzBdfQ==
+eyJoaXN0b3J5IjpbLTExODcwNjIyMDIsLTE1NTI3MzA4MiwzMj
+IwNjkxNTQsLTE4NzU5MTc3MDUsNTE1NTY5MDQ2LC0xODI0NjU2
+NzkyLDcyMjA5NzIwLDc4MDA0MjMwXX0=
 -->
