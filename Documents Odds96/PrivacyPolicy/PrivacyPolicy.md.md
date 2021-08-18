@@ -1,4 +1,4 @@
-<Version>Last updated: August 17, 2021</Version>
+<Version>Last updated: August 18, 2021</Version>
 
 This Privacy Policy sets out how Odds96 will manage your personal information which we collect as a result of your use of our Website. We are committed to ensuring that the personal information we collect about you is protected and is used, stored and disclosed in accordance with this Privacy Policy. By accepting this Privacy Policy, you confirm that you have read it and agree to the use of your personal data in accordance with the terms set out herein. If for any reason you do not agree with the terms of this Privacy Policy, please do not use the Website or provide your personal information to us in any other way.
 
@@ -81,7 +81,7 @@ If you are located in the European Economic Area, you have the right to lodge a 
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE3NDcyNjIsLTE1NTI3MzA4MiwzMj
-IwNjkxNTQsLTE4NzU5MTc3MDUsNTE1NTY5MDQ2LC0xODI0NjU2
-NzkyLDcyMjA5NzIwLDc4MDA0MjMwXX0=
+eyJoaXN0b3J5IjpbLTQ3NTM5OTk5LC0yMTIxNzQ3MjYyLC0xNT
+UyNzMwODIsMzIyMDY5MTU0LC0xODc1OTE3NzA1LDUxNTU2OTA0
+NiwtMTgyNDY1Njc5Miw3MjIwOTcyMCw3ODAwNDIzMF19
 -->
