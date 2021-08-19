@@ -1,3 +1,5 @@
+## Help
+
 <Version>Last updated: July 30, 2021</Version>
 
 [Account](#account)
@@ -407,5 +409,5 @@ The button"Unsubscribe" is found in every commercial email that you receive from
 
 Please contact us at [support@odds96.com](mailto:support@odds96.com) for further details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzE5NDZdfQ==
+eyJoaXN0b3J5IjpbLTIxOTM3MDA5OSwtMzgzMTk0Nl19
 -->
