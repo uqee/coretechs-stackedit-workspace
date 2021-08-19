@@ -1,4 +1,4 @@
-## Bonuses and Promos
+## Bonos y Promociones
 
 <Version>Last updated: April 7, 2021</Version>
 
@@ -11,5 +11,5 @@
 
 7.  If any term of an offer or promotion is breached or there is any evidence of fraudulent activity on your part (for instance, any activity that results in guaranteed client profits irrespective of the outcome), we reserve the right to block your Account at our own discretion. For further details, please read our Terms and Conditions (6. Prohibited Uses. Account Suspension and Termination).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MTU3ODAyXX0=
+eyJoaXN0b3J5IjpbLTEwNTUyNjcyMjYsMzA2MTU3ODAyXX0=
 -->
