@@ -1,3 +1,5 @@
+## Terms and Conditions
+
 <Version>Last updated: June 21, 2021</Version>
 
 These Terms and Conditions and the documents referred to or indicated below (hereinafter collectively the “Terms and Conditions”) define the basic concepts, mutual rights and obligations according to which clients will be able to use the website Odds96.com (hereinafter “Odds96.com”, or the “Website”) and related gambling services offered on the Website (hereinafter collectively referred to as the “Services”).
@@ -222,5 +224,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE1NTc5MDRdfQ==
+eyJoaXN0b3J5IjpbLTM2MDk0MTU4XX0=
 -->
