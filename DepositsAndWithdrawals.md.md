@@ -1,3 +1,5 @@
+## Deposits and Withdrawals
+
 <Version>Last updated: June 21, 2021</Version>
 
 [Payment Methods](#payment-methods)
@@ -78,5 +80,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2ODQwODQ3XX0=
+eyJoaXN0b3J5IjpbNzk4OTU1NDIxXX0=
 -->
