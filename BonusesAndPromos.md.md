@@ -1,3 +1,5 @@
+## Bonuses and Promos
+
 <Version>Last updated: April 7, 2021</Version>
 
 1.  We reserve the right to amend or cancel any promotion at our own discretion at any time. In addition, we reserve the right to cancel any promotion, bonus or bonus program with immediate effect if we believe that this promotion, bonus or bonus program has been set up incorrectly or is being abused.
@@ -9,5 +11,5 @@
 
 7.  If any term of an offer or promotion is breached or there is any evidence of fraudulent activity on your part (for instance, any activity that results in guaranteed client profits irrespective of the outcome), we reserve the right to block your Account at our own discretion. For further details, please read our Terms and Conditions (6. Prohibited Uses. Account Suspension and Termination).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzIzODQ5OF19
+eyJoaXN0b3J5IjpbMzA2MTU3ODAyXX0=
 -->
