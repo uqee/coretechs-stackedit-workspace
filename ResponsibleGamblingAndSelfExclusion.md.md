@@ -1,3 +1,5 @@
+## Responsible Gambling and Self-Exclusion
+
 <Version>Last updated: April 7, 2021</Version>
 
 Odds96 makes all the necessary provisions for players to gamble responsibly. Odds96 is committed to preventing underage access to and irresponsible use of the games on this Website, whilst providing a supportive and fun gaming experience for its Clients. While for most Clients gambling does not cause any problems, a small percentage of Clients may be susceptible to addiction. We take this matter very seriously and suggest that all of our Clients take a short self-assessment questionnaire aimed at preventing gambling addiction.
@@ -33,5 +35,5 @@ If you have any concerns about your gambling habits, we urge you to seek for adv
 6.  Once self-exclusion policy is applied to your account, it will stay in place until the requested period expires. It will not be reversed or decreased for any reason.
 7.  When the self-exclusion period expires, you can ask us to restore access to your account. To do so, contact our support team at [support@odds96.com](mailto:support@odds96.com) and provide us with the detailed data about the account you would like to reactivate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDM1NDQ1OF19
+eyJoaXN0b3J5IjpbMTIzNjIzOTQwOV19
 -->
