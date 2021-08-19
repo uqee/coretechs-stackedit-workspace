@@ -1,3 +1,5 @@
+## Ayuda
+
 <Version>Última actualización: el 30 de julio de 2021</Version>
 
 [Cuenta](#cuenta)
@@ -422,5 +424,5 @@ En cualquier correo comercial que recibes puedes encontrar un botón "Cancelar l
 
 Para obtener más información, por favor, contáctanos enviando un email a [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjMyNTU4N119
+eyJoaXN0b3J5IjpbOTk5NTI5ODEsMTgyNjMyNTU4N119
 -->
