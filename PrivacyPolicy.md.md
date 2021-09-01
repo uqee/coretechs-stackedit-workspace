@@ -82,6 +82,9 @@ If you are located in the European Economic Area, you have the right to lodge a 
 ### 11. Queries, Requests and Complaints
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
+
+### 12. Cookies Policy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTkzMzMxLC0yMDQ5MjkyNjQ4XX0=
+eyJoaXN0b3J5IjpbNDgzMzc3MTQ4LDEzMzE5MzMzMSwtMjA0OT
+I5MjY0OF19
 -->
