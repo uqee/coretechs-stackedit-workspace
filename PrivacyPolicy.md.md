@@ -91,31 +91,20 @@ The Odds96 website (the "Website") uses cookies to deliver a better and more per
 
 Cookies are small text files containing small amounts of information which are sent to and stored on your computer, smartphone or other device when you access a website. Cookies are then sent back to the originating website on each subsequent visit or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.
 
-  
-
-Use of Cookies on the Website
+#### Use of Cookies on the Website
 
 Cookies are used on the Website for a number of reasons. This includes, but is not limited to, the following:
 
 -   to allow users to log on to their Odds96 account;
-    
 -   to allow users to choose log-in preferences;
-    
 -   to monitor and collect information about transactions placed on the Website;
-    
 -   for fraud prevention purposes and generally to safeguard privacy.
-    
-
-  
 
 Cookies are generally used to improve and enhance the user experience. Some of the cookies we use are essential for the Website to operate.
 
-  
+#### Categories
 
-Odds96’s use of cookies on the Website falls into the following categories:
-
--   Session Management - these cookies are essential to enable use of the Website, they manage session information and enable users to navigate through the Website.
-    
+-   **Session Management** - these cookies are essential to enable use of the Website, they manage session information and enable users to navigate through the Website.
 -   Functionality - these cookies store information which enables us to remember user preferences e.g. preferred language, sort types, media settings. They are also used to improve users' experience by, for instance, stopping users from being shown the same message twice.
     
 -   Fraud Prevention - these cookies store information which helps us stop fraudulent use of the Website.
@@ -139,6 +128,6 @@ If you want to delete any cookies already stored on your computer or stop the co
 
 Please note that deleting our cookies or disabling our future cookies means that you may not be able to access certain areas or features of the Website. For example, if your browser is set to disable 'session' cookies, you won't be able to log on to your Odds96 account.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMTY3NzMwLDEzMzE5MzMzMSwtMjA0OT
-I5MjY0OF19
+eyJoaXN0b3J5IjpbMTc5OTU4MDIyNSwxMzMxOTMzMzEsLTIwND
+kyOTI2NDhdfQ==
 -->
