@@ -79,13 +79,13 @@ All information processed by us may be transferred, processed, and stored anywhe
 
 If you are located in the European Economic Area, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
 
-### 11. Cookies Policy
+### 11. Cookies
 
 The Odds96 website (the "Website") uses cookies to deliver a better and more personalized service to users. This Cookies Policy explains what cookies are, how they are used on the Website and how to manage their use.
 
 #### What is a Cookie?
 
-Cookies are small text files containing small amounts of information which are sent to and stored on your computer, smartphone or other device when you access a website. Cookies are then sent back to the originating website on each subsequent visit or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.
+Cookies are small text files containing small amounts of information which are sent to and stored on your computer, smartphone or other device when you access a website. Cookies are then sent back to the originating website on each subsequent visit or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user's device.
 
 #### Use of Cookies on the Website
 
@@ -120,6 +120,6 @@ Please note that deleting our cookies or disabling our future cookies means that
 
 If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4MDczNDI0LDEzMzE5MzMzMSwtMjA0OT
-I5MjY0OF19
+eyJoaXN0b3J5IjpbMTkxOTg5ODQ3OCwxMzMxOTMzMzEsLTIwND
+kyOTI2NDhdfQ==
 -->
