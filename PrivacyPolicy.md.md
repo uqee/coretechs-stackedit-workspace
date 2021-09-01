@@ -79,10 +79,6 @@ All information processed by us may be transferred, processed, and stored anywhe
 
 If you are located in the European Economic Area, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
 
-### 11. Queries, Requests and Complaints
-
-If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
-
 ### 11. Cookies Policy
 
 The Odds96 website (the "Website") uses cookies to deliver a better and more personalized service to users. This Cookies Policy explains what cookies are, how they are used on the Website and how to manage their use.
@@ -110,6 +106,8 @@ Cookies are generally used to improve and enhance the user experience. Some of t
 -   **Tracking**: these cookies enable us to store information about how users landed on the Website. We need to record this so that we can appropriately pay our Affiliates.
 -   **Analysis**: these cookies allow us to recognize and count the number of users and to see how users move around our Website when they are using it. This helps us to improve the way the Website works, for example, by ensuring that users are finding what they are looking for easily and to deliver adverts and information which are more relevant to each user and their interests and to monitor the effectiveness of such adverts and information.
 
+#### Third Party Websites
+
 Odds96 might, from time to time, use carefully selected third party tracking and/or analytical cookies to assist in improving the Website and Odds96’s services for users. Where links are provided on the Website to third party websites it is important to remember that those websites will have their own cookies and privacy policies which will govern any information you may submit. If you decide to use any linked third party websites please read their cookies and privacy policies before doing so.
 
 #### Managing Cookies
@@ -117,7 +115,11 @@ Odds96 might, from time to time, use carefully selected third party tracking and
 If you want to delete any cookies already stored on your computer or stop the cookies that keep track of your browsing patterns on the Website, you can do so by deleting your existing cookies and/or altering your browser's privacy settings (the process you follow will differ from browser to browser).
 
 Please note that deleting our cookies or disabling our future cookies means that you may not be able to access certain areas or features of the Website. For example, if your browser is set to disable 'session' cookies, you won't be able to log on to your Odds96 account.
+
+### 12. Queries, Requests, and Complaints
+
+If you have any queries, requests for access or correction or complaints relating to the handling of your personal information, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the client support chat function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTQyNjM0OCwxMzMxOTMzMzEsLTIwND
-kyOTI2NDhdfQ==
+eyJoaXN0b3J5IjpbMzI4MDczNDI0LDEzMzE5MzMzMSwtMjA0OT
+I5MjY0OF19
 -->
