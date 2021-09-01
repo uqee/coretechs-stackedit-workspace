@@ -1,4 +1,4 @@
-## Responsible Gambling and Self-Exclusion
+## Juego Responsiable Gambling and Selfy Auto-Exclusioón
 
 <Version>Last updated: April 7, 2021</Version>
 
@@ -35,5 +35,5 @@ If you have any concerns about your gambling habits, we urge you to seek for adv
 6.  Once self-exclusion policy is applied to your account, it will stay in place until the requested period expires. It will not be reversed or decreased for any reason.
 7.  When the self-exclusion period expires, you can ask us to restore access to your account. To do so, contact our support team at [support@odds96.com](mailto:support@odds96.com) and provide us with the detailed data about the account you would like to reactivate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjIzOTQwOV19
+eyJoaXN0b3J5IjpbNzcxOTk2ODE1LDEyMzYyMzk0MDldfQ==
 -->
