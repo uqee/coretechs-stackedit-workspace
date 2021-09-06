@@ -1,6 +1,6 @@
 ## General Betting Rules
 
-<Version>Last updated: July 27, 2021</Version>
+<Version>Last updated: September 6, 2021</Version>
 
 [General Rules](#general-rules)
 
@@ -317,6 +317,10 @@ The examples of fast markets intervals:
 #### Extra Time and Penalty Shootouts
 
 - We accept bets on the results of extra time and penalty shootouts. The result at the end of regular time is not taken into account.
+
+#### Additional Markets
+
+ - We accept bets on the following markets: Home or Over, Away or Over, Home or Under, Draw or Both Teams To Score. There are two possible outcomes: “yes” and “no”. The outcome “yes” wins if at least one event has taken place. The outcome “no” wins if none of the events have occurred.
 
 ### Tennis
 
@@ -744,5 +748,5 @@ The examples of fast markets intervals:
 
 - If a competitor (a team in relay races) starts, but doesn’t finish a race, bets placed on them lose. If both competitors included in a match-up bet retire or one of them doesn’t start a race, bets will be void. If one or both competitors fail to finish, the competitor who has completed the most laps will be deemed to be the winner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjkyMjkzMF19
+eyJoaXN0b3J5IjpbMTM0OTM5NDIyMl19
 -->
