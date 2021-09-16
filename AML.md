@@ -55,19 +55,16 @@ We have a policy and procedures in relation to risk assessment and management, a
 This risk-based approach focuses the effort where it is most needed and will have most impact. It has the full commitment and support of senior management as well as active co-operation of all employees. We have conducted an assessment of our business risk exposure to money laundering, which considers the threat, and its impact.
 
 ### 5. Suspicious Activity
-Microsoft Word - AML (Clean version).docx
+Suspicious Activity is being referred to as suspicious transactions, extreme player profiles, when deposits are not matching up amongst other elements. The implemented proofs of player identity are the following:
 
-0.  Suspicious Activity is being referred to as suspicious transactions, extreme player profiles, when deposits are not matching up amongst other elements. The implemented proofs of player identity are the following:
-    
+-   passport or ID card;
+-   utility bill;
+-   Bank statement;
+-   other proof of identity.
 
--   Passport or ID card.
-    
--   Utility bill.
-    
--   Bank statement.
-    
--   Other proof of identity.
+The enhanced due diligence checks are subject to players’ profile and the risk level they pose to us. Only when we determine some of the above points, or a combination of a few will we flag the player/players in question and conduct risk monitoring. This will include checks of residency, place of work, regular income size and its adequacy to the player spending.
 
+### 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk4NDY5MTMsLTMzNTEzMzgwNV19
+eyJoaXN0b3J5IjpbLTEyNDI2NzQxOTQsLTMzNTEzMzgwNV19
 -->
