@@ -63,10 +63,10 @@ By using the Services, you agree to the provisions below:
 
 4.2. We shall make no further assurances or warranties regarding the Website or the Services offered on the Website and hereby shall exclude its liability in part of all implied warranties to the maximum extent permitted by law. We also make no warranty that:
 
-- The Services will meet your requirements;
-- The Services will be uninterrupted, timely, accurate or error-free;
-- The servers that make the our Services available are free of viruses or other harmful components;
-- Any errors in our software will be corrected.
+- the Services will meet your requirements;
+- the Services will be uninterrupted, timely, accurate or error-free;
+- the servers that make the our Services available are free of viruses or other harmful components;
+- any errors in our software will be corrected.
 
 The security mechanisms incorporated into the Services have inherent limitations and you acknowledge and agree that any material and/or data downloaded or otherwise obtained through use of the Services is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system and any other property item or loss of data that results from any such activity.
 
@@ -76,12 +76,12 @@ The disclaimers contained in this paragraph are a material part of the agreement
 
 4.4. To the fullest extent permitted by applicable law, under no circumstances, shall we or our officers, directors, employees, shareholders, parents, subsidiaries, affiliates, agents, partners, or licensors, be liable for any injury, loss, claim, damage or any indirect, incidental, special, punitive or consequential damages of any kind, or any damages whatsoever, including, without limitation, damages for loss of income, use, data, goodwill or other intangibles, whether or not advised of the possibility of such damages, and on any theory of liability (including negligence), arising out of or in connection with:
 
-- Your use or inability to use the Services;
-- Data or services received through or advertised on the Website;
-- Information received through the Website;
-- Mistakes, omissions, interruptions, suspension, termination, deletion of files or e-mail, damages to computer systems or equipment or other property, loss of data, unauthorized access to or alteration of your transmissions or data, loss of property, errors, defects, viruses, delays in operation or transmission, or any failure of performance with respect to the Services, including, without limitation, those that result from acts of god, communication failures, theft, destruction, or unauthorized access to the our records, programs or services;
-- Statements or conduct of any third party on the Services;
-- Any other matter relating to the Services.
+- your use or inability to use the Services;
+- data or services received through or advertised on the Website;
+- information received through the Website;
+- mistakes, omissions, interruptions, suspension, termination, deletion of files or e-mail, damages to computer systems or equipment or other property, loss of data, unauthorized access to or alteration of your transmissions or data, loss of property, errors, defects, viruses, delays in operation or transmission, or any failure of performance with respect to the Services, including, without limitation, those that result from acts of god, communication failures, theft, destruction, or unauthorized access to the our records, programs or services;
+- statements or conduct of any third party on the Services;
+- any other matter relating to the Services.
 
 4.5. We shall be not liable for information technology problems caused by the operation of equipment used by you or other players to access the Website or for malfunctions in the operation of your Internet-provider or Internet-provider of other players.
 
@@ -232,5 +232,5 @@ SeKApiJ9fSwiY29tbWVudHMiOnsiVnJEOGVETU5iTzNSYmJvcS
 I6eyJkaXNjdXNzaW9uSWQiOiJjNlpiRjdncXE2c0NuTEN0Iiwi
 c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC/0YDQsN
 Cy0LjRgtGMIiwiY3JlYXRlZCI6MTYzMTc5ODExOTY3MH19LCJo
-aXN0b3J5IjpbNzE1NzA2NjQ2XX0=
+aXN0b3J5IjpbLTEyNTAwMTM4Nl19
 -->
