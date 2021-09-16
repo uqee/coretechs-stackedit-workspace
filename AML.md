@@ -8,9 +8,13 @@ Company’s AML policies, procedures and internal controls are designed to ensur
 
 ### 1. Money Laundering
 
-1.1. Money Laundering (ML) is the generally defined as engaging in acts designed to conceal or disguise the true origins of criminally derived proceeds so that the proceeds appear to have derived from legitimate origins or constitute legitimate assets. Generally, money laundering occurs in three stages. Cash first enters the financial system at the "placement" stage, where the cash generated from criminal activities is converted into monetary instruments, such as money orders or traveler's checks, or deposited into accounts at financial institutions. At the "layering" stage, the funds are transferred or moved into other accounts or other regulated institutions to further separate the money from its criminal origin. At the "integration" stage, the funds are reintroduced into the economy and used to purchase legitimate assets or to fund other criminal activities or legitimate businesses.
+#### Money Laundering (ML)
 
-1.2. Anti-Money Laundering is a financial/legal term used to describe the legal controls that require financial institutions and other regulated entities to prevent, detect, and report ML activities.
+Money Laundering (ML) is the generally defined as engaging in acts designed to conceal or disguise the true origins of criminally derived proceeds so that the proceeds appear to have derived from legitimate origins or constitute legitimate assets. Generally, money laundering occurs in three stages. Cash first enters the financial system at the "placement" stage, where the cash generated from criminal activities is converted into monetary instruments, such as money orders or traveler's checks, or deposited into accounts at financial institutions. At the "layering" stage, the funds are transferred or moved into other accounts or other regulated institutions to further separate the money from its criminal origin. At the "integration" stage, the funds are reintroduced into the economy and used to purchase legitimate assets or to fund other criminal activities or legitimate businesses.
+
+#### Anti-Money Laundering
+
+Anti-Money Laundering is a financial/legal term used to describe the legal controls that require financial institutions and other regulated entities to prevent, detect, and report ML activities.
 
 An effective AML program requires a jurisdiction:
 
@@ -55,6 +59,7 @@ We have a policy and procedures in relation to risk assessment and management, a
 This risk-based approach focuses the effort where it is most needed and will have most impact. It has the full commitment and support of senior management as well as active co-operation of all employees. We have conducted an assessment of our business risk exposure to money laundering, which considers the threat, and its impact.
 
 ### 5. Suspicious Activity
+
 Suspicious Activity is being referred to as suspicious transactions, extreme player profiles, when deposits are not matching up amongst other elements. The implemented proofs of player identity are the following:
 
 -   passport or ID card;
@@ -77,10 +82,16 @@ Company reviews player’s spending and game play to check for suspicious activi
 2.  The player’s turnover is reviewed to ensure that they have played in the casino and are not using Company as a method to move money.
 3.  When possible, funds must always be refunded back to the original payment method used by the player to make a deposit.
 
-#### 
+#### Withdrawal Procedure
+
+When reviewing a player’s account prior to withdrawal the agent must answer the following AML questions in the risk entry:
+
+1.  Did the player wager?
+2.  Does the payment method belong to the player and has the player used it to deposit?
+3.  Are the player’s transactions and bets in line with expectations for the player?
 
 ### 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUwMzcwNDIsLTEyNDI2NzQxOTQsLT
-MzNTEzMzgwNV19
+eyJoaXN0b3J5IjpbMTc0NTYyODQ3NCwtMTI0MjY3NDE5NCwtMz
+M1MTMzODA1XX0=
 -->
