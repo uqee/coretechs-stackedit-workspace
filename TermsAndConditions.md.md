@@ -1,4 +1,4 @@
-## Terms and Conditions
+## Terms of Service
 
 <Version>Last updated: June 21, 2021</Version>
 
@@ -224,5 +224,13 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDk0MTU4XX0=
+eyJkaXNjdXNzaW9ucyI6eyJjNlpiRjdncXE2c0NuTEN0Ijp7In
+N0YXJ0IjoxNTM5LCJlbmQiOjE3ODMsInRleHQiOiJJLiBEZXBv
+c2l0cyBhbmQgV2l0aGRyYXdhbHMqKlxuXG4qKklJLiBEZXBvc2
+l0cyBhbmQgV2l0aGRyYXdhbHMgaW4gQ3J5cHRvKipcblxuKipJ
+SeKApiJ9fSwiY29tbWVudHMiOnsiVnJEOGVETU5iTzNSYmJvcS
+I6eyJkaXNjdXNzaW9uSWQiOiJjNlpiRjdncXE2c0NuTEN0Iiwi
+c3ViIjoiZ2g6NzEwNzE0NDUiLCJ0ZXh0Ijoi0L/QvtC/0YDQsN
+Cy0LjRgtGMIiwiY3JlYXRlZCI6MTYzMTc5ODExOTY3MH19LCJo
+aXN0b3J5IjpbNzE1NzA2NjQ2XX0=
 -->
