@@ -1,7 +1,6 @@
+## Self-Exclusion
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+<Version>Last updated: September 16, 2021</Version>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjExMDcxMTExMF19
 -->
