@@ -42,6 +42,32 @@ Company’s AML policy is based on the following principles and practices:
 -   we maintain, where necessary, records of transactions that meet the needs of law enforcement investigations tackling money laundering and terrorist financing;
 -   we provide initial and ongoing training for all relevant employees;
 -   we support the nominated officer with resources and authority to operate objectively and independently.
+
+### 4. Risk Management
+
+We have a policy and procedures in relation to risk assessment and management, as required under the applicable regulations. This risk-based approach involves a number of discrete steps in assessing the most proportionate way to manage and mitigate the money laundering and terrorist financing risks:
+    
+-   identify the relevant money laundering and terrorist financing;
+-   design and implement policies and procedures to manage and mitigate assessed risks;
+-   monitor and improve the effective operation of controls;
+-   maintain proper recording.
+    
+This risk-based approach focuses the effort where it is most needed and will have most impact. It has the full commitment and support of senior management as well as active co-operation of all employees. We have conducted an assessment of our business risk exposure to money laundering, which considers the threat, and its impact.
+
+### 5. Suspicious Activity
+Microsoft Word - AML (Clean version).docx
+
+0.  Suspicious Activity is being referred to as suspicious transactions, extreme player profiles, when deposits are not matching up amongst other elements. The implemented proofs of player identity are the following:
+    
+
+-   Passport or ID card.
+    
+-   Utility bill.
+    
+-   Bank statement.
+    
+-   Other proof of identity.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTEzMzgwNV19
+eyJoaXN0b3J5IjpbLTE2MDk4NDY5MTMsLTMzNTEzMzgwNV19
 -->
