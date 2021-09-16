@@ -10,23 +10,15 @@ Company’s AML policies, procedures and internal controls are designed to ensur
 
 1.1. Money Laundering (ML) is the generally defined as engaging in acts designed to conceal or disguise the true origins of criminally derived proceeds so that the proceeds appear to have derived from legitimate origins or constitute legitimate assets. Generally, money laundering occurs in three stages. Cash first enters the financial system at the "placement" stage, where the cash generated from criminal activities is converted into monetary instruments, such as money orders or traveler's checks, or deposited into accounts at financial institutions. At the "layering" stage, the funds are transferred or moved into other accounts or other regulated institutions to further separate the money from its criminal origin. At the "integration" stage, the funds are reintroduced into the economy and used to purchase legitimate assets or to fund other criminal activities or legitimate businesses.
 
-1.2. Anti-Money Laundering.
-
-Anti-money laundering is a financial/legal term used to describe the legal controls that require financial institutions and other regulated entities to prevent, detect, and report ML activities.
+1.2. Anti-Money Laundering is a financial/legal term used to describe the legal controls that require financial institutions and other regulated entities to prevent, detect, and report ML activities.
 
 An effective AML program requires a jurisdiction:
 
 -   criminalization of Money Laundering;
-    
--   granting the relevant regulators and authorities with investigation powers and
-    
-    instruments;
-    
--   ensuring that financial institutions and other regulated entities identify their players,
-    
-    establish risk-based controls, keep records and report suspicious activities;
-    
+-   granting the relevant regulators and authorities with investigation powers and instruments;
+-   ensuring that financial institutions and other regulated entities identify their players, establish risk-based controls, keep records and report suspicious activities;
 -   exchange of information with other jurisdictions as appropriate.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjU3Njk2N119
+eyJoaXN0b3J5IjpbNTA2ODg2Njc3XX0=
 -->
