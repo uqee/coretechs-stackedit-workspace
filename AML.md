@@ -90,8 +90,12 @@ When reviewing a player’s account prior to withdrawal the agent must answer th
 2.  Does the payment method belong to the player and has the player used it to deposit?
 3.  Are the player’s transactions and bets in line with expectations for the player?
 
+#### Escalation Process
+
+Following the AML policies in place and escalating any suspicious activity, as previously described, are crucial to the Company as they protect it from financial losses and ensure, that it remains compliant within the different governing jurisdictions. Any activity which appears suspicious has to be escalated. Not escalating a suspicion of money laundering can lead to criminal prosecution.
+
 ### 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTYyODQ3NCwtMTI0MjY3NDE5NCwtMz
+eyJoaXN0b3J5IjpbMTkyNTg1OTYwNCwtMTI0MjY3NDE5NCwtMz
 M1MTMzODA1XX0=
 -->
