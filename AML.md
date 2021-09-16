@@ -31,33 +31,17 @@ These obligations are collectively referred to as grounds for knowledge or suspi
 2.2. The Company must be able to demonstrate that the extent of the ongoing monitoring undertaken is conducted on a risk-sensitive basis and that all the records are retained to reflect this, with risk profiles being properly maintained. In this document, the Company has identified additional measures that are being applied in order to carry out risk monitoring and the need of where we would require a declaration of the source of funds from players in situations which present a high risk and potentially money laundering.
 
 ### 3. Principles and Practices
-Microsoft Word - AML (Clean version).docx
 
-Company’s AML policy is based on the following principles and practises:
+Company’s AML policy is based on the following principles and practices:
 
--   we develop systems and controls that are appropriate for our businesses and comply
-    
-    with legal and regulatory requirements;
-    
+-   we develop systems and controls that are appropriate for our businesses and comply with legal and regulatory requirements;
 -   we assess the AML risks inherent in our current business at least annually;
-    
--   we adopt a risk-based approach that is flexible, effective, proportionate and cost
-    
-    effective;
-    
+-   we adopt a risk-based approach that is flexible, effective, proportionate and cost effective;
 -   we have full commitment and responsibility of senior management;
-    
 -   we regularly assess the adequacy of our systems and controls;
-    
--   we maintain, where necessary, records of transactions that meet the needs of law
-    
-    enforcement investigations tackling money laundering and terrorist financing;
-    
+-   we maintain, where necessary, records of transactions that meet the needs of law enforcement investigations tackling money laundering and terrorist financing;
 -   we provide initial and ongoing training for all relevant employees;
-    
--   we support the nominated officer with resources and authority to operate objectively
-    
-    and independently.
+-   we support the nominated officer with resources and authority to operate objectively and independently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1Mzk0ODRdfQ==
+eyJoaXN0b3J5IjpbLTMzNTEzMzgwNV19
 -->
