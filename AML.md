@@ -19,6 +19,14 @@ An effective AML program requires a jurisdiction:
 -   ensuring that financial institutions and other regulated entities identify their players, establish risk-based controls, keep records and report suspicious activities;
 -   exchange of information with other jurisdictions as appropriate.
 
+### 2. Regulation 
+
+Employees working in the online gambling industry are required to make a report in respect of information that comes to them in the course of their business:
+-   when they know;
+-   when they suspect;
+-   when they have reasonable grounds for knowing or suspecting that a person is engaged in money laundering or terrorist financing, including criminal spend.  
+
+These obligations are collectively referred to as grounds for knowledge or suspicion. What the authorities are looking for is that we are able to demonstrate, with supporting evidence, that a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2ODg2Njc3XX0=
+eyJoaXN0b3J5IjpbLTExOTgwNjY2NDVdfQ==
 -->
