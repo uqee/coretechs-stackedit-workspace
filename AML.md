@@ -55,7 +55,7 @@ We have a policy and procedures in relation to risk assessment and management, a
 This risk-based approach focuses the effort where it is most needed and will have most impact. It has the full commitment and support of senior management as well as active co-operation of all employees. We have conducted an assessment of our business risk exposure to money laundering, which considers the threat, and its impact.
 
 ### 5. Suspicious Activity
-5.1. Suspicious Activity is being referred to as suspicious transactions, extreme player profiles, when deposits are not matching up amongst other elements. The implemented proofs of player identity are the following:
+Suspicious Activity is being referred to as suspicious transactions, extreme player profiles, when deposits are not matching up amongst other elements. The implemented proofs of player identity are the following:
 
 -   passport or ID card;
 -   utility bill;
@@ -64,12 +64,23 @@ This risk-based approach focuses the effort where it is most needed and will hav
 
 The enhanced due diligence checks are subject to players’ profile and the risk level they pose to us. Only when we determine some of the above points, or a combination of a few will we flag the player/players in question and conduct risk monitoring. This will include checks of residency, place of work, regular income size and its adequacy to the player spending.
 
-5.2. Within the applicable framework, Suspicious Activity Reports (SARs) are an imposed requirement. The Company ensures that any employee reports to the risk team, where they have grounds for knowledge, or suspicion that a person, or player is engaged in ML, or terrorist financing. An employee failing to meet the relevant requirements may be subject to criminal prosecution.
+#### Suspicious Activity Reports 
+
+Within the applicable framework, Suspicious Activity Reports (SARs) are an imposed requirement. The Company ensures that any employee reports to the risk team, where they have grounds for knowledge, or suspicion that a person, or player is engaged in ML, or terrorist financing. An employee failing to meet the relevant requirements may be subject to criminal prosecution.
 
 Escalations of SARs should be done in a confidential, discreet manner, in a handwritten form and not via email so as to ensure maximum security and confidentiality of information exchange. An employee must not, under any circumstances, disclose, or discuss any AML concern with the person, or persons subject to an investigation, or any other person for that matter. Disclosure (also known as "tipping off") is strictly prohibited and may result in legal penalties. Furthermore, and in order to keep ourselves protected as much as possible, no remark should ever be left on an account that would give any indication that ML is suspected, a player being entitled, at any point in time, to request the full notes/remarks on their account.
 
+#### Working Procedure
+
+Company reviews player’s spending and game play to check for suspicious activity. Before any withdrawal is processed the following procedures are carried out:
+1.  The player’s deposit history is reviewed to confirm that no suspicious payments have been made to the player’s account. The frequency of deposits and the sum of deposits are reviewed to ensure they are within normal range for the player based on his depositing history and the general depositing range throughout our network.
+2.  The player’s turnover is reviewed to ensure that they have played in the casino and are not using Company as a method to move money.
+3.  When possible, funds must always be refunded back to the original payment method used by the player to make a deposit.
+
+#### 
+
 ### 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Njc3NzkxNiwtMTI0MjY3NDE5NCwtMz
-M1MTMzODA1XX0=
+eyJoaXN0b3J5IjpbLTEyNjUwMzcwNDIsLTEyNDI2NzQxOTQsLT
+MzNTEzMzgwNV19
 -->
