@@ -1,4 +1,4 @@
-## AML
+## Anti Money Laundering (AML)
 
 <Version>Last updated: September 17, 2021</Version>
 
@@ -169,8 +169,17 @@ The Company is aware that a key way to combat fraud is to first identify where t
 
 ### 12. Dealing with Trustworthy and Reputable Counterparts
 
+Company promotes strong principles of business and professional ethics at every level. When selecting business counterparts, the following criteria are considered:
+
+-   financial strength (for long term sustainability);
+-   legal and regulatory compliance; 
+-   commitment to a wider corporate responsibility program; and
+-   desire and ability to deliver quality and value.
+    
+ All new suppliers must go through a rigorous approvals process where all information put forward by them is verified. This information is then assessed internally to consider the risks associated with the supplier, taking into account all of the above criteria. If rejected, the supplier will be informed. Company ensures, that all organisations we contract with understand the compliance obligations under the relevant player jurisdictions.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDQzNTg2NywtNjk4MTE2NDcyLC04MT
-Q5Mzk4MDhdfQ==
+eyJoaXN0b3J5IjpbLTE3MTA2MTg3NywxOTYwNDM1ODY3LC02OT
+gxMTY0NzIsLTgxNDkzOTgwOF19
 -->
