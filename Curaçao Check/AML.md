@@ -109,7 +109,9 @@ Relevant employees complete training for proper compliance with policies and pro
 -   client due diligence (CDD), including enhanced requirements for high risk clients, which includes PEPs;
 -   reporting suspicious activity to the nominated officer where necessary, seeking appropriate consent to allow participation in gaming and to conduct gaming and other business transactions.
 
+### 7. High Risk Jurisdictions 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY4MjQ0MzUsLTgxNDkzOTgwOF19
+eyJoaXN0b3J5IjpbODU5MDQxMTQyLC04MTQ5Mzk4MDhdfQ==
 -->
