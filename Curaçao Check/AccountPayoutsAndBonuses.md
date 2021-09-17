@@ -16,12 +16,12 @@
     
 1.7.  If any term of an offer or promotion is breached or there is any evidence of fraudulent activity on your part (for instance, any activity that results in guaranteed client profits irrespective of the outcome), we reserve the right to block your Account at our own discretion. For further details, please read our Terms of Service (6. Prohibited Uses. Account Suspension and Termination).
 
-1.8. We may suspend or terminate your Account in accordance with our [Terms of Service](https://odds96.com/en/sports/documents/terms_and_conditions).
+1.8. We may suspend or terminate your Account in accordance with our [Terms of Service](https://odds96.com/en/sports/documents/terms_of_service).
 
-1.9. For detailed information about pay-out please read Deposits and Withdrawals (clickable link) and Deposits and Withdrawals in Crypto (clickable link).
+1.9. For detailed information about pay-outs, please read [Deposits and Withdrawals](https://odds96.com/en/sports/documents/deposits_and_withdrawals) and [Deposits and Withdrawals in Crypto](https://odds96.com/en/sports/documents/deposits_and_withdrawals_in_crypto).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjY5OTY5Niw1NTI4MjkyMjEsNzA1Nj
-MxMzkyXX0=
+eyJoaXN0b3J5IjpbMjQzMjg4OTU0LDU1MjgyOTIyMSw3MDU2Mz
+EzOTJdfQ==
 -->
