@@ -125,26 +125,22 @@ Jurisdictions under increased monitoring currently on the FATF list are:
 -   Ghana,
 -   Jamaica,
 -   Mauritius,
- 
--   Myanmar
+-   Myanmar,
+-   Nicaragua,
+-   Pakistan,
+-   Panama,
+-   Syria,
+-   Uganda,
+-   Yemen,
+-   Zimbabwe.
     
--   Nicaragua
-    
--   Pakistan
-    
--   Panama
-    
--   Syria
-    
--   Uganda
-    
--   Yemen
-    
--   Zimbabwe
-    
-    Players from the FATF list of jurisdictions seen to threaten the international financial system from on-going and substantial money-laundering or terrorist financing activities, as identified on FATF publications, will be refused.
+Players from the FATF list of jurisdictions seen to threaten the international financial system from on-going and substantial money-laundering or terrorist financing activities, as identified on FATF publications, will be refused.
+
+### 8. Record Keeping 
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMTgzOTY1LC04MTQ5Mzk4MDhdfQ==
+eyJoaXN0b3J5IjpbMjEyNTI1OTU2MCwtODE0OTM5ODA4XX0=
 -->
