@@ -2,6 +2,11 @@
 
 <Version>Last updated: September 17, 2021</Version>
 
+[Privacy Policy](#privacy-policy)
+
+[Cookies](#general-rules)
+
+
 ### Privacy Policy
 
 This Privacy Policy sets out how Odds96 will manage your personal information which we collect as a result of your use of our Website. We are committed to ensuring that the personal information we collect about you is protected and is used, stored and disclosed in accordance with this Privacy Policy. By accepting this Privacy Policy, you confirm that you have read it and agree to the use of your personal data in accordance with the terms set out herein. If for any reason you do not agree with the terms of this Privacy Policy, please do not use the Website or provide your personal information to us in any other way.
@@ -122,11 +127,14 @@ If you want to delete any cookies already stored on your computer or stop the co
 
 Please note that deleting our cookies or disabling our future cookies means that you may not be able to access certain areas or features of the Website. For example, if your browser is set to disable 'session' cookies, you won't be able to log on to your Odds96 account.
 
+### KYC Policy
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNzMyNzczLDcyNjMzNzU2OF19
+eyJoaXN0b3J5IjpbNzIyNjc2MTMxLDcyNjMzNzU2OF19
 -->
