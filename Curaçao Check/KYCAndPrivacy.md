@@ -21,7 +21,7 @@ By using Odds96, you agree to be bound by the terms of this Privacy Policy. Odds
 
 The kinds of Personal Information we may collect from you are:
 
-1.  Information that you provide by completing forms during registration like **name, email address, date of birth, country of citizenship, physical address, identification number, government issued identification**.
+1.  Information that you provide by completing forms during registration like **name, email address, mobile phone number, date of birth, country of citizenship, physical address, identification number, government issued identification**.
 2.  Information that you provide by your further use of our Website, or any other information that you send to us via our Website or by email.
 3.  Data about your location and other transmitted data (including but not limited to your IP address, device information and type of browser) collected when you use our Website.
 4.  The pages you have visited and the content you have viewed, as well as data about the links and buttons you’ve clicked on our Website.
@@ -165,5 +165,5 @@ The minimum set of identification data includes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDkxNTA2Miw3MjYzMzc1NjhdfQ==
+eyJoaXN0b3J5IjpbNjIxMjQ1MSw3MjYzMzc1NjhdfQ==
 -->
