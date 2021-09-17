@@ -131,7 +131,7 @@ Please note that deleting our cookies or disabling our future cookies means that
 
 ### KYC Policy
 
-1.1. In order to become our Client and to be able to use the Website, you must complete the registration form, and read and accept these Terms and Conditions (including any documents referred to or indicated in the Terms and Conditions).
+1.1. In order to become our Client and to be able to use the Website, you must complete the registration form, and read and accept these Terms of Service (including any documents referred to or indicated in the Terms of Service).
 
 1.2. After registering and at any time thereafter, you may be required to provide us with a standard set of identification data and documents, as well as additional documents in accordance with applicable law and/or our internal KYC (Know Your Customer) and AML (Anti Money Laundering) policies.
 
@@ -145,7 +145,7 @@ The minimum set of identification data includes:
 
 1.3. We reserve the right to suspend betting or place limits upon any Account until the necessary information has been received. This procedure is carried out in accordance with the current rules and legal requirements.
 
-1.4. You must provide complete and accurate information about yourself, including a valid first name, last name, postal address and email address, and you must update the information provided to ensure its completeness and accuracy in the future by contacting the support team at [support@odds96.com](mailto:support@odds96.com).
+1.4. You must provide complete and accurate information about yourself, including a valid first name, last name, postal address and email address, and you must update the information provided to ensure its completeness and accuracy in the future by contacting the support team at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a>.
 
 1.5. You must ensure that the contact details provided in your account information are relevant and up to date. Ignoring this provision may result in failure to receive important notifications related to your account and information from us. Identity verification and communication with clients are carried out by Odds96’s employees using the corresponding registered email addresses.
 
@@ -165,5 +165,6 @@ The minimum set of identification data includes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMjQ1MSw3MjYzMzc1NjhdfQ==
+eyJoaXN0b3J5IjpbLTY3NTU2NTgzNiw2MjEyNDUxLDcyNjMzNz
+U2OF19
 -->
