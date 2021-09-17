@@ -14,7 +14,7 @@ By accepting these Terms of Service you thereby accept the following legal docum
 
 **II. Deposits and Withdrawals in Crypto**
 
-**III. Bonuses and Promos**
+**III. Account, Pay-Bonuses and Promos**
 
 **IV. Privacy Policy**
 
@@ -32,13 +32,13 @@ By accepting these Terms of Service you thereby accept the following legal docum
 
 1.3. We reserve the right to amend these Terms of Service (including any of the Documents mentioned above) at any time without prior notice, however, we will make all reasonable efforts to publish each amendment before such amendment becomes effective. We will ensure that the latest, fully amended version of these Terms of Service (or any of the Legal documents) is published on the Website. You are responsible for regularly reviewing the Website to obtain timely notice of such amendments. If any amendment is unacceptable for you, you may terminate the agreement between you and us regarding the use of the Website as set out in these Terms of Service. If you continue to use the Website after the effective date of each amendment, you will be conclusively deemed to have accepted such amended version of these Terms of Service (including any of the Legal documents).
 
-1.4. These Terms of Service have full force and effect at all times when you access or use the Service or while you are a Client of our Website. These Terms of Ser will not expire until the termination of an Account on our Website for any reason.
+1.4. These Terms of Service have full force and effect at all times when you access or use the Service or while you are a Client of our Website. These Terms of Service will not expire until the termination of an Account on our Website for any reason.
 
 1.5. These Terms may be published in different languages, reflecting the same information for our Clients. In case of discrepancies between the English version of these rules and the version in any other language, the English version shall prevail.
 
 ### 2. Governing Law
 
-These Terms and Conditions comply with and are interpreted in accordance with the laws of Curaçao, and you are unconditionally subject to the exclusive (sole) law of the courts of the jurisdiction of Curaçao for settlement of any disputes (including claims for damages and counterclaims) that may arise in connection with the creation, legality, effect, interpretation or action, or legal relations, established by the Terms and Conditions or by any means arising from the Terms and Conditions.
+These Terms of Service comply with and are interpreted in accordance with the laws of Curaçao, and you are unconditionally subject to the exclusive (sole) law of the courts of the jurisdiction of Curaçao for settlement of any disputes (including claims for damages and counterclaims) that may arise in connection with the creation, legality, effect, interpretation or action, or legal relations, established by the Terms of Service or by any means arising from the Terms of Service.
 
 ### 3. Binding Declarations
 
@@ -54,7 +54,7 @@ By using the Services, you agree to the provisions below:
 8.  You are solely responsible for reporting and accounting for any taxes applicable to you under applicable laws for any winnings that you receive while using our services.
 9.  You agree that you use the Services solely at your own discretion and at your own risk. You understand that by placing bets and playing casino games you take the risk of losing money you deposited into your account. You accept that you will be solely and fully responsible for any such loss.
 10. When placing bets and playing casino games using the Services, you should not use any information received in violation of the law in force in the country of your residence at the time of bet placement.
-11. By accepting these Terms and Conditions and/or registering on the Website in order to use it, you agree that from time to time we may carry out any identification, credit and other verification checks that are required by us and/or required in accordance with applicable laws and regulations (including, without limitation, compliance with anti-money laundering laws and regulations) and/or are requested by the relevant regulatory authorities for the use of our Website and our products in general. You agree to provide the requested information in connection with these verification checks. We have the right to suspend your account or restrict access to it in any way that we deem appropriate until the relevant checks have been completed to our satisfaction.
+11. By accepting these Terms of Service and/or registering on the Website in order to use it, you agree that from time to time we may carry out any identification, credit and other verification checks that are required by us and/or required in accordance with applicable laws and regulations (including, without limitation, compliance with anti-money laundering laws and regulations) and/or are requested by the relevant regulatory authorities for the use of our Website and our products in general. You agree to provide the requested information in connection with these verification checks. We have the right to suspend your account or restrict access to it in any way that we deem appropriate until the relevant checks have been completed to our satisfaction.
 12. You are not a Politically Exposed Person (PEP), i.e. a person holding significant public office (or who has held it at any time in the preceding year), having access to public funds or in a position of influence. PEPs include the readily identifiable family and associates of such persons.
 
 ### 4. No Warranties. Limitation of Liability
@@ -91,7 +91,7 @@ The disclaimers contained in this paragraph are a material part of the agreement
 
 4.8. We reserve the right to declare a wager void, partially or in full, if there was a misprint, or a mistake, or a technical error regarding odds or software operation.
 
-4.9. If you are dissatisfied with the Services or the content available thereon, or with any of these Terms and Conditions, your only remedy is to discontinue using these Services. The limitations of liability contained herein are a material part of the agreement.
+4.9. If you are dissatisfied with the Services or the content available thereon, or with any of these Terms of Service, your only remedy is to discontinue using these Services. The limitations of liability contained herein are a material part of the agreement.
 
 4.10. Notwithstanding the foregoing, if we or our officers, directors, employees, shareholders, parents, subsidiaries, affiliates, agents, partners or licensors should be found liable for any loss or damage which arises out of or is in any way connected to the Services, our liability and liability of our officers, directors, employees, shareholders, parents, subsidiaries, affiliates, agents, partners or licensors shall in no event exceed, in the aggregate, ANG 50 (Fifty Antillean Guilder).
 
@@ -143,13 +143,13 @@ l. bets were placed by a group of Clients acting in concert (syndicate) in order
 
 m. a Client is a Politically Exposed Person as defined above;
 
-n. a Client violates other rules and obligations set forth in these Terms and Conditions, as well as in other Legal documents listed above.
+n. a Client violates other rules and obligations set forth in these Terms of Service, as well as in other Legal documents listed above.
 
-6.2. Unless otherwise provided in these Terms and Conditions, in case of termination of a Client’s account Client’s deposits (if any) will be paid out to the account from where they have been received or withhold in case return of the deposits turn out to be impossible or costly. Any costs associated with the return of the Client’s deposits shall be made at their expense.
+6.2. Unless otherwise provided in these Terms of Service, in case of termination of a Client’s account Client’s deposits (if any) will be paid out to the account from where they have been received or withhold in case return of the deposits turn out to be impossible or costly. Any costs associated with the return of the Client’s deposits shall be made at their expense.
 
 6.3. If we cancel all Client's bets and winnings, the Client will be required to return funds that were withdrawn from his or her account.
 
-6.4. If you violate the terms of the clauses 6.1. (e), 6.1. (f), 6.1. (g), 6.1. (h), 6.1. (j) of these Terms and Conditions or clause 7 of the Legal document titled “Bonuses and Promos” , (1) we shall withdraw our obligation to return or otherwise compensate you for the funds deposited in your account; (2) your account shall be terminated; (3) all transactions made during the specified period shall be cancelled.
+6.4. If you violate the terms of the clauses 6.1. (e), 6.1. (f), 6.1. (g), 6.1. (h), 6.1. (j) of these Terms of Service or clause 7 of the Legal document titled “Bonuses and Promos” , (1) we shall withdraw our obligation to return or otherwise compensate you for the funds deposited in your account; (2) your account shall be terminated; (3) all transactions made during the specified period shall be cancelled.
 
 6.5. We reserve the right to temporarily suspend or permanently terminate your account at any time without explanation, including in cases where we believe that your account is being used in connection with suspicious activity, as well as in any other cases where this is required in accordance with applicable law or our internal policies.
 
@@ -159,7 +159,7 @@ n. a Client violates other rules and obligations set forth in these Terms and Co
 
 ### 7. Registration and Opening of an Account. KYC (Know Your Customer) Procedure
 
-7.1. In order to become our Client and to be able to use the Website, you must complete the registration form, and read and accept these Terms and Conditions (including any documents referred to or indicated in the Terms and Conditions).
+7.1. In order to become our Client and to be able to use the Website, you must complete the registration form, and read and accept these Terms of Service (including any documents referred to or indicated in the Terms of Service).
 
 7.2. After registering and at any time thereafter, you may be required to provide us with a standard set of identification data and documents, as well as additional documents in accordance with applicable law and/or our internal KYC (Know Your Customer) and AML (Anti Money Laundering) policies.
 
@@ -224,5 +224,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NDI5MjMzLDEyMzY1OTc0Ml19
+eyJoaXN0b3J5IjpbMTQwOTI1NjM3MCwxMjM2NTk3NDJdfQ==
 -->
