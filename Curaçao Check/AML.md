@@ -184,18 +184,18 @@ Company is fully aware of the procedures and policies required by the applicable
 
 ### 14. International Record Keeping
 
-The below key principles: know your player, internal record keeping and reporting, ensure our compliance with Laws and regulations.
+14.1. Records on all player transactions regardless of their relation to payments or plays will be kept for at least 3 years after the transaction.
 
--   records on all player transactions regardless of their relation to payments or plays will be kept for at least 3 years after the transaction;
--   records on player details regardless of their value state or open/blocked status will be kept for at least 3 years after the relationship with the player was terminated;
--   records on money laundering investigations and suspicious activity reports will be kept for 3 years after the investigation was completed.
+14.2. Records on player details regardless of their value state or open/blocked status will be kept for at least 3 years after the relationship with the player was terminated.
+
+14.3. Records on money laundering investigations and suspicious activity reports will be kept for 3 years after the investigation was completed.
 
 ### 15. Prevention of Collusion and Data Protection Compliance 
 
-The Company's Terms of Service make clear that cheating will not be tolerated and that player accounts will be closed if cheating occurs. In terms of data protection, all data related to player payment accounts is stored, encrypted, and Company employees have no access to player payment information. All player information in the organization will be protected through a strict information security policy that all employees and suppliers will adhere to, that will include system access and authentication control, password policy, malware protection measures, intrusion prevention policy, encryption policy, and strict network control and management.
+The Company's Terms of Service make clear that cheating will not be tolerated and that player accounts will be closed if cheating occurs. In terms of data protection, all data related to player payment accounts is stored, encrypted, and Company's employees have no access to player payment information. All player information in the organization will be protected through a strict information security policy that all employees and suppliers will adhere to, that will include system access and authentication control, password policy, malware protection measures, intrusion prevention policy, encryption policy, and strict network control and management.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI1NDgxNDMsMTk2MDQzNTg2NywtNj
-k4MTE2NDcyLC04MTQ5Mzk4MDhdfQ==
+eyJoaXN0b3J5IjpbMTYwNjgxODEyNCwtMTIwMjU0ODE0MywxOT
+YwNDM1ODY3LC02OTgxMTY0NzIsLTgxNDkzOTgwOF19
 -->
