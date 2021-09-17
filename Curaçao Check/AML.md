@@ -190,8 +190,10 @@ The below key principles: know your player, internal record keeping and reportin
 -   records on player details regardless of their value state or open/blocked status will be kept for at least 3 years after the relationship with the player was terminated;
 -   records on money laundering investigations and suspicious activity reports will be kept for 3 years after the investigation was completed.
 
+### 15. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc3MzkyODMsMTk2MDQzNTg2NywtNj
+eyJoaXN0b3J5IjpbLTExODE2ODMxNzgsMTk2MDQzNTg2NywtNj
 k4MTE2NDcyLC04MTQ5Mzk4MDhdfQ==
 -->
