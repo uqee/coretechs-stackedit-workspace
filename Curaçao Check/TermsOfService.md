@@ -8,7 +8,7 @@ The Website and the Services are operated by Breakout Group B.V. (“our”, “
 
 Please read these Terms of Service carefully as they constitute an agreement between you as our client (hereinafter the “Client”, “you”) and us. This agreement is legally binding. By opening an account (hereinafter the “Account”), using the Services, depositing and withdrawing funds, you agree to the actual version of these Terms of Service and to any and all amendments which may be published periodically.
 
-By accepting these Terms and Conditions you thereby accept the following legal documents (“Documents”) which constitute an integral part of these Terms and Conditions:
+By accepting these Terms of Service you thereby accept the following legal documents (“Documents”) which constitute an integral part of these Terms of Service:
 
 **I. Deposits and Withdrawals**
 
@@ -26,13 +26,13 @@ By accepting these Terms and Conditions you thereby accept the following legal d
 
 ### 1. General
 
-1.1. These Terms and Conditions apply to both sports betting and the use of casino-style games accessible on Odds96.com.
+1.1. These Terms of Service apply to both sports betting and the use of casino-style games accessible on Odds96.com.
 
-1.2. These Terms and Conditions, any documents explicitly mentioned therein, as well as any guidelines or rules posted on the Website govern contractual relations between you and us. Please read these Terms and Conditions carefully and make sure you understand them. If you disagree with their content, please refrain from the further use of the Website and the Services.
+1.2. These Terms of Service, any documents explicitly mentioned therein, as well as any guidelines or rules posted on the Website govern contractual relations between you and us. Please read these Terms of Service carefully and make sure you understand them. If you disagree with their content, please refrain from the further use of the Website and the Services.
 
-1.3. We reserve the right to amend these Terms and Conditions (including any of the Documents mentioned above) at any time without prior notice, however, we will make all reasonable efforts to publish each amendment before such amendment becomes effective. We will ensure that the latest, fully amended version of these Terms and Conditions (or any of the Legal documents) is published on the Website. You are responsible for regularly reviewing the Website to obtain timely notice of such amendments. If any amendment is unacceptable for you, you may terminate the agreement between you and us regarding the use of the Website as set out in these Terms and Conditions. If you continue to use the Website after the effective date of each amendment, you will be conclusively deemed to have accepted such amended version of these Terms and Conditions (including any of the Legal documents).
+1.3. We reserve the right to amend these Terms of Service (including any of the Documents mentioned above) at any time without prior notice, however, we will make all reasonable efforts to publish each amendment before such amendment becomes effective. We will ensure that the latest, fully amended version of these Terms of Service (or any of the Legal documents) is published on the Website. You are responsible for regularly reviewing the Website to obtain timely notice of such amendments. If any amendment is unacceptable for you, you may terminate the agreement between you and us regarding the use of the Website as set out in these Terms of Service. If you continue to use the Website after the effective date of each amendment, you will be conclusively deemed to have accepted such amended version of these Terms of Service (including any of the Legal documents).
 
-1.4. These Terms and Conditions have full force and effect at all times when you access or use the Service or while you are a Client of our Website. These Terms and Conditions will not expire until the termination of an Account on our Website for any reason.
+1.4. These Terms of Service have full force and effect at all times when you access or use the Service or while you are a Client of our Website. These Terms of Ser will not expire until the termination of an Account on our Website for any reason.
 
 1.5. These Terms may be published in different languages, reflecting the same information for our Clients. In case of discrepancies between the English version of these rules and the version in any other language, the English version shall prevail.
 
@@ -224,5 +224,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcxNjk3ODUsMTIzNjU5NzQyXX0=
+eyJoaXN0b3J5IjpbMzg4NDI5MjMzLDEyMzY1OTc0Ml19
 -->
