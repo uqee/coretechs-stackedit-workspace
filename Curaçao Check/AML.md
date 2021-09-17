@@ -159,10 +159,15 @@ All employees are made aware of their risk of committing the following related o
 -   disclosure of information about SAR submission that is likely to prejudice any investigation, or disclose information that an investigation into allegations that an offense has been committed, that is likely to prejudice the investigation;
 -   falsification, concealment, destruction or disposal of documents which are relevant to the investigation. 
 
+### 10. Vetting Procedures for New Employees
 
+The Company undertakes a number of vetting procedures for employment. We will ensure the employee is not a minor through proper identification checks and we will verify the identification and credentials of the employee through at least two independent references. We will also look to verify any further personal information, or background information.
+
+### 11. Protecting Our Equipment 
+PROTECTING OUR EQUIPMENT FROM INTERNAL CRIME AND CRIMINAL MISUSE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI3NzA4NjcsLTY5ODExNjQ3MiwtOD
-E0OTM5ODA4XX0=
+eyJoaXN0b3J5IjpbOTcyODExMjIxLC02OTgxMTY0NzIsLTgxND
+kzOTgwOF19
 -->
