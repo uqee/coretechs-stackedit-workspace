@@ -144,18 +144,13 @@ We ensure availability of audit trail to assist in any financial investigation b
 - delegation of AML/CTF tasks by the nominated officer;
 - nominated officer reports to senior management;
 - withdrawal actions by the nominated officer with relevant reasoning;
-   
--   player identification and verification information;
-    
--   supporting records in respect of business relationships or occasional transactions;
-    
--   employee training records;
-    
--   internal and external SARs
-    
--   communications between the nominated officer and law enforcement authorities.
+- player identification and verification information;
+- supporting records in respect of business relationships or occasional transactions;
+- employee training records;
+- internal and external SARs;
+- communications between the nominated officer and law enforcement authorities.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzI2ODQyNywtODE0OTM5ODA4XX0=
+eyJoaXN0b3J5IjpbLTY5ODExNjQ3MiwtODE0OTM5ODA4XX0=
 -->
