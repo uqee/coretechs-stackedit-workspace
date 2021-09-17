@@ -184,11 +184,11 @@ Company is fully aware of the procedures and policies required by the applicable
 
 ### 14. International Record Keeping
 
-14.1. Records on all player transactions regardless of their relation to payments or plays will be kept for at least 3 years after the transaction.
-
-14.2. Records on player details regardless of their value state or open/blocked status will be kept for at least 3 years after the relationship with the player was terminated.
-
-14.3. Records on money laundering investigations and suspicious activity reports will be kept for 3 years after the investigation was completed.
+ - Records on all player transactions regardless of their relation to payments or plays will be kept for at least 3 years after the transaction.
+ 
+ - Records on player details regardless of their value state or open/blocked status will be kept for at least 3 years after the relationship with the player was terminated.
+ 
+ - Records on money laundering investigations and suspicious activity reports will be kept for 3 years after the investigation was completed.
 
 ### 15. Prevention of Collusion and Data Protection Compliance 
 
@@ -196,7 +196,7 @@ The Company's Terms of Service make clear that cheating will not be tolerated an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODA3MzExMSwyMDE4MDczMTExLC0xMj
-AyNTQ4MTQzLDE5NjA0MzU4NjcsLTY5ODExNjQ3MiwtODE0OTM5
-ODA4XX0=
+eyJoaXN0b3J5IjpbMTk5MzI5NDQ5OSwyMDE4MDczMTExLDIwMT
+gwNzMxMTEsLTEyMDI1NDgxNDMsMTk2MDQzNTg2NywtNjk4MTE2
+NDcyLC04MTQ5Mzk4MDhdfQ==
 -->
