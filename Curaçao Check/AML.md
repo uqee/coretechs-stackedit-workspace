@@ -2,11 +2,11 @@
 
 <Version>Last updated: September 17, 2021</Version>
 
+### 1. Introduction
+
 This is the policy of Breakout Group B.V. (the Company) to prohibit and actively prevent money laundering and any activity, that facilitates money laundering, or the funding of terrorist, or criminal activities by complying with all applicable requirements and regulations, including, but not limited to the regulations of the Government of Curaçao, namely the National Ordinance Reporting Unusual Transactions, the National Ordinance Identification when Rendering Services and National Ordinance Obligations to Report Cross-Frontier Money Transportations.
 
 Company’s AML policies, procedures and internal controls are designed to ensure compliance with all applicable regulations and rules and will be reviewed and updated on a regular basis to ensure appropriate policies, procedures and internal controls are in place to account for both changes in regulations and changes in our business.
-
-### 1. Money Laundering
 
 #### Money Laundering (ML)
 
@@ -196,6 +196,6 @@ The Company's Terms of Service make clear that cheating will not be tolerated an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjgxODEyNCwtMTIwMjU0ODE0MywxOT
+eyJoaXN0b3J5IjpbMjAxODA3MzExMSwtMTIwMjU0ODE0MywxOT
 YwNDM1ODY3LC02OTgxMTY0NzIsLTgxNDkzOTgwOF19
 -->
