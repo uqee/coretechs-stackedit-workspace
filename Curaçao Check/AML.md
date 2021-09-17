@@ -150,13 +150,13 @@ We ensure availability of audit trail to assist in any financial investigation b
 - internal and external SARs;
 - communications between the nominated officer and law enforcement authorities.
 
-### 9. Offences
+### 9. Offenses
 
-All employees are made aware of their risk of committing the following related offences:
+All employees are made aware of their risk of committing the following related offenses:
 
 -   failing to report suspicious activity;
 -   non-compliance with the disclosure obligations to the nominated officer or respective authority;
--   disclosure of information about SAR submission that is likely to prejudice any investigation, or disclose information that an investigation into allegations that an offence has been committed, that is likely to prejudice the investigation;
+-   disclosure of information about SAR submission that is likely to prejudice any investigation, or disclose information that an investigation into allegations that an offense has been committed, that is likely to prejudice the investigation;
 -   falsification, concealment, destruction or disposal of documents which are relevant to the investigation. 
 
 ### 10. Vetting Procedures for New Employees
@@ -196,7 +196,7 @@ The Company's Terms of Service make clear that cheating will not be tolerated an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA0NzgwMSwyMDE4MDczMTExLC0xMj
+eyJoaXN0b3J5IjpbMjAxODA3MzExMSwyMDE4MDczMTExLC0xMj
 AyNTQ4MTQzLDE5NjA0MzU4NjcsLTY5ODExNjQ3MiwtODE0OTM5
 ODA4XX0=
 -->
