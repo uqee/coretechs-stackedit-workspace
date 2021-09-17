@@ -13,9 +13,10 @@ With the exception of sports betting and live casino games, in order to ensure t
 The Return to Player (RTP) value is a theoretical calculation of the expected percentage of wagers that a specific game will return to player after a significant amount of plays (e.g., hundreds of million game plays). While every single game play is unpredictable and it is possible to win a big amount or lose your bet, the average return of a specific game in the long run will approach the Theoretical RTP value.
 
 We are monitoring the players’ payout ratio on a regular basis and we cooperate with gambling regulatory authorities to ensure our compliance with the legislation of relevant jurisdictions.
-For more information about the fairness of specific games, please visit the information section of the relevant game. If you are unable to find this information, please contact our support team at [support@odds96.com](mailto:support@odds96.com). 
+For more information about the fairness of specific games, please visit the information section of the relevant game. If you are unable to find this information, please contact our support team at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a>. 
 
 By playing games on our website, you acknowledge and agree that our RNG will determine the outcome of the games you play and that you will accept the outcomes of all such games. In the event of a discrepancy between the result that appears on your device’s display and the game server, the result that appears on the game server will prevail. You further acknowledge and agree that our records will be conclusive in relation to any dispute arising out of your gaming activity on our website.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzcwMDg3MCwtNjU3ODM0NDI1XX0=
+eyJoaXN0b3J5IjpbLTE2NDgyMDE1ODksLTQ1MzcwMDg3MCwtNj
+U3ODM0NDI1XX0=
 -->
