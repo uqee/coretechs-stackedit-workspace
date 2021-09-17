@@ -13,9 +13,9 @@ Preventing gambling addiction:
  5. Is gambling having a negative effect on your reputation?
  6. Do you become irritable or aggressive when you gamble?
  7. Do you see gambling as a way to escape from your problems?
-8.  After losing, do you feel the need to try to win back your losses straight away?
-9.  Do you ever argue with friends or loved ones because of gambling?
-10. Do you consider gambling to be a source of income?
+ 8. After losing, do you feel the need to try to win back your losses straight away?
+ 9. Do you ever argue with friends or loved ones because of gambling?
+ 10. Do you consider gambling to be a source of income?
 
 If you have any concerns about your gambling habits, we urge you to seek for advice from the following accredited organizations:
 
@@ -23,5 +23,5 @@ If you have any concerns about your gambling habits, we urge you to seek for adv
 - [begambleaware.org](https://www.begambleaware.org/)
 - [gamblock.com](http://www.gamblock.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1Mjc4MzUwLC0yMDY0NzU4MTA4XX0=
+eyJoaXN0b3J5IjpbMTg4NjgwMTQ1NCwtMjA2NDc1ODEwOF19
 -->
