@@ -18,17 +18,19 @@ By accepting these Terms of Service you thereby accept the following legal docum
 
 **IV. KYC Policies, Privacy & Management of Personal Data**
 
-**V. Responsible Gambling**
+**V. Dispute Resolution**
 
-**VI. Self-Exclusion**
+**VI. Responsible Gambling**
 
-VII. AML
+**VII. Self-Exclusion**
 
-VIII. 
+**VIII. AML**
 
-**V. Provider Availability Policy**
+**IX. Fairness & RNG Testing Methods**
 
-**VI. General Betting Rules**
+**X Provider Availability Policy**
+
+**XI. General Betting Rules**
 
 
 
@@ -233,5 +235,5 @@ Should any of the provisions of the Terms become legally enforceable, the terms 
 
 11.4. If, for some reason, you are not satisfied with the resolution of your complaint by Odds96, you may report a complaint to the Curacao eGaming Commission; Address: Pletterijweg Oost, Ara Hilltop Building, Curaçao Telephone number: +5999 465 1134, E-mail: [complaints@curacao-egaming.com](mailto:complaints@curacao-egaming.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ3ODk4NywxMjM2NTk3NDJdfQ==
+eyJoaXN0b3J5IjpbMTI4NTk5MDY3NiwxMjM2NTk3NDJdfQ==
 -->
