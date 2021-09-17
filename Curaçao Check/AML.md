@@ -98,11 +98,18 @@ Following the AML policies in place and escalating any suspicious activity, as p
 
 #### Senior Management
 
-
+Senior management is fully committed to and responsible for the implementation of this policy. Senior management is made aware of their individual personal liability for consenting to, or conniving in, the commission of offenses under the applicable regulations, or where such offense is attributable to any neglect on his part.
 
 #### Staff Training 
 
+All employees will complete training on their obligations in respect of money laundering reporting and are aware of the procedures in place for escalation of any suspected incidents to the MLRO. As part of this process, employees are aware that personal non-compliance with applicable legal requirementsmay result in criminal or regulatory action.
+
+Relevant employees complete training for proper compliance with policies and procedures for:
+
+-   client due diligence (CDD), including enhanced requirements for high risk clients, which includes PEPs;
+-   reporting suspicious activity to the nominated officer where necessary, seeking appropriate consent to allow participation in gaming and to conduct gaming and other business transactions.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMjY3MzI1LC04MTQ5Mzk4MDhdfQ==
+eyJoaXN0b3J5IjpbLTEyMDY4MjQ0MzUsLTgxNDkzOTgwOF19
 -->
