@@ -111,8 +111,40 @@ Relevant employees complete training for proper compliance with policies and pro
 
 ### 7. High Risk Jurisdictions 
 
+High risk countries are those respectively identified by the Financial Action Task Force, or other local and international authorities. Client residing in high risk countries are always subject to enhanced due diligence.
+
+Jurisdictions under increased monitoring currently on the FATF list are:
+
+-   Iran,
+-   Democratic People’s Republic of North Korea,
+-   Albania,
+-   The Bahamas,
+-   Barbados,
+-   Botswana,
+-   Cambodia,
+-   Ghana,
+-   Jamaica,
+-   Mauritius,
+ 
+-   Myanmar
+    
+-   Nicaragua
+    
+-   Pakistan
+    
+-   Panama
+    
+-   Syria
+    
+-   Uganda
+    
+-   Yemen
+    
+-   Zimbabwe
+    
+    Players from the FATF list of jurisdictions seen to threaten the international financial system from on-going and substantial money-laundering or terrorist financing activities, as identified on FATF publications, will be refused.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY1NjQ5NTYsLTgxNDkzOTgwOF19
+eyJoaXN0b3J5IjpbMzcwMTgzOTY1LC04MTQ5Mzk4MDhdfQ==
 -->
