@@ -94,7 +94,15 @@ When reviewing a player’s account prior to withdrawal the agent must answer th
 
 Following the AML policies in place and escalating any suspicious activity, as previously described, are crucial to the Company as they protect it from financial losses and ensure, that it remains compliant within the different governing jurisdictions. Any activity which appears suspicious has to be escalated. Not escalating a suspicion of money laundering can lead to criminal prosecution.
 
+### 6. Employees
+
+#### Senior Management
+
+
+
+#### Staff Training 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDkzOTgwOF19
+eyJoaXN0b3J5IjpbNjYzMjY3MzI1LC04MTQ5Mzk4MDhdfQ==
 -->
