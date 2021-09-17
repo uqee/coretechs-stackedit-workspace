@@ -163,11 +163,14 @@ All employees are made aware of their risk of committing the following related o
 
 The Company undertakes a number of vetting procedures for employment. We will ensure the employee is not a minor through proper identification checks and we will verify the identification and credentials of the employee through at least two independent references. We will also look to verify any further personal information, or background information.
 
-### 11. Protecting Our Equipment 
-PROTECTING OUR EQUIPMENT FROM INTERNAL CRIME AND CRIMINAL MISUSE
+### 11. Protecting Our Equipment from Internal Crime and Criminal Misuse
+
+The Company is aware that a key way to combat fraud is to first identify where the company's most valuable assets are. Processes and controls have been built into the routine business of the company to minimize the chances of any of the key assets being misused. Our server equipment is located at secure location, with necessary policies around protection of equipment, for example, a visitors management procedure, fire alarms, shredding of confidential documents, locked cabinets, testing, a security team etc. Same policies are also implemented at Company’s offices.
+
+### 12. Dealing with Trustworthy and Reputable Counterparts
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyODExMjIxLC02OTgxMTY0NzIsLTgxND
-kzOTgwOF19
+eyJoaXN0b3J5IjpbMTk2MDQzNTg2NywtNjk4MTE2NDcyLC04MT
+Q5Mzk4MDhdfQ==
 -->
