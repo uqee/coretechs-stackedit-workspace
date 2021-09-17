@@ -15,6 +15,8 @@
 6.  Once self-exclusion policy is applied to your account, it will stay in place until the requested period expires. It will not be reversed or decreased for any reason.
 
 7.  When the self-exclusion period expires, you can ask us to restore access to your account. To do so, contact our support team at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> and provide us with the detailed data about the account you would like to reactivate.
+
+8. Test
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5MjkyMzcwLDIxMTA3MTExMTBdfQ==
+eyJoaXN0b3J5IjpbLTI3NjM5MzAxNCwyMTEwNzExMTEwXX0=
 -->
