@@ -184,8 +184,16 @@ Company is fully aware of the procedures and policies required by the applicable
 
 ### 14. International Record Keeping
 
+The below key principles: know your player, internal record keeping and reporting, ensure our compliance with Laws and regulations.
+
+-   records on all player transactions regardless of their relation to payments or plays will be kept for at least 3 years after the transaction;
+    
+-   records on player details regardless of their value state or open/blocked status will be kept for at least 3 years after the relationship with the player was terminated;
+    
+-   records on money laundering investigations and suspicious activity reports will be kept for 3 years after the investigation was completed.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYwOTM3OTQsMTk2MDQzNTg2NywtNj
-k4MTE2NDcyLC04MTQ5Mzk4MDhdfQ==
+eyJoaXN0b3J5IjpbLTU2ODEzNDkzMSwxOTYwNDM1ODY3LC02OT
+gxMTY0NzIsLTgxNDkzOTgwOF19
 -->
