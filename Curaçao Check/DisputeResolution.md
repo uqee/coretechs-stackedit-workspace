@@ -2,7 +2,7 @@
 
 <Version>Last updated: September 17, 2021</Version>
 
- 1. If you have a complaint to make regarding our services, please contact us by email at [support@odds96.com](mailto:support@odds96.com) or by the customer support chat function.
+ 1. If you have a complaint to make regarding our services, please contact us by email at <a target='_blank' href="mailto:support@odds96.com">support@odds96.com</a> or by the customer support chat function.
 
 2. You understand and accept that records on the Odds96’s server will act as final evidence in determining the outcome of any disputed situation.
 
@@ -12,5 +12,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTgxNzQ0MV19
+eyJoaXN0b3J5IjpbLTE1MDQ1MTk2MTRdfQ==
 -->
