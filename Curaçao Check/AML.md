@@ -138,9 +138,24 @@ Players from the FATF list of jurisdictions seen to threaten the international f
 
 ### 8. Record Keeping 
 
+We ensure availability of audit trail to assist in any financial investigation by a law enforcement authority. Our record keeping policy and procedure covers records in the following areas:
 
+- compliance monitoring by the nominated officer;
+- delegation of AML/CTF tasks by the nominated officer;
+- nominated officer reports to senior management;
+- withdrawal actions by the nominated officer with relevant reasoning;
+   
+-   player identification and verification information;
+    
+-   supporting records in respect of business relationships or occasional transactions;
+    
+-   employee training records;
+    
+-   internal and external SARs
+    
+-   communications between the nominated officer and law enforcement authorities.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTI1OTU2MCwtODE0OTM5ODA4XX0=
+eyJoaXN0b3J5IjpbMTE4NzI2ODQyNywtODE0OTM5ODA4XX0=
 -->
