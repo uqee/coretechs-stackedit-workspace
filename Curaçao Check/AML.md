@@ -176,10 +176,16 @@ Company promotes strong principles of business and professional ethics at every 
 -   commitment to a wider corporate responsibility program; and
 -   desire and ability to deliver quality and value.
     
- All new suppliers must go through a rigorous approvals process where all information put forward by them is verified. This information is then assessed internally to consider the risks associated with the supplier, taking into account all of the above criteria. If rejected, the supplier will be informed. Company ensures, that all organisations we contract with understand the compliance obligations under the relevant player jurisdictions.
+All new suppliers must go through a rigorous approvals process where all information put forward by them is verified. This information is then assessed internally to consider the risks associated with the supplier, taking into account all of the above criteria. If rejected, the supplier will be informed. Company ensures, that all organizations we contract with understand the compliance obligations under the relevant player jurisdictions.
+
+### 13. Our Responsibilities 
+
+Company is fully aware of the procedures and policies required by the applicable Laws and regulations and apply related internal policies and procedures.
+
+### 14. International Record Keeping
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA2MTg3NywxOTYwNDM1ODY3LC02OT
-gxMTY0NzIsLTgxNDkzOTgwOF19
+eyJoaXN0b3J5IjpbLTExNjYwOTM3OTQsMTk2MDQzNTg2NywtNj
+k4MTE2NDcyLC04MTQ5Mzk4MDhdfQ==
 -->
