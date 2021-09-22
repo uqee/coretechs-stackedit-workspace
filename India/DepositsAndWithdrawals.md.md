@@ -19,14 +19,22 @@ Available payment methods:
  -   **Bank Cards**: Visa, MasterCard, RuPay.  
     
 Limitations:
- - **Minimum deposit: 100 INR****, whereas the **maximum deposit is 100 000 NR**. The deposit fee is **0%**.
+ - **Minimum deposit: 100 INR**; 
+ - **Maximum deposit: 100 000 INR**; 
+ - **Deposit fee: 0%**.
 
 Before you make a deposit, you will be informed of the exact minimum and maximum deposit amount on the website.
 
 #### Withdrawals:
 
-- **MasterCard / Cabal**: min. $20, max. $1000, commission 5%;
-- **Bank Transfer**: min. $20, max. $1000, commission 5%.
+Available payment methods:  
+
+-   **eWallets**: PayTM;
+-   **Bank Transfers**: UPI, Netbanking, IMPS.
+
+At the time of publication, the **minimum withdrawal is 1000 INR**, whereas the **maximum withdrawal is 100 000 INR**. The withdrawal fee is **5%**.
+
+Before you make a withdrawal, you will be informed of the exact minimum or maximum withdrawal amount and of the withdrawal fee on the website.
 
 ### General Information
 
@@ -82,5 +90,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNDAzNTk4LC01MzY5NDMxMV19
+eyJoaXN0b3J5IjpbLTI3MzY0MzcxOSwtNTM2OTQzMTFdfQ==
 -->
