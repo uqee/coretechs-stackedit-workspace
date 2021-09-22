@@ -18,7 +18,6 @@ Available payment methods:
 -   **Bank Transfers**: UPI, Netbanking, IMPS;  
 -   **Bank Cards**: Visa, MasterCard, RuPay.  
     
-
 At the time of publication, the **minimum deposit** **is** **100 INR**, whereas the **maximum deposit is 100 000 INR**. The deposit fee is **0%**.
 
 Before you make a deposit, you will be informed of the exact minimum or maximum deposit amount on the website.
@@ -82,5 +81,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDkzMTY4NiwtNTM2OTQzMTFdfQ==
+eyJoaXN0b3J5IjpbLTQzNTI2Nzc1NiwtNTM2OTQzMTFdfQ==
 -->
