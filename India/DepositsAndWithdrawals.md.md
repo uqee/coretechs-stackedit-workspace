@@ -14,13 +14,14 @@
 
 Available payment methods:
 
--   **eWallets**: PayTM, Mobikwik, Airtel Money, Reliance Jio, Ola, Freecharge, PhonePe;  
--   **Bank Transfers**: UPI, Netbanking, IMPS;  
--   **Bank Cards**: Visa, MasterCard, RuPay.  
+ -   **eWallets**: PayTM, Mobikwik, Airtel Money, Reliance Jio, Ola, Freecharge, PhonePe;  
+ -   **Bank Transfers**: UPI, Netbanking, IMPS;  
+ -   **Bank Cards**: Visa, MasterCard, RuPay.  
     
-At the time of publication, the **minimum deposit** **is** **100 INR**, whereas the **maximum deposit is 100 000 INR**. The deposit fee is **0%**.
+Limitations:
+ - **Minimum deposit: 100 INR****, whereas the **maximum deposit is 100 000 NR**. The deposit fee is **0%**.
 
-Before you make a deposit, you will be informed of the exact minimum or maximum deposit amount on the website.
+Before you make a deposit, you will be informed of the exact minimum and maximum deposit amount on the website.
 
 #### Withdrawals:
 
@@ -81,5 +82,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTI2Nzc1NiwtNTM2OTQzMTFdfQ==
+eyJoaXN0b3J5IjpbNjUxNDAzNTk4LC01MzY5NDMxMV19
 -->
