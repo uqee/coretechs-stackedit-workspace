@@ -51,7 +51,7 @@ Before you make a withdrawal, you will be informed of the exact minimum and maxi
 
 1.4. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
 
-1. Upon depositing 100 USD, your account balance is 100 USD;
+1. Upon depositing 1000 INR, your account balance is 1000 INR;
 2. You bet 20 USD with odds of 3.0;
 3. Your bet wins. Your account balance is now 140 USD;
 4. The amount available for withdrawal now equals 60 USD. The amount you still need to wager equals 80 USD.
@@ -95,5 +95,6 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDk4MTI3MCwtNTM2OTQzMTFdfQ==
+eyJoaXN0b3J5IjpbLTE3MDc2NzI3NTAsMTQ2NDk4MTI3MCwtNT
+M2OTQzMTFdfQ==
 -->
