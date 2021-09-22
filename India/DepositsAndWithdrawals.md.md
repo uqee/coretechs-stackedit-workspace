@@ -18,7 +18,8 @@ Available payment methods:
  -   **Bank Transfers**: UPI, Netbanking, IMPS;  
  -   **Bank Cards**: Visa, MasterCard, RuPay.  
     
-Limitations:
+Limitations at the time of publication:
+
  - **Minimum deposit: 100 INR**; 
  - **Maximum deposit: 100 000 INR**; 
  - **Deposit fee: 0%**.
@@ -32,13 +33,13 @@ Available payment methods:
 -   **eWallets**: PayTM;
 -   **Bank Transfers**: UPI, Netbanking, IMPS.
 
-Limitations: 
+Limitations at the time of publication: 
 
  - **Minimum withdrawal: 1000 INR**;
  - **Maximum withdrawal: 100 000 INR**; 
  - **Withdrawal fee: 5%**.
 
-Before you make a withdrawal, you will be informed of the exact minimum or maximum withdrawal amount and of the withdrawal fee on the website.
+Before you make a withdrawal, you will be informed of the exact minimum and maximum withdrawal amount and of the withdrawal fee on the website.
 
 ### General Information
 
@@ -48,7 +49,7 @@ Before you make a withdrawal, you will be informed of the exact minimum or maxim
 
 1.3. You may withdraw any amount from your account. However, the withdrawal amount cannot exceed your current account balance and the limits established by the payment system provider.
 
-1.4. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) times the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
+1.4. You accept and acknowledge that to withdraw funds from your account balance, you must fulfill a wagering requirement of at least 1 (one) time the deposited amount. In case this requirement is not met, we will impose limits on the amount available for withdrawal. For instance:
 
 1. Upon depositing 100 USD, your account balance is 100 USD;
 2. You bet 20 USD with odds of 3.0;
@@ -94,5 +95,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTQyNDM1LC01MzY5NDMxMV19
+eyJoaXN0b3J5IjpbMTQ2NDk4MTI3MCwtNTM2OTQzMTFdfQ==
 -->
