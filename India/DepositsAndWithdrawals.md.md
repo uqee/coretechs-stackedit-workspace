@@ -12,14 +12,16 @@
 
 #### Deposits:
 
-- **MasterCard / Cabal**: min. $5, max. $1000, commission 0%;
-- **Bank Transfer**: min. $5, max. $1000, commission 0%;
-- **Loterica**: min. $5, max. $400, commission 0%;
-- **Boleto**: min. $5, max. $1000, commission 0%;
-- **Oxxo**: min. $5, max. $500, commission 0%;
-- **Pago Fácil**: min. $5, max. $500, commission 0%;
-- **Rapi Pago**: min. $5, max. $100, commission 0%;
-- **Carga Virtual**: min. $5, max. $50, commission 0%.
+Available payment methods:
+
+-   **eWallets**: PayTM, Mobikwik, Airtel Money, Reliance Jio, Ola, Freecharge, PhonePe;  
+-   **Bank Transfers**: UPI, Netbanking, IMPS;  
+-   **Bank Cards**: Visa, MasterCard, RuPay.  
+    
+
+At the time of publication, the **minimum deposit** **is** **100 INR**, whereas the **maximum deposit is 100 000 INR**. The deposit fee is **0%**.
+
+Before you make a deposit, you will be informed of the exact minimum or maximum deposit amount on the website.
 
 #### Withdrawals:
 
@@ -80,5 +82,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjk0MzExXX0=
+eyJoaXN0b3J5IjpbMTc4MDkzMTY4NiwtNTM2OTQzMTFdfQ==
 -->
