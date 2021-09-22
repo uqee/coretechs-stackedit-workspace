@@ -32,7 +32,11 @@ Available payment methods:
 -   **eWallets**: PayTM;
 -   **Bank Transfers**: UPI, Netbanking, IMPS.
 
-At the time of publication, the **minimum withdrawal is 1000 INR**, whereas the **maximum withdrawal is 100 000 INR**. The withdrawal fee is **5%**.
+Limitations: 
+
+ - **Minimum withdrawal: 1000 INR**;
+ - **Maximum withdrawal: 100 000 INR**; 
+ - **Withdrawal fee: 5%**.
 
 Before you make a withdrawal, you will be informed of the exact minimum or maximum withdrawal amount and of the withdrawal fee on the website.
 
@@ -90,5 +94,5 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzY0MzcxOSwtNTM2OTQzMTFdfQ==
+eyJoaXN0b3J5IjpbMTMwNTQyNDM1LC01MzY5NDMxMV19
 -->
