@@ -17,7 +17,7 @@ Available payment methods:
  -   **eWallets**: PayTM, Mobikwik, Airtel Money, Reliance Jio, Ola, Freecharge, PhonePe;  
  -   **Bank Transfers**: UPI, Netbanking, IMPS;  
  -   **Bank Cards**: Visa, MasterCard, RuPay.  
- 
+
 Limitations at the time of publication:
 
  - **Minimum deposit: 100 INR**; 
@@ -95,6 +95,6 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk5NTczNDQsLTE1MzQ5MzkzNTYsMT
-Q2NDk4MTI3MCwtNTM2OTQzMTFdfQ==
+eyJoaXN0b3J5IjpbMzY1MDQ3ODQ0LC0xNTM0OTM5MzU2LDE0Nj
+Q5ODEyNzAsLTUzNjk0MzExXX0=
 -->
