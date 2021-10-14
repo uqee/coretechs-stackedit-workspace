@@ -1,6 +1,6 @@
 ## Deposits and Withdrawals
 
-<Version>Last updated: September 22, 2021</Version>
+<Version>Last updated: October 14, 2021</Version>
 
 [Payment Methods](#payment-methods)
 
@@ -20,8 +20,8 @@ Available payment methods:
 
 Limitations at the time of publication:
 
- - **Minimum deposit: 100 INR**; 
- - **Maximum deposit: 1,00,000 INR**; 
+ - **Minimum deposit: ₹100**; 
+ - **Maximum deposit: ₹1,00,000**; 
  - **Deposit fee: 0%**.
 
 Before you make a deposit, you will be informed of the exact minimum and maximum deposit amount on the website.
@@ -35,8 +35,8 @@ Available payment methods:
 
 Limitations at the time of publication: 
 
- - **Minimum withdrawal: 1,000 INR**;
- - **Maximum withdrawal: 1,00,000 INR**; 
+ - **Minimum withdrawal: ₹1,000**;
+ - **Maximum withdrawal: ₹1,00,000**; 
  - **Withdrawal fee: 0%**.
 
 Before you make a withdrawal, you will be informed of the exact minimum and maximum withdrawal amount and of the withdrawal fee on the website.
@@ -95,7 +95,7 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTU3MzkwNywtODEwMjkzODU3LDM2NT
-A0Nzg0NCwtMTUzNDkzOTM1NiwxNDY0OTgxMjcwLC01MzY5NDMx
-MV19
+eyJoaXN0b3J5IjpbLTEyNzMzNDQyMTEsLTgxMDI5Mzg1NywzNj
+UwNDc4NDQsLTE1MzQ5MzkzNTYsMTQ2NDk4MTI3MCwtNTM2OTQz
+MTFdfQ==
 -->
