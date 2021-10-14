@@ -37,7 +37,7 @@ Limitations at the time of publication:
 
  - **Minimum withdrawal: 1000 INR**;
  - **Maximum withdrawal: 100 000 INR**; 
- - **Withdrawal fee: 5%**.
+ - **Withdrawal fee: 0%**.
 
 Before you make a withdrawal, you will be informed of the exact minimum and maximum withdrawal amount and of the withdrawal fee on the website.
 
@@ -95,6 +95,6 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MDQ3ODQ0LC0xNTM0OTM5MzU2LDE0Nj
-Q5ODEyNzAsLTUzNjk0MzExXX0=
+eyJoaXN0b3J5IjpbLTgxMDI5Mzg1NywzNjUwNDc4NDQsLTE1Mz
+Q5MzkzNTYsMTQ2NDk4MTI3MCwtNTM2OTQzMTFdfQ==
 -->
