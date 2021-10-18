@@ -174,20 +174,6 @@ To withdraw your funds, please follow these steps:
 
 We do not charge any withdrawal fee. You can withdraw BTC, ETH, USDT, XRP, LTC, DOGE, USDTT for free.
 
-#### What are the withdrawal limits?
-
-The minimum withdrawals vary depending on the cryptocurrency you choose: 
-
- - BTC 0.00036, 
- - ETH 0.01, 
- - USDT 20,
- - XRP 30,
- - LTC 0.15,
- - DOGE 50,
- - USDTT 20.
- 
-There is no maximum sum set for withdrawals, so you can withdraw as much as you like.
-
 #### How long do withdrawals take?
 
 Most withdrawals are settled immediately. However, we process some withdrawals manually and this takes more time. For example, it may take longer to settle a withdrawal of a considerable amount. Once we have processed your withdrawal, we’ll send it to the payment provider. The time it takes to settle any transaction, of course, also depends on the provider.
@@ -200,5 +186,5 @@ This information can be found in your account. Click on the wallet-like icon and
 
 Please contact our support team at: [support@odds96.com](mailto:support@odds96.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjA1NTA3Nl19
+eyJoaXN0b3J5IjpbMzY0NDg0NDEwXX0=
 -->
