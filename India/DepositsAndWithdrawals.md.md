@@ -1,6 +1,6 @@
 ## Deposits and Withdrawals
 
-<Version>Last updated: October 14, 2021</Version>
+<Version>Last updated: October 25, 2021</Version>
 
 [Payment Methods](#payment-methods)
 
@@ -35,7 +35,7 @@ Available payment methods:
 
 Limitations at the time of publication: 
 
- - **Minimum withdrawal: ₹1,000**;
+ - **Minimum withdrawal: ₹300**;
  - **Maximum withdrawal: ₹1,00,000**; 
  - **Withdrawal fee: 0%**.
 
@@ -95,7 +95,7 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ3MDY3NywtODEwMjkzODU3LDM2NT
-A0Nzg0NCwtMTUzNDkzOTM1NiwxNDY0OTgxMjcwLC01MzY5NDMx
-MV19
+eyJoaXN0b3J5IjpbLTQzMzQ0MjEwMywtMTI4NDcwNjc3LC04MT
+AyOTM4NTcsMzY1MDQ3ODQ0LC0xNTM0OTM5MzU2LDE0NjQ5ODEy
+NzAsLTUzNjk0MzExXX0=
 -->
