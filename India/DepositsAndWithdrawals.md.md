@@ -35,7 +35,9 @@ Available payment methods:
 
 Limitations at the time of publication: 
 
- - **Minimum withdrawals:** ₹1,000 for PayTM and IMPS;
+ - **Minimum withdrawals:** 
+   - PayTM and IMPS: **₹1,000**,
+   - Netbanking and UPI: **₹400**;
  - **Maximum withdrawal: ₹1,00,000**; 
  - **Withdrawal fee: 0%**.
 
@@ -95,7 +97,7 @@ This information may be in the form of:
 
 2.4. All costs that may occur due to the refund procedure are levied to the client.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTY1ODM5MywtNDMzNDQyMTAzLC0xMj
-g0NzA2NzcsLTgxMDI5Mzg1NywzNjUwNDc4NDQsLTE1MzQ5Mzkz
-NTYsMTQ2NDk4MTI3MCwtNTM2OTQzMTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzkwMDkwNTEsLTQzMzQ0MjEwMywtMT
+I4NDcwNjc3LC04MTAyOTM4NTcsMzY1MDQ3ODQ0LC0xNTM0OTM5
+MzU2LDE0NjQ5ODEyNzAsLTUzNjk0MzExXX0=
 -->
